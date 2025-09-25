@@ -277,20 +277,21 @@ class ProjectSummarizer:
             technical_highlights = self._generate_technical_highlights(name, description, language, topics)
             community_impact = self._generate_community_impact(stars, forks, years)
 
-            # 组合成完整总结
+            # 组合成完整总结（优先技术亮点+受欢迎原因）
             summary_parts = []
 
             if technical_highlights:
                 summary_parts.append(technical_highlights)
 
-            if popularity_reason:
+            if popularity_reason and len(popularity_reason) < 80:
                 summary_parts.append(popularity_reason)
 
-            if community_impact:
-                summary_parts.append(community_impact)
-
-            if summary_parts:
-                return " ".join(summary_parts)
+            # 如果总结太长，只使用技术亮点
+            combined = " ".join(summary_parts)
+            if len(combined) > 150:
+                return technical_highlights if technical_highlights else description[:100]
+            elif combined:
+                return combined
             else:
                 return description[:100] + "..." if len(description) > 100 else description
 
@@ -457,8 +458,8 @@ class DiscordNotifier:
         summary = self.summarizer.generate_summary(repo)
 
         # 限制总结长度，确保Discord消息不会太长
-        if len(summary) > 200:
-            summary = summary[:200] + '...'
+        if len(summary) > 120:
+            summary = summary[:120] + '...'
 
         return f"{rank}. **{name}** - ⭐{stars:,} 🍴{forks:,} 📝{language}\n   💡 {summary}\n   [🔗 查看项目]({url})"
 
