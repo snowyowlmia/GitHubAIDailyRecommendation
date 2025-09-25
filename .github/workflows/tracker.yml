@@ -36,10 +36,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add sent_projects.json
-        git add ai_tracker.log
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update sent projects and logs - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "Update sent projects - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         fi
