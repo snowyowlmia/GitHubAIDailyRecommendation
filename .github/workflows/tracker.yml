@@ -2,8 +2,8 @@ name: AI GitHub Daily Tracker
 
 on:
   schedule:
-    # 每天北京时间上午9点执行 (UTC时间1点)
-    - cron: '0 1 * * *'
+    # 每天北京时间上午7点执行 (UTC时间前一天23点)
+    - cron: '0 23 * * *'
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.PUSH_TOKEN || github.token }}
+        token: ${{ secrets.GH_TOKEN || secrets.PUSH_TOKEN || github.token }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -35,8 +35,8 @@ jobs:
         echo "🔍 检查环境配置..."
         echo "Python版本: $(python --version)"
         echo "当前目录: $(pwd)"
-        echo "文件列表:"
-        ls -la
+        echo "北京时间: $(TZ='Asia/Shanghai' date)"
+        echo "UTC时间: $(date -u)"
         echo "检查ai_tracker.py是否存在:"
         if [ -f ai_tracker.py ]; then
           echo "✅ ai_tracker.py 存在"
@@ -45,22 +45,73 @@ jobs:
           exit 1
         fi
 
-    - name: Test AI tracker help
-      run: |
-        echo "🧪 测试命令行参数..."
-        python ai_tracker.py --help || echo "❌ 命令行参数测试失败"
-
-    - name: Run AI tracker
+    - name: Environment check
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       run: |
-        echo "🚀 开始运行AI追踪器..."
-        echo "环境变量检查:"
+        echo "🔧 环境变量检查:"
         echo "GH_TOKEN: $([[ -n "$GH_TOKEN" ]] && echo '✅ 已设置' || echo '❌ 未设置')"
         echo "DISCORD_WEBHOOK_URL: $([[ -n "$DISCORD_WEBHOOK_URL" ]] && echo '✅ 已设置' || echo '⚠️ 未设置')"
         echo ""
-        python ai_tracker.py
+        echo "🧪 测试命令行参数..."
+        python ai_tracker.py --help || echo "❌ 命令行参数测试失败"
+
+    # 普通AI项目推送序列
+    - name: "1️⃣ 普通AI - Lifetime趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "🤖 推送普通AI项目 - Lifetime趋势..."
+        python ai_tracker.py --trend-timeframe lifetime
+        sleep 30  # 避免API限制和Discord消息过快
+
+    - name: "2️⃣ 普通AI - 30天趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "📈 推送普通AI项目 - 30天趋势..."
+        python ai_tracker.py --trend-timeframe 30days
+        sleep 30
+
+    - name: "3️⃣ 普通AI - 7天趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "🚀 推送普通AI项目 - 7天趋势..."
+        python ai_tracker.py --trend-timeframe 7days
+        sleep 30
+
+    # 商用AI项目推送序列
+    - name: "4️⃣ 商用AI - Lifetime趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "💼 推送商用AI项目 - Lifetime趋势..."
+        python ai_tracker.py --commercial --trend-timeframe lifetime
+        sleep 30
+
+    - name: "5️⃣ 商用AI - 30天趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "💰 推送商用AI项目 - 30天趋势..."
+        python ai_tracker.py --commercial --trend-timeframe 30days
+        sleep 30
+
+    - name: "6️⃣ 商用AI - 7天趋势"
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        echo "🎯 推送商用AI项目 - 7天趋势..."
+        python ai_tracker.py --commercial --trend-timeframe 7days
+        sleep 30
 
     - name: Commit and push changes
       run: |
