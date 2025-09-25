@@ -157,6 +157,130 @@ class AIProjectFilter:
         return ai_projects
 
 
+class CommercialAIProjectFilter:
+    """商用实用性AI项目识别和过滤器"""
+
+    COMMERCIAL_KEYWORDS = [
+        # 自动化工具和平台
+        'automation', 'workflow', 'n8n', 'zapier', 'automate', 'pipeline', 'scheduler',
+        'cronjob', 'webhook', 'api automation', 'workflow automation',
+
+        # 社交媒体和内容管理
+        'social media', 'instagram', 'twitter', 'linkedin', 'youtube', 'tiktok', 'facebook',
+        'xiaohongshu', 'weibo', 'content management', 'social automation', 'post scheduler',
+        'social media management', 'content generator', 'social bot', 'mcp',
+
+        # 爬虫和数据采集
+        'scraper', 'crawler', 'scraping', 'data extraction', 'web scraping', 'reddit crawler',
+        'news crawler', 'price monitor', 'data collection', 'web automation', 'selenium',
+        'beautifulsoup', 'scrapy',
+
+        # 电商和业务工具
+        'ecommerce', 'shopify', 'amazon', 'product management', 'inventory', 'price tracking',
+        'dropshipping', 'affiliate', 'marketing automation', 'email marketing', 'crm',
+        'lead generation', 'sales automation',
+
+        # 办公和生产力
+        'productivity', 'office automation', 'document processing', 'pdf automation',
+        'excel automation', 'report generation', 'business intelligence', 'dashboard',
+        'analytics', 'metrics', 'kpi', 'monitoring',
+
+        # 通信和客服
+        'chatbot', 'customer service', 'support bot', 'telegram bot', 'discord bot',
+        'slack bot', 'whatsapp', 'wechat', 'messaging', 'notification', 'alert',
+
+        # 内容创作和媒体
+        'content creation', 'blog automation', 'seo', 'keyword research', 'content generator',
+        'video automation', 'image processing', 'thumbnail generator', 'media converter',
+
+        # 金融和交易
+        'trading', 'crypto', 'stock', 'financial', 'investment', 'portfolio', 'market data',
+        'price alert', 'trading bot', 'arbitrage',
+
+        # 实用工具
+        'utility', 'tool', 'helper', 'assistant', 'generator', 'converter', 'validator',
+        'formatter', 'calculator', 'manager', 'organizer', 'tracker'
+    ]
+
+    BUSINESS_INDICATORS = [
+        # 商业模式相关
+        'saas', 'api', 'service', 'platform', 'solution', 'enterprise', 'business',
+        'commercial', 'professional', 'premium', 'subscription', 'freemium',
+
+        # 实用性指标
+        'ready to use', 'production ready', 'plug and play', 'easy setup', 'one click',
+        'no code', 'low code', 'drag and drop', 'user friendly', 'gui', 'interface',
+
+        # 部署和集成
+        'docker', 'kubernetes', 'cloud', 'aws', 'azure', 'google cloud', 'deployment',
+        'hosting', 'server', 'microservice', 'rest api', 'graphql'
+    ]
+
+    def __init__(self):
+        self.logger = logging.getLogger(__name__)
+
+    def is_commercial_ai_project(self, repo: Dict) -> bool:
+        """判断项目是否为商用实用性AI项目"""
+        # 首先必须是AI项目
+        ai_filter = AIProjectFilter()
+        if not ai_filter.is_ai_project(repo):
+            return False
+
+        # 安全地处理可能为None的字段
+        name = repo.get('name') or ''
+        description = repo.get('description') or ''
+        topics = repo.get('topics') or []
+
+        # 额外考虑readme内容（如果有的话）
+        text_fields = [
+            name.lower(),
+            description.lower(),
+            ' '.join(topics).lower()
+        ]
+
+        full_text = ' '.join(text_fields)
+
+        # 检查商用关键词
+        commercial_score = 0
+        for keyword in self.COMMERCIAL_KEYWORDS:
+            if keyword in full_text:
+                commercial_score += 2
+
+        # 检查商业指标关键词
+        for keyword in self.BUSINESS_INDICATORS:
+            if keyword in full_text:
+                commercial_score += 1
+
+        # 额外的商用性评估
+        stars = repo.get('stargazers_count', 0)
+        forks = repo.get('forks_count', 0)
+
+        # 高star数的实用工具更可能是商用项目
+        if stars > 1000:
+            commercial_score += 1
+        if stars > 5000:
+            commercial_score += 1
+
+        # 高fork率通常表示实用性
+        if forks > 0 and stars > 0:
+            fork_ratio = forks / stars
+            if fork_ratio > 0.1:  # 10%以上的fork率
+                commercial_score += 2
+
+        # 商用性评分阈值
+        return commercial_score >= 3
+
+    def filter_commercial_ai_projects(self, projects: List[Dict]) -> List[Dict]:
+        """过滤出商用实用性AI项目"""
+        commercial_projects = []
+        for project in projects:
+            if self.is_commercial_ai_project(project):
+                commercial_projects.append(project)
+
+        self.logger.info(f"从 {len(projects)} 个项目中筛选出 {len(commercial_projects)} 个商用实用性AI项目")
+        return commercial_projects
+
+
 class ProjectDeduplicator:
     """项目去重器，管理已推送项目记录"""
 
@@ -549,6 +673,79 @@ class DiscordNotifier:
             self.logger.error(f"Discord消息发送失败: {e}")
             return False
 
+    def create_commercial_discord_embed(self, popular_projects: List[Dict], trending_projects: List[Dict], trend_timeframe: str = 'lifetime') -> Dict:
+        """创建商用实用性AI项目的Discord Embed消息"""
+        # 根据时间框架生成标题和描述
+        timeframe_titles = {
+            'lifetime': '最具商用价值的AI开源项目',
+            '30days': '最近30天商用热门的AI项目',
+            '7days': '最近7天商用爆火的AI项目'
+        }
+
+        trending_field_names = {
+            'lifetime': '💼 商用趋势上升最快的AI项目',
+            '30days': '💼 最近30天商用热门的AI项目',
+            '7days': '🚀 最近7天商用爆火的AI项目'
+        }
+
+        embed = {
+            "title": "💼 商用实用性AI项目日报",
+            "description": f"{datetime.now().strftime('%Y年%m月%d日')} {timeframe_titles.get(trend_timeframe, timeframe_titles['lifetime'])}",
+            "color": 3447003,  # 深蓝色，更商务感
+            "fields": [],
+            "timestamp": datetime.now().isoformat()
+        }
+
+        # 添加热门商用项目
+        if popular_projects:
+            popular_text = "\n\n".join([
+                self.format_project_info(repo, i+1)
+                for i, repo in enumerate(popular_projects[:2])
+            ])
+            embed["fields"].append({
+                "name": "🏆 收藏最多的商用AI项目",
+                "value": popular_text,
+                "inline": False
+            })
+
+        # 添加商用趋势项目
+        if trending_projects:
+            trending_text = "\n\n".join([
+                self.format_project_info(repo, i+1)
+                for i, repo in enumerate(trending_projects[:2])
+            ])
+            embed["fields"].append({
+                "name": trending_field_names.get(trend_timeframe, trending_field_names['lifetime']),
+                "value": trending_text,
+                "inline": False
+            })
+
+        # 添加商用价值说明
+        embed["fields"].append({
+            "name": "💡 商用价值说明",
+            "value": "这些项目具有以下特点：\n• 🛠️ 即开即用的实用工具\n• 💰 明确的商业应用场景\n• 🔧 完善的部署和集成方案\n• 📈 活跃的社区和维护团队",
+            "inline": False
+        })
+
+        return {"embeds": [embed]}
+
+    def send_commercial_notification(self, popular_projects: List[Dict], trending_projects: List[Dict], trend_timeframe: str = 'lifetime') -> bool:
+        """发送商用实用性AI项目Discord通知"""
+        if not self.webhook_url:
+            self.logger.error("Discord Webhook URL未配置")
+            return False
+
+        payload = self.create_commercial_discord_embed(popular_projects, trending_projects, trend_timeframe)
+
+        try:
+            response = requests.post(self.webhook_url, json=payload)
+            response.raise_for_status()
+            self.logger.info("商用项目Discord消息发送成功")
+            return True
+        except requests.exceptions.RequestException as e:
+            self.logger.error(f"商用项目Discord消息发送失败: {e}")
+            return False
+
 
 class AIGitHubTracker:
     """AI GitHub追踪器主控制器"""
@@ -557,6 +754,7 @@ class AIGitHubTracker:
         self.setup_logging()
         self.github_client = GitHubAPIClient()
         self.ai_filter = AIProjectFilter()
+        self.commercial_filter = CommercialAIProjectFilter()
         self.deduplicator = ProjectDeduplicator()
         self.trend_analyzer = TrendAnalyzer()
         self.summarizer = ProjectSummarizer()
@@ -663,6 +861,58 @@ class AIGitHubTracker:
                 self.logger.error(f"执行{timeframe}追踪时发生错误: {e}")
                 continue
 
+    def run_commercial_tracking(self, trend_timeframe: str = 'lifetime'):
+        """
+        执行商用实用性AI项目追踪任务
+        trend_timeframe: 'lifetime', '30days', '7days'
+        """
+        self.logger.info(f"开始执行商用实用性AI项目追踪任务（趋势时间框架: {trend_timeframe}）")
+        try:
+            # 1. 清理旧记录
+            self.deduplicator.clean_old_records()
+
+            # 2. 获取项目数据
+            self.logger.info("正在获取GitHub项目数据...")
+            popular_repos = self.github_client.get_popular_ai_projects()
+            trending_repos = self.github_client.get_trending_ai_projects()
+
+            if not popular_repos and not trending_repos:
+                self.logger.error("未能获取到任何项目数据")
+                return
+
+            # 3. 商用实用性AI项目过滤
+            popular_commercial_projects = self.commercial_filter.filter_commercial_ai_projects(popular_repos)
+            trending_commercial_projects = self.commercial_filter.filter_commercial_ai_projects(trending_repos)
+
+            # 4. 去重过滤
+            new_popular_projects = self.deduplicator.filter_new_projects(popular_commercial_projects)
+            new_trending_projects = self.deduplicator.filter_new_projects(trending_commercial_projects)
+
+            # 5. 趋势分析（使用指定的时间框架）
+            trending_sorted = self.trend_analyzer.sort_by_trend_score(new_trending_projects, trend_timeframe)
+
+            # 6. 选择要推送的项目
+            selected_popular = new_popular_projects[:2]  # 前2个热门商用项目
+            selected_trending = trending_sorted[:2]      # 前2个商用趋势项目
+
+            if not selected_popular and not selected_trending:
+                self.logger.info("没有发现新的商用实用性AI项目，今日不推送")
+                return
+
+            # 7. 发送通知（使用商用项目专用格式）
+            if self.notifier.send_commercial_notification(selected_popular, selected_trending, trend_timeframe):
+                # 8. 标记项目为已推送
+                for project in selected_popular + selected_trending:
+                    self.deduplicator.mark_project_as_sent(project)
+
+                self.logger.info(f"成功推送 {len(selected_popular)} 个热门商用项目和 {len(selected_trending)} 个商用趋势项目")
+            else:
+                self.logger.error("商用项目消息推送失败")
+
+        except Exception as e:
+            self.logger.error(f"执行商用项目追踪任务时发生错误: {e}")
+            raise
+
 
 def main():
     """主函数"""
@@ -678,6 +928,8 @@ def main():
                        help='趋势分析时间框架 (默认: lifetime)')
     parser.add_argument('--multi-timeframe', action='store_true',
                        help='执行多时间框架追踪（30天和7天趋势）')
+    parser.add_argument('--commercial', action='store_true',
+                       help='执行商用实用性AI项目追踪')
 
     args = parser.parse_args()
 
@@ -697,7 +949,10 @@ def main():
         print(f"  存储文件: {stats['storage_file']}")
         return
 
-    if args.multi_timeframe:
+    if args.commercial:
+        # 执行商用实用性AI项目追踪
+        tracker.run_commercial_tracking(args.trend_timeframe)
+    elif args.multi_timeframe:
         # 执行多时间框架追踪
         tracker.run_multi_timeframe_tracking()
     else:

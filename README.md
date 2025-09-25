@@ -4,13 +4,21 @@
 
 ## ✨ 功能特点
 
+### 🎯 核心功能
 - 🔍 **智能筛选**：自动识别AI相关项目，准确率>85%
-- ⭐ **热门推荐**：每日推送5个收藏最多的AI项目
-- 📈 **趋势分析**：基于趋势算法推送5个上升最快的AI项目
+- ⭐ **热门推荐**：每日推送2个收藏最多的AI项目
+- 📈 **多时间框架趋势分析**：支持lifetime/30天/7天三种时间窗口的趋势分析
+- 💼 **商用实用性AI项目**：专门识别具有商业价值和实用性的AI项目
 - 🚫 **智能去重**：100%避免重复推送，自动清理30天前记录
 - 📱 **Discord推送**：美观的Discord Embed消息格式
 - ⏰ **自动执行**：通过GitHub Actions每天北京时间9点自动运行
 - 📊 **详细日志**：完整的执行日志和错误处理
+
+### 🚀 高级特性
+- **多种推送模式**：普通AI项目 / 商用实用性AI项目
+- **灵活时间框架**：lifetime / 30天 / 7天趋势分析
+- **智能项目分类**：自动识别学术研究 vs 商用工具
+- **专业Discord样式**：不同模式使用不同颜色和风格
 
 ## 🚀 快速开始
 
@@ -43,15 +51,35 @@ pip install -r requirements.txt
 export GH_TOKEN="your_github_token"
 export DISCORD_WEBHOOK_URL="your_discord_webhook_url"
 
-# 运行追踪器
+# 🤖 普通AI项目模式
 python ai_tracker.py
 
-# 查看统计信息
+# 💼 商用实用性AI项目模式
+python ai_tracker.py --commercial
+
+# 📈 不同时间框架趋势分析
+python ai_tracker.py --trend-timeframe 30days    # 30天趋势
+python ai_tracker.py --trend-timeframe 7days     # 7天趋势
+
+# 🔄 多时间框架推送（同时推送30天和7天趋势）
+python ai_tracker.py --multi-timeframe
+
+# 📊 查看统计信息
 python ai_tracker.py --stats
 
-# 重置推送记录（下次将推送最热门项目）
+# 🔄 重置推送记录（下次将推送最热门项目）
 python ai_tracker.py --reset
 ```
+
+### 📋 命令行参数说明
+
+| 参数 | 说明 | 示例 |
+|------|------|------|
+| `--commercial` | 执行商用实用性AI项目追踪 | `python ai_tracker.py --commercial` |
+| `--trend-timeframe` | 设置趋势分析时间框架 | `--trend-timeframe 30days` |
+| `--multi-timeframe` | 执行多时间框架追踪 | `python ai_tracker.py --multi-timeframe` |
+| `--reset` | 重置已推送项目记录 | `python ai_tracker.py --reset` |
+| `--stats` | 显示推送统计信息 | `python ai_tracker.py --stats` |
 
 ### 5. 启用自动运行
 
@@ -77,16 +105,21 @@ python ai_tracker.py --reset
 ## 📁 项目结构
 
 ```
-ai-github-tracker/
+GitHubTrendTracker/
 ├── .github/
 │   └── workflows/
-│       └── tracker.yml          # GitHub Actions工作流
-├── ai_tracker.py                # 主程序
-├── sent_projects.json           # 已推送项目记录
-├── requirements.txt             # Python依赖
-├── README.md                   # 项目说明
-├── .gitignore                  # Git忽略文件
-└── projectDesign.prd           # 产品需求文档
+│       ├── tracker.yml              # 主工作流
+│       └── debug-tracker.yml        # 调试工作流
+├── ai_tracker.py                    # 主程序
+├── sent_projects.json               # 已推送项目记录
+├── requirements.txt                 # Python依赖
+├── README.md                       # 项目说明
+├── debug_guide.md                  # 调试指南
+├── quick_test.py                   # 快速测试脚本
+├── test_trend_timeframes.py        # 时间框架测试
+├── test_commercial_projects.py     # 商用项目测试
+├── compare_modes.py                # 模式对比分析
+└── reset_tracker.py                # 重置工具
 ```
 
 ## 🏗️ 系统架构
@@ -95,42 +128,78 @@ ai-github-tracker/
 
 1. **GitHubAPIClient** - GitHub API数据获取
 2. **AIProjectFilter** - AI项目智能识别
-3. **ProjectDeduplicator** - 项目去重管理
-4. **TrendAnalyzer** - 趋势分析算法
-5. **DiscordNotifier** - Discord消息推送
-6. **AIGitHubTracker** - 主控制器
+3. **CommercialAIProjectFilter** - 商用实用性AI项目识别
+4. **ProjectDeduplicator** - 项目去重管理
+5. **TrendAnalyzer** - 多时间框架趋势分析算法
+6. **ProjectSummarizer** - 智能项目总结生成
+7. **DiscordNotifier** - Discord消息推送（支持多种样式）
+8. **AIGitHubTracker** - 主控制器
 
 ### AI项目识别
 
+#### 🤖 普通AI项目识别
 基于以下关键词进行智能识别：
 - artificial intelligence, machine learning, deep learning
 - neural network, computer vision, nlp
 - tensorflow, pytorch, llm, gpt, transformer
 - 等50+专业AI关键词
 
+#### 💼 商用实用性AI项目识别
+基于142个专业关键词进行商用价值评估，涵盖7大领域：
+- **自动化工具**：n8n、zapier、workflow automation
+- **社交媒体**：xiaohongshu、instagram、social automation、mcp
+- **爬虫数据**：reddit crawler、web scraping、data extraction
+- **电商工具**：shopify、ecommerce、dropshipping
+- **办公生产力**：productivity、dashboard、business intelligence
+- **通信客服**：chatbot、customer service、telegram bot
+- **金融交易**：trading bot、crypto、stock automation
+
 ### 趋势分析算法
 
-```
-趋势分数 = (stars/项目天数) * 0.7 + (forks/项目天数) * 0.3
-```
+#### 🔄 多时间框架支持
+- **Lifetime**: `(stars/项目天数) * 0.7 + (forks/项目天数) * 0.3`
+- **30天趋势**: 基于估算的最近30天增长率计算
+- **7天趋势**: 基于估算的最近7天增长率计算
 
 ## 📊 消息格式示例
 
-Discord消息采用美观的Embed格式：
-
+### 🤖 普通AI项目消息格式
 ```
 🤖 AI项目日报
 2025年01月15日 最值得关注的AI开源项目
 
 ⭐ 收藏最多的AI项目
-1. **project-name** - ⭐12,345 🍴2,345 📝Python
-   项目描述...
+1. **tensorflow** - ⭐191,791 🍴74,180 📝C++
+   💡 端到端机器学习平台，支持训练到部署的完整工作流
    🔗 查看项目
 
 📈 趋势上升最快的AI项目
-1. **trending-project** - ⭐1,234 🍴234 📝JavaScript
-   另一个项目描述...
+1. **vllm** - ⭐58,874 🍴5,678 📝Python
+   💡 高吞吐量LLM推理和服务引擎
    🔗 查看项目
+```
+
+### 💼 商用实用性AI项目消息格式
+```
+💼 商用实用性AI项目日报
+2025年01月15日 最具商用价值的AI开源项目
+
+🏆 收藏最多的商用AI项目
+1. **gradio** - ⭐40,012 🍴2,890 📝Python
+   💡 快速构建机器学习Web界面的实用工具
+   🔗 查看项目
+
+💼 商用趋势上升最快的AI项目
+1. **sglang** - ⭐18,334 🍴1,234 📝Python
+   💡 大语言模型高效推理框架，专注企业级部署
+   🔗 查看项目
+
+💡 商用价值说明
+这些项目具有以下特点：
+• 🛠️ 即开即用的实用工具
+• 💰 明确的商业应用场景
+• 🔧 完善的部署和集成方案
+• 📈 活跃的社区和维护团队
 ```
 
 ## 🔄 重置功能
@@ -193,6 +262,15 @@ tail -f ai_tracker.log
 - 趋势算法权重
 
 ## 📝 更新日志
+
+### v2.0.0 (2025-09-25)
+- 🎯 **商用实用性AI项目识别**：新增142个专业关键词，精准识别具有商业价值的AI项目
+- 📈 **多时间框架趋势分析**：支持lifetime/30天/7天三种时间窗口的趋势分析
+- 💼 **专业Discord样式**：商用项目采用深蓝商务风格，普通项目保持原有风格
+- 🔧 **灵活命令行参数**：支持`--commercial`、`--trend-timeframe`、`--multi-timeframe`等参数
+- 🧪 **完整测试套件**：新增多个测试脚本和调试工具
+- 📚 **智能项目总结**：基于技术框架生成更精准的项目描述
+- 🎨 **优化消息格式**：减少冗余信息，专注技术亮点
 
 ### v1.0.0 (2025-01-15)
 - ✅ 完成所有核心功能
