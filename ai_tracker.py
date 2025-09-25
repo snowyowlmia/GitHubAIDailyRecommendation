@@ -245,6 +245,158 @@ class ProjectDeduplicator:
         }
 
 
+class ProjectSummarizer:
+    """项目总结生成器，生成有说服力的项目介绍"""
+
+    def __init__(self):
+        self.logger = logging.getLogger(__name__)
+
+    def generate_summary(self, repo: Dict) -> str:
+        """生成项目的智能总结"""
+        try:
+            name = repo.get('name', '')
+            description = repo.get('description', '')
+            stars = repo.get('stargazers_count', 0)
+            forks = repo.get('forks_count', 0)
+            language = repo.get('language', 'Unknown')
+            topics = repo.get('topics', [])
+            created_at = repo.get('created_at', '')
+            updated_at = repo.get('updated_at', '')
+
+            # 计算项目年龄
+            try:
+                created_date = date_parser.parse(created_at)
+                days_since_creation = max((datetime.now().replace(tzinfo=None) -
+                                         created_date.replace(tzinfo=None)).days, 1)
+                years = days_since_creation / 365.25
+            except:
+                years = 0
+
+            # 生成总结的不同部分
+            popularity_reason = self._generate_popularity_reason(stars, forks, years)
+            technical_highlights = self._generate_technical_highlights(name, description, language, topics)
+            community_impact = self._generate_community_impact(stars, forks, years)
+
+            # 组合成完整总结
+            summary_parts = []
+
+            if technical_highlights:
+                summary_parts.append(technical_highlights)
+
+            if popularity_reason:
+                summary_parts.append(popularity_reason)
+
+            if community_impact:
+                summary_parts.append(community_impact)
+
+            if summary_parts:
+                return " ".join(summary_parts)
+            else:
+                return description[:100] + "..." if len(description) > 100 else description
+
+        except Exception as e:
+            self.logger.error(f"生成项目总结失败: {e}")
+            return repo.get('description', '暂无描述')[:100]
+
+    def _generate_popularity_reason(self, stars: int, forks: int, years: float) -> str:
+        """生成受欢迎原因"""
+        if stars >= 100000:
+            return f"作为GitHub上最受欢迎的项目之一，{stars:,}个star证明了其在开发者社区中的统治地位。"
+        elif stars >= 50000:
+            return f"凭借{stars:,}个star和{forks:,}个fork，已成为该领域的标杆项目。"
+        elif stars >= 20000:
+            return f"获得{stars:,}个star，在开发者中享有很高声誉。"
+        elif stars >= 5000:
+            if years < 1:
+                return f"虽然创建不到一年，但已获得{stars:,}个star，展现出强劲的增长势头。"
+            else:
+                return f"持续获得社区认可，{stars:,}个star体现了其实用价值。"
+        elif stars >= 1000:
+            if years < 0.5:
+                return f"作为新兴项目，{stars:,}个star显示出巨大潜力。"
+            else:
+                return f"{stars:,}个star表明其在特定领域的影响力。"
+        else:
+            return f"正在快速发展中的项目，已获得{stars}个star。"
+
+    def _generate_technical_highlights(self, name: str, description: str, language: str, topics: List[str]) -> str:
+        """生成技术亮点"""
+        name_lower = name.lower()
+        desc_lower = description.lower()
+        topics_str = ' '.join(topics).lower()
+        text = f"{name_lower} {desc_lower} {topics_str}"
+
+        # AI/ML框架和库
+        if any(keyword in text for keyword in ['tensorflow', 'pytorch', 'keras', 'scikit-learn']):
+            if 'tensorflow' in text:
+                return "TensorFlow生态系统中的重要组件，为机器学习提供强大支持。"
+            elif 'pytorch' in text:
+                return "基于PyTorch构建的深度学习工具，深受研究者喜爱。"
+            elif 'keras' in text:
+                return "Keras高级API的优秀实现，简化了深度学习开发流程。"
+            else:
+                return "机器学习领域的专业工具，提供完整的解决方案。"
+
+        # 大语言模型和NLP
+        elif any(keyword in text for keyword in ['llm', 'gpt', 'transformer', 'bert', 'nlp', 'language model']):
+            return "大语言模型时代的关键项目，推动了自然语言处理技术的发展。"
+
+        # 计算机视觉
+        elif any(keyword in text for keyword in ['computer vision', 'opencv', 'yolo', 'detection', 'recognition']):
+            return "计算机视觉领域的先进工具，为图像处理和识别提供突破性能力。"
+
+        # 数据科学和分析
+        elif any(keyword in text for keyword in ['data science', 'pandas', 'numpy', 'jupyter', 'analysis']):
+            return "数据科学工作流的核心工具，极大提升了数据分析效率。"
+
+        # AI开发工具
+        elif any(keyword in text for keyword in ['ai tool', 'artificial intelligence', 'automation', 'assistant']):
+            return "AI驱动的智能工具，为开发者提供前所未有的生产力提升。"
+
+        # 开源学习资源
+        elif any(keyword in text for keyword in ['tutorial', 'learning', 'course', 'education', 'beginner']):
+            return "高质量的AI学习资源，帮助无数开发者掌握人工智能技术。"
+
+        # Web框架和应用
+        elif any(keyword in text for keyword in ['web', 'api', 'server', 'framework', 'application']):
+            if language in ['JavaScript', 'TypeScript', 'Python']:
+                return f"基于{language}的现代Web解决方案，集成了最新的AI能力。"
+            else:
+                return "融合AI技术的Web应用框架，引领新一代开发模式。"
+
+        # 通用AI工具
+        elif any(keyword in text for keyword in ['ai', 'machine learning', 'deep learning', 'neural']):
+            return "人工智能领域的创新项目，为AI开发提供强大的技术支撑。"
+
+        else:
+            # 根据语言生成通用描述
+            if language == 'Python':
+                return "Python生态中的优秀项目，以其简洁和强大著称。"
+            elif language == 'JavaScript':
+                return "JavaScript社区的创新成果，推动了现代Web开发。"
+            elif language == 'TypeScript':
+                return "TypeScript构建的类型安全解决方案，提升开发体验。"
+            elif language == 'Rust':
+                return "Rust语言的高性能实现，兼顾安全性和效率。"
+            elif language == 'Go':
+                return "Go语言的简洁实现，专注于高并发和可维护性。"
+            else:
+                return f"基于{language}开发的专业工具，解决了实际业务需求。"
+
+    def _generate_community_impact(self, stars: int, forks: int, years: float) -> str:
+        """生成社区影响描述"""
+        fork_ratio = forks / max(stars, 1)
+
+        if fork_ratio > 0.3:
+            return "活跃的贡献者社区和丰富的fork数量显示了项目的健康发展态势。"
+        elif fork_ratio > 0.15:
+            return "良好的社区参与度表明项目具有持续的发展动力。"
+        elif stars > 1000:
+            return "虽然fork较少，但高star数显示了项目的高质量和实用性。"
+        else:
+            return "正在建立社区基础，展现出良好的发展前景。"
+
+
 class TrendAnalyzer:
     """趋势分析器，计算项目趋势分数"""
 
@@ -288,24 +440,27 @@ class TrendAnalyzer:
 class DiscordNotifier:
     """Discord消息推送器"""
 
-    def __init__(self, webhook_url: Optional[str] = None):
+    def __init__(self, webhook_url: Optional[str] = None, summarizer: Optional['ProjectSummarizer'] = None):
         self.webhook_url = webhook_url or os.getenv('DISCORD_WEBHOOK_URL')
+        self.summarizer = summarizer or ProjectSummarizer()
         self.logger = logging.getLogger(__name__)
 
     def format_project_info(self, repo: Dict, rank: int) -> str:
-        """格式化项目信息"""
+        """格式化项目信息（包含智能总结）"""
         name = repo['name']
-        description = repo.get('description', '暂无描述')[:100]
         stars = repo['stargazers_count']
         forks = repo['forks_count']
         url = repo['html_url']
         language = repo.get('language', 'Unknown')
 
-        # 截断过长的描述
-        if len(description) > 100:
-            description = description[:100] + '...'
+        # 生成智能总结
+        summary = self.summarizer.generate_summary(repo)
 
-        return f"{rank}. **{name}** - ⭐{stars:,} 🍴{forks:,} 📝{language}\n   {description}\n   [🔗 查看项目]({url})"
+        # 限制总结长度，确保Discord消息不会太长
+        if len(summary) > 200:
+            summary = summary[:200] + '...'
+
+        return f"{rank}. **{name}** - ⭐{stars:,} 🍴{forks:,} 📝{language}\n   💡 {summary}\n   [🔗 查看项目]({url})"
 
     def create_discord_embed(self, popular_projects: List[Dict], trending_projects: List[Dict]) -> Dict:
         """创建Discord Embed消息"""
@@ -370,7 +525,8 @@ class AIGitHubTracker:
         self.ai_filter = AIProjectFilter()
         self.deduplicator = ProjectDeduplicator()
         self.trend_analyzer = TrendAnalyzer()
-        self.notifier = DiscordNotifier()
+        self.summarizer = ProjectSummarizer()
+        self.notifier = DiscordNotifier(summarizer=self.summarizer)
         self.logger = logging.getLogger(__name__)
 
     def setup_logging(self):
