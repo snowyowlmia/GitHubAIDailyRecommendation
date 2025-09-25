@@ -385,37 +385,76 @@ class TrendAnalyzer:
     def __init__(self):
         self.logger = logging.getLogger(__name__)
 
-    def calculate_trend_score(self, repo: Dict) -> float:
-        """计算项目趋势分数"""
+    def calculate_trend_score(self, repo: Dict, timeframe: str = 'lifetime') -> float:
+        """
+        计算项目趋势分数
+        timeframe: 'lifetime', '30days', '7days'
+        """
         try:
             created_at = date_parser.parse(repo['created_at'])
             # 确保两个datetime都是naive类型
             if created_at.tzinfo is not None:
                 created_at = created_at.replace(tzinfo=None)
 
-            days_since_creation = max((datetime.now() - created_at).days, 1)
-
             stars = repo.get('stargazers_count', 0)
             forks = repo.get('forks_count', 0)
 
-            # 趋势分数 = (stars/项目天数) * 0.7 + (forks/项目天数) * 0.3
-            daily_stars = stars / days_since_creation
-            daily_forks = forks / days_since_creation
+            if timeframe == 'lifetime':
+                # 原有逻辑：基于项目整个生命周期
+                days_since_creation = max((datetime.now() - created_at).days, 1)
+                daily_stars = stars / days_since_creation
+                daily_forks = forks / days_since_creation
+                trend_score = daily_stars * 0.7 + daily_forks * 0.3
 
-            trend_score = daily_stars * 0.7 + daily_forks * 0.3
+            elif timeframe == '30days':
+                # 30天趋势：假设最近30天获得的stars/forks比例更高
+                # 使用更激进的增长假设来识别近期热门项目
+                days_since_creation = max((datetime.now() - created_at).days, 1)
+
+                # 对于较新的项目（<30天），使用实际天数
+                if days_since_creation <= 30:
+                    effective_days = days_since_creation
+                else:
+                    # 对于老项目，假设30%的stars来自最近30天
+                    effective_days = 30
+                    stars = int(stars * 0.3)  # 估算最近30天的增长
+                    forks = int(forks * 0.3)
+
+                daily_stars = stars / effective_days
+                daily_forks = forks / effective_days
+                trend_score = daily_stars * 0.7 + daily_forks * 0.3
+
+            elif timeframe == '7days':
+                # 7天趋势：更激进的近期增长估算
+                days_since_creation = max((datetime.now() - created_at).days, 1)
+
+                if days_since_creation <= 7:
+                    effective_days = days_since_creation
+                else:
+                    # 对于老项目，假设15%的stars来自最近7天
+                    effective_days = 7
+                    stars = int(stars * 0.15)
+                    forks = int(forks * 0.15)
+
+                daily_stars = stars / effective_days
+                daily_forks = forks / effective_days
+                trend_score = daily_stars * 0.7 + daily_forks * 0.3
+
+            else:
+                raise ValueError(f"不支持的时间框架: {timeframe}")
 
             return trend_score
         except Exception as e:
             self.logger.error(f"计算趋势分数失败: {e}")
             return 0.0
 
-    def sort_by_trend_score(self, projects: List[Dict]) -> List[Dict]:
+    def sort_by_trend_score(self, projects: List[Dict], timeframe: str = 'lifetime') -> List[Dict]:
         """按趋势分数排序项目"""
         for project in projects:
-            project['trend_score'] = self.calculate_trend_score(project)
+            project['trend_score'] = self.calculate_trend_score(project, timeframe)
 
         sorted_projects = sorted(projects, key=lambda x: x['trend_score'], reverse=True)
-        self.logger.info(f"按趋势分数排序了 {len(sorted_projects)} 个项目")
+        self.logger.info(f"按{timeframe}趋势分数排序了 {len(sorted_projects)} 个项目")
         return sorted_projects
 
 
@@ -444,11 +483,24 @@ class DiscordNotifier:
 
         return f"{rank}. **{name}** - ⭐{stars:,} 🍴{forks:,} 📝{language}\n   💡 {summary}\n   [🔗 查看项目]({url})"
 
-    def create_discord_embed(self, popular_projects: List[Dict], trending_projects: List[Dict]) -> Dict:
+    def create_discord_embed(self, popular_projects: List[Dict], trending_projects: List[Dict], trend_timeframe: str = 'lifetime') -> Dict:
         """创建Discord Embed消息"""
+        # 根据时间框架生成标题和描述
+        timeframe_titles = {
+            'lifetime': '最值得关注的AI开源项目',
+            '30days': '最近30天上升最快的AI项目',
+            '7days': '最近7天上升最快的AI项目'
+        }
+
+        trending_field_names = {
+            'lifetime': '📈 趋势上升最快的AI项目',
+            '30days': '📈 最近30天上升最快的AI项目',
+            '7days': '🚀 最近7天上升最快的AI项目'
+        }
+
         embed = {
             "title": "🤖 AI项目日报",
-            "description": f"{datetime.now().strftime('%Y年%m月%d日')} 最值得关注的AI开源项目",
+            "description": f"{datetime.now().strftime('%Y年%m月%d日')} {timeframe_titles.get(trend_timeframe, timeframe_titles['lifetime'])}",
             "color": 5814783,  # 蓝色
             "fields": [],
             "timestamp": datetime.now().isoformat()
@@ -473,20 +525,20 @@ class DiscordNotifier:
                 for i, repo in enumerate(trending_projects[:2])
             ])
             embed["fields"].append({
-                "name": "📈 趋势上升最快的AI项目",
+                "name": trending_field_names.get(trend_timeframe, trending_field_names['lifetime']),
                 "value": trending_text,
                 "inline": False
             })
 
         return {"embeds": [embed]}
 
-    def send_notification(self, popular_projects: List[Dict], trending_projects: List[Dict]) -> bool:
+    def send_notification(self, popular_projects: List[Dict], trending_projects: List[Dict], trend_timeframe: str = 'lifetime') -> bool:
         """发送Discord通知"""
         if not self.webhook_url:
             self.logger.error("Discord Webhook URL未配置")
             return False
 
-        payload = self.create_discord_embed(popular_projects, trending_projects)
+        payload = self.create_discord_embed(popular_projects, trending_projects, trend_timeframe)
 
         try:
             response = requests.post(self.webhook_url, json=payload)
@@ -522,9 +574,12 @@ class AIGitHubTracker:
             ]
         )
 
-    def run_daily_tracking(self):
-        """执行每日追踪任务"""
-        self.logger.info("开始执行AI GitHub项目每日追踪任务")
+    def run_daily_tracking(self, trend_timeframe: str = 'lifetime'):
+        """
+        执行每日追踪任务
+        trend_timeframe: 'lifetime', '30days', '7days'
+        """
+        self.logger.info(f"开始执行AI GitHub项目每日追踪任务（趋势时间框架: {trend_timeframe}）")
 
         try:
             # 1. 清理旧记录
@@ -547,8 +602,8 @@ class AIGitHubTracker:
             new_popular_projects = self.deduplicator.filter_new_projects(popular_ai_projects)
             new_trending_projects = self.deduplicator.filter_new_projects(trending_ai_projects)
 
-            # 5. 趋势分析
-            trending_sorted = self.trend_analyzer.sort_by_trend_score(new_trending_projects)
+            # 5. 趋势分析（使用指定的时间框架）
+            trending_sorted = self.trend_analyzer.sort_by_trend_score(new_trending_projects, trend_timeframe)
 
             # 6. 选择要推送的项目
             selected_popular = new_popular_projects[:2]  # 前2个热门项目
@@ -558,8 +613,8 @@ class AIGitHubTracker:
                 self.logger.info("没有发现新的AI项目，今日不推送")
                 return
 
-            # 7. 发送通知
-            if self.notifier.send_notification(selected_popular, selected_trending):
+            # 7. 发送通知（传递时间框架信息）
+            if self.notifier.send_notification(selected_popular, selected_trending, trend_timeframe):
                 # 8. 标记项目为已推送
                 for project in selected_popular + selected_trending:
                     self.deduplicator.mark_project_as_sent(project)
@@ -572,6 +627,42 @@ class AIGitHubTracker:
             self.logger.error(f"执行追踪任务时发生错误: {e}")
             raise
 
+    def run_multi_timeframe_tracking(self):
+        """执行多时间框架追踪，分别推送30天和7天趋势"""
+        timeframes = [
+            ('30days', '📈 最近30天上升最快的AI项目'),
+            ('7days', '🚀 最近7天上升最快的AI项目')
+        ]
+
+        for timeframe, description in timeframes:
+            self.logger.info(f"执行{description}...")
+            try:
+                # 获取数据
+                popular_repos = self.github_client.get_popular_ai_projects()
+                trending_repos = self.github_client.get_trending_ai_projects()
+
+                if not trending_repos:
+                    continue
+
+                # 过滤和去重
+                trending_ai_projects = self.ai_filter.filter_ai_projects(trending_repos)
+                new_trending_projects = self.deduplicator.filter_new_projects(trending_ai_projects)
+
+                # 按指定时间框架排序
+                trending_sorted = self.trend_analyzer.sort_by_trend_score(new_trending_projects, timeframe)
+                selected_trending = trending_sorted[:2]
+
+                if selected_trending:
+                    # 发送通知
+                    if self.notifier.send_notification([], selected_trending, timeframe):
+                        for project in selected_trending:
+                            self.deduplicator.mark_project_as_sent(project)
+                        self.logger.info(f"成功推送{timeframe}趋势项目")
+
+            except Exception as e:
+                self.logger.error(f"执行{timeframe}追踪时发生错误: {e}")
+                continue
+
 
 def main():
     """主函数"""
@@ -582,6 +673,11 @@ def main():
                        help='重置已推送项目记录，下次将推送最热门的项目')
     parser.add_argument('--stats', action='store_true',
                        help='显示推送统计信息')
+    parser.add_argument('--trend-timeframe', choices=['lifetime', '30days', '7days'],
+                       default='lifetime',
+                       help='趋势分析时间框架 (默认: lifetime)')
+    parser.add_argument('--multi-timeframe', action='store_true',
+                       help='执行多时间框架追踪（30天和7天趋势）')
 
     args = parser.parse_args()
 
@@ -601,8 +697,12 @@ def main():
         print(f"  存储文件: {stats['storage_file']}")
         return
 
-    # 默认运行日常追踪
-    tracker.run_daily_tracking()
+    if args.multi_timeframe:
+        # 执行多时间框架追踪
+        tracker.run_multi_timeframe_tracking()
+    else:
+        # 执行常规追踪，使用指定的时间框架
+        tracker.run_daily_tracking(args.trend_timeframe)
 
 
 if __name__ == "__main__":

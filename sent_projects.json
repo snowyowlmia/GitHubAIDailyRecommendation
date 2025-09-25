@@ -2,29 +2,57 @@
   "45717250": {
     "name": "tensorflow",
     "full_name": "tensorflow/tensorflow",
-    "sent_date": "2025-09-25T01:01:53.893328",
+    "sent_date": "2025-09-25T01:21:40.965532",
     "stars": 191791,
     "url": "https://github.com/tensorflow/tensorflow"
   },
   "155220641": {
     "name": "transformers",
     "full_name": "huggingface/transformers",
-    "sent_date": "2025-09-25T01:01:53.893873",
-    "stars": 150225,
+    "sent_date": "2025-09-25T01:21:40.966092",
+    "stars": 150226,
     "url": "https://github.com/huggingface/transformers"
   },
   "643445235": {
     "name": "lobe-chat",
     "full_name": "lobehub/lobe-chat",
-    "sent_date": "2025-09-25T01:01:53.894150",
+    "sent_date": "2025-09-25T01:21:40.966365",
     "stars": 65853,
     "url": "https://github.com/lobehub/lobe-chat"
   },
   "599547518": {
     "name": "vllm",
     "full_name": "vllm-project/vllm",
-    "sent_date": "2025-09-25T01:01:53.894329",
-    "stars": 58872,
+    "sent_date": "2025-09-25T01:21:40.966578",
+    "stars": 58874,
     "url": "https://github.com/vllm-project/vllm"
+  },
+  "343965132": {
+    "name": "ML-For-Beginners",
+    "full_name": "microsoft/ML-For-Beginners",
+    "sent_date": "2025-09-25T01:21:57.234833",
+    "stars": 77643,
+    "url": "https://github.com/microsoft/ML-For-Beginners"
+  },
+  "145553672": {
+    "name": "funNLP",
+    "full_name": "fighting41love/funNLP",
+    "sent_date": "2025-09-25T01:21:57.236577",
+    "stars": 76218,
+    "url": "https://github.com/fighting41love/funNLP"
+  },
+  "5108051": {
+    "name": "opencv",
+    "full_name": "opencv/opencv",
+    "sent_date": "2025-09-25T01:21:57.236924",
+    "stars": 84258,
+    "url": "https://github.com/opencv/opencv"
+  },
+  "71932349": {
+    "name": "ray",
+    "full_name": "ray-project/ray",
+    "sent_date": "2025-09-25T01:21:57.237152",
+    "stars": 39090,
+    "url": "https://github.com/ray-project/ray"
   }
 }
