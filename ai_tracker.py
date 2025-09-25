@@ -272,28 +272,14 @@ class ProjectSummarizer:
             except:
                 years = 0
 
-            # 生成总结的不同部分
-            popularity_reason = self._generate_popularity_reason(stars, forks, years)
+            # 只使用技术亮点和内容描述，避免数字重复
             technical_highlights = self._generate_technical_highlights(name, description, language, topics)
-            community_impact = self._generate_community_impact(stars, forks, years)
-
-            # 组合成完整总结（优先技术亮点+受欢迎原因）
-            summary_parts = []
 
             if technical_highlights:
-                summary_parts.append(technical_highlights)
-
-            if popularity_reason and len(popularity_reason) < 80:
-                summary_parts.append(popularity_reason)
-
-            # 如果总结太长，只使用技术亮点
-            combined = " ".join(summary_parts)
-            if len(combined) > 150:
-                return technical_highlights if technical_highlights else description[:100]
-            elif combined:
-                return combined
+                return technical_highlights
             else:
-                return description[:100] + "..." if len(description) > 100 else description
+                # 如果没有识别到技术亮点，使用项目描述
+                return description[:80] + "..." if len(description) > 80 else description
 
         except Exception as e:
             self.logger.error(f"生成项目总结失败: {e}")
@@ -327,62 +313,57 @@ class ProjectSummarizer:
         topics_str = ' '.join(topics).lower()
         text = f"{name_lower} {desc_lower} {topics_str}"
 
-        # AI/ML框架和库
-        if any(keyword in text for keyword in ['tensorflow', 'pytorch', 'keras', 'scikit-learn']):
-            if 'tensorflow' in text:
-                return "TensorFlow生态系统中的重要组件，为机器学习提供强大支持。"
-            elif 'pytorch' in text:
-                return "基于PyTorch构建的深度学习工具，深受研究者喜爱。"
-            elif 'keras' in text:
-                return "Keras高级API的优秀实现，简化了深度学习开发流程。"
-            else:
-                return "机器学习领域的专业工具，提供完整的解决方案。"
+        # TensorFlow生态
+        if 'tensorflow' in text:
+            return "端到端机器学习平台，支持训练到部署的完整工作流"
 
-        # 大语言模型和NLP
-        elif any(keyword in text for keyword in ['llm', 'gpt', 'transformer', 'bert', 'nlp', 'language model']):
-            return "大语言模型时代的关键项目，推动了自然语言处理技术的发展。"
+        # PyTorch生态
+        elif 'pytorch' in text:
+            return "动态图深度学习框架，提供灵活的模型构建和调试能力"
+
+        # Transformers和Hugging Face
+        elif 'transformers' in text or 'huggingface' in text or '🤗' in text:
+            return "预训练模型库，包含BERT、GPT等最新NLP模型"
+
+        # 大语言模型推理
+        elif any(keyword in text for keyword in ['llm', 'inference', 'vllm', 'serving']):
+            return "高性能LLM推理引擎，优化内存使用和推理速度"
+
+        # GPT和对话AI
+        elif any(keyword in text for keyword in ['gpt', 'chatgpt', 'chat', 'conversation']):
+            return "对话AI工具集，提供高质量的人机交互体验"
 
         # 计算机视觉
-        elif any(keyword in text for keyword in ['computer vision', 'opencv', 'yolo', 'detection', 'recognition']):
-            return "计算机视觉领域的先进工具，为图像处理和识别提供突破性能力。"
+        elif any(keyword in text for keyword in ['opencv', 'yolo', 'detection', 'vision']):
+            return "计算机视觉工具包，支持图像处理和目标检测"
 
-        # 数据科学和分析
-        elif any(keyword in text for keyword in ['data science', 'pandas', 'numpy', 'jupyter', 'analysis']):
-            return "数据科学工作流的核心工具，极大提升了数据分析效率。"
+        # Scikit-learn
+        elif 'scikit' in text or 'sklearn' in text:
+            return "经典机器学习库，提供分类、回归、聚类等算法"
 
-        # AI开发工具
-        elif any(keyword in text for keyword in ['ai tool', 'artificial intelligence', 'automation', 'assistant']):
-            return "AI驱动的智能工具，为开发者提供前所未有的生产力提升。"
+        # 数据科学
+        elif any(keyword in text for keyword in ['pandas', 'numpy', 'jupyter', 'data']):
+            return "数据分析工具链，简化数据处理和可视化流程"
 
-        # 开源学习资源
-        elif any(keyword in text for keyword in ['tutorial', 'learning', 'course', 'education', 'beginner']):
-            return "高质量的AI学习资源，帮助无数开发者掌握人工智能技术。"
+        # AI学习资源
+        elif any(keyword in text for keyword in ['tutorial', 'learning', 'course', 'beginner']):
+            return "AI学习教程，从基础概念到实践项目的完整指南"
 
-        # Web框架和应用
-        elif any(keyword in text for keyword in ['web', 'api', 'server', 'framework', 'application']):
-            if language in ['JavaScript', 'TypeScript', 'Python']:
-                return f"基于{language}的现代Web解决方案，集成了最新的AI能力。"
-            else:
-                return "融合AI技术的Web应用框架，引领新一代开发模式。"
+        # 自动化和工具
+        elif any(keyword in text for keyword in ['automation', 'tool', 'assistant', 'productivity']):
+            return "AI自动化工具，提升开发效率和工作流优化"
 
-        # 通用AI工具
-        elif any(keyword in text for keyword in ['ai', 'machine learning', 'deep learning', 'neural']):
-            return "人工智能领域的创新项目，为AI开发提供强大的技术支撑。"
+        # Awesome系列
+        elif 'awesome' in text:
+            return "精选资源合集，汇总该领域最佳实践和工具"
 
+        # 通用描述基于项目描述
         else:
-            # 根据语言生成通用描述
-            if language == 'Python':
-                return "Python生态中的优秀项目，以其简洁和强大著称。"
-            elif language == 'JavaScript':
-                return "JavaScript社区的创新成果，推动了现代Web开发。"
-            elif language == 'TypeScript':
-                return "TypeScript构建的类型安全解决方案，提升开发体验。"
-            elif language == 'Rust':
-                return "Rust语言的高性能实现，兼顾安全性和效率。"
-            elif language == 'Go':
-                return "Go语言的简洁实现，专注于高并发和可维护性。"
+            # 从描述中提取关键信息
+            if len(description) > 10:
+                return description[:70] + "..." if len(description) > 70 else description
             else:
-                return f"基于{language}开发的专业工具，解决了实际业务需求。"
+                return f"{language}开发的AI工具，专注解决实际问题"
 
     def _generate_community_impact(self, stars: int, forks: int, years: float) -> str:
         """生成社区影响描述"""
@@ -477,7 +458,7 @@ class DiscordNotifier:
         if popular_projects:
             popular_text = "\n\n".join([
                 self.format_project_info(repo, i+1)
-                for i, repo in enumerate(popular_projects[:5])
+                for i, repo in enumerate(popular_projects[:2])
             ])
             embed["fields"].append({
                 "name": "⭐ 收藏最多的AI项目",
@@ -489,7 +470,7 @@ class DiscordNotifier:
         if trending_projects:
             trending_text = "\n\n".join([
                 self.format_project_info(repo, i+1)
-                for i, repo in enumerate(trending_projects[:5])
+                for i, repo in enumerate(trending_projects[:2])
             ])
             embed["fields"].append({
                 "name": "📈 趋势上升最快的AI项目",
@@ -570,8 +551,8 @@ class AIGitHubTracker:
             trending_sorted = self.trend_analyzer.sort_by_trend_score(new_trending_projects)
 
             # 6. 选择要推送的项目
-            selected_popular = new_popular_projects[:5]  # 前5个热门项目
-            selected_trending = trending_sorted[:5]      # 前5个趋势项目
+            selected_popular = new_popular_projects[:2]  # 前2个热门项目
+            selected_trending = trending_sorted[:2]      # 前2个趋势项目
 
             if not selected_popular and not selected_trending:
                 self.logger.info("没有发现新的AI项目，今日不推送")

@@ -1,1 +1,30 @@
-{}
+{
+  "45717250": {
+    "name": "tensorflow",
+    "full_name": "tensorflow/tensorflow",
+    "sent_date": "2025-09-25T01:01:53.893328",
+    "stars": 191791,
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  "155220641": {
+    "name": "transformers",
+    "full_name": "huggingface/transformers",
+    "sent_date": "2025-09-25T01:01:53.893873",
+    "stars": 150225,
+    "url": "https://github.com/huggingface/transformers"
+  },
+  "643445235": {
+    "name": "lobe-chat",
+    "full_name": "lobehub/lobe-chat",
+    "sent_date": "2025-09-25T01:01:53.894150",
+    "stars": 65853,
+    "url": "https://github.com/lobehub/lobe-chat"
+  },
+  "599547518": {
+    "name": "vllm",
+    "full_name": "vllm-project/vllm",
+    "sent_date": "2025-09-25T01:01:53.894329",
+    "stars": 58872,
+    "url": "https://github.com/vllm-project/vllm"
+  }
+}
