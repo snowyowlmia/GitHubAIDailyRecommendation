@@ -3,6 +3,10 @@ name: Debug AI GitHub Tracker
 on:
   workflow_dispatch:  # 只支持手动触发
 
+permissions:
+  contents: write  # 允许修改仓库内容
+  actions: read    # 允许读取Actions
+
 jobs:
   debug_track_ai_projects:
     runs-on: ubuntu-latest
