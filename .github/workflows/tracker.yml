@@ -24,11 +24,36 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Check environment
+      run: |
+        echo "🔍 检查环境配置..."
+        echo "Python版本: $(python --version)"
+        echo "当前目录: $(pwd)"
+        echo "文件列表:"
+        ls -la
+        echo "检查ai_tracker.py是否存在:"
+        if [ -f ai_tracker.py ]; then
+          echo "✅ ai_tracker.py 存在"
+        else
+          echo "❌ ai_tracker.py 不存在"
+          exit 1
+        fi
+
+    - name: Test AI tracker help
+      run: |
+        echo "🧪 测试命令行参数..."
+        python ai_tracker.py --help || echo "❌ 命令行参数测试失败"
+
     - name: Run AI tracker
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       run: |
+        echo "🚀 开始运行AI追踪器..."
+        echo "环境变量检查:"
+        echo "GH_TOKEN: $([[ -n "$GH_TOKEN" ]] && echo '✅ 已设置' || echo '❌ 未设置')"
+        echo "DISCORD_WEBHOOK_URL: $([[ -n "$DISCORD_WEBHOOK_URL" ]] && echo '✅ 已设置' || echo '⚠️ 未设置')"
+        echo ""
         python ai_tracker.py
 
     - name: Commit and push changes

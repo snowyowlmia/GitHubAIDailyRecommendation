@@ -961,4 +961,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        print(f"❌ 程序执行失败: {e}")
+        print("错误详情:")
+        traceback.print_exc()
+        exit(1)
