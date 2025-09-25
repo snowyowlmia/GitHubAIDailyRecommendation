@@ -2,155 +2,57 @@
   "45717250": {
     "name": "tensorflow",
     "full_name": "tensorflow/tensorflow",
-    "sent_date": "2025-09-25T16:01:21.961340",
-    "stars": 191789,
+    "sent_date": "2025-09-25T09:51:46.186224",
+    "stars": 191792,
     "url": "https://github.com/tensorflow/tensorflow"
   },
   "155220641": {
     "name": "transformers",
     "full_name": "huggingface/transformers",
-    "sent_date": "2025-09-25T16:01:21.961057",
+    "sent_date": "2025-09-25T09:51:46.187063",
     "stars": 150248,
     "url": "https://github.com/huggingface/transformers"
+  },
+  "65600975": {
+    "name": "pytorch",
+    "full_name": "pytorch/pytorch",
+    "sent_date": "2025-09-25T09:51:46.187422",
+    "stars": 93464,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  "599547518": {
+    "name": "vllm",
+    "full_name": "vllm-project/vllm",
+    "sent_date": "2025-09-25T09:51:46.187653",
+    "stars": 58901,
+    "url": "https://github.com/vllm-project/vllm"
   },
   "343965132": {
     "name": "ML-For-Beginners",
     "full_name": "microsoft/ML-For-Beginners",
-    "sent_date": "2025-09-25T16:02:07.485388",
+    "sent_date": "2025-09-25T09:52:07.055733",
     "stars": 77651,
     "url": "https://github.com/microsoft/ML-For-Beginners"
   },
   "145553672": {
     "name": "funNLP",
     "full_name": "fighting41love/funNLP",
-    "sent_date": "2025-09-25T16:02:07.485681",
-    "stars": 76228,
+    "sent_date": "2025-09-25T09:52:07.056337",
+    "stars": 76229,
     "url": "https://github.com/fighting41love/funNLP"
-  },
-  "65600975": {
-    "name": "pytorch",
-    "full_name": "pytorch/pytorch",
-    "sent_date": "2025-09-25T16:02:07.485999",
-    "stars": 93464,
-    "url": "https://github.com/pytorch/pytorch"
   },
   "71932349": {
     "name": "ray",
     "full_name": "ray-project/ray",
-    "sent_date": "2025-09-25T16:02:07.486244",
-    "stars": 39096,
+    "sent_date": "2025-09-25T09:52:07.056831",
+    "stars": 39097,
     "url": "https://github.com/ray-project/ray"
   },
-  "21872392": {
-    "name": "awesome-machine-learning",
-    "full_name": "josephmisiti/awesome-machine-learning",
-    "sent_date": "2025-09-25T16:02:53.490839",
-    "stars": 69884,
-    "url": "https://github.com/josephmisiti/awesome-machine-learning"
-  },
-  "843222": {
-    "name": "scikit-learn",
-    "full_name": "scikit-learn/scikit-learn",
-    "sent_date": "2025-09-25T16:02:53.491328",
-    "stars": 63450,
-    "url": "https://github.com/scikit-learn/scikit-learn"
-  },
-  "571613891": {
-    "name": "supervision",
-    "full_name": "roboflow/supervision",
-    "sent_date": "2025-09-25T16:02:53.491857",
-    "stars": 34992,
-    "url": "https://github.com/roboflow/supervision"
-  },
-  "570384908": {
-    "name": "peft",
-    "full_name": "huggingface/peft",
-    "sent_date": "2025-09-25T16:02:53.492218",
-    "stars": 19677,
-    "url": "https://github.com/huggingface/peft"
-  },
-  "162405963": {
-    "name": "gradio",
-    "full_name": "gradio-app/gradio",
-    "sent_date": "2025-09-25T16:03:39.838269",
-    "stars": 40018,
-    "url": "https://github.com/gradio-app/gradio"
-  },
-  "915198910": {
-    "name": "cursor-free-vip",
-    "full_name": "yeongpin/cursor-free-vip",
-    "sent_date": "2025-09-25T16:03:39.838753",
-    "stars": 35775,
-    "url": "https://github.com/yeongpin/cursor-free-vip"
-  },
-  "156939672": {
-    "name": "onnxruntime",
-    "full_name": "microsoft/onnxruntime",
-    "sent_date": "2025-09-25T16:03:39.839299",
-    "stars": 17962,
-    "url": "https://github.com/microsoft/onnxruntime"
-  },
-  "241095326": {
-    "name": "flower",
-    "full_name": "adap/flower",
-    "sent_date": "2025-09-25T16:03:39.839811",
-    "stars": 6253,
-    "url": "https://github.com/adap/flower"
-  },
-  "63477612": {
-    "name": "C-Plus-Plus",
-    "full_name": "TheAlgorithms/C-Plus-Plus",
-    "sent_date": "2025-09-25T16:04:26.657281",
-    "stars": 32974,
-    "url": "https://github.com/TheAlgorithms/C-Plus-Plus"
-  },
-  "164554832": {
-    "name": "handson-ml2",
-    "full_name": "ageron/handson-ml2",
-    "sent_date": "2025-09-25T16:04:26.657638",
-    "stars": 29383,
-    "url": "https://github.com/ageron/handson-ml2"
-  },
-  "673010778": {
-    "name": "inference",
-    "full_name": "roboflow/inference",
-    "sent_date": "2025-09-25T16:04:26.658020",
-    "stars": 1945,
-    "url": "https://github.com/roboflow/inference"
-  },
-  "1064149059": {
-    "name": "azure-ids",
-    "full_name": "guicybercode/azure-ids",
-    "sent_date": "2025-09-25T16:04:26.658747",
-    "stars": 1,
-    "url": "https://github.com/guicybercode/azure-ids"
-  },
-  "196760810": {
-    "name": "linkedin-skill-assessments-quizzes",
-    "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "sent_date": "2025-09-25T16:05:13.162517",
-    "stars": 28645,
-    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
-  },
-  "70431106": {
-    "name": "machine-learning-for-software-engineers",
-    "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "sent_date": "2025-09-25T16:05:13.163021",
-    "stars": 28615,
-    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers"
-  },
-  "917105566": {
-    "name": "facemind",
-    "full_name": "galihru/facemind",
-    "sent_date": "2025-09-25T16:05:13.163586",
-    "stars": 27,
-    "url": "https://github.com/galihru/facemind"
-  },
-  "1013445775": {
-    "name": "claude-code-proxy",
-    "full_name": "Haidzai/claude-code-proxy",
-    "sent_date": "2025-09-25T16:05:13.164119",
-    "stars": 8,
-    "url": "https://github.com/Haidzai/claude-code-proxy"
+  "119160553": {
+    "name": "photoprism",
+    "full_name": "photoprism/photoprism",
+    "sent_date": "2025-09-25T09:52:07.057160",
+    "stars": 38428,
+    "url": "https://github.com/photoprism/photoprism"
   }
 }

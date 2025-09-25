@@ -1,6 +1,14 @@
 # AI GitHub Daily Tracker - AI项目每日追踪器
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Code Quality](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/actions/workflows/quality-check.yml/badge.svg)](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/actions/workflows/quality-check.yml)
+[![Daily Tracker](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/actions/workflows/tracker.yml/badge.svg)](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/actions/workflows/tracker.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 🤖 为AI开发者和爱好者提供一个自动化的GitHub项目发现工具，每天推送最值得关注的AI开源项目。
+
+> **开源项目** - 欢迎贡献！查看 [贡献指南](CONTRIBUTING.md) 了解如何参与开发。
 
 ## ✨ 功能特点
 
@@ -280,21 +288,81 @@ tail -f ai_tracker.log
 - ✅ Discord消息推送
 - ✅ 自动化部署
 
-## 🤝 贡献
+## 🤝 贡献 Contributing
 
-欢迎提交Issue和Pull Request来改进项目！
+我们非常欢迎社区贡献！这个项目的目标是为AI开发者社区提供更好的项目发现体验。
 
-## 📄 许可证
+### 🌟 如何贡献
 
-MIT License
+1. **🐛 报告Bug**: [创建Bug报告](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/issues/new?template=bug_report.md)
+2. **✨ 功能请求**: [提出新功能](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/issues/new?template=feature_request.md)
+3. **📖 改进文档**: 完善README、注释或添加示例
+4. **🔧 代码贡献**: 查看 [贡献指南](CONTRIBUTING.md) 了解详细流程
 
-## 📞 技术支持
+### 👥 目标用户和贡献方向
 
-如有问题，请通过以下方式获取帮助：
-- 📋 [GitHub Issues](https://github.com/your-username/GitHubTrendTracker/issues)
-- 📧 Email: your-email@example.com
-- 💬 Discord: your-discord
+基于 [项目设计文档](projectDesign.prd) 中定义的用户群体，欢迎针对以下用户需求的改进：
+
+- **AI开发者**: 需要了解最新工具和框架
+- **AI研究者**: 关注学术和研究项目
+- **技术管理者**: 需要跟踪行业趋势做决策
+- **AI爱好者**: 对AI技术发展感兴趣的个人
+
+### 🏗️ 开发环境
+
+```bash
+# Fork 并克隆项目
+git clone https://github.com/your-username/GitHubAIDailyRecommendation.git
+cd GitHubAIDailyRecommendation
+
+# 安装开发依赖
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+
+# 设置pre-commit hooks
+pre-commit install
+
+# 运行代码质量检查
+python -m pytest tests/
+python -m flake8 ai_tracker.py
+python -m black --check ai_tracker.py
+```
+
+### 📋 贡献类型
+
+- **🐛 Bug修复**: 修复现有功能问题
+- **✨ 新功能**: AI筛选算法改进、新数据源等
+- **📖 文档**: API文档、使用教程等
+- **🧪 测试**: 增加测试覆盖率
+- **🎨 优化**: 代码重构、性能优化
+
+查看完整的 [贡献指南](CONTRIBUTING.md) 了解详细要求和流程。
+
+## 📄 许可证 License
+
+本项目采用 [MIT License](LICENSE) 开源许可证。
+
+## 🌟 贡献者 Contributors
+
+感谢所有为项目做出贡献的开发者！
+
+[![Contributors](https://contrib.rocks/image?repo=snowyowlmia/GitHubAIDailyRecommendation)](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/graphs/contributors)
+
+## 📞 技术支持 Support
+
+- 📋 **Issues**: [GitHub Issues](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/issues) - 报告问题和功能请求
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/snowyowlmia/GitHubAIDailyRecommendation/discussions) - 一般讨论和问题
+- 📖 **文档**: 查看项目文档和[开源设置指南](OPENSOURCE_SETUP_GUIDE.md)
+
+## 📊 项目统计
+
+![GitHub stars](https://img.shields.io/github/stars/snowyowlmia/GitHubAIDailyRecommendation?style=social)
+![GitHub forks](https://img.shields.io/github/forks/snowyowlmia/GitHubAIDailyRecommendation?style=social)
+![GitHub issues](https://img.shields.io/github/issues/snowyowlmia/GitHubAIDailyRecommendation)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/snowyowlmia/GitHubAIDailyRecommendation)
 
 ---
 
-⭐ 如果这个项目对你有帮助，请给个Star支持一下！
+⭐ 如果这个项目对你有帮助，请给我们一个Star！
+
+🤖 **Made with ❤️ for the AI community**

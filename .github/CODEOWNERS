@@ -1,0 +1,18 @@
+# Global code owners
+* @snowyowlmia
+
+# Core AI tracker functionality
+ai_tracker.py @snowyowlmia
+requirements.txt @snowyowlmia
+
+# GitHub Actions workflows
+.github/workflows/ @snowyowlmia
+
+# Documentation
+*.md @snowyowlmia
+CONTRIBUTING.md @snowyowlmia
+
+# Configuration files
+*.yml @snowyowlmia
+*.yaml @snowyowlmia
+pyproject.toml @snowyowlmia
