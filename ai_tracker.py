@@ -812,14 +812,16 @@ class AIGitHubTracker:
                 return
 
             # 7. 发送通知（传递时间框架信息）
-            if self.notifier.send_notification(selected_popular, selected_trending, trend_timeframe):
-                # 8. 标记项目为已推送
-                for project in selected_popular + selected_trending:
-                    self.deduplicator.mark_project_as_sent(project)
+            discord_success = self.notifier.send_notification(selected_popular, selected_trending, trend_timeframe)
 
-                self.logger.info(f"成功推送 {len(selected_popular)} 个热门项目和 {len(selected_trending)} 个趋势项目")
+            # 8. 标记项目为已推送（无论Discord是否成功）
+            for project in selected_popular + selected_trending:
+                self.deduplicator.mark_project_as_sent(project)
+
+            if discord_success:
+                self.logger.info(f"✅ 成功推送 {len(selected_popular)} 个热门项目和 {len(selected_trending)} 个趋势项目")
             else:
-                self.logger.error("消息推送失败")
+                self.logger.warning(f"⚠️ Discord消息发送失败，但已记录 {len(selected_popular)} 个热门项目和 {len(selected_trending)} 个趋势项目")
 
         except Exception as e:
             self.logger.error(f"执行追踪任务时发生错误: {e}")
@@ -900,14 +902,16 @@ class AIGitHubTracker:
                 return
 
             # 7. 发送通知（使用商用项目专用格式）
-            if self.notifier.send_commercial_notification(selected_popular, selected_trending, trend_timeframe):
-                # 8. 标记项目为已推送
-                for project in selected_popular + selected_trending:
-                    self.deduplicator.mark_project_as_sent(project)
+            discord_success = self.notifier.send_commercial_notification(selected_popular, selected_trending, trend_timeframe)
 
-                self.logger.info(f"成功推送 {len(selected_popular)} 个热门商用项目和 {len(selected_trending)} 个商用趋势项目")
+            # 8. 标记项目为已推送（无论Discord是否成功）
+            for project in selected_popular + selected_trending:
+                self.deduplicator.mark_project_as_sent(project)
+
+            if discord_success:
+                self.logger.info(f"✅ 成功推送 {len(selected_popular)} 个热门商用项目和 {len(selected_trending)} 个商用趋势项目")
             else:
-                self.logger.error("商用项目消息推送失败")
+                self.logger.warning(f"⚠️ Discord消息发送失败，但已记录 {len(selected_popular)} 个热门商用项目和 {len(selected_trending)} 个商用趋势项目")
 
         except Exception as e:
             self.logger.error(f"执行商用项目追踪任务时发生错误: {e}")
