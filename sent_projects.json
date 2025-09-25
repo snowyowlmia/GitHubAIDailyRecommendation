@@ -54,5 +54,173 @@
     "sent_date": "2025-09-25T09:52:07.057160",
     "stars": 38428,
     "url": "https://github.com/photoprism/photoprism"
+  },
+  "21872392": {
+    "name": "awesome-machine-learning",
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "sent_date": "2025-09-25T23:18:31.528351",
+    "stars": 69890,
+    "url": "https://github.com/josephmisiti/awesome-machine-learning"
+  },
+  "843222": {
+    "name": "scikit-learn",
+    "full_name": "scikit-learn/scikit-learn",
+    "sent_date": "2025-09-25T23:18:31.528663",
+    "stars": 63452,
+    "url": "https://github.com/scikit-learn/scikit-learn"
+  },
+  "589831718": {
+    "name": "ComfyUI",
+    "full_name": "comfyanonymous/ComfyUI",
+    "sent_date": "2025-09-25T23:18:31.529084",
+    "stars": 89335,
+    "url": "https://github.com/comfyanonymous/ComfyUI"
+  },
+  "740303686": {
+    "name": "sglang",
+    "full_name": "sgl-project/sglang",
+    "sent_date": "2025-09-25T23:18:31.529484",
+    "stars": 18357,
+    "url": "https://github.com/sgl-project/sglang"
+  },
+  "162405963": {
+    "name": "gradio",
+    "full_name": "gradio-app/gradio",
+    "sent_date": "2025-09-25T23:19:16.541626",
+    "stars": 40018,
+    "url": "https://github.com/gradio-app/gradio"
+  },
+  "915198910": {
+    "name": "cursor-free-vip",
+    "full_name": "yeongpin/cursor-free-vip",
+    "sent_date": "2025-09-25T23:19:16.541894",
+    "stars": 35778,
+    "url": "https://github.com/yeongpin/cursor-free-vip"
+  },
+  "633927609": {
+    "name": "promptfoo",
+    "full_name": "promptfoo/promptfoo",
+    "sent_date": "2025-09-25T23:19:16.542370",
+    "stars": 8500,
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  "283347912": {
+    "name": "bittensor",
+    "full_name": "opentensor/bittensor",
+    "sent_date": "2025-09-25T23:19:16.542709",
+    "stars": 1239,
+    "url": "https://github.com/opentensor/bittensor"
+  },
+  "63477612": {
+    "name": "C-Plus-Plus",
+    "full_name": "TheAlgorithms/C-Plus-Plus",
+    "sent_date": "2025-09-25T23:20:01.604878",
+    "stars": 32977,
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus"
+  },
+  "1198539": {
+    "name": "netron",
+    "full_name": "lutzroeder/netron",
+    "sent_date": "2025-09-25T23:20:01.605205",
+    "stars": 31453,
+    "url": "https://github.com/lutzroeder/netron"
+  },
+  "637639667": {
+    "name": "Awesome-Plugins",
+    "full_name": "targed/Awesome-Plugins",
+    "sent_date": "2025-09-25T23:20:01.605758",
+    "stars": 147,
+    "url": "https://github.com/targed/Awesome-Plugins"
+  },
+  "757834127": {
+    "name": "top-500-best-gpts",
+    "full_name": "AINativeLab/top-500-best-gpts",
+    "sent_date": "2025-09-25T23:20:01.606130",
+    "stars": 100,
+    "url": "https://github.com/AINativeLab/top-500-best-gpts"
+  },
+  "164554832": {
+    "name": "handson-ml2",
+    "full_name": "ageron/handson-ml2",
+    "sent_date": "2025-09-25T23:20:46.287142",
+    "stars": 29387,
+    "url": "https://github.com/ageron/handson-ml2"
+  },
+  "196760810": {
+    "name": "linkedin-skill-assessments-quizzes",
+    "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "sent_date": "2025-09-25T23:20:46.287524",
+    "stars": 28645,
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  "1013935699": {
+    "name": "qwen-tts",
+    "full_name": "mco2004/qwen-tts",
+    "sent_date": "2025-09-25T23:20:46.288073",
+    "stars": 50,
+    "url": "https://github.com/mco2004/qwen-tts"
+  },
+  "840240037": {
+    "name": "jd_scripts",
+    "full_name": "huangxy7/jd_scripts",
+    "sent_date": "2025-09-25T23:20:46.288496",
+    "stars": 188,
+    "url": "https://github.com/huangxy7/jd_scripts"
+  },
+  "70431106": {
+    "name": "machine-learning-for-software-engineers",
+    "full_name": "ZuzooVn/machine-learning-for-software-engineers",
+    "sent_date": "2025-09-25T23:21:31.313879",
+    "stars": 28616,
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers"
+  },
+  "80990461": {
+    "name": "ML-From-Scratch",
+    "full_name": "eriklindernoren/ML-From-Scratch",
+    "sent_date": "2025-09-25T23:21:31.314252",
+    "stars": 28599,
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch"
+  },
+  "646899825": {
+    "name": "docwire",
+    "full_name": "docwire/docwire",
+    "sent_date": "2025-09-25T23:21:31.314758",
+    "stars": 92,
+    "url": "https://github.com/docwire/docwire"
+  },
+  "1064018346": {
+    "name": "Leaf-Lense",
+    "full_name": "pranav-c-r/Leaf-Lense",
+    "sent_date": "2025-09-25T23:21:31.315535",
+    "stars": 0,
+    "url": "https://github.com/pranav-c-r/Leaf-Lense"
+  },
+  "277168957": {
+    "name": "applied-ml",
+    "full_name": "eugeneyan/applied-ml",
+    "sent_date": "2025-09-25T23:22:16.684623",
+    "stars": 28345,
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  "326174741": {
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "sent_date": "2025-09-25T23:22:16.685072",
+    "stars": 27580,
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  "161556784": {
+    "name": "tensorflow-federated",
+    "full_name": "google-parfait/tensorflow-federated",
+    "sent_date": "2025-09-25T23:22:16.685560",
+    "stars": 2397,
+    "url": "https://github.com/google-parfait/tensorflow-federated"
+  },
+  "917105566": {
+    "name": "facemind",
+    "full_name": "galihru/facemind",
+    "sent_date": "2025-09-25T23:22:16.686090",
+    "stars": 27,
+    "url": "https://github.com/galihru/facemind"
   }
 }
