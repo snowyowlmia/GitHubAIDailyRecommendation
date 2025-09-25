@@ -2,7 +2,7 @@
 import os
 
 print("Environment variables:")
-print(f"GITHUB_TOKEN: {os.getenv('GITHUB_TOKEN')}")
+print(f"GH_TOKEN: {os.getenv('GH_TOKEN')}")
 print(f"DISCORD_WEBHOOK_URL: {os.getenv('DISCORD_WEBHOOK_URL')}")
 
 # Test the DiscordNotifier class

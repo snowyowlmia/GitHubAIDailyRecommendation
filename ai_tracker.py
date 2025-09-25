@@ -25,7 +25,7 @@ class GitHubAPIClient:
     """GitHub API客户端，负责获取项目数据"""
 
     def __init__(self, token: Optional[str] = None):
-        self.token = token or os.getenv('GITHUB_TOKEN')
+        self.token = token or os.getenv('GH_TOKEN')
         self.base_url = 'https://api.github.com'
         self.session = requests.Session()
         if self.token:

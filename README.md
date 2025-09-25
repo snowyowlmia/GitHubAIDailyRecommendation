@@ -33,14 +33,14 @@ pip install -r requirements.txt
 
 | 变量名 | 是否必需 | 说明 | 示例 |
 |--------|----------|------|------|
-| `GITHUB_TOKEN` | 是 | GitHub Personal Access Token | `ghp_xxxxxxxxxxxx` |
+| `GH_TOKEN` | 是 | GitHub Personal Access Token | `ghp_xxxxxxxxxxxx` |
 | `DISCORD_WEBHOOK_URL` | 可选 | Discord Webhook URL | `https://discord.com/api/webhooks/...` |
 
 ### 4. 本地测试运行
 
 ```bash
 # 设置环境变量
-export GITHUB_TOKEN="your_github_token"
+export GH_TOKEN="your_github_token"
 export DISCORD_WEBHOOK_URL="your_discord_webhook_url"
 
 # 运行追踪器
