@@ -45,6 +45,12 @@ export DISCORD_WEBHOOK_URL="your_discord_webhook_url"
 
 # 运行追踪器
 python ai_tracker.py
+
+# 查看统计信息
+python ai_tracker.py --stats
+
+# 重置推送记录（下次将推送最热门项目）
+python ai_tracker.py --reset
 ```
 
 ### 5. 启用自动运行
@@ -126,6 +132,42 @@ Discord消息采用美观的Embed格式：
    另一个项目描述...
    🔗 查看项目
 ```
+
+## 🔄 重置功能
+
+### 为什么需要重置？
+
+初次运行时会推送**最热门**的AI项目，但之后会避免重复推送，逐渐推荐不那么热门的项目。当你正式开始运营时，可能希望重新从最热门的项目开始推送。
+
+### 重置方式
+
+#### 方式1：命令行重置
+```bash
+# 重置推送记录
+python ai_tracker.py --reset
+
+# 查看当前统计
+python ai_tracker.py --stats
+```
+
+#### 方式2：交互式重置工具
+```bash
+# 运行交互式重置工具
+python reset_tracker.py
+```
+
+该工具提供：
+- 📊 查看推送统计
+- 🔄 安全重置（自动备份）
+- 📋 显示最近推送的项目
+
+### 重置效果
+
+重置后：
+- ✅ 清空所有已推送项目记录
+- ✅ 自动创建备份文件
+- ✅ 下次运行推送最热门的AI项目
+- ✅ 重新开始收藏数排序
 
 ## 🛠️ 开发
 

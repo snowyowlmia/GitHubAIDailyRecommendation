@@ -230,6 +230,20 @@ class ProjectDeduplicator:
         self.logger.info(f"从 {len(projects)} 个项目中过滤出 {len(new_projects)} 个未推送项目")
         return new_projects
 
+    def reset_sent_projects(self):
+        """重置已推送项目记录，清空所有记录"""
+        self.sent_projects = {}
+        self._save_sent_projects()
+        self.logger.info("已重置所有推送记录，下次将推送最热门的项目")
+
+    def get_stats(self) -> Dict:
+        """获取推送统计信息"""
+        return {
+            'total_sent': len(self.sent_projects),
+            'latest_sent': max([proj['sent_date'] for proj in self.sent_projects.values()]) if self.sent_projects else None,
+            'storage_file': self.storage_file
+        }
+
 
 class TrendAnalyzer:
     """趋势分析器，计算项目趋势分数"""
@@ -423,7 +437,33 @@ class AIGitHubTracker:
 
 def main():
     """主函数"""
+    import argparse
+
+    parser = argparse.ArgumentParser(description='AI GitHub Daily Tracker - AI项目每日追踪器')
+    parser.add_argument('--reset', action='store_true',
+                       help='重置已推送项目记录，下次将推送最热门的项目')
+    parser.add_argument('--stats', action='store_true',
+                       help='显示推送统计信息')
+
+    args = parser.parse_args()
+
     tracker = AIGitHubTracker()
+
+    if args.reset:
+        print("🔄 重置已推送项目记录...")
+        tracker.deduplicator.reset_sent_projects()
+        print("✅ 重置完成！下次运行将推送最热门的AI项目。")
+        return
+
+    if args.stats:
+        stats = tracker.deduplicator.get_stats()
+        print("📊 推送统计信息:")
+        print(f"  已推送项目总数: {stats['total_sent']}")
+        print(f"  最后推送时间: {stats['latest_sent'] or 'N/A'}")
+        print(f"  存储文件: {stats['storage_file']}")
+        return
+
+    # 默认运行日常追踪
     tracker.run_daily_tracking()
 
 
