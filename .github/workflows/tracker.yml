@@ -1,0 +1,45 @@
+name: AI GitHub Daily Tracker
+
+on:
+  schedule:
+    # 每天北京时间上午9点执行 (UTC时间1点)
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  track_ai_projects:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run AI tracker
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        python ai_tracker.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add sent_projects.json
+        git add ai_tracker.log
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update sent projects and logs - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
