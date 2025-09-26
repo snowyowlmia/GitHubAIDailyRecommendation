@@ -222,5 +222,173 @@
     "sent_date": "2025-09-25T23:22:16.686090",
     "stars": 27,
     "url": "https://github.com/galihru/facemind"
+  },
+  "181042062": {
+    "name": "UTM",
+    "full_name": "utmapp/UTM",
+    "sent_date": "2025-09-26T23:18:26.408606",
+    "stars": 30964,
+    "url": "https://github.com/utmapp/UTM"
+  },
+  "74505259": {
+    "name": "shap",
+    "full_name": "shap/shap",
+    "sent_date": "2025-09-26T23:18:26.409217",
+    "stars": 24462,
+    "url": "https://github.com/shap/shap"
+  },
+  "764723738": {
+    "name": "skyvern",
+    "full_name": "Skyvern-AI/skyvern",
+    "sent_date": "2025-09-26T23:18:26.409788",
+    "stars": 14475,
+    "url": "https://github.com/Skyvern-AI/skyvern"
+  },
+  "663604762": {
+    "name": "sycamore",
+    "full_name": "aryn-ai/sycamore",
+    "sent_date": "2025-09-26T23:18:26.410267",
+    "stars": 561,
+    "url": "https://github.com/aryn-ai/sycamore"
+  },
+  "155662306": {
+    "name": "homemade-machine-learning",
+    "full_name": "trekhleb/homemade-machine-learning",
+    "sent_date": "2025-09-26T23:19:11.872271",
+    "stars": 23713,
+    "url": "https://github.com/trekhleb/homemade-machine-learning"
+  },
+  "65711522": {
+    "name": "Paddle",
+    "full_name": "PaddlePaddle/Paddle",
+    "sent_date": "2025-09-26T23:19:11.872945",
+    "stars": 23248,
+    "url": "https://github.com/PaddlePaddle/Paddle"
+  },
+  "234634164": {
+    "name": "deep-learning-containers",
+    "full_name": "aws/deep-learning-containers",
+    "sent_date": "2025-09-26T23:19:11.873749",
+    "stars": 1105,
+    "url": "https://github.com/aws/deep-learning-containers"
+  },
+  "205044193": {
+    "name": "rpp",
+    "full_name": "ROCm/rpp",
+    "sent_date": "2025-09-26T23:19:11.874432",
+    "stars": 65,
+    "url": "https://github.com/ROCm/rpp"
+  },
+  "317029148": {
+    "name": "best-of-ml-python",
+    "full_name": "lukasmasuch/best-of-ml-python",
+    "sent_date": "2025-09-26T23:19:56.144333",
+    "stars": 22046,
+    "url": "https://github.com/lukasmasuch/best-of-ml-python"
+  },
+  "63477515": {
+    "name": "C",
+    "full_name": "TheAlgorithms/C",
+    "sent_date": "2025-09-26T23:19:56.145043",
+    "stars": 20923,
+    "url": "https://github.com/TheAlgorithms/C"
+  },
+  "681793984": {
+    "name": "MASPY",
+    "full_name": "laca-is/MASPY",
+    "sent_date": "2025-09-26T23:19:56.145676",
+    "stars": 13,
+    "url": "https://github.com/laca-is/MASPY"
+  },
+  "961499507": {
+    "name": "marl-ppo-suite",
+    "full_name": "xujiuqing2023/marl-ppo-suite",
+    "sent_date": "2025-09-26T23:19:56.146285",
+    "stars": 9,
+    "url": "https://github.com/xujiuqing2023/marl-ppo-suite"
+  },
+  "70908208": {
+    "name": "rasa",
+    "full_name": "RasaHQ/rasa",
+    "sent_date": "2025-09-26T23:20:40.577303",
+    "stars": 20707,
+    "url": "https://github.com/RasaHQ/rasa"
+  },
+  "527591471": {
+    "name": "stable-diffusion-webui",
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "sent_date": "2025-09-26T23:20:40.578010",
+    "stars": 156906,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  "1003931693": {
+    "name": "financial-chat-Finance-NLP-Chatbots",
+    "full_name": "Floxym/financial-chat-Finance-NLP-Chatbots",
+    "sent_date": "2025-09-26T23:20:40.578763",
+    "stars": 3,
+    "url": "https://github.com/Floxym/financial-chat-Finance-NLP-Chatbots"
+  },
+  "964525699": {
+    "name": "Trade_Predictor_Project",
+    "full_name": "RainyEarth/Trade_Predictor_Project",
+    "sent_date": "2025-09-26T23:20:40.579334",
+    "stars": 4,
+    "url": "https://github.com/RainyEarth/Trade_Predictor_Project"
+  },
+  "51117837": {
+    "name": "models",
+    "full_name": "tensorflow/models",
+    "sent_date": "2025-09-26T23:21:25.470060",
+    "stars": 77644,
+    "url": "https://github.com/tensorflow/models"
+  },
+  "669879380": {
+    "name": "LLMs-from-scratch",
+    "full_name": "rasbt/LLMs-from-scratch",
+    "sent_date": "2025-09-26T23:21:25.470622",
+    "stars": 72914,
+    "url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  "727417903": {
+    "name": "nrtk",
+    "full_name": "Kitware/nrtk",
+    "sent_date": "2025-09-26T23:21:25.471280",
+    "stars": 11,
+    "url": "https://github.com/Kitware/nrtk"
+  },
+  "910866834": {
+    "name": "Invest",
+    "full_name": "Lucylypt/Invest",
+    "sent_date": "2025-09-26T23:21:25.472023",
+    "stars": 6,
+    "url": "https://github.com/Lucylypt/Invest"
+  },
+  "33015583": {
+    "name": "keras",
+    "full_name": "keras-team/keras",
+    "sent_date": "2025-09-26T23:22:09.929455",
+    "stars": 63429,
+    "url": "https://github.com/keras-team/keras"
+  },
+  "290091948": {
+    "name": "annotated_deep_learning_paper_implementations",
+    "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+    "sent_date": "2025-09-26T23:22:09.930233",
+    "stars": 63331,
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations"
+  },
+  "966597709": {
+    "name": "Sensor-Data-Analytics",
+    "full_name": "Ayan007JBond/Sensor-Data-Analytics",
+    "sent_date": "2025-09-26T23:22:09.930968",
+    "stars": 1,
+    "url": "https://github.com/Ayan007JBond/Sensor-Data-Analytics"
+  },
+  "1064877339": {
+    "name": "My_Projects",
+    "full_name": "christina552/My_Projects",
+    "sent_date": "2025-09-26T23:22:09.931621",
+    "stars": 0,
+    "url": "https://github.com/christina552/My_Projects"
   }
 }
