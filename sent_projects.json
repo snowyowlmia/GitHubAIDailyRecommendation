@@ -726,5 +726,173 @@
     "sent_date": "2025-09-28T23:22:16.765117",
     "stars": 0,
     "url": "https://github.com/nextgencodersxyz/DiffuKnee"
+  },
+  "577116112": {
+    "name": "awesome-chatgpt-prompts-zh",
+    "full_name": "PlexPt/awesome-chatgpt-prompts-zh",
+    "sent_date": "2025-09-29T23:18:45.343520",
+    "stars": 56342,
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  },
+  "634224458": {
+    "name": "gpt-engineer",
+    "full_name": "AntonOsika/gpt-engineer",
+    "sent_date": "2025-09-29T23:18:45.344428",
+    "stars": 54903,
+    "url": "https://github.com/AntonOsika/gpt-engineer"
+  },
+  "851997597": {
+    "name": "LiteRT",
+    "full_name": "google-ai-edge/LiteRT",
+    "sent_date": "2025-09-29T23:18:45.345717",
+    "stars": 834,
+    "url": "https://github.com/google-ai-edge/LiteRT"
+  },
+  "975745458": {
+    "name": "tritonparse",
+    "full_name": "meta-pytorch/tritonparse",
+    "sent_date": "2025-09-29T23:18:45.346719",
+    "stars": 151,
+    "url": "https://github.com/meta-pytorch/tritonparse"
+  },
+  "575340621": {
+    "name": "ChatGPT",
+    "full_name": "lencx/ChatGPT",
+    "sent_date": "2025-09-29T23:19:29.680956",
+    "stars": 54148,
+    "url": "https://github.com/lencx/ChatGPT"
+  },
+  "743230067": {
+    "name": "GPT-SoVITS",
+    "full_name": "RVC-Boss/GPT-SoVITS",
+    "sent_date": "2025-09-29T23:19:29.682100",
+    "stars": 51224,
+    "url": "https://github.com/RVC-Boss/GPT-SoVITS"
+  },
+  "355032495": {
+    "name": "ml-commons",
+    "full_name": "opensearch-project/ml-commons",
+    "sent_date": "2025-09-29T23:19:29.683280",
+    "stars": 129,
+    "url": "https://github.com/opensearch-project/ml-commons"
+  },
+  "353143803": {
+    "name": "test-infra",
+    "full_name": "pytorch/test-infra",
+    "sent_date": "2025-09-29T23:19:29.684310",
+    "stars": 101,
+    "url": "https://github.com/pytorch/test-infra"
+  },
+  "725205304": {
+    "name": "unsloth",
+    "full_name": "unslothai/unsloth",
+    "sent_date": "2025-09-29T23:20:14.923555",
+    "stars": 46352,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  "582822129": {
+    "name": "nanoGPT",
+    "full_name": "karpathy/nanoGPT",
+    "sent_date": "2025-09-29T23:20:14.924514",
+    "stars": 44759,
+    "url": "https://github.com/karpathy/nanoGPT"
+  },
+  "658989088": {
+    "name": "flyingthings",
+    "full_name": "redhat-na-ssa/flyingthings",
+    "sent_date": "2025-09-29T23:20:14.925694",
+    "stars": 26,
+    "url": "https://github.com/redhat-na-ssa/flyingthings"
+  },
+  "1057214831": {
+    "name": "Analise-Preditiva-Enem-2023",
+    "full_name": "Felintox/Analise-Preditiva-Enem-2023",
+    "sent_date": "2025-09-29T23:20:14.926941",
+    "stars": 0,
+    "url": "https://github.com/Felintox/Analise-Preditiva-Enem-2023"
+  },
+  "541269386": {
+    "name": "whisper.cpp",
+    "full_name": "ggml-org/whisper.cpp",
+    "sent_date": "2025-09-29T23:20:59.687708",
+    "stars": 43534,
+    "url": "https://github.com/ggml-org/whisper.cpp"
+  },
+  "344190478": {
+    "name": "AI-For-Beginners",
+    "full_name": "microsoft/AI-For-Beginners",
+    "sent_date": "2025-09-29T23:20:59.688739",
+    "stars": 42731,
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  "1038831569": {
+    "name": "AgentK-MCP",
+    "full_name": "viniolimpio3/AgentK-MCP",
+    "sent_date": "2025-09-29T23:20:59.690185",
+    "stars": 1,
+    "url": "https://github.com/viniolimpio3/AgentK-MCP"
+  },
+  "1065486153": {
+    "name": "data-portfolio",
+    "full_name": "Arbuz13/data-portfolio",
+    "sent_date": "2025-09-29T23:20:59.691773",
+    "stars": 0,
+    "url": "https://github.com/Arbuz13/data-portfolio"
+  },
+  "5108051": {
+    "name": "opencv",
+    "full_name": "opencv/opencv",
+    "sent_date": "2025-09-29T23:21:44.538184",
+    "stars": 84314,
+    "url": "https://github.com/opencv/opencv"
+  },
+  "89247811": {
+    "name": "openpose",
+    "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+    "sent_date": "2025-09-29T23:21:44.539203",
+    "stars": 33188,
+    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+  },
+  "1064955898": {
+    "name": "D2R-AI-Item-Tracker",
+    "full_name": "mouhinhoo/D2R-AI-Item-Tracker",
+    "sent_date": "2025-09-29T23:21:44.541157",
+    "stars": 0,
+    "url": "https://github.com/mouhinhoo/D2R-AI-Item-Tracker"
+  },
+  "1002561899": {
+    "name": "ai-recruitment-assistant",
+    "full_name": "ValentinOliveira/ai-recruitment-assistant",
+    "sent_date": "2025-09-29T23:21:44.542322",
+    "stars": 0,
+    "url": "https://github.com/ValentinOliveira/ai-recruitment-assistant"
+  },
+  "145670234": {
+    "name": "mmdetection",
+    "full_name": "open-mmlab/mmdetection",
+    "sent_date": "2025-09-29T23:22:29.194267",
+    "stars": 31737,
+    "url": "https://github.com/open-mmlab/mmdetection"
+  },
+  "192640529": {
+    "name": "label-studio",
+    "full_name": "HumanSignal/label-studio",
+    "sent_date": "2025-09-29T23:22:29.195321",
+    "stars": 24903,
+    "url": "https://github.com/HumanSignal/label-studio"
+  },
+  "1064993554": {
+    "name": "Build-AI-Now",
+    "full_name": "fireure/Build-AI-Now",
+    "sent_date": "2025-09-29T23:22:29.196701",
+    "stars": 0,
+    "url": "https://github.com/fireure/Build-AI-Now"
+  },
+  "1064962500": {
+    "name": "ai-faq-app",
+    "full_name": "ajdin123kk/ai-faq-app",
+    "sent_date": "2025-09-29T23:22:29.197836",
+    "stars": 0,
+    "url": "https://github.com/ajdin123kk/ai-faq-app"
   }
 }
