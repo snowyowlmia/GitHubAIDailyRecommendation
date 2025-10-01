@@ -1062,5 +1062,124 @@
     "sent_date": "2025-09-30T23:22:16.099544",
     "stars": 0,
     "url": "https://github.com/Nandha1504/Calories-Burnt-Prediction"
+  },
+  "993475914": {
+    "name": "container",
+    "full_name": "apple/container",
+    "sent_date": "2025-10-01T23:18:20.338522",
+    "stars": 20727,
+    "url": "https://github.com/apple/container"
+  },
+  "145693916": {
+    "name": "kornia",
+    "full_name": "kornia/kornia",
+    "sent_date": "2025-10-01T23:18:20.339994",
+    "stars": 10781,
+    "url": "https://github.com/kornia/kornia"
+  },
+  "463628495": {
+    "name": "executorch",
+    "full_name": "pytorch/executorch",
+    "sent_date": "2025-10-01T23:18:20.341315",
+    "stars": 3276,
+    "url": "https://github.com/pytorch/executorch"
+  },
+  "1065449509": {
+    "name": "billiards-trainer",
+    "full_name": "jchadwick/billiards-trainer",
+    "sent_date": "2025-10-01T23:18:20.342480",
+    "stars": 3,
+    "url": "https://github.com/jchadwick/billiards-trainer"
+  },
+  "386811486": {
+    "name": "YOLOX",
+    "full_name": "Megvii-BaseDetection/YOLOX",
+    "sent_date": "2025-10-01T23:19:05.772993",
+    "stars": 10101,
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX"
+  },
+  "12756992": {
+    "name": "opencv_contrib",
+    "full_name": "opencv/opencv_contrib",
+    "sent_date": "2025-10-01T23:19:05.774520",
+    "stars": 9854,
+    "url": "https://github.com/opencv/opencv_contrib"
+  },
+  "572236174": {
+    "name": "HolisticTraceAnalysis",
+    "full_name": "facebookresearch/HolisticTraceAnalysis",
+    "sent_date": "2025-10-01T23:19:05.775926",
+    "stars": 415,
+    "url": "https://github.com/facebookresearch/HolisticTraceAnalysis"
+  },
+  "968655183": {
+    "name": "drone-tools",
+    "full_name": "NGBen1/drone-tools",
+    "sent_date": "2025-10-01T23:19:05.777302",
+    "stars": 14,
+    "url": "https://github.com/NGBen1/drone-tools"
+  },
+  "991431142": {
+    "name": "memvid",
+    "full_name": "Olow304/memvid",
+    "sent_date": "2025-10-01T23:19:53.383722",
+    "stars": 9804,
+    "url": "https://github.com/Olow304/memvid"
+  },
+  "1065655554": {
+    "name": "classical-machine-learning",
+    "full_name": "McKlay/classical-machine-learning",
+    "sent_date": "2025-10-01T23:19:53.385360",
+    "stars": 1,
+    "url": "https://github.com/McKlay/classical-machine-learning"
+  },
+  "847341350": {
+    "name": "ML",
+    "full_name": "YangGuiBee/ML",
+    "sent_date": "2025-10-01T23:19:53.386826",
+    "stars": 4,
+    "url": "https://github.com/YangGuiBee/ML"
+  },
+  "972355250": {
+    "name": "Electric_Vehicle_Sales_Predictor",
+    "full_name": "brokenjail210/Electric_Vehicle_Sales_Predictor",
+    "sent_date": "2025-10-01T23:20:38.867548",
+    "stars": 3,
+    "url": "https://github.com/brokenjail210/Electric_Vehicle_Sales_Predictor"
+  },
+  "972173064": {
+    "name": "YOLOv8-Vehicle-Damage-Detector",
+    "full_name": "NabilNawa/YOLOv8-Vehicle-Damage-Detector",
+    "sent_date": "2025-10-01T23:20:38.869169",
+    "stars": 2,
+    "url": "https://github.com/NabilNawa/YOLOv8-Vehicle-Damage-Detector"
+  },
+  "230706417": {
+    "name": "Stock.Indicators",
+    "full_name": "DaveSkender/Stock.Indicators",
+    "sent_date": "2025-10-01T23:21:25.771103",
+    "stars": 1129,
+    "url": "https://github.com/DaveSkender/Stock.Indicators"
+  },
+  "1068140510": {
+    "name": "Twitter-Sentiment-Analysis",
+    "full_name": "Hamdaoui-Ali/Twitter-Sentiment-Analysis",
+    "sent_date": "2025-10-01T23:21:25.772706",
+    "stars": 0,
+    "url": "https://github.com/Hamdaoui-Ali/Twitter-Sentiment-Analysis"
+  },
+  "972961572": {
+    "name": "Neura-AI",
+    "full_name": "joshivanhilario/Neura-AI",
+    "sent_date": "2025-10-01T23:22:11.568198",
+    "stars": 4,
+    "url": "https://github.com/joshivanhilario/Neura-AI"
+  },
+  "972470838": {
+    "name": "Medical_Chatbot-Llama-2",
+    "full_name": "Hungry01382/Medical_Chatbot-Llama-2",
+    "sent_date": "2025-10-01T23:22:11.569531",
+    "stars": 2,
+    "url": "https://github.com/Hungry01382/Medical_Chatbot-Llama-2"
   }
 }
