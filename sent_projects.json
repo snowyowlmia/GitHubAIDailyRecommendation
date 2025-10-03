@@ -1265,5 +1265,89 @@
     "sent_date": "2025-10-02T23:21:45.394374",
     "stars": 0,
     "url": "https://github.com/MD-MAROOF/EurekaGPT"
+  },
+  "730932260": {
+    "name": "torchtitan",
+    "full_name": "pytorch/torchtitan",
+    "sent_date": "2025-10-03T23:17:41.483454",
+    "stars": 4495,
+    "url": "https://github.com/pytorch/torchtitan"
+  },
+  "669331976": {
+    "name": "flashinfer",
+    "full_name": "flashinfer-ai/flashinfer",
+    "sent_date": "2025-10-03T23:17:41.485052",
+    "stars": 3841,
+    "url": "https://github.com/flashinfer-ai/flashinfer"
+  },
+  "130725814": {
+    "name": "apex",
+    "full_name": "NVIDIA/apex",
+    "sent_date": "2025-10-03T23:18:26.126971",
+    "stars": 8812,
+    "url": "https://github.com/NVIDIA/apex"
+  },
+  "770633006": {
+    "name": "code-interpreter",
+    "full_name": "e2b-dev/code-interpreter",
+    "sent_date": "2025-10-03T23:18:26.128596",
+    "stars": 2005,
+    "url": "https://github.com/e2b-dev/code-interpreter"
+  },
+  "832716353": {
+    "name": "stable-pretraining",
+    "full_name": "rbalestr-lab/stable-pretraining",
+    "sent_date": "2025-10-03T23:19:10.731769",
+    "stars": 68,
+    "url": "https://github.com/rbalestr-lab/stable-pretraining"
+  },
+  "641002037": {
+    "name": "muna-py",
+    "full_name": "muna-ai/muna-py",
+    "sent_date": "2025-10-03T23:19:10.733247",
+    "stars": 67,
+    "url": "https://github.com/muna-ai/muna-py"
+  },
+  "982376659": {
+    "name": "s3dlio",
+    "full_name": "russfellows/s3dlio",
+    "sent_date": "2025-10-03T23:19:54.642636",
+    "stars": 6,
+    "url": "https://github.com/russfellows/s3dlio"
+  },
+  "956170635": {
+    "name": "Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python",
+    "full_name": "sandipan/Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python",
+    "sent_date": "2025-10-03T23:19:54.644101",
+    "stars": 2,
+    "url": "https://github.com/sandipan/Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python"
+  },
+  "991013242": {
+    "name": "KiruthikaRamadoss_Portfolio.github.io",
+    "full_name": "KiruthikaRamadoss/KiruthikaRamadoss_Portfolio.github.io",
+    "sent_date": "2025-10-03T23:20:38.791259",
+    "stars": 0,
+    "url": "https://github.com/KiruthikaRamadoss/KiruthikaRamadoss_Portfolio.github.io"
+  },
+  "1062924266": {
+    "name": "telco-churn-mlops-pipeline",
+    "full_name": "deaneeth/telco-churn-mlops-pipeline",
+    "sent_date": "2025-10-03T23:20:38.792965",
+    "stars": 0,
+    "url": "https://github.com/deaneeth/telco-churn-mlops-pipeline"
+  },
+  "1068227684": {
+    "name": "Employee-Churn",
+    "full_name": "omunozsanchezdeloitte/Employee-Churn",
+    "sent_date": "2025-10-03T23:21:23.083376",
+    "stars": 0,
+    "url": "https://github.com/omunozsanchezdeloitte/Employee-Churn"
+  },
+  "1069422285": {
+    "name": "Quantitative-Trading-Strategy-Simulation-Platform",
+    "full_name": "Zubair121Md/Quantitative-Trading-Strategy-Simulation-Platform",
+    "sent_date": "2025-10-03T23:21:23.084939",
+    "stars": 0,
+    "url": "https://github.com/Zubair121Md/Quantitative-Trading-Strategy-Simulation-Platform"
   }
 }
