@@ -1349,5 +1349,89 @@
     "sent_date": "2025-10-03T23:21:23.084939",
     "stars": 0,
     "url": "https://github.com/Zubair121Md/Quantitative-Trading-Strategy-Simulation-Platform"
+  },
+  "1016323751": {
+    "name": "langextract",
+    "full_name": "google/langextract",
+    "sent_date": "2025-10-04T23:18:21.260173",
+    "stars": 16085,
+    "url": "https://github.com/google/langextract"
+  },
+  "942696497": {
+    "name": "reasoning-from-scratch",
+    "full_name": "rasbt/reasoning-from-scratch",
+    "sent_date": "2025-10-04T23:18:21.261726",
+    "stars": 1568,
+    "url": "https://github.com/rasbt/reasoning-from-scratch"
+  },
+  "975171512": {
+    "name": "monarch",
+    "full_name": "meta-pytorch/monarch",
+    "sent_date": "2025-10-04T23:19:05.409861",
+    "stars": 428,
+    "url": "https://github.com/meta-pytorch/monarch"
+  },
+  "987976055": {
+    "name": "Automodel",
+    "full_name": "NVIDIA-NeMo/Automodel",
+    "sent_date": "2025-10-04T23:19:05.411425",
+    "stars": 84,
+    "url": "https://github.com/NVIDIA-NeMo/Automodel"
+  },
+  "949349630": {
+    "name": "VulnWatchdog",
+    "full_name": "arschlochnop/VulnWatchdog",
+    "sent_date": "2025-10-04T23:19:50.113088",
+    "stars": 51,
+    "url": "https://github.com/arschlochnop/VulnWatchdog"
+  },
+  "411827701": {
+    "name": "OpeNTF",
+    "full_name": "fani-lab/OpeNTF",
+    "sent_date": "2025-10-04T23:19:50.114703",
+    "stars": 27,
+    "url": "https://github.com/fani-lab/OpeNTF"
+  },
+  "884027330": {
+    "name": "TorchSystem",
+    "full_name": "entropy-flux/TorchSystem",
+    "sent_date": "2025-10-04T23:20:34.361839",
+    "stars": 9,
+    "url": "https://github.com/entropy-flux/TorchSystem"
+  },
+  "1001937222": {
+    "name": "Stock-LSTM-Forecasting",
+    "full_name": "Zaidzr/Stock-LSTM-Forecasting",
+    "sent_date": "2025-10-04T23:20:34.363454",
+    "stars": 1,
+    "url": "https://github.com/Zaidzr/Stock-LSTM-Forecasting"
+  },
+  "885886161": {
+    "name": "SeedGn",
+    "full_name": "THTHLOLOL/SeedGn",
+    "sent_date": "2025-10-04T23:21:18.595844",
+    "stars": 2,
+    "url": "https://github.com/THTHLOLOL/SeedGn"
+  },
+  "1069932820": {
+    "name": "Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional",
+    "full_name": "juliyonose7/Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional",
+    "sent_date": "2025-10-04T23:21:18.597921",
+    "stars": 0,
+    "url": "https://github.com/juliyonose7/Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional"
+  },
+  "915451275": {
+    "name": "AI-Data-Scientist-scores-top-1-percent-on-Kaggle",
+    "full_name": "BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle",
+    "sent_date": "2025-10-04T23:22:03.132015",
+    "stars": 1,
+    "url": "https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle"
+  },
+  "1069898719": {
+    "name": "pneumonia-detection-cnn-pytorch",
+    "full_name": "Demerdashh/pneumonia-detection-cnn-pytorch",
+    "sent_date": "2025-10-04T23:22:03.133647",
+    "stars": 0,
+    "url": "https://github.com/Demerdashh/pneumonia-detection-cnn-pytorch"
   }
 }
