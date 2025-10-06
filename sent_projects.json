@@ -1517,5 +1517,89 @@
     "sent_date": "2025-10-05T23:20:43.799599",
     "stars": 1,
     "url": "https://github.com/KorayGokbulut/real-world-ai-projects"
+  },
+  "208145128": {
+    "name": "iree",
+    "full_name": "iree-org/iree",
+    "sent_date": "2025-10-06T23:18:30.738860",
+    "stars": 3371,
+    "url": "https://github.com/iree-org/iree"
+  },
+  "224148738": {
+    "name": "torchio",
+    "full_name": "TorchIO-project/torchio",
+    "sent_date": "2025-10-06T23:18:30.740684",
+    "stars": 2277,
+    "url": "https://github.com/TorchIO-project/torchio"
+  },
+  "371198718": {
+    "name": "vertex-ai-samples",
+    "full_name": "GoogleCloudPlatform/vertex-ai-samples",
+    "sent_date": "2025-10-06T23:19:15.281284",
+    "stars": 505,
+    "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples"
+  },
+  "705428944": {
+    "name": "bionemo-framework",
+    "full_name": "NVIDIA/bionemo-framework",
+    "sent_date": "2025-10-06T23:19:15.283156",
+    "stars": 530,
+    "url": "https://github.com/NVIDIA/bionemo-framework"
+  },
+  "597739444": {
+    "name": "aikon",
+    "full_name": "Aikon-platform/aikon",
+    "sent_date": "2025-10-06T23:19:59.995003",
+    "stars": 23,
+    "url": "https://github.com/Aikon-platform/aikon"
+  },
+  "1038143052": {
+    "name": "machine-learning-course-2025",
+    "full_name": "MohElshamy1994/machine-learning-course-2025",
+    "sent_date": "2025-10-06T23:19:59.996855",
+    "stars": 12,
+    "url": "https://github.com/MohElshamy1994/machine-learning-course-2025"
+  },
+  "1013445775": {
+    "name": "claude-code-proxy",
+    "full_name": "Haidzai/claude-code-proxy",
+    "sent_date": "2025-10-06T23:20:44.417964",
+    "stars": 9,
+    "url": "https://github.com/Haidzai/claude-code-proxy"
+  },
+  "988360876": {
+    "name": "dating-agent",
+    "full_name": "corrupt0303/dating-agent",
+    "sent_date": "2025-10-06T23:20:44.419713",
+    "stars": 4,
+    "url": "https://github.com/corrupt0303/dating-agent"
+  },
+  "1013783472": {
+    "name": "AICryptoTrade-Bots",
+    "full_name": "Alisher321/AICryptoTrade-Bots",
+    "sent_date": "2025-10-06T23:21:29.593870",
+    "stars": 0,
+    "url": "https://github.com/Alisher321/AICryptoTrade-Bots"
+  },
+  "1023901444": {
+    "name": "crypto_predictor",
+    "full_name": "Subhan-Noor/crypto_predictor",
+    "sent_date": "2025-10-06T23:21:29.595792",
+    "stars": 0,
+    "url": "https://github.com/Subhan-Noor/crypto_predictor"
+  },
+  "1001246813": {
+    "name": "MLOPS-Pipeline-Dashboard",
+    "full_name": "gituser2610/MLOPS-Pipeline-Dashboard",
+    "sent_date": "2025-10-06T23:22:14.443248",
+    "stars": 0,
+    "url": "https://github.com/gituser2610/MLOPS-Pipeline-Dashboard"
+  },
+  "997756950": {
+    "name": "disaster-tweets-classification",
+    "full_name": "kade-one/disaster-tweets-classification",
+    "sent_date": "2025-10-06T23:22:14.445152",
+    "stars": 0,
+    "url": "https://github.com/kade-one/disaster-tweets-classification"
   }
 }
