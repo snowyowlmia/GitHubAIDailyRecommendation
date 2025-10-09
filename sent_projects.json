@@ -1769,5 +1769,89 @@
     "sent_date": "2025-10-08T23:22:29.781832",
     "stars": 0,
     "url": "https://github.com/okhuyag/ai-assisted-development-guide"
+  },
+  "167694194": {
+    "name": "frigate",
+    "full_name": "blakeblackshear/frigate",
+    "sent_date": "2025-10-09T23:18:48.093607",
+    "stars": 26329,
+    "url": "https://github.com/blakeblackshear/frigate"
+  },
+  "861746639": {
+    "name": "paperless-gpt",
+    "full_name": "icereed/paperless-gpt",
+    "sent_date": "2025-10-09T23:18:48.095526",
+    "stars": 1460,
+    "url": "https://github.com/icereed/paperless-gpt"
+  },
+  "385408663": {
+    "name": "torchrec",
+    "full_name": "meta-pytorch/torchrec",
+    "sent_date": "2025-10-09T23:19:32.922223",
+    "stars": 2360,
+    "url": "https://github.com/meta-pytorch/torchrec"
+  },
+  "614250126": {
+    "name": "chatgpt.js",
+    "full_name": "KudoAI/chatgpt.js",
+    "sent_date": "2025-10-09T23:19:32.924170",
+    "stars": 1982,
+    "url": "https://github.com/KudoAI/chatgpt.js"
+  },
+  "622048803": {
+    "name": "ai-web-extensions",
+    "full_name": "adamlui/ai-web-extensions",
+    "sent_date": "2025-10-09T23:20:17.508854",
+    "stars": 510,
+    "url": "https://github.com/adamlui/ai-web-extensions"
+  },
+  "989499651": {
+    "name": "AudioMuse-AI",
+    "full_name": "NeptuneHub/AudioMuse-AI",
+    "sent_date": "2025-10-09T23:20:17.510848",
+    "stars": 413,
+    "url": "https://github.com/NeptuneHub/AudioMuse-AI"
+  },
+  "1064350961": {
+    "name": "xrblocks",
+    "full_name": "google/xrblocks",
+    "sent_date": "2025-10-09T23:21:02.021240",
+    "stars": 19,
+    "url": "https://github.com/google/xrblocks"
+  },
+  "1073291598": {
+    "name": "SQL-Python-Telco-Customer",
+    "full_name": "jmuraofranci/SQL-Python-Telco-Customer",
+    "sent_date": "2025-10-09T23:21:02.023379",
+    "stars": 1,
+    "url": "https://github.com/jmuraofranci/SQL-Python-Telco-Customer"
+  },
+  "1073284998": {
+    "name": "Animal-ID-Vision-Transformer",
+    "full_name": "JessPress0/Animal-ID-Vision-Transformer",
+    "sent_date": "2025-10-09T23:21:46.767569",
+    "stars": 1,
+    "url": "https://github.com/JessPress0/Animal-ID-Vision-Transformer"
+  },
+  "1067949926": {
+    "name": "retail-ai-assistant",
+    "full_name": "kingsley-123/retail-ai-assistant",
+    "sent_date": "2025-10-09T23:21:46.769713",
+    "stars": 1,
+    "url": "https://github.com/kingsley-123/retail-ai-assistant"
+  },
+  "922090785": {
+    "name": "DocGPT",
+    "full_name": "Doanquangthe/DocGPT",
+    "sent_date": "2025-10-09T23:22:31.078913",
+    "stars": 8,
+    "url": "https://github.com/Doanquangthe/DocGPT"
+  },
+  "927359842": {
+    "name": "Heart_Attack",
+    "full_name": "Quang123-op/Heart_Attack",
+    "sent_date": "2025-10-09T23:22:31.081149",
+    "stars": 2,
+    "url": "https://github.com/Quang123-op/Heart_Attack"
   }
 }
