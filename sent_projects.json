@@ -2021,5 +2021,89 @@
     "sent_date": "2025-10-11T23:21:54.239073",
     "stars": 0,
     "url": "https://github.com/burhanbeycan/celluloseacetate-hts"
+  },
+  "246634306": {
+    "name": "TensorRT",
+    "full_name": "pytorch/TensorRT",
+    "sent_date": "2025-10-12T23:17:57.718011",
+    "stars": 2869,
+    "url": "https://github.com/pytorch/TensorRT"
+  },
+  "1055235510": {
+    "name": "Health_Gym_AI",
+    "full_name": "NicKuo-ResearchStuff/Health_Gym_AI",
+    "sent_date": "2025-10-12T23:17:57.720378",
+    "stars": 3,
+    "url": "https://github.com/NicKuo-ResearchStuff/Health_Gym_AI"
+  },
+  "604105885": {
+    "name": "DataPredict",
+    "full_name": "AqwamCreates/DataPredict",
+    "sent_date": "2025-10-12T23:18:42.289458",
+    "stars": 9,
+    "url": "https://github.com/AqwamCreates/DataPredict"
+  },
+  "1001062629": {
+    "name": "Project_4-Multiple-Disease-Prediction",
+    "full_name": "Zyzzwlh/Project_4-Multiple-Disease-Prediction",
+    "sent_date": "2025-10-12T23:18:42.291703",
+    "stars": 0,
+    "url": "https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction"
+  },
+  "1074978981": {
+    "name": "gptel-openrouter",
+    "full_name": "darcamo/gptel-openrouter",
+    "sent_date": "2025-10-12T23:19:31.855640",
+    "stars": 1,
+    "url": "https://github.com/darcamo/gptel-openrouter"
+  },
+  "588285412": {
+    "name": "caipiaoAI",
+    "full_name": "huy09380423/caipiaoAI",
+    "sent_date": "2025-10-12T23:19:31.857899",
+    "stars": 0,
+    "url": "https://github.com/huy09380423/caipiaoAI"
+  },
+  "1011601484": {
+    "name": "dl-driver",
+    "full_name": "russfellows/dl-driver",
+    "sent_date": "2025-10-12T23:20:15.817593",
+    "stars": 1,
+    "url": "https://github.com/russfellows/dl-driver"
+  },
+  "1000705270": {
+    "name": "wxkfbot",
+    "full_name": "Esteban2680/wxkfbot",
+    "sent_date": "2025-10-12T23:20:15.819896",
+    "stars": 1,
+    "url": "https://github.com/Esteban2680/wxkfbot"
+  },
+  "1000501005": {
+    "name": "fraud-detection-system",
+    "full_name": "luisgamer05/fraud-detection-system",
+    "sent_date": "2025-10-12T23:20:59.826685",
+    "stars": 0,
+    "url": "https://github.com/luisgamer05/fraud-detection-system"
+  },
+  "1071825280": {
+    "name": "forex-pattern-mining-dashboard",
+    "full_name": "Omar7amid/forex-pattern-mining-dashboard",
+    "sent_date": "2025-10-12T23:20:59.828991",
+    "stars": 0,
+    "url": "https://github.com/Omar7amid/forex-pattern-mining-dashboard"
+  },
+  "987601834": {
+    "name": "PyNet",
+    "full_name": "2-con/PyNet",
+    "sent_date": "2025-10-12T23:21:43.717257",
+    "stars": 2,
+    "url": "https://github.com/2-con/PyNet"
+  },
+  "795319078": {
+    "name": "credit-recommendation-engine",
+    "full_name": "all-in-one67890/credit-recommendation-engine",
+    "sent_date": "2025-10-12T23:21:43.719621",
+    "stars": 0,
+    "url": "https://github.com/all-in-one67890/credit-recommendation-engine"
   }
 }
