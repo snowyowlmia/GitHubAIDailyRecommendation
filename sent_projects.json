@@ -2189,5 +2189,89 @@
     "sent_date": "2025-10-14T23:22:57.613521",
     "stars": 0,
     "url": "https://github.com/reply2sunitajain/DL-Course"
+  },
+  "609539715": {
+    "name": "E2B",
+    "full_name": "e2b-dev/E2B",
+    "sent_date": "2025-10-15T23:18:33.089922",
+    "stars": 9661,
+    "url": "https://github.com/e2b-dev/E2B"
+  },
+  "511691380": {
+    "name": "lance",
+    "full_name": "lancedb/lance",
+    "sent_date": "2025-10-15T23:18:33.092258",
+    "stars": 5504,
+    "url": "https://github.com/lancedb/lance"
+  },
+  "162919890": {
+    "name": "awesome-ai-ml-dl",
+    "full_name": "neomatrix369/awesome-ai-ml-dl",
+    "sent_date": "2025-10-15T23:19:17.286620",
+    "stars": 1594,
+    "url": "https://github.com/neomatrix369/awesome-ai-ml-dl"
+  },
+  "677083126": {
+    "name": "infra",
+    "full_name": "e2b-dev/infra",
+    "sent_date": "2025-10-15T23:19:17.288999",
+    "stars": 676,
+    "url": "https://github.com/e2b-dev/infra"
+  },
+  "1077031521": {
+    "name": "financial-ml-pipeline",
+    "full_name": "jack-kong03/financial-ml-pipeline",
+    "sent_date": "2025-10-15T23:20:02.375553",
+    "stars": 0,
+    "url": "https://github.com/jack-kong03/financial-ml-pipeline"
+  },
+  "839107035": {
+    "name": "ncut_pytorch",
+    "full_name": "huzeyann/ncut_pytorch",
+    "sent_date": "2025-10-15T23:20:02.377911",
+    "stars": 21,
+    "url": "https://github.com/huzeyann/ncut_pytorch"
+  },
+  "1050541585": {
+    "name": "Supervertaler",
+    "full_name": "michaelbeijer/Supervertaler",
+    "sent_date": "2025-10-15T23:20:47.365101",
+    "stars": 2,
+    "url": "https://github.com/michaelbeijer/Supervertaler"
+  },
+  "1055196086": {
+    "name": "Neural-Network-ICU-Deterioration-Predictor",
+    "full_name": "SimonYip22/Neural-Network-ICU-Deterioration-Predictor",
+    "sent_date": "2025-10-15T23:20:47.367524",
+    "stars": 1,
+    "url": "https://github.com/SimonYip22/Neural-Network-ICU-Deterioration-Predictor"
+  },
+  "1048054187": {
+    "name": "FARM_ML_infra",
+    "full_name": "yuanMLOps/FARM_ML_infra",
+    "sent_date": "2025-10-15T23:21:32.712292",
+    "stars": 0,
+    "url": "https://github.com/yuanMLOps/FARM_ML_infra"
+  },
+  "941638849": {
+    "name": "jeffthedeveloper",
+    "full_name": "jeffthedeveloper/jeffthedeveloper",
+    "sent_date": "2025-10-15T23:21:32.714671",
+    "stars": 0,
+    "url": "https://github.com/jeffthedeveloper/jeffthedeveloper"
+  },
+  "1077156753": {
+    "name": "ASE_TECH10101",
+    "full_name": "JQUINT2003/ASE_TECH10101",
+    "sent_date": "2025-10-15T23:22:17.638170",
+    "stars": 0,
+    "url": "https://github.com/JQUINT2003/ASE_TECH10101"
+  },
+  "1070399482": {
+    "name": "telescope_cam_detection",
+    "full_name": "filthyrake/telescope_cam_detection",
+    "sent_date": "2025-10-15T23:22:17.640555",
+    "stars": 0,
+    "url": "https://github.com/filthyrake/telescope_cam_detection"
   }
 }
