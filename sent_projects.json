@@ -2273,5 +2273,89 @@
     "sent_date": "2025-10-15T23:22:17.640555",
     "stars": 0,
     "url": "https://github.com/filthyrake/telescope_cam_detection"
+  },
+  "1076937296": {
+    "name": "yolo-training-template",
+    "full_name": "mfranzon/yolo-training-template",
+    "sent_date": "2025-10-16T23:17:38.382596",
+    "stars": 3,
+    "url": "https://github.com/mfranzon/yolo-training-template"
+  },
+  "1074990308": {
+    "name": "Chess-GPT",
+    "full_name": "floatingtrees/Chess-GPT",
+    "sent_date": "2025-10-16T23:17:38.385231",
+    "stars": 2,
+    "url": "https://github.com/floatingtrees/Chess-GPT"
+  },
+  "789940696": {
+    "name": "iree-turbine",
+    "full_name": "iree-org/iree-turbine",
+    "sent_date": "2025-10-16T23:18:22.941982",
+    "stars": 98,
+    "url": "https://github.com/iree-org/iree-turbine"
+  },
+  "1064299800": {
+    "name": "ai-development-partner",
+    "full_name": "ShaerWare/ai-development-partner",
+    "sent_date": "2025-10-16T23:18:22.944599",
+    "stars": 8,
+    "url": "https://github.com/ShaerWare/ai-development-partner"
+  },
+  "973895585": {
+    "name": "Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
+    "full_name": "thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
+    "sent_date": "2025-10-16T23:19:07.708876",
+    "stars": 8,
+    "url": "https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning"
+  },
+  "1077490332": {
+    "name": "gfg-21-days-ML-DL-genai-projects",
+    "full_name": "mallikabheemu1/gfg-21-days-ML-DL-genai-projects",
+    "sent_date": "2025-10-16T23:19:07.711421",
+    "stars": 0,
+    "url": "https://github.com/mallikabheemu1/gfg-21-days-ML-DL-genai-projects"
+  },
+  "980238476": {
+    "name": "AI-Chatbot",
+    "full_name": "irfanbob26/AI-Chatbot",
+    "sent_date": "2025-10-16T23:19:52.338067",
+    "stars": 4,
+    "url": "https://github.com/irfanbob26/AI-Chatbot"
+  },
+  "980743353": {
+    "name": "KleanBot",
+    "full_name": "zead333/KleanBot",
+    "sent_date": "2025-10-16T23:19:52.340779",
+    "stars": 3,
+    "url": "https://github.com/zead333/KleanBot"
+  },
+  "980292015": {
+    "name": "AWS--MLS-C01--studypack",
+    "full_name": "kiran-saikia/AWS--MLS-C01--studypack",
+    "sent_date": "2025-10-16T23:20:36.669663",
+    "stars": 2,
+    "url": "https://github.com/kiran-saikia/AWS--MLS-C01--studypack"
+  },
+  "1077852631": {
+    "name": "TORQ-Tech-News",
+    "full_name": "pilotwaffle/TORQ-Tech-News",
+    "sent_date": "2025-10-16T23:20:36.672567",
+    "stars": 0,
+    "url": "https://github.com/pilotwaffle/TORQ-Tech-News"
+  },
+  "981392413": {
+    "name": "buildboard-agent-tracker",
+    "full_name": "Sebastixng/buildboard-agent-tracker",
+    "sent_date": "2025-10-16T23:21:21.131711",
+    "stars": 0,
+    "url": "https://github.com/Sebastixng/buildboard-agent-tracker"
+  },
+  "1074797121": {
+    "name": "Med-X-KimiK2-RAG",
+    "full_name": "DeepRatAI/Med-X-KimiK2-RAG",
+    "sent_date": "2025-10-16T23:21:21.134508",
+    "stars": 0,
+    "url": "https://github.com/DeepRatAI/Med-X-KimiK2-RAG"
   }
 }
