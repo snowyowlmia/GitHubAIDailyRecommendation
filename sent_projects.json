@@ -2441,5 +2441,89 @@
     "sent_date": "2025-10-17T23:22:16.477568",
     "stars": 0,
     "url": "https://github.com/Szeryy/Midm-2.0"
+  },
+  "1069078135": {
+    "name": "ChatGPT",
+    "full_name": "Ravindu-Kannangara/ChatGPT",
+    "sent_date": "2025-10-18T23:18:18.243811",
+    "stars": 4,
+    "url": "https://github.com/Ravindu-Kannangara/ChatGPT"
+  },
+  "1069538073": {
+    "name": "neural-voice-assistant",
+    "full_name": "khangdoan514/neural-voice-assistant",
+    "sent_date": "2025-10-18T23:18:18.246547",
+    "stars": 2,
+    "url": "https://github.com/khangdoan514/neural-voice-assistant"
+  },
+  "199070569": {
+    "name": "ml4physicalsciences.github.io",
+    "full_name": "ml4physicalsciences/ml4physicalsciences.github.io",
+    "sent_date": "2025-10-18T23:19:02.305762",
+    "stars": 20,
+    "url": "https://github.com/ml4physicalsciences/ml4physicalsciences.github.io"
+  },
+  "1067641454": {
+    "name": "UMAP",
+    "full_name": "Nawrass13/UMAP",
+    "sent_date": "2025-10-18T23:19:02.308449",
+    "stars": 1,
+    "url": "https://github.com/Nawrass13/UMAP"
+  },
+  "1069425824": {
+    "name": "Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI",
+    "full_name": "osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI",
+    "sent_date": "2025-10-18T23:19:46.909517",
+    "stars": 0,
+    "url": "https://github.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI"
+  },
+  "1069375962": {
+    "name": "Music-Genre-Classification-using-Spectrogram-images",
+    "full_name": "Ashu708907/Music-Genre-Classification-using-Spectrogram-images",
+    "sent_date": "2025-10-18T23:19:46.912377",
+    "stars": 0,
+    "url": "https://github.com/Ashu708907/Music-Genre-Classification-using-Spectrogram-images"
+  },
+  "1069888014": {
+    "name": "MailMindAI",
+    "full_name": "eddy870/MailMindAI",
+    "sent_date": "2025-10-18T23:20:32.720792",
+    "stars": 1,
+    "url": "https://github.com/eddy870/MailMindAI"
+  },
+  "903369122": {
+    "name": "Leap-Smart-Control-System",
+    "full_name": "Leap-Smart-Solutions/Leap-Smart-Control-System",
+    "sent_date": "2025-10-18T23:20:32.723608",
+    "stars": 3,
+    "url": "https://github.com/Leap-Smart-Solutions/Leap-Smart-Control-System"
+  },
+  "454479855": {
+    "name": "rl",
+    "full_name": "pytorch/rl",
+    "sent_date": "2025-10-18T23:21:16.925903",
+    "stars": 3110,
+    "url": "https://github.com/pytorch/rl"
+  },
+  "1069356481": {
+    "name": "Customer-Churn-Prediction",
+    "full_name": "JavedFazlulahF/Customer-Churn-Prediction",
+    "sent_date": "2025-10-18T23:21:16.928855",
+    "stars": 0,
+    "url": "https://github.com/JavedFazlulahF/Customer-Churn-Prediction"
+  },
+  "932481297": {
+    "name": "LearnDataFrontEnds.jl",
+    "full_name": "JuliaAI/LearnDataFrontEnds.jl",
+    "sent_date": "2025-10-18T23:22:01.440706",
+    "stars": 1,
+    "url": "https://github.com/JuliaAI/LearnDataFrontEnds.jl"
+  },
+  "67210865": {
+    "name": "intelligent-homevaluator-madrid",
+    "full_name": "qaracuck/intelligent-homevaluator-madrid",
+    "sent_date": "2025-10-18T23:22:01.443842",
+    "stars": 0,
+    "url": "https://github.com/qaracuck/intelligent-homevaluator-madrid"
   }
 }
