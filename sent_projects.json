@@ -2525,5 +2525,89 @@
     "sent_date": "2025-10-18T23:22:01.443842",
     "stars": 0,
     "url": "https://github.com/qaracuck/intelligent-homevaluator-madrid"
+  },
+  "298017988": {
+    "name": "python-aiplatform",
+    "full_name": "googleapis/python-aiplatform",
+    "sent_date": "2025-10-20T23:19:04.108684",
+    "stars": 806,
+    "url": "https://github.com/googleapis/python-aiplatform"
+  },
+  "1049719420": {
+    "name": "torchstat2",
+    "full_name": "Chenorange0/torchstat2",
+    "sent_date": "2025-10-20T23:19:04.111502",
+    "stars": 3,
+    "url": "https://github.com/Chenorange0/torchstat2"
+  },
+  "212206196": {
+    "name": "stLearn",
+    "full_name": "BiomedicalMachineLearning/stLearn",
+    "sent_date": "2025-10-20T23:19:48.915304",
+    "stars": 230,
+    "url": "https://github.com/BiomedicalMachineLearning/stLearn"
+  },
+  "113122768": {
+    "name": "ml",
+    "full_name": "rocker-org/ml",
+    "sent_date": "2025-10-20T23:19:48.918070",
+    "stars": 57,
+    "url": "https://github.com/rocker-org/ml"
+  },
+  "829640443": {
+    "name": "tensorzero",
+    "full_name": "tensorzero/tensorzero",
+    "sent_date": "2025-10-20T23:20:33.577134",
+    "stars": 10431,
+    "url": "https://github.com/tensorzero/tensorzero"
+  },
+  "1080132461": {
+    "name": "DataWithPython",
+    "full_name": "lkhellah/DataWithPython",
+    "sent_date": "2025-10-20T23:20:33.580006",
+    "stars": 0,
+    "url": "https://github.com/lkhellah/DataWithPython"
+  },
+  "1052764379": {
+    "name": "IntelliJ-AI-Prompt-Generator",
+    "full_name": "thecoolman87/IntelliJ-AI-Prompt-Generator",
+    "sent_date": "2025-10-20T23:21:18.223044",
+    "stars": 1,
+    "url": "https://github.com/thecoolman87/IntelliJ-AI-Prompt-Generator"
+  },
+  "966526651": {
+    "name": "computer-vision-parking-lot",
+    "full_name": "Ahmet904-beep/computer-vision-parking-lot",
+    "sent_date": "2025-10-20T23:21:18.225940",
+    "stars": 1,
+    "url": "https://github.com/Ahmet904-beep/computer-vision-parking-lot"
+  },
+  "644136692": {
+    "name": "slamAI-istanbulCanyon",
+    "full_name": "kurajulii/slamAI-istanbulCanyon",
+    "sent_date": "2025-10-20T23:22:02.841804",
+    "stars": 1,
+    "url": "https://github.com/kurajulii/slamAI-istanbulCanyon"
+  },
+  "1062117713": {
+    "name": "Daniel-Demoz-Data-Science-AI-Analytics-Portfolio",
+    "full_name": "DanielDemoz/Daniel-Demoz-Data-Science-AI-Analytics-Portfolio",
+    "sent_date": "2025-10-20T23:22:02.844685",
+    "stars": 0,
+    "url": "https://github.com/DanielDemoz/Daniel-Demoz-Data-Science-AI-Analytics-Portfolio"
+  },
+  "1080103194": {
+    "name": "Employee-Attrition-Predictive-Analysis",
+    "full_name": "GLADYSONALO/Employee-Attrition-Predictive-Analysis",
+    "sent_date": "2025-10-20T23:22:47.502286",
+    "stars": 0,
+    "url": "https://github.com/GLADYSONALO/Employee-Attrition-Predictive-Analysis"
+  },
+  "498802143": {
+    "name": "AI-Flow",
+    "full_name": "sagarsharma459/AI-Flow",
+    "sent_date": "2025-10-20T23:22:47.505106",
+    "stars": 0,
+    "url": "https://github.com/sagarsharma459/AI-Flow"
   }
 }
