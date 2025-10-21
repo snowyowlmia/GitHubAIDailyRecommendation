@@ -2609,5 +2609,75 @@
     "sent_date": "2025-10-20T23:22:47.505106",
     "stars": 0,
     "url": "https://github.com/sagarsharma459/AI-Flow"
+  },
+  "305144746": {
+    "name": "tinygrad",
+    "full_name": "tinygrad/tinygrad",
+    "sent_date": "2025-10-21T23:20:04.258350",
+    "stars": 30358,
+    "url": "https://github.com/tinygrad/tinygrad"
+  },
+  "1080065885": {
+    "name": "torchcomms",
+    "full_name": "meta-pytorch/torchcomms",
+    "sent_date": "2025-10-21T23:20:04.261223",
+    "stars": 15,
+    "url": "https://github.com/meta-pytorch/torchcomms"
+  },
+  "539057023": {
+    "name": "TransformerEngine",
+    "full_name": "NVIDIA/TransformerEngine",
+    "sent_date": "2025-10-21T23:20:48.808879",
+    "stars": 2831,
+    "url": "https://github.com/NVIDIA/TransformerEngine"
+  },
+  "172835975": {
+    "name": "Enzyme",
+    "full_name": "EnzymeAD/Enzyme",
+    "sent_date": "2025-10-21T23:20:48.811893",
+    "stars": 1477,
+    "url": "https://github.com/EnzymeAD/Enzyme"
+  },
+  "490725794": {
+    "name": "kubetorch",
+    "full_name": "run-house/kubetorch",
+    "sent_date": "2025-10-21T23:21:33.532697",
+    "stars": 1048,
+    "url": "https://github.com/run-house/kubetorch"
+  },
+  "684718744": {
+    "name": "langfun",
+    "full_name": "google/langfun",
+    "sent_date": "2025-10-21T23:21:33.535674",
+    "stars": 863,
+    "url": "https://github.com/google/langfun"
+  },
+  "992990398": {
+    "name": "CallMeMaybe_The_Case_of_Inefficient_Operators",
+    "full_name": "AdrianGalvanZamora/CallMeMaybe_The_Case_of_Inefficient_Operators",
+    "sent_date": "2025-10-21T23:22:17.902131",
+    "stars": 0,
+    "url": "https://github.com/AdrianGalvanZamora/CallMeMaybe_The_Case_of_Inefficient_Operators"
+  },
+  "1069415428": {
+    "name": "jhustatprogramming2025",
+    "full_name": "stephaniehicks/jhustatprogramming2025",
+    "sent_date": "2025-10-21T23:22:17.905162",
+    "stars": 0,
+    "url": "https://github.com/stephaniehicks/jhustatprogramming2025"
+  },
+  "1080765816": {
+    "name": "Creative-Text-Generator",
+    "full_name": "mackk7/Creative-Text-Generator",
+    "sent_date": "2025-10-21T23:23:02.331738",
+    "stars": 0,
+    "url": "https://github.com/mackk7/Creative-Text-Generator"
+  },
+  "681982627": {
+    "name": "chat-prompts",
+    "full_name": "KudoAI/chat-prompts",
+    "sent_date": "2025-10-21T23:23:47.169139",
+    "stars": 20,
+    "url": "https://github.com/KudoAI/chat-prompts"
   }
 }
