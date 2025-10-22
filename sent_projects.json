@@ -2679,5 +2679,89 @@
     "sent_date": "2025-10-21T23:23:47.169139",
     "stars": 20,
     "url": "https://github.com/KudoAI/chat-prompts"
+  },
+  "739594808": {
+    "name": "ocean",
+    "full_name": "facebookresearch/ocean",
+    "sent_date": "2025-10-22T23:18:14.809761",
+    "stars": 739,
+    "url": "https://github.com/facebookresearch/ocean"
+  },
+  "1077771436": {
+    "name": "bip3d",
+    "full_name": "ayoub147147/bip3d",
+    "sent_date": "2025-10-22T23:18:14.812705",
+    "stars": 1,
+    "url": "https://github.com/ayoub147147/bip3d"
+  },
+  "215604631": {
+    "name": "magnolify",
+    "full_name": "spotify/magnolify",
+    "sent_date": "2025-10-22T23:19:00.477965",
+    "stars": 179,
+    "url": "https://github.com/spotify/magnolify"
+  },
+  "377910358": {
+    "name": "ClimaAtmos.jl",
+    "full_name": "CliMA/ClimaAtmos.jl",
+    "sent_date": "2025-10-22T23:19:00.480832",
+    "stars": 108,
+    "url": "https://github.com/CliMA/ClimaAtmos.jl"
+  },
+  "858956291": {
+    "name": "FinGPT-Search-Agent",
+    "full_name": "Open-Finance-Lab/FinGPT-Search-Agent",
+    "sent_date": "2025-10-22T23:19:44.832855",
+    "stars": 15,
+    "url": "https://github.com/Open-Finance-Lab/FinGPT-Search-Agent"
+  },
+  "895817188": {
+    "name": "Crowd-Analyzer",
+    "full_name": "pozapas/Crowd-Analyzer",
+    "sent_date": "2025-10-22T23:19:44.835682",
+    "stars": 8,
+    "url": "https://github.com/pozapas/Crowd-Analyzer"
+  },
+  "123298005": {
+    "name": "abdulvahapmutlu",
+    "full_name": "popcorn0118/abdulvahapmutlu",
+    "sent_date": "2025-10-22T23:20:29.367722",
+    "stars": 1,
+    "url": "https://github.com/popcorn0118/abdulvahapmutlu"
+  },
+  "1081458314": {
+    "name": "Banking-api",
+    "full_name": "Perik-24/Banking-api",
+    "sent_date": "2025-10-22T23:20:29.370606",
+    "stars": 0,
+    "url": "https://github.com/Perik-24/Banking-api"
+  },
+  "1073774845": {
+    "name": "FAST-API",
+    "full_name": "alibukhari1-00/FAST-API",
+    "sent_date": "2025-10-22T23:21:14.248866",
+    "stars": 0,
+    "url": "https://github.com/alibukhari1-00/FAST-API"
+  },
+  "351305463": {
+    "name": "data-science-project",
+    "full_name": "mahdi5050/data-science-project",
+    "sent_date": "2025-10-22T23:21:14.251677",
+    "stars": 0,
+    "url": "https://github.com/mahdi5050/data-science-project"
+  },
+  "1062575201": {
+    "name": "gpts-help",
+    "full_name": "goamponsah/gpts-help",
+    "sent_date": "2025-10-22T23:22:00.578271",
+    "stars": 0,
+    "url": "https://github.com/goamponsah/gpts-help"
+  },
+  "1079323281": {
+    "name": "agentic-commerce-protocol-demo",
+    "full_name": "nweibull/agentic-commerce-protocol-demo",
+    "sent_date": "2025-10-22T23:22:00.581168",
+    "stars": 0,
+    "url": "https://github.com/nweibull/agentic-commerce-protocol-demo"
   }
 }
