@@ -2847,5 +2847,89 @@
     "sent_date": "2025-10-23T23:22:27.125843",
     "stars": 0,
     "url": "https://github.com/jenishsoftx6/ai-compliance-risk-insights"
+  },
+  "903548628": {
+    "name": "awesome-llm-books",
+    "full_name": "Jason2Brownlee/awesome-llm-books",
+    "sent_date": "2025-10-24T23:19:31.029195",
+    "stars": 1031,
+    "url": "https://github.com/Jason2Brownlee/awesome-llm-books"
+  },
+  "593782352": {
+    "name": "physicsnemo",
+    "full_name": "NVIDIA/physicsnemo",
+    "sent_date": "2025-10-24T23:19:31.032357",
+    "stars": 1958,
+    "url": "https://github.com/NVIDIA/physicsnemo"
+  },
+  "776513710": {
+    "name": "OLMo-core",
+    "full_name": "allenai/OLMo-core",
+    "sent_date": "2025-10-24T23:20:15.758868",
+    "stars": 309,
+    "url": "https://github.com/allenai/OLMo-core"
+  },
+  "647381053": {
+    "name": "VisCy",
+    "full_name": "mehta-lab/VisCy",
+    "sent_date": "2025-10-24T23:20:15.763536",
+    "stars": 73,
+    "url": "https://github.com/mehta-lab/VisCy"
+  },
+  "257561820": {
+    "name": "lang-kal",
+    "full_name": "giellalt/lang-kal",
+    "sent_date": "2025-10-24T23:21:00.347352",
+    "stars": 12,
+    "url": "https://github.com/giellalt/lang-kal"
+  },
+  "1082867589": {
+    "name": "Netflix_ML_Rec_Project",
+    "full_name": "Skasmarogi/Netflix_ML_Rec_Project",
+    "sent_date": "2025-10-24T23:21:00.350676",
+    "stars": 0,
+    "url": "https://github.com/Skasmarogi/Netflix_ML_Rec_Project"
+  },
+  "929223731": {
+    "name": "QuantTradeAI",
+    "full_name": "AKKI0511/QuantTradeAI",
+    "sent_date": "2025-10-24T23:21:44.780649",
+    "stars": 4,
+    "url": "https://github.com/AKKI0511/QuantTradeAI"
+  },
+  "671838476": {
+    "name": "medic-ai",
+    "full_name": "innat/medic-ai",
+    "sent_date": "2025-10-24T23:21:44.783865",
+    "stars": 2,
+    "url": "https://github.com/innat/medic-ai"
+  },
+  "1082878782": {
+    "name": "Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning",
+    "full_name": "aurangzeb23707576/Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning",
+    "sent_date": "2025-10-24T23:22:29.500058",
+    "stars": 0,
+    "url": "https://github.com/aurangzeb23707576/Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning"
+  },
+  "1011939759": {
+    "name": "medilinda",
+    "full_name": "kraigochieng/medilinda",
+    "sent_date": "2025-10-24T23:22:29.503120",
+    "stars": 0,
+    "url": "https://github.com/kraigochieng/medilinda"
+  },
+  "929868765": {
+    "name": "local-deep-research",
+    "full_name": "LearningCircuit/local-deep-research",
+    "sent_date": "2025-10-24T23:23:14.487995",
+    "stars": 3527,
+    "url": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  "1065643341": {
+    "name": "TruLedger-AI",
+    "full_name": "Yashwanth-Dev18/TruLedger-AI",
+    "sent_date": "2025-10-24T23:23:14.491082",
+    "stars": 0,
+    "url": "https://github.com/Yashwanth-Dev18/TruLedger-AI"
   }
 }
