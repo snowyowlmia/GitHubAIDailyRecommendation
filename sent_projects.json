@@ -1,172 +1,4 @@
 {
-  "188660663": {
-    "name": "Real-Time-Voice-Cloning",
-    "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-    "sent_date": "2025-09-27T23:18:22.788827",
-    "stars": 57486,
-    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
-  },
-  "264818686": {
-    "name": "yolov5",
-    "full_name": "ultralytics/yolov5",
-    "sent_date": "2025-09-27T23:18:22.789493",
-    "stars": 55500,
-    "url": "https://github.com/ultralytics/yolov5"
-  },
-  "168799526": {
-    "name": "pytorch-image-models",
-    "full_name": "huggingface/pytorch-image-models",
-    "sent_date": "2025-09-27T23:18:22.790432",
-    "stars": 35364,
-    "url": "https://github.com/huggingface/pytorch-image-models"
-  },
-  "1053669447": {
-    "name": "TritonForge",
-    "full_name": "RLsys-Foundation/TritonForge",
-    "sent_date": "2025-09-27T23:18:22.792028",
-    "stars": 62,
-    "url": "https://github.com/RLsys-Foundation/TritonForge"
-  },
-  "535360445": {
-    "name": "ultralytics",
-    "full_name": "ultralytics/ultralytics",
-    "sent_date": "2025-09-27T23:19:08.318457",
-    "stars": 46515,
-    "url": "https://github.com/ultralytics/ultralytics"
-  },
-  "45986162": {
-    "name": "TensorFlow-Examples",
-    "full_name": "aymericdamien/TensorFlow-Examples",
-    "sent_date": "2025-09-27T23:19:08.319116",
-    "stars": 43712,
-    "url": "https://github.com/aymericdamien/TensorFlow-Examples"
-  },
-  "1065393042": {
-    "name": "DL-TextGen-TextClass",
-    "full_name": "UzielLujan/DL-TextGen-TextClass",
-    "sent_date": "2025-09-27T23:19:08.319949",
-    "stars": 1,
-    "url": "https://github.com/UzielLujan/DL-TextGen-TextClass"
-  },
-  "1058272639": {
-    "name": "Uniswap-Ethereum-Bot-V3",
-    "full_name": "puffW0cdASh564max/Uniswap-Ethereum-Bot-V3",
-    "sent_date": "2025-09-27T23:19:08.321007",
-    "stars": 4,
-    "url": "https://github.com/puffW0cdASh564max/Uniswap-Ethereum-Bot-V3"
-  },
-  "156157055": {
-    "name": "Made-With-ML",
-    "full_name": "GokuMohandas/Made-With-ML",
-    "sent_date": "2025-09-27T23:19:53.475240",
-    "stars": 43282,
-    "url": "https://github.com/GokuMohandas/Made-With-ML"
-  },
-  "265612440": {
-    "name": "TTS",
-    "full_name": "coqui-ai/TTS",
-    "sent_date": "2025-09-27T23:19:53.475949",
-    "stars": 42772,
-    "url": "https://github.com/coqui-ai/TTS"
-  },
-  "912319985": {
-    "name": "everyday",
-    "full_name": "Liao-Ke/everyday",
-    "sent_date": "2025-09-27T23:19:53.476743",
-    "stars": 53,
-    "url": "https://github.com/Liao-Ke/everyday"
-  },
-  "736935922": {
-    "name": "Armanx200",
-    "full_name": "Armanx200/Armanx200",
-    "sent_date": "2025-09-27T23:19:53.477567",
-    "stars": 16,
-    "url": "https://github.com/Armanx200/Armanx200"
-  },
-  "83119431": {
-    "name": "ailearning",
-    "full_name": "apachecn/ailearning",
-    "sent_date": "2025-09-27T23:20:39.223564",
-    "stars": 41500,
-    "url": "https://github.com/apachecn/ailearning"
-  },
-  "235860204": {
-    "name": "DeepSpeed",
-    "full_name": "deepspeedai/DeepSpeed",
-    "sent_date": "2025-09-27T23:20:39.224460",
-    "stars": 40231,
-    "url": "https://github.com/deepspeedai/DeepSpeed"
-  },
-  "1047984425": {
-    "name": "definers",
-    "full_name": "YaronKoresh/definers",
-    "sent_date": "2025-09-27T23:20:39.225317",
-    "stars": 1,
-    "url": "https://github.com/YaronKoresh/definers"
-  },
-  "1003914737": {
-    "name": "vnpy-Machine-Learning",
-    "full_name": "Vixoq/vnpy-Machine-Learning",
-    "sent_date": "2025-09-27T23:20:39.227081",
-    "stars": 2,
-    "url": "https://github.com/Vixoq/vnpy-Machine-Learning"
-  },
-  "154747577": {
-    "name": "bert",
-    "full_name": "google-research/bert",
-    "sent_date": "2025-09-27T23:21:24.003905",
-    "stars": 39543,
-    "url": "https://github.com/google-research/bert"
-  },
-  "349321229": {
-    "name": "GFPGAN",
-    "full_name": "TencentARC/GFPGAN",
-    "sent_date": "2025-09-27T23:21:24.004804",
-    "stars": 37112,
-    "url": "https://github.com/TencentARC/GFPGAN"
-  },
-  "573415529": {
-    "name": "diy-llm-bot",
-    "full_name": "noway/diy-llm-bot",
-    "sent_date": "2025-09-27T23:21:24.005664",
-    "stars": 15,
-    "url": "https://github.com/noway/diy-llm-bot"
-  },
-  "671651421": {
-    "name": "SingBOX",
-    "full_name": "sarvari1378/SingBOX",
-    "sent_date": "2025-09-27T23:21:24.007442",
-    "stars": 10,
-    "url": "https://github.com/sarvari1378/SingBOX"
-  },
-  "393571599": {
-    "name": "MockingBird",
-    "full_name": "babysor/MockingBird",
-    "sent_date": "2025-09-27T23:22:10.325602",
-    "stars": 36668,
-    "url": "https://github.com/babysor/MockingBird"
-  },
-  "614765452": {
-    "name": "AutoGPT",
-    "full_name": "Significant-Gravitas/AutoGPT",
-    "sent_date": "2025-09-27T23:22:10.326406",
-    "stars": 178722,
-    "url": "https://github.com/Significant-Gravitas/AutoGPT"
-  },
-  "1062159623": {
-    "name": "Retail-Sales-Forecasting-Pipeline",
-    "full_name": "ElliottYankee/Retail-Sales-Forecasting-Pipeline",
-    "sent_date": "2025-09-27T23:22:10.327345",
-    "stars": 0,
-    "url": "https://github.com/ElliottYankee/Retail-Sales-Forecasting-Pipeline"
-  },
-  "980753521": {
-    "name": "scoresignal",
-    "full_name": "databybrian/scoresignal",
-    "sent_date": "2025-09-27T23:22:10.328105",
-    "stars": 0,
-    "url": "https://github.com/databybrian/scoresignal"
-  },
   "571613891": {
     "name": "supervision",
     "full_name": "roboflow/supervision",
@@ -2875,5 +2707,173 @@
     "sent_date": "2025-10-26T23:22:48.491017",
     "stars": 0,
     "url": "https://github.com/norsimoes/digital_cave"
+  },
+  "51117837": {
+    "name": "models",
+    "full_name": "tensorflow/models",
+    "sent_date": "2025-10-27T23:19:13.090047",
+    "stars": 77665,
+    "url": "https://github.com/tensorflow/models"
+  },
+  "669879380": {
+    "name": "LLMs-from-scratch",
+    "full_name": "rasbt/LLMs-from-scratch",
+    "sent_date": "2025-10-27T23:19:13.093270",
+    "stars": 76649,
+    "url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  "599547518": {
+    "name": "vllm",
+    "full_name": "vllm-project/vllm",
+    "sent_date": "2025-10-27T23:19:13.096335",
+    "stars": 61151,
+    "url": "https://github.com/vllm-project/vllm"
+  },
+  "764723738": {
+    "name": "skyvern",
+    "full_name": "Skyvern-AI/skyvern",
+    "sent_date": "2025-10-27T23:19:13.100403",
+    "stars": 15337,
+    "url": "https://github.com/Skyvern-AI/skyvern"
+  },
+  "290091948": {
+    "name": "annotated_deep_learning_paper_implementations",
+    "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+    "sent_date": "2025-10-27T23:19:57.970332",
+    "stars": 63897,
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations"
+  },
+  "33015583": {
+    "name": "keras",
+    "full_name": "keras-team/keras",
+    "sent_date": "2025-10-27T23:19:57.973610",
+    "stars": 63517,
+    "url": "https://github.com/keras-team/keras"
+  },
+  "1083857313": {
+    "name": "knot-gpt",
+    "full_name": "Thekandege/knot-gpt",
+    "sent_date": "2025-10-27T23:19:57.976753",
+    "stars": 2,
+    "url": "https://github.com/Thekandege/knot-gpt"
+  },
+  "637639667": {
+    "name": "Awesome-Plugins",
+    "full_name": "targed/Awesome-Plugins",
+    "sent_date": "2025-10-27T23:19:57.979876",
+    "stars": 143,
+    "url": "https://github.com/targed/Awesome-Plugins"
+  },
+  "188660663": {
+    "name": "Real-Time-Voice-Cloning",
+    "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+    "sent_date": "2025-10-27T23:20:42.764338",
+    "stars": 58661,
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
+  },
+  "264818686": {
+    "name": "yolov5",
+    "full_name": "ultralytics/yolov5",
+    "sent_date": "2025-10-27T23:20:42.767371",
+    "stars": 55824,
+    "url": "https://github.com/ultralytics/yolov5"
+  },
+  "912319985": {
+    "name": "everyday",
+    "full_name": "Liao-Ke/everyday",
+    "sent_date": "2025-10-27T23:20:42.770335",
+    "stars": 53,
+    "url": "https://github.com/Liao-Ke/everyday"
+  },
+  "957327077": {
+    "name": "SpyAI",
+    "full_name": "freakick22/SpyAI",
+    "sent_date": "2025-10-27T23:20:42.773232",
+    "stars": 36,
+    "url": "https://github.com/freakick22/SpyAI"
+  },
+  "535360445": {
+    "name": "ultralytics",
+    "full_name": "ultralytics/ultralytics",
+    "sent_date": "2025-10-27T23:21:27.054991",
+    "stars": 47935,
+    "url": "https://github.com/ultralytics/ultralytics"
+  },
+  "156157055": {
+    "name": "Made-With-ML",
+    "full_name": "GokuMohandas/Made-With-ML",
+    "sent_date": "2025-10-27T23:21:27.058053",
+    "stars": 43802,
+    "url": "https://github.com/GokuMohandas/Made-With-ML"
+  },
+  "1056625560": {
+    "name": "drAIn",
+    "full_name": "eliseoalcaraz/drAIn",
+    "sent_date": "2025-10-27T23:21:27.061365",
+    "stars": 2,
+    "url": "https://github.com/eliseoalcaraz/drAIn"
+  },
+  "960715035": {
+    "name": "hope",
+    "full_name": "JBSEnovs/hope",
+    "sent_date": "2025-10-27T23:21:27.064281",
+    "stars": 3,
+    "url": "https://github.com/JBSEnovs/hope"
+  },
+  "45986162": {
+    "name": "TensorFlow-Examples",
+    "full_name": "aymericdamien/TensorFlow-Examples",
+    "sent_date": "2025-10-27T23:22:12.126203",
+    "stars": 43759,
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples"
+  },
+  "265612440": {
+    "name": "TTS",
+    "full_name": "coqui-ai/TTS",
+    "sent_date": "2025-10-27T23:22:12.129439",
+    "stars": 43174,
+    "url": "https://github.com/coqui-ai/TTS"
+  },
+  "700140079": {
+    "name": "azure-openai-gpt4-chat",
+    "full_name": "cu-cit-cloud-team/azure-openai-gpt4-chat",
+    "sent_date": "2025-10-27T23:22:12.132427",
+    "stars": 6,
+    "url": "https://github.com/cu-cit-cloud-team/azure-openai-gpt4-chat"
+  },
+  "682023635": {
+    "name": "ml_binary_classification_gridsearch_hyperOpt",
+    "full_name": "SamoraHunter/ml_binary_classification_gridsearch_hyperOpt",
+    "sent_date": "2025-10-27T23:22:12.135352",
+    "stars": 0,
+    "url": "https://github.com/SamoraHunter/ml_binary_classification_gridsearch_hyperOpt"
+  },
+  "83119431": {
+    "name": "ailearning",
+    "full_name": "apachecn/ailearning",
+    "sent_date": "2025-10-27T23:22:56.909528",
+    "stars": 41625,
+    "url": "https://github.com/apachecn/ailearning"
+  },
+  "235860204": {
+    "name": "DeepSpeed",
+    "full_name": "deepspeedai/DeepSpeed",
+    "sent_date": "2025-10-27T23:22:56.912836",
+    "stars": 40521,
+    "url": "https://github.com/deepspeedai/DeepSpeed"
+  },
+  "260098672": {
+    "name": "giella-core",
+    "full_name": "giellalt/giella-core",
+    "sent_date": "2025-10-27T23:22:56.915838",
+    "stars": 8,
+    "url": "https://github.com/giellalt/giella-core"
+  },
+  "964525699": {
+    "name": "Trade_Predictor_Project",
+    "full_name": "RainyEarth/Trade_Predictor_Project",
+    "sent_date": "2025-10-27T23:22:56.918871",
+    "stars": 4,
+    "url": "https://github.com/RainyEarth/Trade_Predictor_Project"
   }
 }
