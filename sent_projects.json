@@ -1,172 +1,4 @@
 {
-  "29357796": {
-    "name": "awesome-computer-vision",
-    "full_name": "jbhuang0604/awesome-computer-vision",
-    "sent_date": "2025-09-30T23:18:33.743226",
-    "stars": 22566,
-    "url": "https://github.com/jbhuang0604/awesome-computer-vision"
-  },
-  "30907774": {
-    "name": "learnopencv",
-    "full_name": "spmallick/learnopencv",
-    "sent_date": "2025-09-30T23:18:33.744366",
-    "stars": 22338,
-    "url": "https://github.com/spmallick/learnopencv"
-  },
-  "156293205": {
-    "name": "xla",
-    "full_name": "pytorch/xla",
-    "sent_date": "2025-09-30T23:18:33.745739",
-    "stars": 2688,
-    "url": "https://github.com/pytorch/xla"
-  },
-  "1067473196": {
-    "name": "CIFAR10-Deep-Learning-Comparison--",
-    "full_name": "code-alchemist01/CIFAR10-Deep-Learning-Comparison--",
-    "sent_date": "2025-09-30T23:18:33.746869",
-    "stars": 1,
-    "url": "https://github.com/code-alchemist01/CIFAR10-Deep-Learning-Comparison--"
-  },
-  "73328905": {
-    "name": "vision",
-    "full_name": "pytorch/vision",
-    "sent_date": "2025-09-30T23:19:17.956357",
-    "stars": 17183,
-    "url": "https://github.com/pytorch/vision"
-  },
-  "511187726": {
-    "name": "yolov7",
-    "full_name": "WongKinYiu/yolov7",
-    "sent_date": "2025-09-30T23:19:17.957463",
-    "stars": 13996,
-    "url": "https://github.com/WongKinYiu/yolov7"
-  },
-  "152616802": {
-    "name": "cuml",
-    "full_name": "rapidsai/cuml",
-    "sent_date": "2025-09-30T23:19:17.958578",
-    "stars": 4945,
-    "url": "https://github.com/rapidsai/cuml"
-  },
-  "1635932": {
-    "name": "BoofCV",
-    "full_name": "lessthanoptimal/BoofCV",
-    "sent_date": "2025-09-30T23:19:17.959793",
-    "stars": 1155,
-    "url": "https://github.com/lessthanoptimal/BoofCV"
-  },
-  "159091924": {
-    "name": "deep-learning-drizzle",
-    "full_name": "kmario23/deep-learning-drizzle",
-    "sent_date": "2025-09-30T23:20:02.394347",
-    "stars": 12689,
-    "url": "https://github.com/kmario23/deep-learning-drizzle"
-  },
-  "92983437": {
-    "name": "pytorch-grad-cam",
-    "full_name": "jacobgil/pytorch-grad-cam",
-    "sent_date": "2025-09-30T23:20:02.395550",
-    "stars": 12211,
-    "url": "https://github.com/jacobgil/pytorch-grad-cam"
-  },
-  "156939672": {
-    "name": "onnxruntime",
-    "full_name": "microsoft/onnxruntime",
-    "sent_date": "2025-09-30T23:20:02.397033",
-    "stars": 17987,
-    "url": "https://github.com/microsoft/onnxruntime"
-  },
-  "887587896": {
-    "name": "tensor-fusion",
-    "full_name": "NexusGPU/tensor-fusion",
-    "sent_date": "2025-09-30T23:20:02.399768",
-    "stars": 80,
-    "url": "https://github.com/NexusGPU/tensor-fusion"
-  },
-  "35812923": {
-    "name": "awesome-deep-vision",
-    "full_name": "kjw0612/awesome-deep-vision",
-    "sent_date": "2025-09-30T23:20:46.539250",
-    "stars": 11059,
-    "url": "https://github.com/kjw0612/awesome-deep-vision"
-  },
-  "129874045": {
-    "name": "faceai",
-    "full_name": "vipstone/faceai",
-    "sent_date": "2025-09-30T23:20:46.540622",
-    "stars": 11017,
-    "url": "https://github.com/vipstone/faceai"
-  },
-  "990228483": {
-    "name": "ChromaScape",
-    "full_name": "StaticSweep/ChromaScape",
-    "sent_date": "2025-09-30T23:20:46.541930",
-    "stars": 32,
-    "url": "https://github.com/StaticSweep/ChromaScape"
-  },
-  "1060947035": {
-    "name": "NZGovDebtTrends2002-2025",
-    "full_name": "badj/NZGovDebtTrends2002-2025",
-    "sent_date": "2025-09-30T23:20:46.543259",
-    "stars": 1,
-    "url": "https://github.com/badj/NZGovDebtTrends2002-2025"
-  },
-  "804788522": {
-    "name": "yolov10",
-    "full_name": "THU-MIG/yolov10",
-    "sent_date": "2025-09-30T23:21:31.405037",
-    "stars": 11003,
-    "url": "https://github.com/THU-MIG/yolov10"
-  },
-  "146165888": {
-    "name": "yolov3",
-    "full_name": "ultralytics/yolov3",
-    "sent_date": "2025-09-30T23:21:31.406289",
-    "stars": 10459,
-    "url": "https://github.com/ultralytics/yolov3"
-  },
-  "1067344946": {
-    "name": "SRPO",
-    "full_name": "hesoyam199x/SRPO",
-    "sent_date": "2025-09-30T23:21:31.407615",
-    "stars": 0,
-    "url": "https://github.com/hesoyam199x/SRPO"
-  },
-  "1066642818": {
-    "name": "Autonomous-Health-Monitoring-Emergency-Response",
-    "full_name": "ben854719/Autonomous-Health-Monitoring-Emergency-Response",
-    "sent_date": "2025-09-30T23:21:31.409008",
-    "stars": 0,
-    "url": "https://github.com/ben854719/Autonomous-Health-Monitoring-Emergency-Response"
-  },
-  "69269563": {
-    "name": "robotgo",
-    "full_name": "go-vgo/robotgo",
-    "sent_date": "2025-09-30T23:22:16.095603",
-    "stars": 10377,
-    "url": "https://github.com/go-vgo/robotgo"
-  },
-  "345337": {
-    "name": "openFrameworks",
-    "full_name": "openframeworks/openFrameworks",
-    "sent_date": "2025-09-30T23:22:16.096853",
-    "stars": 10229,
-    "url": "https://github.com/openframeworks/openFrameworks"
-  },
-  "86031674": {
-    "name": "wandb",
-    "full_name": "wandb/wandb",
-    "sent_date": "2025-09-30T23:22:16.098199",
-    "stars": 10377,
-    "url": "https://github.com/wandb/wandb"
-  },
-  "912759287": {
-    "name": "Calories-Burnt-Prediction",
-    "full_name": "Nandha1504/Calories-Burnt-Prediction",
-    "sent_date": "2025-09-30T23:22:16.099544",
-    "stars": 0,
-    "url": "https://github.com/Nandha1504/Calories-Burnt-Prediction"
-  },
   "993475914": {
     "name": "container",
     "full_name": "apple/container",
@@ -2868,5 +2700,173 @@
     "sent_date": "2025-10-29T23:24:08.832190",
     "stars": 1,
     "url": "https://github.com/Abbasderbas/GAN"
+  },
+  "725205304": {
+    "name": "unsloth",
+    "full_name": "unslothai/unsloth",
+    "sent_date": "2025-10-30T23:19:38.370265",
+    "stars": 47662,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  "5108051": {
+    "name": "opencv",
+    "full_name": "opencv/opencv",
+    "sent_date": "2025-10-30T23:19:38.374345",
+    "stars": 84667,
+    "url": "https://github.com/opencv/opencv"
+  },
+  "168799526": {
+    "name": "pytorch-image-models",
+    "full_name": "huggingface/pytorch-image-models",
+    "sent_date": "2025-10-30T23:19:38.378077",
+    "stars": 35620,
+    "url": "https://github.com/huggingface/pytorch-image-models"
+  },
+  "673010778": {
+    "name": "inference",
+    "full_name": "roboflow/inference",
+    "sent_date": "2025-10-30T23:19:38.381409",
+    "stars": 2014,
+    "url": "https://github.com/roboflow/inference"
+  },
+  "89247811": {
+    "name": "openpose",
+    "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+    "sent_date": "2025-10-30T23:20:24.141202",
+    "stars": 33373,
+    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+  },
+  "145670234": {
+    "name": "mmdetection",
+    "full_name": "open-mmlab/mmdetection",
+    "sent_date": "2025-10-30T23:20:24.144464",
+    "stars": 31901,
+    "url": "https://github.com/open-mmlab/mmdetection"
+  },
+  "1085578011": {
+    "name": "Basic-AI-docs",
+    "full_name": "ArthurProgamadorLendario/Basic-AI-docs",
+    "sent_date": "2025-10-30T23:20:24.147552",
+    "stars": 1,
+    "url": "https://github.com/ArthurProgamadorLendario/Basic-AI-docs"
+  },
+  "1085334642": {
+    "name": "HEARTGUARD-AI-for-your-heart",
+    "full_name": "lworachat999/HEARTGUARD-AI-for-your-heart",
+    "sent_date": "2025-10-30T23:20:24.150420",
+    "stars": 1,
+    "url": "https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart"
+  },
+  "192640529": {
+    "name": "label-studio",
+    "full_name": "HumanSignal/label-studio",
+    "sent_date": "2025-10-30T23:21:10.421259",
+    "stars": 25256,
+    "url": "https://github.com/HumanSignal/label-studio"
+  },
+  "29357796": {
+    "name": "awesome-computer-vision",
+    "full_name": "jbhuang0604/awesome-computer-vision",
+    "sent_date": "2025-10-30T23:21:10.424493",
+    "stars": 22684,
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+  },
+  "1085332028": {
+    "name": "flower-installer",
+    "full_name": "Mohanad7770/flower-installer",
+    "sent_date": "2025-10-30T23:21:10.427484",
+    "stars": 1,
+    "url": "https://github.com/Mohanad7770/flower-installer"
+  },
+  "736935922": {
+    "name": "Armanx200",
+    "full_name": "Armanx200/Armanx200",
+    "sent_date": "2025-10-30T23:21:10.432283",
+    "stars": 16,
+    "url": "https://github.com/Armanx200/Armanx200"
+  },
+  "30907774": {
+    "name": "learnopencv",
+    "full_name": "spmallick/learnopencv",
+    "sent_date": "2025-10-30T23:21:55.393704",
+    "stars": 22450,
+    "url": "https://github.com/spmallick/learnopencv"
+  },
+  "73328905": {
+    "name": "vision",
+    "full_name": "pytorch/vision",
+    "sent_date": "2025-10-30T23:21:55.397025",
+    "stars": 17268,
+    "url": "https://github.com/pytorch/vision"
+  },
+  "347273245": {
+    "name": "ComfyUI-Segformer_Ultra_Fast",
+    "full_name": "meet1305/ComfyUI-Segformer_Ultra_Fast",
+    "sent_date": "2025-10-30T23:21:55.400188",
+    "stars": 1,
+    "url": "https://github.com/meet1305/ComfyUI-Segformer_Ultra_Fast"
+  },
+  "1086643905": {
+    "name": "vehicle-price-classification",
+    "full_name": "jose-8y786767/vehicle-price-classification",
+    "sent_date": "2025-10-30T23:21:55.403142",
+    "stars": 0,
+    "url": "https://github.com/jose-8y786767/vehicle-price-classification"
+  },
+  "511187726": {
+    "name": "yolov7",
+    "full_name": "WongKinYiu/yolov7",
+    "sent_date": "2025-10-30T23:22:40.868702",
+    "stars": 14015,
+    "url": "https://github.com/WongKinYiu/yolov7"
+  },
+  "159091924": {
+    "name": "deep-learning-drizzle",
+    "full_name": "kmario23/deep-learning-drizzle",
+    "sent_date": "2025-10-30T23:22:40.871831",
+    "stars": 12708,
+    "url": "https://github.com/kmario23/deep-learning-drizzle"
+  },
+  "1086293719": {
+    "name": "awsMLOpsCreditRiskPipeline",
+    "full_name": "K-Sutha/awsMLOpsCreditRiskPipeline",
+    "sent_date": "2025-10-30T23:22:40.874812",
+    "stars": 0,
+    "url": "https://github.com/K-Sutha/awsMLOpsCreditRiskPipeline"
+  },
+  "1085860907": {
+    "name": "Smart_Organizer",
+    "full_name": "DeathFlame7/Smart_Organizer",
+    "sent_date": "2025-10-30T23:22:40.877737",
+    "stars": 0,
+    "url": "https://github.com/DeathFlame7/Smart_Organizer"
+  },
+  "92983437": {
+    "name": "pytorch-grad-cam",
+    "full_name": "jacobgil/pytorch-grad-cam",
+    "sent_date": "2025-10-30T23:23:26.407991",
+    "stars": 12309,
+    "url": "https://github.com/jacobgil/pytorch-grad-cam"
+  },
+  "35812923": {
+    "name": "awesome-deep-vision",
+    "full_name": "kjw0612/awesome-deep-vision",
+    "sent_date": "2025-10-30T23:23:26.411194",
+    "stars": 11074,
+    "url": "https://github.com/kjw0612/awesome-deep-vision"
+  },
+  "849739271": {
+    "name": "StockPRT",
+    "full_name": "dotsatya/StockPRT",
+    "sent_date": "2025-10-30T23:23:26.414230",
+    "stars": 0,
+    "url": "https://github.com/dotsatya/StockPRT"
+  },
+  "1086729848": {
+    "name": "zenith-nlp-framework",
+    "full_name": "ratatuleoo/zenith-nlp-framework",
+    "sent_date": "2025-10-30T23:23:26.417226",
+    "stars": 0,
+    "url": "https://github.com/ratatuleoo/zenith-nlp-framework"
   }
 }
