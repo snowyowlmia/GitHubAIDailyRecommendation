@@ -1,88 +1,4 @@
 {
-  "679366051": {
-    "name": "TensorRT-LLM",
-    "full_name": "NVIDIA/TensorRT-LLM",
-    "sent_date": "2025-10-02T23:18:00.935572",
-    "stars": 11767,
-    "url": "https://github.com/NVIDIA/TensorRT-LLM"
-  },
-  "106024057": {
-    "name": "pytorch_geometric",
-    "full_name": "pyg-team/pytorch_geometric",
-    "sent_date": "2025-10-02T23:18:00.936914",
-    "stars": 22953,
-    "url": "https://github.com/pyg-team/pytorch_geometric"
-  },
-  "241095326": {
-    "name": "flower",
-    "full_name": "adap/flower",
-    "sent_date": "2025-10-02T23:18:45.830706",
-    "stars": 6291,
-    "url": "https://github.com/adap/flower"
-  },
-  "688164459": {
-    "name": "cs249r_book",
-    "full_name": "harvard-edge/cs249r_book",
-    "sent_date": "2025-10-02T23:18:45.832100",
-    "stars": 2501,
-    "url": "https://github.com/harvard-edge/cs249r_book"
-  },
-  "114898943": {
-    "name": "seldon-core",
-    "full_name": "SeldonIO/seldon-core",
-    "sent_date": "2025-10-02T23:19:30.673850",
-    "stars": 4642,
-    "url": "https://github.com/SeldonIO/seldon-core"
-  },
-  "149826542": {
-    "name": "pytorch-3dunet",
-    "full_name": "wolny/pytorch-3dunet",
-    "sent_date": "2025-10-02T23:19:30.675253",
-    "stars": 2264,
-    "url": "https://github.com/wolny/pytorch-3dunet"
-  },
-  "1033474092": {
-    "name": "ML-CHATBOT",
-    "full_name": "PROFSANTARELLI/ML-CHATBOT",
-    "sent_date": "2025-10-02T23:20:15.605700",
-    "stars": 8,
-    "url": "https://github.com/PROFSANTARELLI/ML-CHATBOT"
-  },
-  "1047613732": {
-    "name": "Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
-    "full_name": "Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
-    "sent_date": "2025-10-02T23:20:15.607116",
-    "stars": 0,
-    "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker"
-  },
-  "839037098": {
-    "name": "mastra",
-    "full_name": "mastra-ai/mastra",
-    "sent_date": "2025-10-02T23:21:00.232524",
-    "stars": 17024,
-    "url": "https://github.com/mastra-ai/mastra"
-  },
-  "1068776010": {
-    "name": "Diabetes-Prediction-ML",
-    "full_name": "Willennn/Diabetes-Prediction-ML",
-    "sent_date": "2025-10-02T23:21:00.234129",
-    "stars": 0,
-    "url": "https://github.com/Willennn/Diabetes-Prediction-ML"
-  },
-  "1051821502": {
-    "name": "MCP_Server_Notebook",
-    "full_name": "Vinuitik/MCP_Server_Notebook",
-    "sent_date": "2025-10-02T23:21:45.392957",
-    "stars": 0,
-    "url": "https://github.com/Vinuitik/MCP_Server_Notebook"
-  },
-  "1061808764": {
-    "name": "EurekaGPT",
-    "full_name": "MD-MAROOF/EurekaGPT",
-    "sent_date": "2025-10-02T23:21:45.394374",
-    "stars": 0,
-    "url": "https://github.com/MD-MAROOF/EurekaGPT"
-  },
   "730932260": {
     "name": "torchtitan",
     "full_name": "pytorch/torchtitan",
@@ -2896,5 +2812,96 @@
     "sent_date": "2025-10-31T23:23:25.491768",
     "stars": 0,
     "url": "https://github.com/VagishKapila/gpt-material-insight-api"
+  },
+  "991431142": {
+    "name": "memvid",
+    "full_name": "Olow304/memvid",
+    "sent_date": "2025-11-01T23:18:31.614372",
+    "stars": 10205,
+    "url": "https://github.com/Olow304/memvid"
+  },
+  "1087868657": {
+    "name": "ml4sci-final-project",
+    "full_name": "CosmeticMichu/ml4sci-final-project",
+    "sent_date": "2025-11-01T23:18:31.617639",
+    "stars": 1,
+    "url": "https://github.com/CosmeticMichu/ml4sci-final-project"
+  },
+  "404377098": {
+    "name": "deep_vision_and_graphics",
+    "full_name": "yandexdataschool/deep_vision_and_graphics",
+    "sent_date": "2025-11-01T23:18:31.620804",
+    "stars": 374,
+    "url": "https://github.com/yandexdataschool/deep_vision_and_graphics"
+  },
+  "1077064232": {
+    "name": "adaptive-sparse-training",
+    "full_name": "oluwafemidiakhoa/adaptive-sparse-training",
+    "sent_date": "2025-11-01T23:19:20.941613",
+    "stars": 4,
+    "url": "https://github.com/oluwafemidiakhoa/adaptive-sparse-training"
+  },
+  "1084405486": {
+    "name": "proteus",
+    "full_name": "ChronoCoders/proteus",
+    "sent_date": "2025-11-01T23:19:20.944607",
+    "stars": 1,
+    "url": "https://github.com/ChronoCoders/proteus"
+  },
+  "1009365699": {
+    "name": "stable-worldmodel",
+    "full_name": "rbalestr-lab/stable-worldmodel",
+    "sent_date": "2025-11-01T23:20:09.798962",
+    "stars": 15,
+    "url": "https://github.com/rbalestr-lab/stable-worldmodel"
+  },
+  "511364709": {
+    "name": "Object-Detection",
+    "full_name": "martinlprb23/Object-Detection",
+    "sent_date": "2025-11-01T23:20:09.802190",
+    "stars": 13,
+    "url": "https://github.com/martinlprb23/Object-Detection"
+  },
+  "1061735240": {
+    "name": "social-threat-guardian",
+    "full_name": "Shawshank01/social-threat-guardian",
+    "sent_date": "2025-11-01T23:20:55.035270",
+    "stars": 2,
+    "url": "https://github.com/Shawshank01/social-threat-guardian"
+  },
+  "1083858994": {
+    "name": "hydra",
+    "full_name": "suarezsp/hydra",
+    "sent_date": "2025-11-01T23:20:55.038457",
+    "stars": 0,
+    "url": "https://github.com/suarezsp/hydra"
+  },
+  "1047613732": {
+    "name": "Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
+    "full_name": "Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
+    "sent_date": "2025-11-01T23:21:39.905007",
+    "stars": 3,
+    "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker"
+  },
+  "1087784626": {
+    "name": "spacex-falcon9-landing-prediction",
+    "full_name": "princem601/spacex-falcon9-landing-prediction",
+    "sent_date": "2025-11-01T23:21:39.908200",
+    "stars": 0,
+    "url": "https://github.com/princem601/spacex-falcon9-landing-prediction"
+  },
+  "1083317109": {
+    "name": "Pytorch_Static_Analyzer",
+    "full_name": "jinug0905/Pytorch_Static_Analyzer",
+    "sent_date": "2025-11-01T23:22:25.349436",
+    "stars": 0,
+    "url": "https://github.com/jinug0905/Pytorch_Static_Analyzer"
+  },
+  "1078946963": {
+    "name": "SmartOps-Tickets",
+    "full_name": "AbelPena02/SmartOps-Tickets",
+    "sent_date": "2025-11-01T23:22:25.352509",
+    "stars": 0,
+    "url": "https://github.com/AbelPena02/SmartOps-Tickets"
   }
 }
