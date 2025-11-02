@@ -1,88 +1,4 @@
 {
-  "730932260": {
-    "name": "torchtitan",
-    "full_name": "pytorch/torchtitan",
-    "sent_date": "2025-10-03T23:17:41.483454",
-    "stars": 4495,
-    "url": "https://github.com/pytorch/torchtitan"
-  },
-  "669331976": {
-    "name": "flashinfer",
-    "full_name": "flashinfer-ai/flashinfer",
-    "sent_date": "2025-10-03T23:17:41.485052",
-    "stars": 3841,
-    "url": "https://github.com/flashinfer-ai/flashinfer"
-  },
-  "130725814": {
-    "name": "apex",
-    "full_name": "NVIDIA/apex",
-    "sent_date": "2025-10-03T23:18:26.126971",
-    "stars": 8812,
-    "url": "https://github.com/NVIDIA/apex"
-  },
-  "770633006": {
-    "name": "code-interpreter",
-    "full_name": "e2b-dev/code-interpreter",
-    "sent_date": "2025-10-03T23:18:26.128596",
-    "stars": 2005,
-    "url": "https://github.com/e2b-dev/code-interpreter"
-  },
-  "832716353": {
-    "name": "stable-pretraining",
-    "full_name": "rbalestr-lab/stable-pretraining",
-    "sent_date": "2025-10-03T23:19:10.731769",
-    "stars": 68,
-    "url": "https://github.com/rbalestr-lab/stable-pretraining"
-  },
-  "641002037": {
-    "name": "muna-py",
-    "full_name": "muna-ai/muna-py",
-    "sent_date": "2025-10-03T23:19:10.733247",
-    "stars": 67,
-    "url": "https://github.com/muna-ai/muna-py"
-  },
-  "982376659": {
-    "name": "s3dlio",
-    "full_name": "russfellows/s3dlio",
-    "sent_date": "2025-10-03T23:19:54.642636",
-    "stars": 6,
-    "url": "https://github.com/russfellows/s3dlio"
-  },
-  "956170635": {
-    "name": "Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python",
-    "full_name": "sandipan/Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python",
-    "sent_date": "2025-10-03T23:19:54.644101",
-    "stars": 2,
-    "url": "https://github.com/sandipan/Book-BPB-600-Image-Processing-and-Compter-Vision-Masterclass-with-Python"
-  },
-  "991013242": {
-    "name": "KiruthikaRamadoss_Portfolio.github.io",
-    "full_name": "KiruthikaRamadoss/KiruthikaRamadoss_Portfolio.github.io",
-    "sent_date": "2025-10-03T23:20:38.791259",
-    "stars": 0,
-    "url": "https://github.com/KiruthikaRamadoss/KiruthikaRamadoss_Portfolio.github.io"
-  },
-  "1062924266": {
-    "name": "telco-churn-mlops-pipeline",
-    "full_name": "deaneeth/telco-churn-mlops-pipeline",
-    "sent_date": "2025-10-03T23:20:38.792965",
-    "stars": 0,
-    "url": "https://github.com/deaneeth/telco-churn-mlops-pipeline"
-  },
-  "1068227684": {
-    "name": "Employee-Churn",
-    "full_name": "omunozsanchezdeloitte/Employee-Churn",
-    "sent_date": "2025-10-03T23:21:23.083376",
-    "stars": 0,
-    "url": "https://github.com/omunozsanchezdeloitte/Employee-Churn"
-  },
-  "1069422285": {
-    "name": "Quantitative-Trading-Strategy-Simulation-Platform",
-    "full_name": "Zubair121Md/Quantitative-Trading-Strategy-Simulation-Platform",
-    "sent_date": "2025-10-03T23:21:23.084939",
-    "stars": 0,
-    "url": "https://github.com/Zubair121Md/Quantitative-Trading-Strategy-Simulation-Platform"
-  },
   "1016323751": {
     "name": "langextract",
     "full_name": "google/langextract",
@@ -2903,5 +2819,89 @@
     "sent_date": "2025-11-01T23:22:25.352509",
     "stars": 0,
     "url": "https://github.com/AbelPena02/SmartOps-Tickets"
+  },
+  "967738751": {
+    "name": "read-frog",
+    "full_name": "mengxi-ream/read-frog",
+    "sent_date": "2025-11-02T23:18:47.592588",
+    "stars": 2798,
+    "url": "https://github.com/mengxi-ream/read-frog"
+  },
+  "106024057": {
+    "name": "pytorch_geometric",
+    "full_name": "pyg-team/pytorch_geometric",
+    "sent_date": "2025-11-02T23:18:47.595711",
+    "stars": 23078,
+    "url": "https://github.com/pyg-team/pytorch_geometric"
+  },
+  "677240069": {
+    "name": "pytorch-frame",
+    "full_name": "pyg-team/pytorch-frame",
+    "sent_date": "2025-11-02T23:19:31.574042",
+    "stars": 715,
+    "url": "https://github.com/pyg-team/pytorch-frame"
+  },
+  "1087552280": {
+    "name": "OCEC",
+    "full_name": "PINTO0309/OCEC",
+    "sent_date": "2025-11-02T23:19:31.577186",
+    "stars": 4,
+    "url": "https://github.com/PINTO0309/OCEC"
+  },
+  "1088222786": {
+    "name": "CM3151-Assessment",
+    "full_name": "kierankinnaird/CM3151-Assessment",
+    "sent_date": "2025-11-02T23:20:15.989145",
+    "stars": 1,
+    "url": "https://github.com/kierankinnaird/CM3151-Assessment"
+  },
+  "1088019586": {
+    "name": "LinearModel",
+    "full_name": "ProdigiousPersonn/LinearModel",
+    "sent_date": "2025-11-02T23:20:15.992266",
+    "stars": 1,
+    "url": "https://github.com/ProdigiousPersonn/LinearModel"
+  },
+  "1084705831": {
+    "name": "PaperBrain",
+    "full_name": "GauravMaheshh/PaperBrain",
+    "sent_date": "2025-11-02T23:21:00.563986",
+    "stars": 1,
+    "url": "https://github.com/GauravMaheshh/PaperBrain"
+  },
+  "1000209483": {
+    "name": "market_predictor_mlops",
+    "full_name": "anp102618/market_predictor_mlops",
+    "sent_date": "2025-11-02T23:21:00.567122",
+    "stars": 0,
+    "url": "https://github.com/anp102618/market_predictor_mlops"
+  },
+  "1088398600": {
+    "name": "facial-emotion-recognition-app",
+    "full_name": "TanviShekhawat29/facial-emotion-recognition-app",
+    "sent_date": "2025-11-02T23:21:44.800006",
+    "stars": 0,
+    "url": "https://github.com/TanviShekhawat29/facial-emotion-recognition-app"
+  },
+  "1087660487": {
+    "name": "VisionFusion_OCR_QR",
+    "full_name": "Ycmmn/VisionFusion_OCR_QR",
+    "sent_date": "2025-11-02T23:21:44.805804",
+    "stars": 0,
+    "url": "https://github.com/Ycmmn/VisionFusion_OCR_QR"
+  },
+  "407049152": {
+    "name": "AI_lForge",
+    "full_name": "kidologi/AI_lForge",
+    "sent_date": "2025-11-02T23:22:28.677633",
+    "stars": 0,
+    "url": "https://github.com/kidologi/AI_lForge"
+  },
+  "1088281242": {
+    "name": "procedural-ambient-pwa",
+    "full_name": "LuminLynx/procedural-ambient-pwa",
+    "sent_date": "2025-11-02T23:22:28.680986",
+    "stars": 0,
+    "url": "https://github.com/LuminLynx/procedural-ambient-pwa"
   }
 }
