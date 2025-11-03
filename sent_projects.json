@@ -1,88 +1,4 @@
 {
-  "1016323751": {
-    "name": "langextract",
-    "full_name": "google/langextract",
-    "sent_date": "2025-10-04T23:18:21.260173",
-    "stars": 16085,
-    "url": "https://github.com/google/langextract"
-  },
-  "942696497": {
-    "name": "reasoning-from-scratch",
-    "full_name": "rasbt/reasoning-from-scratch",
-    "sent_date": "2025-10-04T23:18:21.261726",
-    "stars": 1568,
-    "url": "https://github.com/rasbt/reasoning-from-scratch"
-  },
-  "975171512": {
-    "name": "monarch",
-    "full_name": "meta-pytorch/monarch",
-    "sent_date": "2025-10-04T23:19:05.409861",
-    "stars": 428,
-    "url": "https://github.com/meta-pytorch/monarch"
-  },
-  "987976055": {
-    "name": "Automodel",
-    "full_name": "NVIDIA-NeMo/Automodel",
-    "sent_date": "2025-10-04T23:19:05.411425",
-    "stars": 84,
-    "url": "https://github.com/NVIDIA-NeMo/Automodel"
-  },
-  "949349630": {
-    "name": "VulnWatchdog",
-    "full_name": "arschlochnop/VulnWatchdog",
-    "sent_date": "2025-10-04T23:19:50.113088",
-    "stars": 51,
-    "url": "https://github.com/arschlochnop/VulnWatchdog"
-  },
-  "411827701": {
-    "name": "OpeNTF",
-    "full_name": "fani-lab/OpeNTF",
-    "sent_date": "2025-10-04T23:19:50.114703",
-    "stars": 27,
-    "url": "https://github.com/fani-lab/OpeNTF"
-  },
-  "884027330": {
-    "name": "TorchSystem",
-    "full_name": "entropy-flux/TorchSystem",
-    "sent_date": "2025-10-04T23:20:34.361839",
-    "stars": 9,
-    "url": "https://github.com/entropy-flux/TorchSystem"
-  },
-  "1001937222": {
-    "name": "Stock-LSTM-Forecasting",
-    "full_name": "Zaidzr/Stock-LSTM-Forecasting",
-    "sent_date": "2025-10-04T23:20:34.363454",
-    "stars": 1,
-    "url": "https://github.com/Zaidzr/Stock-LSTM-Forecasting"
-  },
-  "885886161": {
-    "name": "SeedGn",
-    "full_name": "THTHLOLOL/SeedGn",
-    "sent_date": "2025-10-04T23:21:18.595844",
-    "stars": 2,
-    "url": "https://github.com/THTHLOLOL/SeedGn"
-  },
-  "1069932820": {
-    "name": "Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional",
-    "full_name": "juliyonose7/Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional",
-    "sent_date": "2025-10-04T23:21:18.597921",
-    "stars": 0,
-    "url": "https://github.com/juliyonose7/Sistema-inteligente-de-clasificacion-de-razas-de-perros-basado-en-una-red-neuronal-convolucional"
-  },
-  "915451275": {
-    "name": "AI-Data-Scientist-scores-top-1-percent-on-Kaggle",
-    "full_name": "BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle",
-    "sent_date": "2025-10-04T23:22:03.132015",
-    "stars": 1,
-    "url": "https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle"
-  },
-  "1069898719": {
-    "name": "pneumonia-detection-cnn-pytorch",
-    "full_name": "Demerdashh/pneumonia-detection-cnn-pytorch",
-    "sent_date": "2025-10-04T23:22:03.133647",
-    "stars": 0,
-    "url": "https://github.com/Demerdashh/pneumonia-detection-cnn-pytorch"
-  },
   "386460134": {
     "name": "vertex-ai-mlops",
     "full_name": "statmike/vertex-ai-mlops",
@@ -2903,5 +2819,89 @@
     "sent_date": "2025-11-02T23:22:28.680986",
     "stars": 0,
     "url": "https://github.com/LuminLynx/procedural-ambient-pwa"
+  },
+  "644686905": {
+    "name": "continue",
+    "full_name": "continuedev/continue",
+    "sent_date": "2025-11-03T23:20:01.689297",
+    "stars": 29630,
+    "url": "https://github.com/continuedev/continue"
+  },
+  "596516907": {
+    "name": "DocsGPT",
+    "full_name": "arc53/DocsGPT",
+    "sent_date": "2025-11-03T23:20:01.692593",
+    "stars": 17321,
+    "url": "https://github.com/arc53/DocsGPT"
+  },
+  "1012087571": {
+    "name": "CLIProxyAPI",
+    "full_name": "router-for-me/CLIProxyAPI",
+    "sent_date": "2025-11-03T23:20:48.063537",
+    "stars": 1256,
+    "url": "https://github.com/router-for-me/CLIProxyAPI"
+  },
+  "975171512": {
+    "name": "monarch",
+    "full_name": "meta-pytorch/monarch",
+    "sent_date": "2025-11-03T23:20:48.067182",
+    "stars": 857,
+    "url": "https://github.com/meta-pytorch/monarch"
+  },
+  "319904869": {
+    "name": "hawking",
+    "full_name": "zoho/hawking",
+    "sent_date": "2025-11-03T23:21:33.601462",
+    "stars": 242,
+    "url": "https://github.com/zoho/hawking"
+  },
+  "1043651430": {
+    "name": "genai-api",
+    "full_name": "louisbrulenaudet/genai-api",
+    "sent_date": "2025-11-03T23:21:33.604767",
+    "stars": 56,
+    "url": "https://github.com/louisbrulenaudet/genai-api"
+  },
+  "996149441": {
+    "name": "zea",
+    "full_name": "tue-bmd/zea",
+    "sent_date": "2025-11-03T23:22:19.863118",
+    "stars": 33,
+    "url": "https://github.com/tue-bmd/zea"
+  },
+  "1080723034": {
+    "name": "QuantraVision",
+    "full_name": "Lamont-Labs/QuantraVision",
+    "sent_date": "2025-11-03T23:22:19.866483",
+    "stars": 1,
+    "url": "https://github.com/Lamont-Labs/QuantraVision"
+  },
+  "605232014": {
+    "name": "torchani-amber",
+    "full_name": "roitberg-group/torchani-amber",
+    "sent_date": "2025-11-03T23:23:05.261774",
+    "stars": 10,
+    "url": "https://github.com/roitberg-group/torchani-amber"
+  },
+  "1039211803": {
+    "name": "MIPCandy",
+    "full_name": "ProjectNeura/MIPCandy",
+    "sent_date": "2025-11-03T23:23:05.265099",
+    "stars": 4,
+    "url": "https://github.com/ProjectNeura/MIPCandy"
+  },
+  "1082129491": {
+    "name": "Swan_Quote_Generator",
+    "full_name": "1AyaNabil1/Swan_Quote_Generator",
+    "sent_date": "2025-11-03T23:23:50.145055",
+    "stars": 0,
+    "url": "https://github.com/1AyaNabil1/Swan_Quote_Generator"
+  },
+  "1084418200": {
+    "name": "Computer-Vision-Deep-Learning-License-Plate-Reader",
+    "full_name": "bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader",
+    "sent_date": "2025-11-03T23:23:50.148288",
+    "stars": 0,
+    "url": "https://github.com/bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader"
   }
 }
