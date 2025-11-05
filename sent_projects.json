@@ -1,88 +1,4 @@
 {
-  "208145128": {
-    "name": "iree",
-    "full_name": "iree-org/iree",
-    "sent_date": "2025-10-06T23:18:30.738860",
-    "stars": 3371,
-    "url": "https://github.com/iree-org/iree"
-  },
-  "224148738": {
-    "name": "torchio",
-    "full_name": "TorchIO-project/torchio",
-    "sent_date": "2025-10-06T23:18:30.740684",
-    "stars": 2277,
-    "url": "https://github.com/TorchIO-project/torchio"
-  },
-  "371198718": {
-    "name": "vertex-ai-samples",
-    "full_name": "GoogleCloudPlatform/vertex-ai-samples",
-    "sent_date": "2025-10-06T23:19:15.281284",
-    "stars": 505,
-    "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples"
-  },
-  "705428944": {
-    "name": "bionemo-framework",
-    "full_name": "NVIDIA/bionemo-framework",
-    "sent_date": "2025-10-06T23:19:15.283156",
-    "stars": 530,
-    "url": "https://github.com/NVIDIA/bionemo-framework"
-  },
-  "597739444": {
-    "name": "aikon",
-    "full_name": "Aikon-platform/aikon",
-    "sent_date": "2025-10-06T23:19:59.995003",
-    "stars": 23,
-    "url": "https://github.com/Aikon-platform/aikon"
-  },
-  "1038143052": {
-    "name": "machine-learning-course-2025",
-    "full_name": "MohElshamy1994/machine-learning-course-2025",
-    "sent_date": "2025-10-06T23:19:59.996855",
-    "stars": 12,
-    "url": "https://github.com/MohElshamy1994/machine-learning-course-2025"
-  },
-  "1013445775": {
-    "name": "claude-code-proxy",
-    "full_name": "Haidzai/claude-code-proxy",
-    "sent_date": "2025-10-06T23:20:44.417964",
-    "stars": 9,
-    "url": "https://github.com/Haidzai/claude-code-proxy"
-  },
-  "988360876": {
-    "name": "dating-agent",
-    "full_name": "corrupt0303/dating-agent",
-    "sent_date": "2025-10-06T23:20:44.419713",
-    "stars": 4,
-    "url": "https://github.com/corrupt0303/dating-agent"
-  },
-  "1013783472": {
-    "name": "AICryptoTrade-Bots",
-    "full_name": "Alisher321/AICryptoTrade-Bots",
-    "sent_date": "2025-10-06T23:21:29.593870",
-    "stars": 0,
-    "url": "https://github.com/Alisher321/AICryptoTrade-Bots"
-  },
-  "1023901444": {
-    "name": "crypto_predictor",
-    "full_name": "Subhan-Noor/crypto_predictor",
-    "sent_date": "2025-10-06T23:21:29.595792",
-    "stars": 0,
-    "url": "https://github.com/Subhan-Noor/crypto_predictor"
-  },
-  "1001246813": {
-    "name": "MLOPS-Pipeline-Dashboard",
-    "full_name": "gituser2610/MLOPS-Pipeline-Dashboard",
-    "sent_date": "2025-10-06T23:22:14.443248",
-    "stars": 0,
-    "url": "https://github.com/gituser2610/MLOPS-Pipeline-Dashboard"
-  },
-  "997756950": {
-    "name": "disaster-tweets-classification",
-    "full_name": "kade-one/disaster-tweets-classification",
-    "sent_date": "2025-10-06T23:22:14.445152",
-    "stars": 0,
-    "url": "https://github.com/kade-one/disaster-tweets-classification"
-  },
   "1007924995": {
     "name": "forge",
     "full_name": "meta-pytorch/forge",
@@ -2896,5 +2812,96 @@
     "sent_date": "2025-11-04T23:23:50.712212",
     "stars": 0,
     "url": "https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI"
+  },
+  "170161374": {
+    "name": "computervision-recipes",
+    "full_name": "microsoft/computervision-recipes",
+    "sent_date": "2025-11-05T23:20:30.981135",
+    "stars": 9782,
+    "url": "https://github.com/microsoft/computervision-recipes"
+  },
+  "1090518205": {
+    "name": "medical-equipment-classification",
+    "full_name": "Safaa-Abdallah/medical-equipment-classification",
+    "sent_date": "2025-11-05T23:20:30.984429",
+    "stars": 2,
+    "url": "https://github.com/Safaa-Abdallah/medical-equipment-classification"
+  },
+  "1083944602": {
+    "name": "9517_Group_Project",
+    "full_name": "jerryjlzhou/9517_Group_Project",
+    "sent_date": "2025-11-05T23:20:30.987693",
+    "stars": 1,
+    "url": "https://github.com/jerryjlzhou/9517_Group_Project"
+  },
+  "117284137": {
+    "name": "ultimateALPR-SDK",
+    "full_name": "DoubangoTelecom/ultimateALPR-SDK",
+    "sent_date": "2025-11-05T23:21:16.810789",
+    "stars": 695,
+    "url": "https://github.com/DoubangoTelecom/ultimateALPR-SDK"
+  },
+  "627510037": {
+    "name": "AgentGPT-zh",
+    "full_name": "RiseInRose/AgentGPT-zh",
+    "sent_date": "2025-11-05T23:21:16.813897",
+    "stars": 136,
+    "url": "https://github.com/RiseInRose/AgentGPT-zh"
+  },
+  "627225602": {
+    "name": "Auto-GPT-zh",
+    "full_name": "RiseInRose/Auto-GPT-zh",
+    "sent_date": "2025-11-05T23:22:01.745343",
+    "stars": 45,
+    "url": "https://github.com/RiseInRose/Auto-GPT-zh"
+  },
+  "961499507": {
+    "name": "marl-ppo-suite",
+    "full_name": "xujiuqing2023/marl-ppo-suite",
+    "sent_date": "2025-11-05T23:22:01.748690",
+    "stars": 11,
+    "url": "https://github.com/xujiuqing2023/marl-ppo-suite"
+  },
+  "966462945": {
+    "name": "Autism_Companian_Gen-Ai_Project_Kaggle",
+    "full_name": "VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle",
+    "sent_date": "2025-11-05T23:22:47.971570",
+    "stars": 3,
+    "url": "https://github.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle"
+  },
+  "966483758": {
+    "name": "ai-portfolio",
+    "full_name": "dawit867/ai-portfolio",
+    "sent_date": "2025-11-05T23:22:47.974968",
+    "stars": 2,
+    "url": "https://github.com/dawit867/ai-portfolio"
+  },
+  "1090580865": {
+    "name": "Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project",
+    "full_name": "berkantGunel/Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project",
+    "sent_date": "2025-11-05T23:23:32.115612",
+    "stars": 0,
+    "url": "https://github.com/berkantGunel/Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project"
+  },
+  "966597709": {
+    "name": "Sensor-Data-Analytics",
+    "full_name": "Ayan007JBond/Sensor-Data-Analytics",
+    "sent_date": "2025-11-05T23:23:32.118795",
+    "stars": 1,
+    "url": "https://github.com/Ayan007JBond/Sensor-Data-Analytics"
+  },
+  "968655183": {
+    "name": "drone-tools",
+    "full_name": "NGBen1/drone-tools",
+    "sent_date": "2025-11-05T23:24:16.047102",
+    "stars": 16,
+    "url": "https://github.com/NGBen1/drone-tools"
+  },
+  "968434847": {
+    "name": "Stock-Predictor",
+    "full_name": "GwRzky/Stock-Predictor",
+    "sent_date": "2025-11-05T23:24:16.050435",
+    "stars": 2,
+    "url": "https://github.com/GwRzky/Stock-Predictor"
   }
 }
