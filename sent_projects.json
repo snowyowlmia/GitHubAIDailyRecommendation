@@ -1,88 +1,4 @@
 {
-  "1007924995": {
-    "name": "forge",
-    "full_name": "meta-pytorch/forge",
-    "sent_date": "2025-10-07T23:18:22.234091",
-    "stars": 40,
-    "url": "https://github.com/meta-pytorch/forge"
-  },
-  "309381188": {
-    "name": "openvino_contrib",
-    "full_name": "openvinotoolkit/openvino_contrib",
-    "sent_date": "2025-10-07T23:18:22.235922",
-    "stars": 141,
-    "url": "https://github.com/openvinotoolkit/openvino_contrib"
-  },
-  "607845880": {
-    "name": "maxtext",
-    "full_name": "AI-Hypercomputer/maxtext",
-    "sent_date": "2025-10-07T23:19:06.915953",
-    "stars": 1921,
-    "url": "https://github.com/AI-Hypercomputer/maxtext"
-  },
-  "1066057576": {
-    "name": "chat-bot",
-    "full_name": "Jasn57/chat-bot",
-    "sent_date": "2025-10-07T23:19:06.917737",
-    "stars": 2,
-    "url": "https://github.com/Jasn57/chat-bot"
-  },
-  "1063399884": {
-    "name": "Gradio-Beginners-Course-2025",
-    "full_name": "lilike345/Gradio-Beginners-Course-2025",
-    "sent_date": "2025-10-07T23:19:51.193786",
-    "stars": 0,
-    "url": "https://github.com/lilike345/Gradio-Beginners-Course-2025"
-  },
-  "1063375166": {
-    "name": "AI-Powered-Loan-Eligibility-Risk-Scoring-System",
-    "full_name": "oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System",
-    "sent_date": "2025-10-07T23:19:51.195720",
-    "stars": 0,
-    "url": "https://github.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System"
-  },
-  "595832198": {
-    "name": "helicone",
-    "full_name": "Helicone/helicone",
-    "sent_date": "2025-10-07T23:20:35.963320",
-    "stars": 4563,
-    "url": "https://github.com/Helicone/helicone"
-  },
-  "1063036232": {
-    "name": "AI-chatbot",
-    "full_name": "MAGGER1827/AI-chatbot",
-    "sent_date": "2025-10-07T23:20:35.965153",
-    "stars": 1,
-    "url": "https://github.com/MAGGER1827/AI-chatbot"
-  },
-  "1054580680": {
-    "name": "AI-Dialogue-Memory-Based-on-Hidden-State",
-    "full_name": "vaswdeferenss/AI-Dialogue-Memory-Based-on-Hidden-State",
-    "sent_date": "2025-10-07T23:21:21.183925",
-    "stars": 1,
-    "url": "https://github.com/vaswdeferenss/AI-Dialogue-Memory-Based-on-Hidden-State"
-  },
-  "1065051153": {
-    "name": "Youtube-Sentiment-Analysis",
-    "full_name": "KieSama/Youtube-Sentiment-Analysis",
-    "sent_date": "2025-10-07T23:21:21.186068",
-    "stars": 0,
-    "url": "https://github.com/KieSama/Youtube-Sentiment-Analysis"
-  },
-  "778431525": {
-    "name": "graphrag",
-    "full_name": "microsoft/graphrag",
-    "sent_date": "2025-10-07T23:22:06.325289",
-    "stars": 28511,
-    "url": "https://github.com/microsoft/graphrag"
-  },
-  "1062267434": {
-    "name": "MLJobSearch2025",
-    "full_name": "SeroRoch/MLJobSearch2025",
-    "sent_date": "2025-10-07T23:22:06.327183",
-    "stars": 0,
-    "url": "https://github.com/SeroRoch/MLJobSearch2025"
-  },
   "476314415": {
     "name": "CV",
     "full_name": "AccumulateMore/CV",
@@ -2903,5 +2819,68 @@
     "sent_date": "2025-11-05T23:24:16.050435",
     "stars": 2,
     "url": "https://github.com/GwRzky/Stock-Predictor"
+  },
+  "851997597": {
+    "name": "LiteRT",
+    "full_name": "google-ai-edge/LiteRT",
+    "sent_date": "2025-11-06T23:19:55.022894",
+    "stars": 925,
+    "url": "https://github.com/google-ai-edge/LiteRT"
+  },
+  "208145128": {
+    "name": "iree",
+    "full_name": "iree-org/iree",
+    "sent_date": "2025-11-06T23:19:55.026264",
+    "stars": 3446,
+    "url": "https://github.com/iree-org/iree"
+  },
+  "140302908": {
+    "name": "supervisely",
+    "full_name": "supervisely/supervisely",
+    "sent_date": "2025-11-06T23:20:39.414293",
+    "stars": 508,
+    "url": "https://github.com/supervisely/supervisely"
+  },
+  "864172209": {
+    "name": "fnord",
+    "full_name": "sysread/fnord",
+    "sent_date": "2025-11-06T23:20:39.417691",
+    "stars": 32,
+    "url": "https://github.com/sysread/fnord"
+  },
+  "595832198": {
+    "name": "helicone",
+    "full_name": "Helicone/helicone",
+    "sent_date": "2025-11-06T23:21:24.161601",
+    "stars": 4682,
+    "url": "https://github.com/Helicone/helicone"
+  },
+  "1087355253": {
+    "name": "NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D",
+    "full_name": "Garrett-Mckenzie/NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D",
+    "sent_date": "2025-11-06T23:21:24.166458",
+    "stars": 1,
+    "url": "https://github.com/Garrett-Mckenzie/NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D"
+  },
+  "934434110": {
+    "name": "webXOS",
+    "full_name": "webxos/webXOS",
+    "sent_date": "2025-11-06T23:22:08.867877",
+    "stars": 9,
+    "url": "https://github.com/webxos/webXOS"
+  },
+  "1091360050": {
+    "name": "Smart_Supply_Chain_Optimization",
+    "full_name": "Prateek1607/Smart_Supply_Chain_Optimization",
+    "sent_date": "2025-11-06T23:22:08.871081",
+    "stars": 0,
+    "url": "https://github.com/Prateek1607/Smart_Supply_Chain_Optimization"
+  },
+  "1089031935": {
+    "name": "torchcomms",
+    "full_name": "rageelixer853/torchcomms",
+    "sent_date": "2025-11-06T23:22:53.064014",
+    "stars": 0,
+    "url": "https://github.com/rageelixer853/torchcomms"
   }
 }
