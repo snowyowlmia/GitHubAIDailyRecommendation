@@ -1,88 +1,4 @@
 {
-  "476314415": {
-    "name": "CV",
-    "full_name": "AccumulateMore/CV",
-    "sent_date": "2025-10-08T23:18:45.850896",
-    "stars": 13621,
-    "url": "https://github.com/AccumulateMore/CV"
-  },
-  "714073518": {
-    "name": "ao",
-    "full_name": "pytorch/ao",
-    "sent_date": "2025-10-08T23:18:45.852883",
-    "stars": 2393,
-    "url": "https://github.com/pytorch/ao"
-  },
-  "869176390": {
-    "name": "tritonbench",
-    "full_name": "meta-pytorch/tritonbench",
-    "sent_date": "2025-10-08T23:19:30.281841",
-    "stars": 248,
-    "url": "https://github.com/meta-pytorch/tritonbench"
-  },
-  "1071791736": {
-    "name": "tb-chest-xray-classifier",
-    "full_name": "sorna-fast/tb-chest-xray-classifier",
-    "sent_date": "2025-10-08T23:19:30.283905",
-    "stars": 2,
-    "url": "https://github.com/sorna-fast/tb-chest-xray-classifier"
-  },
-  "1071453033": {
-    "name": "Cognivue",
-    "full_name": "Naumanpatell/Cognivue",
-    "sent_date": "2025-10-08T23:20:15.006507",
-    "stars": 0,
-    "url": "https://github.com/Naumanpatell/Cognivue"
-  },
-  "953343446": {
-    "name": "RustyML",
-    "full_name": "SomeB1oody/RustyML",
-    "sent_date": "2025-10-08T23:20:15.008670",
-    "stars": 9,
-    "url": "https://github.com/SomeB1oody/RustyML"
-  },
-  "1050710267": {
-    "name": "St4RTrack",
-    "full_name": "nhan-nguyen-trong/St4RTrack",
-    "sent_date": "2025-10-08T23:20:59.533511",
-    "stars": 3,
-    "url": "https://github.com/nhan-nguyen-trong/St4RTrack"
-  },
-  "1049944764": {
-    "name": "AI_Hanlin",
-    "full_name": "anwarpagu/AI_Hanlin",
-    "sent_date": "2025-10-08T23:20:59.535660",
-    "stars": 1,
-    "url": "https://github.com/anwarpagu/AI_Hanlin"
-  },
-  "1005198791": {
-    "name": "Hacking-AI-",
-    "full_name": "Niyi0/Hacking-AI-",
-    "sent_date": "2025-10-08T23:21:44.554394",
-    "stars": 5,
-    "url": "https://github.com/Niyi0/Hacking-AI-"
-  },
-  "1072503159": {
-    "name": "Sankatos-App-Data_Insights-",
-    "full_name": "mzakyi/Sankatos-App-Data_Insights-",
-    "sent_date": "2025-10-08T23:21:44.556349",
-    "stars": 0,
-    "url": "https://github.com/mzakyi/Sankatos-App-Data_Insights-"
-  },
-  "926188070": {
-    "name": "CICD-Machine-Learning",
-    "full_name": "ariful59/CICD-Machine-Learning",
-    "sent_date": "2025-10-08T23:22:29.779851",
-    "stars": 0,
-    "url": "https://github.com/ariful59/CICD-Machine-Learning"
-  },
-  "872267385": {
-    "name": "ai-assisted-development-guide",
-    "full_name": "okhuyag/ai-assisted-development-guide",
-    "sent_date": "2025-10-08T23:22:29.781832",
-    "stars": 0,
-    "url": "https://github.com/okhuyag/ai-assisted-development-guide"
-  },
   "167694194": {
     "name": "frigate",
     "full_name": "blakeblackshear/frigate",
@@ -2882,5 +2798,89 @@
     "sent_date": "2025-11-06T23:22:53.064014",
     "stars": 0,
     "url": "https://github.com/rageelixer853/torchcomms"
+  },
+  "1091376718": {
+    "name": "Open-Kimi",
+    "full_name": "kyegomez/Open-Kimi",
+    "sent_date": "2025-11-07T23:19:24.219276",
+    "stars": 5,
+    "url": "https://github.com/kyegomez/Open-Kimi"
+  },
+  "1091729613": {
+    "name": "Uniswap-Ethereum-Bot-V3",
+    "full_name": "qUAKetREMorHO/Uniswap-Ethereum-Bot-V3",
+    "sent_date": "2025-11-07T23:19:24.222417",
+    "stars": 1,
+    "url": "https://github.com/qUAKetREMorHO/Uniswap-Ethereum-Bot-V3"
+  },
+  "528328355": {
+    "name": "modal-examples",
+    "full_name": "modal-labs/modal-examples",
+    "sent_date": "2025-11-07T23:20:09.251162",
+    "stars": 1017,
+    "url": "https://github.com/modal-labs/modal-examples"
+  },
+  "260348092": {
+    "name": "language_tool_python",
+    "full_name": "jxmorris12/language_tool_python",
+    "sent_date": "2025-11-07T23:20:09.254270",
+    "stars": 496,
+    "url": "https://github.com/jxmorris12/language_tool_python"
+  },
+  "1013935699": {
+    "name": "qwen-tts",
+    "full_name": "mco2004/qwen-tts",
+    "sent_date": "2025-11-07T23:20:54.243718",
+    "stars": 81,
+    "url": "https://github.com/mco2004/qwen-tts"
+  },
+  "949349630": {
+    "name": "VulnWatchdog",
+    "full_name": "arschlochnop/VulnWatchdog",
+    "sent_date": "2025-11-07T23:20:54.246812",
+    "stars": 57,
+    "url": "https://github.com/arschlochnop/VulnWatchdog"
+  },
+  "1013445775": {
+    "name": "claude-code-proxy",
+    "full_name": "Haidzai/claude-code-proxy",
+    "sent_date": "2025-11-07T23:21:39.662764",
+    "stars": 11,
+    "url": "https://github.com/Haidzai/claude-code-proxy"
+  },
+  "1013629260": {
+    "name": "ai-pdf-chatbot-langchain",
+    "full_name": "guahusni/ai-pdf-chatbot-langchain",
+    "sent_date": "2025-11-07T23:21:39.665952",
+    "stars": 3,
+    "url": "https://github.com/guahusni/ai-pdf-chatbot-langchain"
+  },
+  "1013783472": {
+    "name": "AICryptoTrade-Bots",
+    "full_name": "Alisher321/AICryptoTrade-Bots",
+    "sent_date": "2025-11-07T23:22:25.054455",
+    "stars": 1,
+    "url": "https://github.com/Alisher321/AICryptoTrade-Bots"
+  },
+  "1001246813": {
+    "name": "MLOPS-Pipeline-Dashboard",
+    "full_name": "gituser2610/MLOPS-Pipeline-Dashboard",
+    "sent_date": "2025-11-07T23:22:25.057599",
+    "stars": 0,
+    "url": "https://github.com/gituser2610/MLOPS-Pipeline-Dashboard"
+  },
+  "997756950": {
+    "name": "disaster-tweets-classification",
+    "full_name": "kade-one/disaster-tweets-classification",
+    "sent_date": "2025-11-07T23:23:09.787184",
+    "stars": 0,
+    "url": "https://github.com/kade-one/disaster-tweets-classification"
+  },
+  "1023153706": {
+    "name": "langid",
+    "full_name": "eliangonde/langid",
+    "sent_date": "2025-11-07T23:23:09.790137",
+    "stars": 0,
+    "url": "https://github.com/eliangonde/langid"
   }
 }
