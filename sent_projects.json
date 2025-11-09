@@ -1,172 +1,4 @@
 {
-  "167694194": {
-    "name": "frigate",
-    "full_name": "blakeblackshear/frigate",
-    "sent_date": "2025-10-09T23:18:48.093607",
-    "stars": 26329,
-    "url": "https://github.com/blakeblackshear/frigate"
-  },
-  "861746639": {
-    "name": "paperless-gpt",
-    "full_name": "icereed/paperless-gpt",
-    "sent_date": "2025-10-09T23:18:48.095526",
-    "stars": 1460,
-    "url": "https://github.com/icereed/paperless-gpt"
-  },
-  "385408663": {
-    "name": "torchrec",
-    "full_name": "meta-pytorch/torchrec",
-    "sent_date": "2025-10-09T23:19:32.922223",
-    "stars": 2360,
-    "url": "https://github.com/meta-pytorch/torchrec"
-  },
-  "614250126": {
-    "name": "chatgpt.js",
-    "full_name": "KudoAI/chatgpt.js",
-    "sent_date": "2025-10-09T23:19:32.924170",
-    "stars": 1982,
-    "url": "https://github.com/KudoAI/chatgpt.js"
-  },
-  "622048803": {
-    "name": "ai-web-extensions",
-    "full_name": "adamlui/ai-web-extensions",
-    "sent_date": "2025-10-09T23:20:17.508854",
-    "stars": 510,
-    "url": "https://github.com/adamlui/ai-web-extensions"
-  },
-  "989499651": {
-    "name": "AudioMuse-AI",
-    "full_name": "NeptuneHub/AudioMuse-AI",
-    "sent_date": "2025-10-09T23:20:17.510848",
-    "stars": 413,
-    "url": "https://github.com/NeptuneHub/AudioMuse-AI"
-  },
-  "1064350961": {
-    "name": "xrblocks",
-    "full_name": "google/xrblocks",
-    "sent_date": "2025-10-09T23:21:02.021240",
-    "stars": 19,
-    "url": "https://github.com/google/xrblocks"
-  },
-  "1073291598": {
-    "name": "SQL-Python-Telco-Customer",
-    "full_name": "jmuraofranci/SQL-Python-Telco-Customer",
-    "sent_date": "2025-10-09T23:21:02.023379",
-    "stars": 1,
-    "url": "https://github.com/jmuraofranci/SQL-Python-Telco-Customer"
-  },
-  "1073284998": {
-    "name": "Animal-ID-Vision-Transformer",
-    "full_name": "JessPress0/Animal-ID-Vision-Transformer",
-    "sent_date": "2025-10-09T23:21:46.767569",
-    "stars": 1,
-    "url": "https://github.com/JessPress0/Animal-ID-Vision-Transformer"
-  },
-  "1067949926": {
-    "name": "retail-ai-assistant",
-    "full_name": "kingsley-123/retail-ai-assistant",
-    "sent_date": "2025-10-09T23:21:46.769713",
-    "stars": 1,
-    "url": "https://github.com/kingsley-123/retail-ai-assistant"
-  },
-  "922090785": {
-    "name": "DocGPT",
-    "full_name": "Doanquangthe/DocGPT",
-    "sent_date": "2025-10-09T23:22:31.078913",
-    "stars": 8,
-    "url": "https://github.com/Doanquangthe/DocGPT"
-  },
-  "927359842": {
-    "name": "Heart_Attack",
-    "full_name": "Quang123-op/Heart_Attack",
-    "sent_date": "2025-10-09T23:22:31.081149",
-    "stars": 2,
-    "url": "https://github.com/Quang123-op/Heart_Attack"
-  },
-  "153097643": {
-    "name": "openvino",
-    "full_name": "openvinotoolkit/openvino",
-    "sent_date": "2025-10-10T23:18:12.896900",
-    "stars": 9014,
-    "url": "https://github.com/openvinotoolkit/openvino"
-  },
-  "523007292": {
-    "name": "xla",
-    "full_name": "openxla/xla",
-    "sent_date": "2025-10-10T23:18:12.899123",
-    "stars": 3587,
-    "url": "https://github.com/openxla/xla"
-  },
-  "93868719": {
-    "name": "gpytorch",
-    "full_name": "cornellius-gp/gpytorch",
-    "sent_date": "2025-10-10T23:18:57.761164",
-    "stars": 3779,
-    "url": "https://github.com/cornellius-gp/gpytorch"
-  },
-  "1073413392": {
-    "name": "SANKATOS-ML-APP",
-    "full_name": "mzakyi/SANKATOS-ML-APP",
-    "sent_date": "2025-10-10T23:18:57.763374",
-    "stars": 1,
-    "url": "https://github.com/mzakyi/SANKATOS-ML-APP"
-  },
-  "989662672": {
-    "name": "TreeLoRA",
-    "full_name": "ZinYY/TreeLoRA",
-    "sent_date": "2025-10-10T23:19:42.401420",
-    "stars": 63,
-    "url": "https://github.com/ZinYY/TreeLoRA"
-  },
-  "79553632": {
-    "name": "lingvo--Ner-ru",
-    "full_name": "zamgi/lingvo--Ner-ru",
-    "sent_date": "2025-10-10T23:19:42.403672",
-    "stars": 41,
-    "url": "https://github.com/zamgi/lingvo--Ner-ru"
-  },
-  "1049255942": {
-    "name": "dire-rapids",
-    "full_name": "sashakolpakov/dire-rapids",
-    "sent_date": "2025-10-10T23:20:27.537222",
-    "stars": 6,
-    "url": "https://github.com/sashakolpakov/dire-rapids"
-  },
-  "620474521": {
-    "name": "lingvo--NER--German",
-    "full_name": "zamgi/lingvo--NER--German",
-    "sent_date": "2025-10-10T23:20:27.539470",
-    "stars": 5,
-    "url": "https://github.com/zamgi/lingvo--NER--German"
-  },
-  "130357134": {
-    "name": "lingvo--TextSegmenter",
-    "full_name": "zamgi/lingvo--TextSegmenter",
-    "sent_date": "2025-10-10T23:21:12.149267",
-    "stars": 9,
-    "url": "https://github.com/zamgi/lingvo--TextSegmenter"
-  },
-  "79555280": {
-    "name": "lingvo--Ner-en",
-    "full_name": "zamgi/lingvo--Ner-en",
-    "sent_date": "2025-10-10T23:21:12.151541",
-    "stars": 8,
-    "url": "https://github.com/zamgi/lingvo--Ner-en"
-  },
-  "1073178324": {
-    "name": "Back-Office-Documentation-and-Routing-Agent",
-    "full_name": "Akshumalkar/Back-Office-Documentation-and-Routing-Agent",
-    "sent_date": "2025-10-10T23:21:56.594053",
-    "stars": 0,
-    "url": "https://github.com/Akshumalkar/Back-Office-Documentation-and-Routing-Agent"
-  },
-  "1072657833": {
-    "name": "solar-image-recognition",
-    "full_name": "Karim123495/solar-image-recognition",
-    "sent_date": "2025-10-10T23:21:56.596328",
-    "stars": 0,
-    "url": "https://github.com/Karim123495/solar-image-recognition"
-  },
   "836331773": {
     "name": "distributed-training-guide",
     "full_name": "LambdaLabsML/distributed-training-guide",
@@ -2882,5 +2714,89 @@
     "sent_date": "2025-11-07T23:23:09.790137",
     "stars": 0,
     "url": "https://github.com/eliangonde/langid"
+  },
+  "669331976": {
+    "name": "flashinfer",
+    "full_name": "flashinfer-ai/flashinfer",
+    "sent_date": "2025-11-09T23:18:56.764814",
+    "stars": 4036,
+    "url": "https://github.com/flashinfer-ai/flashinfer"
+  },
+  "1092555035": {
+    "name": "Sign-Language-Translator",
+    "full_name": "asherk7/Sign-Language-Translator",
+    "sent_date": "2025-11-09T23:18:56.767784",
+    "stars": 1,
+    "url": "https://github.com/asherk7/Sign-Language-Translator"
+  },
+  "1093113076": {
+    "name": "pneumonia-detection-pytorch",
+    "full_name": "4AL3-Machine-Learning/pneumonia-detection-pytorch",
+    "sent_date": "2025-11-09T23:19:41.134699",
+    "stars": 1,
+    "url": "https://github.com/4AL3-Machine-Learning/pneumonia-detection-pytorch"
+  },
+  "411827701": {
+    "name": "OpeNTF",
+    "full_name": "fani-lab/OpeNTF",
+    "sent_date": "2025-11-09T23:19:41.137939",
+    "stars": 27,
+    "url": "https://github.com/fani-lab/OpeNTF"
+  },
+  "1082750257": {
+    "name": "ML-practical",
+    "full_name": "ajch1386-star/ML-practical",
+    "sent_date": "2025-11-09T23:20:25.546121",
+    "stars": 1,
+    "url": "https://github.com/ajch1386-star/ML-practical"
+  },
+  "1093114210": {
+    "name": "A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction",
+    "full_name": "vivektara24/A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction",
+    "sent_date": "2025-11-09T23:20:25.549381",
+    "stars": 0,
+    "url": "https://github.com/vivektara24/A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction"
+  },
+  "1092643954": {
+    "name": "llm",
+    "full_name": "ultralytics/llm",
+    "sent_date": "2025-11-09T23:21:12.488371",
+    "stars": 5,
+    "url": "https://github.com/ultralytics/llm"
+  },
+  "1059594765": {
+    "name": "comfyui-smart-lora-downloader",
+    "full_name": "mcrataobrabo/comfyui-smart-lora-downloader",
+    "sent_date": "2025-11-09T23:21:12.491491",
+    "stars": 4,
+    "url": "https://github.com/mcrataobrabo/comfyui-smart-lora-downloader"
+  },
+  "227367327": {
+    "name": "PINTO_model_zoo",
+    "full_name": "PINTO0309/PINTO_model_zoo",
+    "sent_date": "2025-11-09T23:21:56.637803",
+    "stars": 3966,
+    "url": "https://github.com/PINTO0309/PINTO_model_zoo"
+  },
+  "1093112066": {
+    "name": "Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE",
+    "full_name": "GauravRathi3159/Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE",
+    "sent_date": "2025-11-09T23:21:56.641561",
+    "stars": 0,
+    "url": "https://github.com/GauravRathi3159/Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE"
+  },
+  "1093110320": {
+    "name": "Winning-the-Space-Race-with-Data-Science",
+    "full_name": "Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science",
+    "sent_date": "2025-11-09T23:22:40.778849",
+    "stars": 0,
+    "url": "https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science"
+  },
+  "1065051153": {
+    "name": "Youtube-Sentiment-Analysis",
+    "full_name": "KieSama/Youtube-Sentiment-Analysis",
+    "sent_date": "2025-11-09T23:22:40.781780",
+    "stars": 0,
+    "url": "https://github.com/KieSama/Youtube-Sentiment-Analysis"
   }
 }
