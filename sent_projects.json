@@ -1,88 +1,4 @@
 {
-  "836331773": {
-    "name": "distributed-training-guide",
-    "full_name": "LambdaLabsML/distributed-training-guide",
-    "sent_date": "2025-10-11T23:18:12.803948",
-    "stars": 495,
-    "url": "https://github.com/LambdaLabsML/distributed-training-guide"
-  },
-  "633757598": {
-    "name": "chatgpt-infinity",
-    "full_name": "adamlui/chatgpt-infinity",
-    "sent_date": "2025-10-11T23:18:12.806147",
-    "stars": 334,
-    "url": "https://github.com/adamlui/chatgpt-infinity"
-  },
-  "620551205": {
-    "name": "chatgpt-widescreen",
-    "full_name": "adamlui/chatgpt-widescreen",
-    "sent_date": "2025-10-11T23:18:57.129861",
-    "stars": 171,
-    "url": "https://github.com/adamlui/chatgpt-widescreen"
-  },
-  "129746296": {
-    "name": "botserver",
-    "full_name": "GeneralBots/botserver",
-    "sent_date": "2025-10-11T23:18:57.132007",
-    "stars": 70,
-    "url": "https://github.com/GeneralBots/botserver"
-  },
-  "102692863": {
-    "name": "onnx",
-    "full_name": "onnx/onnx",
-    "sent_date": "2025-10-11T23:19:41.295880",
-    "stars": 19714,
-    "url": "https://github.com/onnx/onnx"
-  },
-  "1074488210": {
-    "name": "gliomascope-rx",
-    "full_name": "imchandanmohan/gliomascope-rx",
-    "sent_date": "2025-10-11T23:19:41.298105",
-    "stars": 1,
-    "url": "https://github.com/imchandanmohan/gliomascope-rx"
-  },
-  "908422379": {
-    "name": "SkinCare.ai",
-    "full_name": "WidiantoID/SkinCare.ai",
-    "sent_date": "2025-10-11T23:20:25.824428",
-    "stars": 1,
-    "url": "https://github.com/WidiantoID/SkinCare.ai"
-  },
-  "885401895": {
-    "name": "AIR-CANVAS-USING-OPENCV",
-    "full_name": "Sharathhk122/AIR-CANVAS-USING-OPENCV",
-    "sent_date": "2025-10-11T23:20:25.826702",
-    "stars": 1,
-    "url": "https://github.com/Sharathhk122/AIR-CANVAS-USING-OPENCV"
-  },
-  "1074496712": {
-    "name": "NutriGuide-Calory-counter",
-    "full_name": "Ashyboss/NutriGuide-Calory-counter",
-    "sent_date": "2025-10-11T23:21:09.997438",
-    "stars": 0,
-    "url": "https://github.com/Ashyboss/NutriGuide-Calory-counter"
-  },
-  "1028704000": {
-    "name": "STOCK-MARKET-REGIME-DETECTION",
-    "full_name": "molka-elloumi/STOCK-MARKET-REGIME-DETECTION",
-    "sent_date": "2025-10-11T23:21:09.999692",
-    "stars": 0,
-    "url": "https://github.com/molka-elloumi/STOCK-MARKET-REGIME-DETECTION"
-  },
-  "1074501291": {
-    "name": "Social-Media-Engagement-Analysis",
-    "full_name": "hgbidon/Social-Media-Engagement-Analysis",
-    "sent_date": "2025-10-11T23:21:54.236815",
-    "stars": 0,
-    "url": "https://github.com/hgbidon/Social-Media-Engagement-Analysis"
-  },
-  "1074490485": {
-    "name": "celluloseacetate-hts",
-    "full_name": "burhanbeycan/celluloseacetate-hts",
-    "sent_date": "2025-10-11T23:21:54.239073",
-    "stars": 0,
-    "url": "https://github.com/burhanbeycan/celluloseacetate-hts"
-  },
   "246634306": {
     "name": "TensorRT",
     "full_name": "pytorch/TensorRT",
@@ -2798,5 +2714,89 @@
     "sent_date": "2025-11-09T23:22:40.781780",
     "stars": 0,
     "url": "https://github.com/KieSama/Youtube-Sentiment-Analysis"
+  },
+  "730932260": {
+    "name": "torchtitan",
+    "full_name": "pytorch/torchtitan",
+    "sent_date": "2025-11-10T23:20:49.683424",
+    "stars": 4672,
+    "url": "https://github.com/pytorch/torchtitan"
+  },
+  "523007292": {
+    "name": "xla",
+    "full_name": "openxla/xla",
+    "sent_date": "2025-11-10T23:20:49.686390",
+    "stars": 3663,
+    "url": "https://github.com/openxla/xla"
+  },
+  "663409294": {
+    "name": "ryzen-ai-documentation",
+    "full_name": "amd/ryzen-ai-documentation",
+    "sent_date": "2025-11-10T23:21:36.272107",
+    "stars": 85,
+    "url": "https://github.com/amd/ryzen-ai-documentation"
+  },
+  "1087399663": {
+    "name": "alignmenter",
+    "full_name": "justinGrosvenor/alignmenter",
+    "sent_date": "2025-11-10T23:21:36.275018",
+    "stars": 3,
+    "url": "https://github.com/justinGrosvenor/alignmenter"
+  },
+  "867849815": {
+    "name": "torch-ttt",
+    "full_name": "nikitadurasov/torch-ttt",
+    "sent_date": "2025-11-10T23:22:22.625225",
+    "stars": 26,
+    "url": "https://github.com/nikitadurasov/torch-ttt"
+  },
+  "1091357960": {
+    "name": "vitorhugo-portfolio",
+    "full_name": "vitorsantoszoo/vitorhugo-portfolio",
+    "sent_date": "2025-11-10T23:22:22.628359",
+    "stars": 1,
+    "url": "https://github.com/vitorsantoszoo/vitorhugo-portfolio"
+  },
+  "1004417914": {
+    "name": "devantixlabs",
+    "full_name": "devantixlabs/devantixlabs",
+    "sent_date": "2025-11-10T23:23:08.414289",
+    "stars": 1,
+    "url": "https://github.com/devantixlabs/devantixlabs"
+  },
+  "1002423895": {
+    "name": "Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS",
+    "full_name": "Mehulupase01/Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS",
+    "sent_date": "2025-11-10T23:23:08.417538",
+    "stars": 1,
+    "url": "https://github.com/Mehulupase01/Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS"
+  },
+  "1092910043": {
+    "name": "m-faezi.github.io",
+    "full_name": "m-faezi/m-faezi.github.io",
+    "sent_date": "2025-11-10T23:23:53.798889",
+    "stars": 0,
+    "url": "https://github.com/m-faezi/m-faezi.github.io"
+  },
+  "1092364121": {
+    "name": "ml-train-k8s",
+    "full_name": "jamessyjay/ml-train-k8s",
+    "sent_date": "2025-11-10T23:23:53.801909",
+    "stars": 0,
+    "url": "https://github.com/jamessyjay/ml-train-k8s"
+  },
+  "1079476772": {
+    "name": "ComfyUI-Smart-Resolution-Calc",
+    "full_name": "DazzleNodes/ComfyUI-Smart-Resolution-Calc",
+    "sent_date": "2025-11-10T23:24:39.627569",
+    "stars": 1,
+    "url": "https://github.com/DazzleNodes/ComfyUI-Smart-Resolution-Calc"
+  },
+  "1093792419": {
+    "name": "gradlens",
+    "full_name": "gradlens/gradlens",
+    "sent_date": "2025-11-10T23:24:39.630576",
+    "stars": 0,
+    "url": "https://github.com/gradlens/gradlens"
   }
 }
