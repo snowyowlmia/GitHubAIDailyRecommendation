@@ -1,88 +1,4 @@
 {
-  "246634306": {
-    "name": "TensorRT",
-    "full_name": "pytorch/TensorRT",
-    "sent_date": "2025-10-12T23:17:57.718011",
-    "stars": 2869,
-    "url": "https://github.com/pytorch/TensorRT"
-  },
-  "1055235510": {
-    "name": "Health_Gym_AI",
-    "full_name": "NicKuo-ResearchStuff/Health_Gym_AI",
-    "sent_date": "2025-10-12T23:17:57.720378",
-    "stars": 3,
-    "url": "https://github.com/NicKuo-ResearchStuff/Health_Gym_AI"
-  },
-  "604105885": {
-    "name": "DataPredict",
-    "full_name": "AqwamCreates/DataPredict",
-    "sent_date": "2025-10-12T23:18:42.289458",
-    "stars": 9,
-    "url": "https://github.com/AqwamCreates/DataPredict"
-  },
-  "1001062629": {
-    "name": "Project_4-Multiple-Disease-Prediction",
-    "full_name": "Zyzzwlh/Project_4-Multiple-Disease-Prediction",
-    "sent_date": "2025-10-12T23:18:42.291703",
-    "stars": 0,
-    "url": "https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction"
-  },
-  "1074978981": {
-    "name": "gptel-openrouter",
-    "full_name": "darcamo/gptel-openrouter",
-    "sent_date": "2025-10-12T23:19:31.855640",
-    "stars": 1,
-    "url": "https://github.com/darcamo/gptel-openrouter"
-  },
-  "588285412": {
-    "name": "caipiaoAI",
-    "full_name": "huy09380423/caipiaoAI",
-    "sent_date": "2025-10-12T23:19:31.857899",
-    "stars": 0,
-    "url": "https://github.com/huy09380423/caipiaoAI"
-  },
-  "1011601484": {
-    "name": "dl-driver",
-    "full_name": "russfellows/dl-driver",
-    "sent_date": "2025-10-12T23:20:15.817593",
-    "stars": 1,
-    "url": "https://github.com/russfellows/dl-driver"
-  },
-  "1000705270": {
-    "name": "wxkfbot",
-    "full_name": "Esteban2680/wxkfbot",
-    "sent_date": "2025-10-12T23:20:15.819896",
-    "stars": 1,
-    "url": "https://github.com/Esteban2680/wxkfbot"
-  },
-  "1000501005": {
-    "name": "fraud-detection-system",
-    "full_name": "luisgamer05/fraud-detection-system",
-    "sent_date": "2025-10-12T23:20:59.826685",
-    "stars": 0,
-    "url": "https://github.com/luisgamer05/fraud-detection-system"
-  },
-  "1071825280": {
-    "name": "forex-pattern-mining-dashboard",
-    "full_name": "Omar7amid/forex-pattern-mining-dashboard",
-    "sent_date": "2025-10-12T23:20:59.828991",
-    "stars": 0,
-    "url": "https://github.com/Omar7amid/forex-pattern-mining-dashboard"
-  },
-  "987601834": {
-    "name": "PyNet",
-    "full_name": "2-con/PyNet",
-    "sent_date": "2025-10-12T23:21:43.717257",
-    "stars": 2,
-    "url": "https://github.com/2-con/PyNet"
-  },
-  "795319078": {
-    "name": "credit-recommendation-engine",
-    "full_name": "all-in-one67890/credit-recommendation-engine",
-    "sent_date": "2025-10-12T23:21:43.719621",
-    "stars": 0,
-    "url": "https://github.com/all-in-one67890/credit-recommendation-engine"
-  },
   "1075716224": {
     "name": "computer-vision-research",
     "full_name": "xVarmondx/computer-vision-research",
@@ -2798,5 +2714,89 @@
     "sent_date": "2025-11-10T23:24:39.630576",
     "stars": 0,
     "url": "https://github.com/gradlens/gradlens"
+  },
+  "647467912": {
+    "name": "shelf-product-identifier",
+    "full_name": "albertferre/shelf-product-identifier",
+    "sent_date": "2025-11-11T23:20:01.753766",
+    "stars": 50,
+    "url": "https://github.com/albertferre/shelf-product-identifier"
+  },
+  "1081342777": {
+    "name": "FingerTrackedCursor",
+    "full_name": "lionelvasko/FingerTrackedCursor",
+    "sent_date": "2025-11-11T23:20:01.756701",
+    "stars": 1,
+    "url": "https://github.com/lionelvasko/FingerTrackedCursor"
+  },
+  "1094589803": {
+    "name": "predicting_movie_rental_duration",
+    "full_name": "madison-martin8/predicting_movie_rental_duration",
+    "sent_date": "2025-11-11T23:20:47.575153",
+    "stars": 0,
+    "url": "https://github.com/madison-martin8/predicting_movie_rental_duration"
+  },
+  "908422379": {
+    "name": "SkinCare.ai",
+    "full_name": "WidiantoID/SkinCare.ai",
+    "sent_date": "2025-11-11T23:20:47.578118",
+    "stars": 1,
+    "url": "https://github.com/WidiantoID/SkinCare.ai"
+  },
+  "1067344946": {
+    "name": "SRPO",
+    "full_name": "hesoyam199x/SRPO",
+    "sent_date": "2025-11-11T23:21:33.096697",
+    "stars": 1,
+    "url": "https://github.com/hesoyam199x/SRPO"
+  },
+  "1091245611": {
+    "name": "MDS-AML-HiggsBosonATLAS",
+    "full_name": "AimbotParce/MDS-AML-HiggsBosonATLAS",
+    "sent_date": "2025-11-11T23:21:33.099957",
+    "stars": 0,
+    "url": "https://github.com/AimbotParce/MDS-AML-HiggsBosonATLAS"
+  },
+  "1067342130": {
+    "name": "onnx-coreml-conversion",
+    "full_name": "sheelajwaa9/onnx-coreml-conversion",
+    "sent_date": "2025-11-11T23:22:18.707179",
+    "stars": 1,
+    "url": "https://github.com/sheelajwaa9/onnx-coreml-conversion"
+  },
+  "1002632773": {
+    "name": "Jobs",
+    "full_name": "misterioul/Jobs",
+    "sent_date": "2025-11-11T23:22:18.710314",
+    "stars": 1,
+    "url": "https://github.com/misterioul/Jobs"
+  },
+  "1081904956": {
+    "name": "TrackerSplat",
+    "full_name": "yindaheng98/TrackerSplat",
+    "sent_date": "2025-11-11T23:23:04.328494",
+    "stars": 4,
+    "url": "https://github.com/yindaheng98/TrackerSplat"
+  },
+  "1094559606": {
+    "name": "StockSage",
+    "full_name": "kaushikatla-cell/StockSage",
+    "sent_date": "2025-11-11T23:23:04.331396",
+    "stars": 0,
+    "url": "https://github.com/kaushikatla-cell/StockSage"
+  },
+  "167694194": {
+    "name": "frigate",
+    "full_name": "blakeblackshear/frigate",
+    "sent_date": "2025-11-11T23:23:49.887346",
+    "stars": 27036,
+    "url": "https://github.com/blakeblackshear/frigate"
+  },
+  "912759287": {
+    "name": "Calories-Burnt-Prediction",
+    "full_name": "Nandha1504/Calories-Burnt-Prediction",
+    "sent_date": "2025-11-11T23:23:49.890359",
+    "stars": 0,
+    "url": "https://github.com/Nandha1504/Calories-Burnt-Prediction"
   }
 }
