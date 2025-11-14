@@ -1,172 +1,4 @@
 {
-  "1075716224": {
-    "name": "computer-vision-research",
-    "full_name": "xVarmondx/computer-vision-research",
-    "sent_date": "2025-10-14T23:19:09.077898",
-    "stars": 4,
-    "url": "https://github.com/xVarmondx/computer-vision-research"
-  },
-  "655155250": {
-    "name": "magentic",
-    "full_name": "jackmpcollins/magentic",
-    "sent_date": "2025-10-14T23:19:09.080176",
-    "stars": 2374,
-    "url": "https://github.com/jackmpcollins/magentic"
-  },
-  "581166973": {
-    "name": "fairseq2",
-    "full_name": "facebookresearch/fairseq2",
-    "sent_date": "2025-10-14T23:19:55.017303",
-    "stars": 1043,
-    "url": "https://github.com/facebookresearch/fairseq2"
-  },
-  "883942968": {
-    "name": "NoPE-GPT",
-    "full_name": "andrewdalpino/NoPE-GPT",
-    "sent_date": "2025-10-14T23:19:55.019641",
-    "stars": 7,
-    "url": "https://github.com/andrewdalpino/NoPE-GPT"
-  },
-  "1076477054": {
-    "name": "project-dotnet-desktop-csharp_facial-recognition-app",
-    "full_name": "AntonBronnfjell/project-dotnet-desktop-csharp_facial-recognition-app",
-    "sent_date": "2025-10-14T23:20:40.203421",
-    "stars": 0,
-    "url": "https://github.com/AntonBronnfjell/project-dotnet-desktop-csharp_facial-recognition-app"
-  },
-  "1076475445": {
-    "name": "ML-Clusterizacion-de-Datos-Segmentacion-de-Clientes",
-    "full_name": "MarianaIR/ML-Clusterizacion-de-Datos-Segmentacion-de-Clientes",
-    "sent_date": "2025-10-14T23:20:40.205866",
-    "stars": 0,
-    "url": "https://github.com/MarianaIR/ML-Clusterizacion-de-Datos-Segmentacion-de-Clientes"
-  },
-  "1051350949": {
-    "name": "marIOkart",
-    "full_name": "gg-blake/marIOkart",
-    "sent_date": "2025-10-14T23:21:25.973639",
-    "stars": 5,
-    "url": "https://github.com/gg-blake/marIOkart"
-  },
-  "1074449011": {
-    "name": "Qwen3Guard",
-    "full_name": "Kigepuk/Qwen3Guard",
-    "sent_date": "2025-10-14T23:21:25.976431",
-    "stars": 0,
-    "url": "https://github.com/Kigepuk/Qwen3Guard"
-  },
-  "765908309": {
-    "name": "Stock-Price-Prediction",
-    "full_name": "Saadchh/Stock-Price-Prediction",
-    "sent_date": "2025-10-14T23:22:11.443182",
-    "stars": 0,
-    "url": "https://github.com/Saadchh/Stock-Price-Prediction"
-  },
-  "989779503": {
-    "name": "challenge-tracker",
-    "full_name": "saltaher/challenge-tracker",
-    "sent_date": "2025-10-14T23:22:11.445943",
-    "stars": 0,
-    "url": "https://github.com/saltaher/challenge-tracker"
-  },
-  "1074503223": {
-    "name": "foundry",
-    "full_name": "ZonTye/foundry",
-    "sent_date": "2025-10-14T23:22:57.611008",
-    "stars": 0,
-    "url": "https://github.com/ZonTye/foundry"
-  },
-  "847183139": {
-    "name": "DL-Course",
-    "full_name": "reply2sunitajain/DL-Course",
-    "sent_date": "2025-10-14T23:22:57.613521",
-    "stars": 0,
-    "url": "https://github.com/reply2sunitajain/DL-Course"
-  },
-  "609539715": {
-    "name": "E2B",
-    "full_name": "e2b-dev/E2B",
-    "sent_date": "2025-10-15T23:18:33.089922",
-    "stars": 9661,
-    "url": "https://github.com/e2b-dev/E2B"
-  },
-  "511691380": {
-    "name": "lance",
-    "full_name": "lancedb/lance",
-    "sent_date": "2025-10-15T23:18:33.092258",
-    "stars": 5504,
-    "url": "https://github.com/lancedb/lance"
-  },
-  "162919890": {
-    "name": "awesome-ai-ml-dl",
-    "full_name": "neomatrix369/awesome-ai-ml-dl",
-    "sent_date": "2025-10-15T23:19:17.286620",
-    "stars": 1594,
-    "url": "https://github.com/neomatrix369/awesome-ai-ml-dl"
-  },
-  "677083126": {
-    "name": "infra",
-    "full_name": "e2b-dev/infra",
-    "sent_date": "2025-10-15T23:19:17.288999",
-    "stars": 676,
-    "url": "https://github.com/e2b-dev/infra"
-  },
-  "1077031521": {
-    "name": "financial-ml-pipeline",
-    "full_name": "jack-kong03/financial-ml-pipeline",
-    "sent_date": "2025-10-15T23:20:02.375553",
-    "stars": 0,
-    "url": "https://github.com/jack-kong03/financial-ml-pipeline"
-  },
-  "839107035": {
-    "name": "ncut_pytorch",
-    "full_name": "huzeyann/ncut_pytorch",
-    "sent_date": "2025-10-15T23:20:02.377911",
-    "stars": 21,
-    "url": "https://github.com/huzeyann/ncut_pytorch"
-  },
-  "1050541585": {
-    "name": "Supervertaler",
-    "full_name": "michaelbeijer/Supervertaler",
-    "sent_date": "2025-10-15T23:20:47.365101",
-    "stars": 2,
-    "url": "https://github.com/michaelbeijer/Supervertaler"
-  },
-  "1055196086": {
-    "name": "Neural-Network-ICU-Deterioration-Predictor",
-    "full_name": "SimonYip22/Neural-Network-ICU-Deterioration-Predictor",
-    "sent_date": "2025-10-15T23:20:47.367524",
-    "stars": 1,
-    "url": "https://github.com/SimonYip22/Neural-Network-ICU-Deterioration-Predictor"
-  },
-  "1048054187": {
-    "name": "FARM_ML_infra",
-    "full_name": "yuanMLOps/FARM_ML_infra",
-    "sent_date": "2025-10-15T23:21:32.712292",
-    "stars": 0,
-    "url": "https://github.com/yuanMLOps/FARM_ML_infra"
-  },
-  "941638849": {
-    "name": "jeffthedeveloper",
-    "full_name": "jeffthedeveloper/jeffthedeveloper",
-    "sent_date": "2025-10-15T23:21:32.714671",
-    "stars": 0,
-    "url": "https://github.com/jeffthedeveloper/jeffthedeveloper"
-  },
-  "1077156753": {
-    "name": "ASE_TECH10101",
-    "full_name": "JQUINT2003/ASE_TECH10101",
-    "sent_date": "2025-10-15T23:22:17.638170",
-    "stars": 0,
-    "url": "https://github.com/JQUINT2003/ASE_TECH10101"
-  },
-  "1070399482": {
-    "name": "telescope_cam_detection",
-    "full_name": "filthyrake/telescope_cam_detection",
-    "sent_date": "2025-10-15T23:22:17.640555",
-    "stars": 0,
-    "url": "https://github.com/filthyrake/telescope_cam_detection"
-  },
   "1076937296": {
     "name": "yolo-training-template",
     "full_name": "mfranzon/yolo-training-template",
@@ -2882,5 +2714,89 @@
     "sent_date": "2025-11-12T23:24:37.970565",
     "stars": 0,
     "url": "https://github.com/MTecknology/disturbance-tracker"
+  },
+  "498011141": {
+    "name": "diffusers",
+    "full_name": "huggingface/diffusers",
+    "sent_date": "2025-11-14T23:19:52.426502",
+    "stars": 31604,
+    "url": "https://github.com/huggingface/diffusers"
+  },
+  "714073518": {
+    "name": "ao",
+    "full_name": "pytorch/ao",
+    "sent_date": "2025-11-14T23:19:52.429609",
+    "stars": 2504,
+    "url": "https://github.com/pytorch/ao"
+  },
+  "211001860": {
+    "name": "fairchem",
+    "full_name": "facebookresearch/fairchem",
+    "sent_date": "2025-11-14T23:20:37.673509",
+    "stars": 1824,
+    "url": "https://github.com/facebookresearch/fairchem"
+  },
+  "1096648337": {
+    "name": "NLPDumbathon-2025",
+    "full_name": "devinshende/NLPDumbathon-2025",
+    "sent_date": "2025-11-14T23:20:37.676713",
+    "stars": 1,
+    "url": "https://github.com/devinshende/NLPDumbathon-2025"
+  },
+  "1096749738": {
+    "name": "Decovision",
+    "full_name": "yo-githa/Decovision",
+    "sent_date": "2025-11-14T23:21:22.863130",
+    "stars": 1,
+    "url": "https://github.com/yo-githa/Decovision"
+  },
+  "1093155349": {
+    "name": "kttc",
+    "full_name": "kttc-ai/kttc",
+    "sent_date": "2025-11-14T23:21:22.866210",
+    "stars": 3,
+    "url": "https://github.com/kttc-ai/kttc"
+  },
+  "892077490": {
+    "name": "Phung-portfolio",
+    "full_name": "sophieanalytics/Phung-portfolio",
+    "sent_date": "2025-11-14T23:22:07.696971",
+    "stars": 0,
+    "url": "https://github.com/sophieanalytics/Phung-portfolio"
+  },
+  "1096764492": {
+    "name": "ml-mentor-athena",
+    "full_name": "cognitae-ai/ml-mentor-athena",
+    "sent_date": "2025-11-14T23:22:07.700077",
+    "stars": 0,
+    "url": "https://github.com/cognitae-ai/ml-mentor-athena"
+  },
+  "1095970808": {
+    "name": "LFM-HF-Reticulum",
+    "full_name": "unremarkable-namoiriver800/LFM-HF-Reticulum",
+    "sent_date": "2025-11-14T23:22:54.605200",
+    "stars": 0,
+    "url": "https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum"
+  },
+  "1095276648": {
+    "name": "rushirb2001",
+    "full_name": "Ngoma1713/rushirb2001",
+    "sent_date": "2025-11-14T23:22:54.608269",
+    "stars": 0,
+    "url": "https://github.com/Ngoma1713/rushirb2001"
+  },
+  "1095324935": {
+    "name": "player-asset-market",
+    "full_name": "dhanush-mahesh/player-asset-market",
+    "sent_date": "2025-11-14T23:23:41.207102",
+    "stars": 0,
+    "url": "https://github.com/dhanush-mahesh/player-asset-market"
+  },
+  "1096258142": {
+    "name": "ai-chatbot",
+    "full_name": "nooksandcrannieslgb937/ai-chatbot",
+    "sent_date": "2025-11-14T23:23:41.210249",
+    "stars": 0,
+    "url": "https://github.com/nooksandcrannieslgb937/ai-chatbot"
   }
 }
