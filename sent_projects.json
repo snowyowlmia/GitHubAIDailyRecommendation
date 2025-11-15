@@ -1,88 +1,4 @@
 {
-  "1076937296": {
-    "name": "yolo-training-template",
-    "full_name": "mfranzon/yolo-training-template",
-    "sent_date": "2025-10-16T23:17:38.382596",
-    "stars": 3,
-    "url": "https://github.com/mfranzon/yolo-training-template"
-  },
-  "1074990308": {
-    "name": "Chess-GPT",
-    "full_name": "floatingtrees/Chess-GPT",
-    "sent_date": "2025-10-16T23:17:38.385231",
-    "stars": 2,
-    "url": "https://github.com/floatingtrees/Chess-GPT"
-  },
-  "789940696": {
-    "name": "iree-turbine",
-    "full_name": "iree-org/iree-turbine",
-    "sent_date": "2025-10-16T23:18:22.941982",
-    "stars": 98,
-    "url": "https://github.com/iree-org/iree-turbine"
-  },
-  "1064299800": {
-    "name": "ai-development-partner",
-    "full_name": "ShaerWare/ai-development-partner",
-    "sent_date": "2025-10-16T23:18:22.944599",
-    "stars": 8,
-    "url": "https://github.com/ShaerWare/ai-development-partner"
-  },
-  "973895585": {
-    "name": "Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
-    "full_name": "thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
-    "sent_date": "2025-10-16T23:19:07.708876",
-    "stars": 8,
-    "url": "https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning"
-  },
-  "1077490332": {
-    "name": "gfg-21-days-ML-DL-genai-projects",
-    "full_name": "mallikabheemu1/gfg-21-days-ML-DL-genai-projects",
-    "sent_date": "2025-10-16T23:19:07.711421",
-    "stars": 0,
-    "url": "https://github.com/mallikabheemu1/gfg-21-days-ML-DL-genai-projects"
-  },
-  "980238476": {
-    "name": "AI-Chatbot",
-    "full_name": "irfanbob26/AI-Chatbot",
-    "sent_date": "2025-10-16T23:19:52.338067",
-    "stars": 4,
-    "url": "https://github.com/irfanbob26/AI-Chatbot"
-  },
-  "980743353": {
-    "name": "KleanBot",
-    "full_name": "zead333/KleanBot",
-    "sent_date": "2025-10-16T23:19:52.340779",
-    "stars": 3,
-    "url": "https://github.com/zead333/KleanBot"
-  },
-  "980292015": {
-    "name": "AWS--MLS-C01--studypack",
-    "full_name": "kiran-saikia/AWS--MLS-C01--studypack",
-    "sent_date": "2025-10-16T23:20:36.669663",
-    "stars": 2,
-    "url": "https://github.com/kiran-saikia/AWS--MLS-C01--studypack"
-  },
-  "1077852631": {
-    "name": "TORQ-Tech-News",
-    "full_name": "pilotwaffle/TORQ-Tech-News",
-    "sent_date": "2025-10-16T23:20:36.672567",
-    "stars": 0,
-    "url": "https://github.com/pilotwaffle/TORQ-Tech-News"
-  },
-  "981392413": {
-    "name": "buildboard-agent-tracker",
-    "full_name": "Sebastixng/buildboard-agent-tracker",
-    "sent_date": "2025-10-16T23:21:21.131711",
-    "stars": 0,
-    "url": "https://github.com/Sebastixng/buildboard-agent-tracker"
-  },
-  "1074797121": {
-    "name": "Med-X-KimiK2-RAG",
-    "full_name": "DeepRatAI/Med-X-KimiK2-RAG",
-    "sent_date": "2025-10-16T23:21:21.134508",
-    "stars": 0,
-    "url": "https://github.com/DeepRatAI/Med-X-KimiK2-RAG"
-  },
   "647754741": {
     "name": "awesome-gpt-prompt-engineering",
     "full_name": "snwfdhmp/awesome-gpt-prompt-engineering",
@@ -2798,5 +2714,89 @@
     "sent_date": "2025-11-14T23:23:41.210249",
     "stars": 0,
     "url": "https://github.com/nooksandcrannieslgb937/ai-chatbot"
+  },
+  "95700338": {
+    "name": "trainer",
+    "full_name": "kubeflow/trainer",
+    "sent_date": "2025-11-15T23:19:37.784434",
+    "stars": 1960,
+    "url": "https://github.com/kubeflow/trainer"
+  },
+  "1083351785": {
+    "name": "Machine-Learning---Regression-Models",
+    "full_name": "tutkufurkan/Machine-Learning---Regression-Models",
+    "sent_date": "2025-11-15T23:19:37.787393",
+    "stars": 2,
+    "url": "https://github.com/tutkufurkan/Machine-Learning---Regression-Models"
+  },
+  "1001353773": {
+    "name": "R-Machine-Learning-TCR",
+    "full_name": "arcena9/R-Machine-Learning-TCR",
+    "sent_date": "2025-11-15T23:20:22.384010",
+    "stars": 0,
+    "url": "https://github.com/arcena9/R-Machine-Learning-TCR"
+  },
+  "1091434435": {
+    "name": "final-girl",
+    "full_name": "scarlettverse/final-girl",
+    "sent_date": "2025-11-15T23:20:22.386917",
+    "stars": 0,
+    "url": "https://github.com/scarlettverse/final-girl"
+  },
+  "662010253": {
+    "name": "kind_robots",
+    "full_name": "silasfelinus/kind_robots",
+    "sent_date": "2025-11-15T23:21:06.482508",
+    "stars": 9,
+    "url": "https://github.com/silasfelinus/kind_robots"
+  },
+  "1001062629": {
+    "name": "Project_4-Multiple-Disease-Prediction",
+    "full_name": "Zyzzwlh/Project_4-Multiple-Disease-Prediction",
+    "sent_date": "2025-11-15T23:21:06.485496",
+    "stars": 1,
+    "url": "https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction"
+  },
+  "1073762176": {
+    "name": "OllamaRAG",
+    "full_name": "roberto729a/OllamaRAG",
+    "sent_date": "2025-11-15T23:21:51.289571",
+    "stars": 2,
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  "1001937222": {
+    "name": "Stock-LSTM-Forecasting",
+    "full_name": "Zaidzr/Stock-LSTM-Forecasting",
+    "sent_date": "2025-11-15T23:21:51.292575",
+    "stars": 2,
+    "url": "https://github.com/Zaidzr/Stock-LSTM-Forecasting"
+  },
+  "1097275486": {
+    "name": "financial-forecasting-ai",
+    "full_name": "souzaeliasrafael/financial-forecasting-ai",
+    "sent_date": "2025-11-15T23:22:36.024345",
+    "stars": 0,
+    "url": "https://github.com/souzaeliasrafael/financial-forecasting-ai"
+  },
+  "1071825280": {
+    "name": "forex-pattern-mining-dashboard",
+    "full_name": "Omar7amid/forex-pattern-mining-dashboard",
+    "sent_date": "2025-11-15T23:22:36.027475",
+    "stars": 0,
+    "url": "https://github.com/Omar7amid/forex-pattern-mining-dashboard"
+  },
+  "1000501005": {
+    "name": "fraud-detection-system",
+    "full_name": "luisgamer05/fraud-detection-system",
+    "sent_date": "2025-11-15T23:23:20.004908",
+    "stars": 0,
+    "url": "https://github.com/luisgamer05/fraud-detection-system"
+  },
+  "1083856910": {
+    "name": "building-permits-classifier",
+    "full_name": "kicaha/building-permits-classifier",
+    "sent_date": "2025-11-15T23:23:20.007916",
+    "stars": 0,
+    "url": "https://github.com/kicaha/building-permits-classifier"
   }
 }
