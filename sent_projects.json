@@ -1,88 +1,4 @@
 {
-  "647754741": {
-    "name": "awesome-gpt-prompt-engineering",
-    "full_name": "snwfdhmp/awesome-gpt-prompt-engineering",
-    "sent_date": "2025-10-17T23:18:29.545869",
-    "stars": 1421,
-    "url": "https://github.com/snwfdhmp/awesome-gpt-prompt-engineering"
-  },
-  "1052767749": {
-    "name": "Deep-Research-AI-Agent",
-    "full_name": "Adam10-b/Deep-Research-AI-Agent",
-    "sent_date": "2025-10-17T23:18:29.548381",
-    "stars": 2,
-    "url": "https://github.com/Adam10-b/Deep-Research-AI-Agent"
-  },
-  "1061124647": {
-    "name": "AI-VFX",
-    "full_name": "Junior24844/AI-VFX",
-    "sent_date": "2025-10-17T23:19:15.019412",
-    "stars": 1,
-    "url": "https://github.com/Junior24844/AI-VFX"
-  },
-  "500990939": {
-    "name": "ai-smart-tire-intelligence",
-    "full_name": "Adoni-123/ai-smart-tire-intelligence",
-    "sent_date": "2025-10-17T23:19:15.022116",
-    "stars": 1,
-    "url": "https://github.com/Adoni-123/ai-smart-tire-intelligence"
-  },
-  "138060572": {
-    "name": "taxinomitis",
-    "full_name": "IBM/taxinomitis",
-    "sent_date": "2025-10-17T23:20:00.300707",
-    "stars": 173,
-    "url": "https://github.com/IBM/taxinomitis"
-  },
-  "1052005837": {
-    "name": "TDT4172-Assignments",
-    "full_name": "jenscaa/TDT4172-Assignments",
-    "sent_date": "2025-10-17T23:20:00.303223",
-    "stars": 0,
-    "url": "https://github.com/jenscaa/TDT4172-Assignments"
-  },
-  "1054766068": {
-    "name": "SpringAI-SQL-Assistant",
-    "full_name": "rayaneotaku/SpringAI-SQL-Assistant",
-    "sent_date": "2025-10-17T23:20:45.332919",
-    "stars": 1,
-    "url": "https://github.com/rayaneotaku/SpringAI-SQL-Assistant"
-  },
-  "1002561374": {
-    "name": "AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System",
-    "full_name": "nickisgit/AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System",
-    "sent_date": "2025-10-17T23:20:45.335483",
-    "stars": 2,
-    "url": "https://github.com/nickisgit/AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System"
-  },
-  "653763139": {
-    "name": "biolearn",
-    "full_name": "bio-learn/biolearn",
-    "sent_date": "2025-10-17T23:21:31.205848",
-    "stars": 67,
-    "url": "https://github.com/bio-learn/biolearn"
-  },
-  "1033397733": {
-    "name": "Projet_MLOPS",
-    "full_name": "BINTOUDIOP/Projet_MLOPS",
-    "sent_date": "2025-10-17T23:21:31.208434",
-    "stars": 0,
-    "url": "https://github.com/BINTOUDIOP/Projet_MLOPS"
-  },
-  "1062164058": {
-    "name": "ai-data-engineering-ecosystem-guide",
-    "full_name": "Lowkey144/ai-data-engineering-ecosystem-guide",
-    "sent_date": "2025-10-17T23:22:16.475002",
-    "stars": 0,
-    "url": "https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide"
-  },
-  "1060586853": {
-    "name": "Midm-2.0",
-    "full_name": "Szeryy/Midm-2.0",
-    "sent_date": "2025-10-17T23:22:16.477568",
-    "stars": 0,
-    "url": "https://github.com/Szeryy/Midm-2.0"
-  },
   "1069078135": {
     "name": "ChatGPT",
     "full_name": "Ravindu-Kannangara/ChatGPT",
@@ -2798,5 +2714,89 @@
     "sent_date": "2025-11-15T23:23:20.007916",
     "stars": 0,
     "url": "https://github.com/kicaha/building-permits-classifier"
+  },
+  "607845880": {
+    "name": "maxtext",
+    "full_name": "AI-Hypercomputer/maxtext",
+    "sent_date": "2025-11-16T23:19:32.584502",
+    "stars": 1990,
+    "url": "https://github.com/AI-Hypercomputer/maxtext"
+  },
+  "1097817838": {
+    "name": "SafeRoad-App",
+    "full_name": "bachar88/SafeRoad-App",
+    "sent_date": "2025-11-16T23:19:32.587339",
+    "stars": 0,
+    "url": "https://github.com/bachar88/SafeRoad-App"
+  },
+  "880627377": {
+    "name": "spio",
+    "full_name": "andravin/spio",
+    "sent_date": "2025-11-16T23:20:17.683161",
+    "stars": 43,
+    "url": "https://github.com/andravin/spio"
+  },
+  "1087422456": {
+    "name": "math-olympiad-ml",
+    "full_name": "vuhung16au/math-olympiad-ml",
+    "sent_date": "2025-11-16T23:20:17.686163",
+    "stars": 2,
+    "url": "https://github.com/vuhung16au/math-olympiad-ml"
+  },
+  "1066919513": {
+    "name": "CMPT310-Resume-Parser",
+    "full_name": "reh13597/CMPT310-Resume-Parser",
+    "sent_date": "2025-11-16T23:21:02.104253",
+    "stars": 0,
+    "url": "https://github.com/reh13597/CMPT310-Resume-Parser"
+  },
+  "1097775432": {
+    "name": "Cybersecurity-and-Data-Analytics-Portfolio",
+    "full_name": "cjaguirre/Cybersecurity-and-Data-Analytics-Portfolio",
+    "sent_date": "2025-11-16T23:21:02.107211",
+    "stars": 0,
+    "url": "https://github.com/cjaguirre/Cybersecurity-and-Data-Analytics-Portfolio"
+  },
+  "827662006": {
+    "name": "growin",
+    "full_name": "Patelpratham585/growin",
+    "sent_date": "2025-11-16T23:21:46.023224",
+    "stars": 1,
+    "url": "https://github.com/Patelpratham585/growin"
+  },
+  "790021488": {
+    "name": "growin",
+    "full_name": "kuldeep61343/growin",
+    "sent_date": "2025-11-16T23:21:46.026128",
+    "stars": 1,
+    "url": "https://github.com/kuldeep61343/growin"
+  },
+  "1056477439": {
+    "name": "LisaHansen-Portfolio",
+    "full_name": "lhansen77/LisaHansen-Portfolio",
+    "sent_date": "2025-11-16T23:22:30.312116",
+    "stars": 0,
+    "url": "https://github.com/lhansen77/LisaHansen-Portfolio"
+  },
+  "1078004108": {
+    "name": "Twitter-Sentiment-Analysis",
+    "full_name": "supcode1234/Twitter-Sentiment-Analysis",
+    "sent_date": "2025-11-16T23:22:30.315134",
+    "stars": 0,
+    "url": "https://github.com/supcode1234/Twitter-Sentiment-Analysis"
+  },
+  "677083126": {
+    "name": "infra",
+    "full_name": "e2b-dev/infra",
+    "sent_date": "2025-11-16T23:23:14.933726",
+    "stars": 716,
+    "url": "https://github.com/e2b-dev/infra"
+  },
+  "1078855715": {
+    "name": "Ruaroa-AI",
+    "full_name": "Emperor-khay/Ruaroa-AI",
+    "sent_date": "2025-11-16T23:23:14.936867",
+    "stars": 0,
+    "url": "https://github.com/Emperor-khay/Ruaroa-AI"
   }
 }
