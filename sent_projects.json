@@ -1,88 +1,4 @@
 {
-  "1069078135": {
-    "name": "ChatGPT",
-    "full_name": "Ravindu-Kannangara/ChatGPT",
-    "sent_date": "2025-10-18T23:18:18.243811",
-    "stars": 4,
-    "url": "https://github.com/Ravindu-Kannangara/ChatGPT"
-  },
-  "1069538073": {
-    "name": "neural-voice-assistant",
-    "full_name": "khangdoan514/neural-voice-assistant",
-    "sent_date": "2025-10-18T23:18:18.246547",
-    "stars": 2,
-    "url": "https://github.com/khangdoan514/neural-voice-assistant"
-  },
-  "199070569": {
-    "name": "ml4physicalsciences.github.io",
-    "full_name": "ml4physicalsciences/ml4physicalsciences.github.io",
-    "sent_date": "2025-10-18T23:19:02.305762",
-    "stars": 20,
-    "url": "https://github.com/ml4physicalsciences/ml4physicalsciences.github.io"
-  },
-  "1067641454": {
-    "name": "UMAP",
-    "full_name": "Nawrass13/UMAP",
-    "sent_date": "2025-10-18T23:19:02.308449",
-    "stars": 1,
-    "url": "https://github.com/Nawrass13/UMAP"
-  },
-  "1069425824": {
-    "name": "Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI",
-    "full_name": "osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI",
-    "sent_date": "2025-10-18T23:19:46.909517",
-    "stars": 0,
-    "url": "https://github.com/osoadsd/Feature-Engineering-Framework-For-Traffic-Accident-Prediction-using-XAI"
-  },
-  "1069375962": {
-    "name": "Music-Genre-Classification-using-Spectrogram-images",
-    "full_name": "Ashu708907/Music-Genre-Classification-using-Spectrogram-images",
-    "sent_date": "2025-10-18T23:19:46.912377",
-    "stars": 0,
-    "url": "https://github.com/Ashu708907/Music-Genre-Classification-using-Spectrogram-images"
-  },
-  "1069888014": {
-    "name": "MailMindAI",
-    "full_name": "eddy870/MailMindAI",
-    "sent_date": "2025-10-18T23:20:32.720792",
-    "stars": 1,
-    "url": "https://github.com/eddy870/MailMindAI"
-  },
-  "903369122": {
-    "name": "Leap-Smart-Control-System",
-    "full_name": "Leap-Smart-Solutions/Leap-Smart-Control-System",
-    "sent_date": "2025-10-18T23:20:32.723608",
-    "stars": 3,
-    "url": "https://github.com/Leap-Smart-Solutions/Leap-Smart-Control-System"
-  },
-  "454479855": {
-    "name": "rl",
-    "full_name": "pytorch/rl",
-    "sent_date": "2025-10-18T23:21:16.925903",
-    "stars": 3110,
-    "url": "https://github.com/pytorch/rl"
-  },
-  "1069356481": {
-    "name": "Customer-Churn-Prediction",
-    "full_name": "JavedFazlulahF/Customer-Churn-Prediction",
-    "sent_date": "2025-10-18T23:21:16.928855",
-    "stars": 0,
-    "url": "https://github.com/JavedFazlulahF/Customer-Churn-Prediction"
-  },
-  "932481297": {
-    "name": "LearnDataFrontEnds.jl",
-    "full_name": "JuliaAI/LearnDataFrontEnds.jl",
-    "sent_date": "2025-10-18T23:22:01.440706",
-    "stars": 1,
-    "url": "https://github.com/JuliaAI/LearnDataFrontEnds.jl"
-  },
-  "67210865": {
-    "name": "intelligent-homevaluator-madrid",
-    "full_name": "qaracuck/intelligent-homevaluator-madrid",
-    "sent_date": "2025-10-18T23:22:01.443842",
-    "stars": 0,
-    "url": "https://github.com/qaracuck/intelligent-homevaluator-madrid"
-  },
   "298017988": {
     "name": "python-aiplatform",
     "full_name": "googleapis/python-aiplatform",
@@ -2798,5 +2714,82 @@
     "sent_date": "2025-11-16T23:23:14.936867",
     "stars": 0,
     "url": "https://github.com/Emperor-khay/Ruaroa-AI"
+  },
+  "1098534902": {
+    "name": "Detecting-Insider-Threats-through-Behavioral-AI_Dissertation",
+    "full_name": "egyinmoe/Detecting-Insider-Threats-through-Behavioral-AI_Dissertation",
+    "sent_date": "2025-11-17T23:20:11.911794",
+    "stars": 1,
+    "url": "https://github.com/egyinmoe/Detecting-Insider-Threats-through-Behavioral-AI_Dissertation"
+  },
+  "1094525475": {
+    "name": "barpath",
+    "full_name": "scribewire/barpath",
+    "sent_date": "2025-11-17T23:20:11.914695",
+    "stars": 1,
+    "url": "https://github.com/scribewire/barpath"
+  },
+  "1085206123": {
+    "name": "Bank-Customer-Churn-Analysis",
+    "full_name": "iliaskoutris/Bank-Customer-Churn-Analysis",
+    "sent_date": "2025-11-17T23:20:56.862659",
+    "stars": 0,
+    "url": "https://github.com/iliaskoutris/Bank-Customer-Churn-Analysis"
+  },
+  "1091146022": {
+    "name": "MachineLearning_lab2526",
+    "full_name": "DanieleGhezzi25/MachineLearning_lab2526",
+    "sent_date": "2025-11-17T23:20:56.865648",
+    "stars": 0,
+    "url": "https://github.com/DanieleGhezzi25/MachineLearning_lab2526"
+  },
+  "1058041801": {
+    "name": "Detector",
+    "full_name": "viniairam7/Detector",
+    "sent_date": "2025-11-17T23:21:42.229166",
+    "stars": 0,
+    "url": "https://github.com/viniairam7/Detector"
+  },
+  "1094696079": {
+    "name": "Chatbot-Spotify-App-Reviews-",
+    "full_name": "bpwbayu/Chatbot-Spotify-App-Reviews-",
+    "sent_date": "2025-11-17T23:21:42.232221",
+    "stars": 0,
+    "url": "https://github.com/bpwbayu/Chatbot-Spotify-App-Reviews-"
+  },
+  "1094065917": {
+    "name": "Chatbot-Customer-Service",
+    "full_name": "bpwbayu/Chatbot-Customer-Service",
+    "sent_date": "2025-11-17T23:22:27.559203",
+    "stars": 0,
+    "url": "https://github.com/bpwbayu/Chatbot-Customer-Service"
+  },
+  "1096222758": {
+    "name": "ai-vision-assistant",
+    "full_name": "tollfree-cincture471/ai-vision-assistant",
+    "sent_date": "2025-11-17T23:22:27.562353",
+    "stars": 0,
+    "url": "https://github.com/tollfree-cincture471/ai-vision-assistant"
+  },
+  "1077075861": {
+    "name": "urban-intelligence-lab",
+    "full_name": "dochronos/urban-intelligence-lab",
+    "sent_date": "2025-11-17T23:23:13.973722",
+    "stars": 0,
+    "url": "https://github.com/dochronos/urban-intelligence-lab"
+  },
+  "1058236011": {
+    "name": "Sheet-Music-Project",
+    "full_name": "SSOE-ECE1390/Sheet-Music-Project",
+    "sent_date": "2025-11-17T23:23:13.976662",
+    "stars": 0,
+    "url": "https://github.com/SSOE-ECE1390/Sheet-Music-Project"
+  },
+  "1075514624": {
+    "name": "deepvision-workflow",
+    "full_name": "kevinhuads/deepvision-workflow",
+    "sent_date": "2025-11-17T23:23:59.677705",
+    "stars": 0,
+    "url": "https://github.com/kevinhuads/deepvision-workflow"
   }
 }
