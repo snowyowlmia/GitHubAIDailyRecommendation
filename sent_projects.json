@@ -1,88 +1,4 @@
 {
-  "298017988": {
-    "name": "python-aiplatform",
-    "full_name": "googleapis/python-aiplatform",
-    "sent_date": "2025-10-20T23:19:04.108684",
-    "stars": 806,
-    "url": "https://github.com/googleapis/python-aiplatform"
-  },
-  "1049719420": {
-    "name": "torchstat2",
-    "full_name": "Chenorange0/torchstat2",
-    "sent_date": "2025-10-20T23:19:04.111502",
-    "stars": 3,
-    "url": "https://github.com/Chenorange0/torchstat2"
-  },
-  "212206196": {
-    "name": "stLearn",
-    "full_name": "BiomedicalMachineLearning/stLearn",
-    "sent_date": "2025-10-20T23:19:48.915304",
-    "stars": 230,
-    "url": "https://github.com/BiomedicalMachineLearning/stLearn"
-  },
-  "113122768": {
-    "name": "ml",
-    "full_name": "rocker-org/ml",
-    "sent_date": "2025-10-20T23:19:48.918070",
-    "stars": 57,
-    "url": "https://github.com/rocker-org/ml"
-  },
-  "829640443": {
-    "name": "tensorzero",
-    "full_name": "tensorzero/tensorzero",
-    "sent_date": "2025-10-20T23:20:33.577134",
-    "stars": 10431,
-    "url": "https://github.com/tensorzero/tensorzero"
-  },
-  "1080132461": {
-    "name": "DataWithPython",
-    "full_name": "lkhellah/DataWithPython",
-    "sent_date": "2025-10-20T23:20:33.580006",
-    "stars": 0,
-    "url": "https://github.com/lkhellah/DataWithPython"
-  },
-  "1052764379": {
-    "name": "IntelliJ-AI-Prompt-Generator",
-    "full_name": "thecoolman87/IntelliJ-AI-Prompt-Generator",
-    "sent_date": "2025-10-20T23:21:18.223044",
-    "stars": 1,
-    "url": "https://github.com/thecoolman87/IntelliJ-AI-Prompt-Generator"
-  },
-  "966526651": {
-    "name": "computer-vision-parking-lot",
-    "full_name": "Ahmet904-beep/computer-vision-parking-lot",
-    "sent_date": "2025-10-20T23:21:18.225940",
-    "stars": 1,
-    "url": "https://github.com/Ahmet904-beep/computer-vision-parking-lot"
-  },
-  "644136692": {
-    "name": "slamAI-istanbulCanyon",
-    "full_name": "kurajulii/slamAI-istanbulCanyon",
-    "sent_date": "2025-10-20T23:22:02.841804",
-    "stars": 1,
-    "url": "https://github.com/kurajulii/slamAI-istanbulCanyon"
-  },
-  "1062117713": {
-    "name": "Daniel-Demoz-Data-Science-AI-Analytics-Portfolio",
-    "full_name": "DanielDemoz/Daniel-Demoz-Data-Science-AI-Analytics-Portfolio",
-    "sent_date": "2025-10-20T23:22:02.844685",
-    "stars": 0,
-    "url": "https://github.com/DanielDemoz/Daniel-Demoz-Data-Science-AI-Analytics-Portfolio"
-  },
-  "1080103194": {
-    "name": "Employee-Attrition-Predictive-Analysis",
-    "full_name": "GLADYSONALO/Employee-Attrition-Predictive-Analysis",
-    "sent_date": "2025-10-20T23:22:47.502286",
-    "stars": 0,
-    "url": "https://github.com/GLADYSONALO/Employee-Attrition-Predictive-Analysis"
-  },
-  "498802143": {
-    "name": "AI-Flow",
-    "full_name": "sagarsharma459/AI-Flow",
-    "sent_date": "2025-10-20T23:22:47.505106",
-    "stars": 0,
-    "url": "https://github.com/sagarsharma459/AI-Flow"
-  },
   "305144746": {
     "name": "tinygrad",
     "full_name": "tinygrad/tinygrad",
@@ -2875,5 +2791,89 @@
     "sent_date": "2025-11-18T23:23:58.001658",
     "stars": 0,
     "url": "https://github.com/landenramsey/SpamEmailDetector"
+  },
+  "1096216061": {
+    "name": "llm-client",
+    "full_name": "skylarryan212-maker/llm-client",
+    "sent_date": "2025-11-19T23:20:43.843729",
+    "stars": 2,
+    "url": "https://github.com/skylarryan212-maker/llm-client"
+  },
+  "1089857616": {
+    "name": "DJL-Learning",
+    "full_name": "ZanePeck01/DJL-Learning",
+    "sent_date": "2025-11-19T23:20:43.846874",
+    "stars": 1,
+    "url": "https://github.com/ZanePeck01/DJL-Learning"
+  },
+  "756285102": {
+    "name": "Hopfield-Network-PyTorch",
+    "full_name": "hmcalister/Hopfield-Network-PyTorch",
+    "sent_date": "2025-11-19T23:21:30.328664",
+    "stars": 12,
+    "url": "https://github.com/hmcalister/Hopfield-Network-PyTorch"
+  },
+  "973628589": {
+    "name": "Open-Source-Prompt-Library",
+    "full_name": "swaymm7/Open-Source-Prompt-Library",
+    "sent_date": "2025-11-19T23:21:30.331727",
+    "stars": 11,
+    "url": "https://github.com/swaymm7/Open-Source-Prompt-Library"
+  },
+  "973895585": {
+    "name": "Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
+    "full_name": "thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
+    "sent_date": "2025-11-19T23:22:15.674181",
+    "stars": 8,
+    "url": "https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning"
+  },
+  "1094507216": {
+    "name": "bball-prediction",
+    "full_name": "missionfromdog/bball-prediction",
+    "sent_date": "2025-11-19T23:22:15.677251",
+    "stars": 0,
+    "url": "https://github.com/missionfromdog/bball-prediction"
+  },
+  "980238476": {
+    "name": "AI-Chatbot",
+    "full_name": "irfanbob26/AI-Chatbot",
+    "sent_date": "2025-11-19T23:23:00.827312",
+    "stars": 5,
+    "url": "https://github.com/irfanbob26/AI-Chatbot"
+  },
+  "972961572": {
+    "name": "Neura-AI",
+    "full_name": "joshivanhilario/Neura-AI",
+    "sent_date": "2025-11-19T23:23:00.830282",
+    "stars": 4,
+    "url": "https://github.com/joshivanhilario/Neura-AI"
+  },
+  "980292015": {
+    "name": "AWS--MLS-C01--studypack",
+    "full_name": "kiran-saikia/AWS--MLS-C01--studypack",
+    "sent_date": "2025-11-19T23:23:45.665171",
+    "stars": 2,
+    "url": "https://github.com/kiran-saikia/AWS--MLS-C01--studypack"
+  },
+  "974771323": {
+    "name": "-AI-Powered-E-commerce-Review-Sentiment-Analyzer",
+    "full_name": "crowthewicked/-AI-Powered-E-commerce-Review-Sentiment-Analyzer",
+    "sent_date": "2025-11-19T23:23:45.668571",
+    "stars": 1,
+    "url": "https://github.com/crowthewicked/-AI-Powered-E-commerce-Review-Sentiment-Analyzer"
+  },
+  "977081886": {
+    "name": "agents",
+    "full_name": "Kenenshinasu143/agents",
+    "sent_date": "2025-11-19T23:24:32.096268",
+    "stars": 2,
+    "url": "https://github.com/Kenenshinasu143/agents"
+  },
+  "973375978": {
+    "name": "MediSight.AI",
+    "full_name": "natharmatron/MediSight.AI",
+    "sent_date": "2025-11-19T23:24:32.099542",
+    "stars": 1,
+    "url": "https://github.com/natharmatron/MediSight.AI"
   }
 }
