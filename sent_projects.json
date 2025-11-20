@@ -1,74 +1,4 @@
 {
-  "305144746": {
-    "name": "tinygrad",
-    "full_name": "tinygrad/tinygrad",
-    "sent_date": "2025-10-21T23:20:04.258350",
-    "stars": 30358,
-    "url": "https://github.com/tinygrad/tinygrad"
-  },
-  "1080065885": {
-    "name": "torchcomms",
-    "full_name": "meta-pytorch/torchcomms",
-    "sent_date": "2025-10-21T23:20:04.261223",
-    "stars": 15,
-    "url": "https://github.com/meta-pytorch/torchcomms"
-  },
-  "539057023": {
-    "name": "TransformerEngine",
-    "full_name": "NVIDIA/TransformerEngine",
-    "sent_date": "2025-10-21T23:20:48.808879",
-    "stars": 2831,
-    "url": "https://github.com/NVIDIA/TransformerEngine"
-  },
-  "172835975": {
-    "name": "Enzyme",
-    "full_name": "EnzymeAD/Enzyme",
-    "sent_date": "2025-10-21T23:20:48.811893",
-    "stars": 1477,
-    "url": "https://github.com/EnzymeAD/Enzyme"
-  },
-  "490725794": {
-    "name": "kubetorch",
-    "full_name": "run-house/kubetorch",
-    "sent_date": "2025-10-21T23:21:33.532697",
-    "stars": 1048,
-    "url": "https://github.com/run-house/kubetorch"
-  },
-  "684718744": {
-    "name": "langfun",
-    "full_name": "google/langfun",
-    "sent_date": "2025-10-21T23:21:33.535674",
-    "stars": 863,
-    "url": "https://github.com/google/langfun"
-  },
-  "992990398": {
-    "name": "CallMeMaybe_The_Case_of_Inefficient_Operators",
-    "full_name": "AdrianGalvanZamora/CallMeMaybe_The_Case_of_Inefficient_Operators",
-    "sent_date": "2025-10-21T23:22:17.902131",
-    "stars": 0,
-    "url": "https://github.com/AdrianGalvanZamora/CallMeMaybe_The_Case_of_Inefficient_Operators"
-  },
-  "1069415428": {
-    "name": "jhustatprogramming2025",
-    "full_name": "stephaniehicks/jhustatprogramming2025",
-    "sent_date": "2025-10-21T23:22:17.905162",
-    "stars": 0,
-    "url": "https://github.com/stephaniehicks/jhustatprogramming2025"
-  },
-  "1080765816": {
-    "name": "Creative-Text-Generator",
-    "full_name": "mackk7/Creative-Text-Generator",
-    "sent_date": "2025-10-21T23:23:02.331738",
-    "stars": 0,
-    "url": "https://github.com/mackk7/Creative-Text-Generator"
-  },
-  "681982627": {
-    "name": "chat-prompts",
-    "full_name": "KudoAI/chat-prompts",
-    "sent_date": "2025-10-21T23:23:47.169139",
-    "stars": 20,
-    "url": "https://github.com/KudoAI/chat-prompts"
-  },
   "739594808": {
     "name": "ocean",
     "full_name": "facebookresearch/ocean",
@@ -2875,5 +2805,89 @@
     "sent_date": "2025-11-19T23:24:32.099542",
     "stars": 1,
     "url": "https://github.com/natharmatron/MediSight.AI"
+  },
+  "1096608396": {
+    "name": "oracle",
+    "full_name": "steipete/oracle",
+    "sent_date": "2025-11-20T23:20:33.229366",
+    "stars": 295,
+    "url": "https://github.com/steipete/oracle"
+  },
+  "1080065885": {
+    "name": "torchcomms",
+    "full_name": "meta-pytorch/torchcomms",
+    "sent_date": "2025-11-20T23:20:33.232695",
+    "stars": 291,
+    "url": "https://github.com/meta-pytorch/torchcomms"
+  },
+  "567848636": {
+    "name": "notebooks",
+    "full_name": "roboflow/notebooks",
+    "sent_date": "2025-11-20T23:21:18.361898",
+    "stars": 8871,
+    "url": "https://github.com/roboflow/notebooks"
+  },
+  "987976055": {
+    "name": "Automodel",
+    "full_name": "NVIDIA-NeMo/Automodel",
+    "sent_date": "2025-11-20T23:21:18.365116",
+    "stars": 181,
+    "url": "https://github.com/NVIDIA-NeMo/Automodel"
+  },
+  "422324608": {
+    "name": "sup3r",
+    "full_name": "NREL/sup3r",
+    "sent_date": "2025-11-20T23:22:03.519272",
+    "stars": 117,
+    "url": "https://github.com/NREL/sup3r"
+  },
+  "1100896701": {
+    "name": "zeta-universe",
+    "full_name": "LH-ai7/zeta-universe",
+    "sent_date": "2025-11-20T23:22:03.522354",
+    "stars": 1,
+    "url": "https://github.com/LH-ai7/zeta-universe"
+  },
+  "1048683574": {
+    "name": "PavementEye",
+    "full_name": "yahia997/PavementEye",
+    "sent_date": "2025-11-20T23:22:47.963272",
+    "stars": 3,
+    "url": "https://github.com/yahia997/PavementEye"
+  },
+  "1074532763": {
+    "name": "data-science-portfolio",
+    "full_name": "meneda11/data-science-portfolio",
+    "sent_date": "2025-11-20T23:22:47.966370",
+    "stars": 1,
+    "url": "https://github.com/meneda11/data-science-portfolio"
+  },
+  "618514446": {
+    "name": "gptme",
+    "full_name": "gptme/gptme",
+    "sent_date": "2025-11-20T23:23:34.144569",
+    "stars": 4068,
+    "url": "https://github.com/gptme/gptme"
+  },
+  "1100769920": {
+    "name": "Project-3-Machine-Learning-for-Predicting-Trading-Signals",
+    "full_name": "Raissa-hue310/Project-3-Machine-Learning-for-Predicting-Trading-Signals",
+    "sent_date": "2025-11-20T23:23:34.147739",
+    "stars": 0,
+    "url": "https://github.com/Raissa-hue310/Project-3-Machine-Learning-for-Predicting-Trading-Signals"
+  },
+  "1092400683": {
+    "name": "Distributed-ML-framework",
+    "full_name": "isteres/Distributed-ML-framework",
+    "sent_date": "2025-11-20T23:24:18.571102",
+    "stars": 0,
+    "url": "https://github.com/isteres/Distributed-ML-framework"
+  },
+  "1099715603": {
+    "name": "Data_Engineering",
+    "full_name": "yalonso7/Data_Engineering",
+    "sent_date": "2025-11-20T23:24:18.574157",
+    "stars": 0,
+    "url": "https://github.com/yalonso7/Data_Engineering"
   }
 }
