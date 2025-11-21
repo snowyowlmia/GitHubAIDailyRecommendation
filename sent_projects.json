@@ -1,88 +1,4 @@
 {
-  "739594808": {
-    "name": "ocean",
-    "full_name": "facebookresearch/ocean",
-    "sent_date": "2025-10-22T23:18:14.809761",
-    "stars": 739,
-    "url": "https://github.com/facebookresearch/ocean"
-  },
-  "1077771436": {
-    "name": "bip3d",
-    "full_name": "ayoub147147/bip3d",
-    "sent_date": "2025-10-22T23:18:14.812705",
-    "stars": 1,
-    "url": "https://github.com/ayoub147147/bip3d"
-  },
-  "215604631": {
-    "name": "magnolify",
-    "full_name": "spotify/magnolify",
-    "sent_date": "2025-10-22T23:19:00.477965",
-    "stars": 179,
-    "url": "https://github.com/spotify/magnolify"
-  },
-  "377910358": {
-    "name": "ClimaAtmos.jl",
-    "full_name": "CliMA/ClimaAtmos.jl",
-    "sent_date": "2025-10-22T23:19:00.480832",
-    "stars": 108,
-    "url": "https://github.com/CliMA/ClimaAtmos.jl"
-  },
-  "858956291": {
-    "name": "FinGPT-Search-Agent",
-    "full_name": "Open-Finance-Lab/FinGPT-Search-Agent",
-    "sent_date": "2025-10-22T23:19:44.832855",
-    "stars": 15,
-    "url": "https://github.com/Open-Finance-Lab/FinGPT-Search-Agent"
-  },
-  "895817188": {
-    "name": "Crowd-Analyzer",
-    "full_name": "pozapas/Crowd-Analyzer",
-    "sent_date": "2025-10-22T23:19:44.835682",
-    "stars": 8,
-    "url": "https://github.com/pozapas/Crowd-Analyzer"
-  },
-  "123298005": {
-    "name": "abdulvahapmutlu",
-    "full_name": "popcorn0118/abdulvahapmutlu",
-    "sent_date": "2025-10-22T23:20:29.367722",
-    "stars": 1,
-    "url": "https://github.com/popcorn0118/abdulvahapmutlu"
-  },
-  "1081458314": {
-    "name": "Banking-api",
-    "full_name": "Perik-24/Banking-api",
-    "sent_date": "2025-10-22T23:20:29.370606",
-    "stars": 0,
-    "url": "https://github.com/Perik-24/Banking-api"
-  },
-  "1073774845": {
-    "name": "FAST-API",
-    "full_name": "alibukhari1-00/FAST-API",
-    "sent_date": "2025-10-22T23:21:14.248866",
-    "stars": 0,
-    "url": "https://github.com/alibukhari1-00/FAST-API"
-  },
-  "351305463": {
-    "name": "data-science-project",
-    "full_name": "mahdi5050/data-science-project",
-    "sent_date": "2025-10-22T23:21:14.251677",
-    "stars": 0,
-    "url": "https://github.com/mahdi5050/data-science-project"
-  },
-  "1062575201": {
-    "name": "gpts-help",
-    "full_name": "goamponsah/gpts-help",
-    "sent_date": "2025-10-22T23:22:00.578271",
-    "stars": 0,
-    "url": "https://github.com/goamponsah/gpts-help"
-  },
-  "1079323281": {
-    "name": "agentic-commerce-protocol-demo",
-    "full_name": "nweibull/agentic-commerce-protocol-demo",
-    "sent_date": "2025-10-22T23:22:00.581168",
-    "stars": 0,
-    "url": "https://github.com/nweibull/agentic-commerce-protocol-demo"
-  },
   "1081715892": {
     "name": "QuantumEA-AI_Trader_Pro",
     "full_name": "ExMsg/QuantumEA-AI_Trader_Pro",
@@ -2889,5 +2805,89 @@
     "sent_date": "2025-11-20T23:24:18.574157",
     "stars": 0,
     "url": "https://github.com/yalonso7/Data_Engineering"
+  },
+  "152616802": {
+    "name": "cuml",
+    "full_name": "rapidsai/cuml",
+    "sent_date": "2025-11-21T23:20:11.773678",
+    "stars": 5019,
+    "url": "https://github.com/rapidsai/cuml"
+  },
+  "110621895": {
+    "name": "sagemaker-python-sdk",
+    "full_name": "aws/sagemaker-python-sdk",
+    "sent_date": "2025-11-21T23:20:11.776762",
+    "stars": 2209,
+    "url": "https://github.com/aws/sagemaker-python-sdk"
+  },
+  "120909172": {
+    "name": "guibot",
+    "full_name": "intra2net/guibot",
+    "sent_date": "2025-11-21T23:20:56.704500",
+    "stars": 185,
+    "url": "https://github.com/intra2net/guibot"
+  },
+  "1093104830": {
+    "name": "Regression_comparison_study",
+    "full_name": "yacinetalahari/Regression_comparison_study",
+    "sent_date": "2025-11-21T23:20:56.707438",
+    "stars": 1,
+    "url": "https://github.com/yacinetalahari/Regression_comparison_study"
+  },
+  "975745458": {
+    "name": "tritonparse",
+    "full_name": "meta-pytorch/tritonparse",
+    "sent_date": "2025-11-21T23:21:41.921658",
+    "stars": 171,
+    "url": "https://github.com/meta-pytorch/tritonparse"
+  },
+  "1067713066": {
+    "name": "classicsml",
+    "full_name": "Scarecrow1941/classicsml",
+    "sent_date": "2025-11-21T23:21:41.924606",
+    "stars": 0,
+    "url": "https://github.com/Scarecrow1941/classicsml"
+  },
+  "305144746": {
+    "name": "tinygrad",
+    "full_name": "tinygrad/tinygrad",
+    "sent_date": "2025-11-21T23:22:27.745127",
+    "stars": 30659,
+    "url": "https://github.com/tinygrad/tinygrad"
+  },
+  "1068215389": {
+    "name": "Stock-Price-Prediction",
+    "full_name": "leadura/Stock-Price-Prediction",
+    "sent_date": "2025-11-21T23:22:27.748128",
+    "stars": 1,
+    "url": "https://github.com/leadura/Stock-Price-Prediction"
+  },
+  "1101586376": {
+    "name": "JDede1.github.io",
+    "full_name": "JDede1/JDede1.github.io",
+    "sent_date": "2025-11-21T23:23:13.361843",
+    "stars": 0,
+    "url": "https://github.com/JDede1/JDede1.github.io"
+  },
+  "746905837": {
+    "name": "lotteharper",
+    "full_name": "lotteharper/lotteharper",
+    "sent_date": "2025-11-21T23:23:13.364838",
+    "stars": 2,
+    "url": "https://github.com/lotteharper/lotteharper"
+  },
+  "1069356481": {
+    "name": "Customer-Churn-Prediction",
+    "full_name": "JavedFazlulahF/Customer-Churn-Prediction",
+    "sent_date": "2025-11-21T23:23:58.693328",
+    "stars": 0,
+    "url": "https://github.com/JavedFazlulahF/Customer-Churn-Prediction"
+  },
+  "1101605106": {
+    "name": "Transaction-Deposit-Summary-Dashboard",
+    "full_name": "athanugraha45-web/Transaction-Deposit-Summary-Dashboard",
+    "sent_date": "2025-11-21T23:23:58.696274",
+    "stars": 0,
+    "url": "https://github.com/athanugraha45-web/Transaction-Deposit-Summary-Dashboard"
   }
 }
