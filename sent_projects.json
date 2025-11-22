@@ -1,88 +1,4 @@
 {
-  "1081715892": {
-    "name": "QuantumEA-AI_Trader_Pro",
-    "full_name": "ExMsg/QuantumEA-AI_Trader_Pro",
-    "sent_date": "2025-10-23T23:18:44.464582",
-    "stars": 1,
-    "url": "https://github.com/ExMsg/QuantumEA-AI_Trader_Pro"
-  },
-  "1068251524": {
-    "name": "ModelCub",
-    "full_name": "SeifBoukerdenna/ModelCub",
-    "sent_date": "2025-10-23T23:18:44.467408",
-    "stars": 2,
-    "url": "https://github.com/SeifBoukerdenna/ModelCub"
-  },
-  "1070821462": {
-    "name": "py-fastglmpca",
-    "full_name": "serjisa/py-fastglmpca",
-    "sent_date": "2025-10-23T23:19:29.283247",
-    "stars": 1,
-    "url": "https://github.com/serjisa/py-fastglmpca"
-  },
-  "1082222950": {
-    "name": "sowersmlproject",
-    "full_name": "ssowers2/sowersmlproject",
-    "sent_date": "2025-10-23T23:19:29.286069",
-    "stars": 0,
-    "url": "https://github.com/ssowers2/sowersmlproject"
-  },
-  "1054357595": {
-    "name": "AI-Anvil",
-    "full_name": "Fggggggggd/AI-Anvil",
-    "sent_date": "2025-10-23T23:20:13.533009",
-    "stars": 0,
-    "url": "https://github.com/Fggggggggd/AI-Anvil"
-  },
-  "1082222945": {
-    "name": "nfl_rec_pred",
-    "full_name": "djtotopo/nfl_rec_pred",
-    "sent_date": "2025-10-23T23:20:13.535930",
-    "stars": 0,
-    "url": "https://github.com/djtotopo/nfl_rec_pred"
-  },
-  "327663393": {
-    "name": "openai-agents-sdk-chatbot-UI",
-    "full_name": "shamshakha/openai-agents-sdk-chatbot-UI",
-    "sent_date": "2025-10-23T23:20:57.812524",
-    "stars": 1,
-    "url": "https://github.com/shamshakha/openai-agents-sdk-chatbot-UI"
-  },
-  "1050120600": {
-    "name": "MarketGuardian",
-    "full_name": "riyadhrodna/MarketGuardian",
-    "sent_date": "2025-10-23T23:20:57.815345",
-    "stars": 0,
-    "url": "https://github.com/riyadhrodna/MarketGuardian"
-  },
-  "102158621": {
-    "name": "adams-base",
-    "full_name": "waikato-datamining/adams-base",
-    "sent_date": "2025-10-23T23:21:42.116512",
-    "stars": 21,
-    "url": "https://github.com/waikato-datamining/adams-base"
-  },
-  "654783761": {
-    "name": "AI-Powered-Resume-Analyzer",
-    "full_name": "Razenism/AI-Powered-Resume-Analyzer",
-    "sent_date": "2025-10-23T23:21:42.119797",
-    "stars": 0,
-    "url": "https://github.com/Razenism/AI-Powered-Resume-Analyzer"
-  },
-  "1063102109": {
-    "name": "ai-toolkit",
-    "full_name": "wannabehacker512/ai-toolkit",
-    "sent_date": "2025-10-23T23:22:27.122798",
-    "stars": 1,
-    "url": "https://github.com/wannabehacker512/ai-toolkit"
-  },
-  "1063173444": {
-    "name": "ai-compliance-risk-insights",
-    "full_name": "jenishsoftx6/ai-compliance-risk-insights",
-    "sent_date": "2025-10-23T23:22:27.125843",
-    "stars": 0,
-    "url": "https://github.com/jenishsoftx6/ai-compliance-risk-insights"
-  },
   "903548628": {
     "name": "awesome-llm-books",
     "full_name": "Jason2Brownlee/awesome-llm-books",
@@ -2889,5 +2805,89 @@
     "sent_date": "2025-11-21T23:23:58.696274",
     "stars": 0,
     "url": "https://github.com/athanugraha45-web/Transaction-Deposit-Summary-Dashboard"
+  },
+  "1082970851": {
+    "name": "tensordiagram",
+    "full_name": "hardik-vala/tensordiagram",
+    "sent_date": "2025-11-22T23:20:15.669607",
+    "stars": 46,
+    "url": "https://github.com/hardik-vala/tensordiagram"
+  },
+  "864412929": {
+    "name": "CeLux",
+    "full_name": "NevermindNilas/CeLux",
+    "sent_date": "2025-11-22T23:20:15.672733",
+    "stars": 20,
+    "url": "https://github.com/NevermindNilas/CeLux"
+  },
+  "1082742954": {
+    "name": "energy-consumption-ml-prediction",
+    "full_name": "lavishly-deathly/energy-consumption-ml-prediction",
+    "sent_date": "2025-11-22T23:20:59.452832",
+    "stars": 0,
+    "url": "https://github.com/lavishly-deathly/energy-consumption-ml-prediction"
+  },
+  "1102156645": {
+    "name": "Livio",
+    "full_name": "PrabalManchanda/Livio",
+    "sent_date": "2025-11-22T23:20:59.455947",
+    "stars": 0,
+    "url": "https://github.com/PrabalManchanda/Livio"
+  },
+  "1082877548": {
+    "name": "coevolutionary-loops",
+    "full_name": "virat2832001/coevolutionary-loops",
+    "sent_date": "2025-11-22T23:21:43.242001",
+    "stars": 0,
+    "url": "https://github.com/virat2832001/coevolutionary-loops"
+  },
+  "1082903839": {
+    "name": "House-Price-Predictor",
+    "full_name": "Voto205/House-Price-Predictor",
+    "sent_date": "2025-11-22T23:21:43.245051",
+    "stars": 0,
+    "url": "https://github.com/Voto205/House-Price-Predictor"
+  },
+  "1080187945": {
+    "name": "Car-Price-Prediction",
+    "full_name": "johnnydelsage/Car-Price-Prediction",
+    "sent_date": "2025-11-22T23:22:27.292625",
+    "stars": 1,
+    "url": "https://github.com/johnnydelsage/Car-Price-Prediction"
+  },
+  "996348504": {
+    "name": "FlashVideoBot",
+    "full_name": "Vadim1244/FlashVideoBot",
+    "sent_date": "2025-11-22T23:22:27.295568",
+    "stars": 2,
+    "url": "https://github.com/Vadim1244/FlashVideoBot"
+  },
+  "1093890631": {
+    "name": "streamlit-app",
+    "full_name": "JimenaCarmona2/streamlit-app",
+    "sent_date": "2025-11-22T23:23:11.442005",
+    "stars": 0,
+    "url": "https://github.com/JimenaCarmona2/streamlit-app"
+  },
+  "1102137088": {
+    "name": "Ai-Waste-sorter",
+    "full_name": "ebi-max/Ai-Waste-sorter",
+    "sent_date": "2025-11-22T23:23:11.445208",
+    "stars": 0,
+    "url": "https://github.com/ebi-max/Ai-Waste-sorter"
+  },
+  "1102156380": {
+    "name": "Portfolio",
+    "full_name": "PrasadaVishwesh/Portfolio",
+    "sent_date": "2025-11-22T23:23:55.498651",
+    "stars": 0,
+    "url": "https://github.com/PrasadaVishwesh/Portfolio"
+  },
+  "1091437019": {
+    "name": "Football-Detection",
+    "full_name": "chele-s/Football-Detection",
+    "sent_date": "2025-11-22T23:23:55.501848",
+    "stars": 0,
+    "url": "https://github.com/chele-s/Football-Detection"
   }
 }
