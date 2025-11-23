@@ -1,88 +1,4 @@
 {
-  "903548628": {
-    "name": "awesome-llm-books",
-    "full_name": "Jason2Brownlee/awesome-llm-books",
-    "sent_date": "2025-10-24T23:19:31.029195",
-    "stars": 1031,
-    "url": "https://github.com/Jason2Brownlee/awesome-llm-books"
-  },
-  "593782352": {
-    "name": "physicsnemo",
-    "full_name": "NVIDIA/physicsnemo",
-    "sent_date": "2025-10-24T23:19:31.032357",
-    "stars": 1958,
-    "url": "https://github.com/NVIDIA/physicsnemo"
-  },
-  "776513710": {
-    "name": "OLMo-core",
-    "full_name": "allenai/OLMo-core",
-    "sent_date": "2025-10-24T23:20:15.758868",
-    "stars": 309,
-    "url": "https://github.com/allenai/OLMo-core"
-  },
-  "647381053": {
-    "name": "VisCy",
-    "full_name": "mehta-lab/VisCy",
-    "sent_date": "2025-10-24T23:20:15.763536",
-    "stars": 73,
-    "url": "https://github.com/mehta-lab/VisCy"
-  },
-  "257561820": {
-    "name": "lang-kal",
-    "full_name": "giellalt/lang-kal",
-    "sent_date": "2025-10-24T23:21:00.347352",
-    "stars": 12,
-    "url": "https://github.com/giellalt/lang-kal"
-  },
-  "1082867589": {
-    "name": "Netflix_ML_Rec_Project",
-    "full_name": "Skasmarogi/Netflix_ML_Rec_Project",
-    "sent_date": "2025-10-24T23:21:00.350676",
-    "stars": 0,
-    "url": "https://github.com/Skasmarogi/Netflix_ML_Rec_Project"
-  },
-  "929223731": {
-    "name": "QuantTradeAI",
-    "full_name": "AKKI0511/QuantTradeAI",
-    "sent_date": "2025-10-24T23:21:44.780649",
-    "stars": 4,
-    "url": "https://github.com/AKKI0511/QuantTradeAI"
-  },
-  "671838476": {
-    "name": "medic-ai",
-    "full_name": "innat/medic-ai",
-    "sent_date": "2025-10-24T23:21:44.783865",
-    "stars": 2,
-    "url": "https://github.com/innat/medic-ai"
-  },
-  "1082878782": {
-    "name": "Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning",
-    "full_name": "aurangzeb23707576/Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning",
-    "sent_date": "2025-10-24T23:22:29.500058",
-    "stars": 0,
-    "url": "https://github.com/aurangzeb23707576/Fraud-SMS-Detection-and-Alert-System-Using-Machine-Learning"
-  },
-  "1011939759": {
-    "name": "medilinda",
-    "full_name": "kraigochieng/medilinda",
-    "sent_date": "2025-10-24T23:22:29.503120",
-    "stars": 0,
-    "url": "https://github.com/kraigochieng/medilinda"
-  },
-  "929868765": {
-    "name": "local-deep-research",
-    "full_name": "LearningCircuit/local-deep-research",
-    "sent_date": "2025-10-24T23:23:14.487995",
-    "stars": 3527,
-    "url": "https://github.com/LearningCircuit/local-deep-research"
-  },
-  "1065643341": {
-    "name": "TruLedger-AI",
-    "full_name": "Yashwanth-Dev18/TruLedger-AI",
-    "sent_date": "2025-10-24T23:23:14.491082",
-    "stars": 0,
-    "url": "https://github.com/Yashwanth-Dev18/TruLedger-AI"
-  },
   "45717250": {
     "name": "tensorflow",
     "full_name": "tensorflow/tensorflow",
@@ -2889,5 +2805,89 @@
     "sent_date": "2025-11-22T23:23:55.501848",
     "stars": 0,
     "url": "https://github.com/chele-s/Football-Detection"
+  },
+  "829640443": {
+    "name": "tensorzero",
+    "full_name": "tensorzero/tensorzero",
+    "sent_date": "2025-11-23T23:20:05.826000",
+    "stars": 10588,
+    "url": "https://github.com/tensorzero/tensorzero"
+  },
+  "1102590771": {
+    "name": "NeuralNetworks",
+    "full_name": "xXxFetraxXx/NeuralNetworks",
+    "sent_date": "2025-11-23T23:20:05.829116",
+    "stars": 1,
+    "url": "https://github.com/xXxFetraxXx/NeuralNetworks"
+  },
+  "326435405": {
+    "name": "PyTorch-Wavelet-Toolbox",
+    "full_name": "v0lta/PyTorch-Wavelet-Toolbox",
+    "sent_date": "2025-11-23T23:20:50.431161",
+    "stars": 392,
+    "url": "https://github.com/v0lta/PyTorch-Wavelet-Toolbox"
+  },
+  "178031166": {
+    "name": "pytorch_connectomics",
+    "full_name": "PytorchConnectomics/pytorch_connectomics",
+    "sent_date": "2025-11-23T23:20:50.434069",
+    "stars": 181,
+    "url": "https://github.com/PytorchConnectomics/pytorch_connectomics"
+  },
+  "129746296": {
+    "name": "botserver",
+    "full_name": "GeneralBots/botserver",
+    "sent_date": "2025-11-23T23:21:34.301626",
+    "stars": 73,
+    "url": "https://github.com/GeneralBots/botserver"
+  },
+  "1088410513": {
+    "name": "ml-course-for-schools",
+    "full_name": "pymlex/ml-course-for-schools",
+    "sent_date": "2025-11-23T23:21:34.304672",
+    "stars": 2,
+    "url": "https://github.com/pymlex/ml-course-for-schools"
+  },
+  "1093903080": {
+    "name": "TroyanEyes",
+    "full_name": "maciejkondev/TroyanEyes",
+    "sent_date": "2025-11-23T23:22:20.181626",
+    "stars": 2,
+    "url": "https://github.com/maciejkondev/TroyanEyes"
+  },
+  "905967176": {
+    "name": "multi-vision-toolkit",
+    "full_name": "Limbicnation/multi-vision-toolkit",
+    "sent_date": "2025-11-23T23:22:20.184550",
+    "stars": 2,
+    "url": "https://github.com/Limbicnation/multi-vision-toolkit"
+  },
+  "1102580845": {
+    "name": "clother",
+    "full_name": "ceiluncomplicated942/clother",
+    "sent_date": "2025-11-23T23:23:05.151394",
+    "stars": 0,
+    "url": "https://github.com/ceiluncomplicated942/clother"
+  },
+  "1102674302": {
+    "name": "Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python",
+    "full_name": "Barsha58/Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python",
+    "sent_date": "2025-11-23T23:23:05.154422",
+    "stars": 0,
+    "url": "https://github.com/Barsha58/Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python"
+  },
+  "1100805443": {
+    "name": "JavaChatX",
+    "full_name": "Joellsolidhoofed222/JavaChatX",
+    "sent_date": "2025-11-23T23:23:49.528618",
+    "stars": 0,
+    "url": "https://github.com/Joellsolidhoofed222/JavaChatX"
+  },
+  "1102701045": {
+    "name": "Traffic-Surveillance",
+    "full_name": "AwaisAhmad555/Traffic-Surveillance",
+    "sent_date": "2025-11-23T23:23:49.531788",
+    "stars": 0,
+    "url": "https://github.com/AwaisAhmad555/Traffic-Surveillance"
   }
 }
