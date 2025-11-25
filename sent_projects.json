@@ -1,172 +1,4 @@
 {
-  "1198539": {
-    "name": "netron",
-    "full_name": "lutzroeder/netron",
-    "sent_date": "2025-10-26T23:19:05.675393",
-    "stars": 31637,
-    "url": "https://github.com/lutzroeder/netron"
-  },
-  "181042062": {
-    "name": "UTM",
-    "full_name": "utmapp/UTM",
-    "sent_date": "2025-10-26T23:19:05.678425",
-    "stars": 31309,
-    "url": "https://github.com/utmapp/UTM"
-  },
-  "129815042": {
-    "name": "tianshou",
-    "full_name": "thu-ml/tianshou",
-    "sent_date": "2025-10-26T23:19:05.681607",
-    "stars": 8878,
-    "url": "https://github.com/thu-ml/tianshou"
-  },
-  "69709572": {
-    "name": "tutorials",
-    "full_name": "pytorch/tutorials",
-    "sent_date": "2025-10-26T23:19:05.684722",
-    "stars": 8854,
-    "url": "https://github.com/pytorch/tutorials"
-  },
-  "70431106": {
-    "name": "machine-learning-for-software-engineers",
-    "full_name": "ZuzooVn/machine-learning-for-software-engineers",
-    "sent_date": "2025-10-26T23:19:49.933667",
-    "stars": 28626,
-    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers"
-  },
-  "277168957": {
-    "name": "applied-ml",
-    "full_name": "eugeneyan/applied-ml",
-    "sent_date": "2025-10-26T23:19:49.936642",
-    "stars": 28453,
-    "url": "https://github.com/eugeneyan/applied-ml"
-  },
-  "757834127": {
-    "name": "top-500-best-gpts",
-    "full_name": "AINativeLab/top-500-best-gpts",
-    "sent_date": "2025-10-26T23:19:49.939689",
-    "stars": 101,
-    "url": "https://github.com/AINativeLab/top-500-best-gpts"
-  },
-  "917105566": {
-    "name": "facemind",
-    "full_name": "galihru/facemind",
-    "sent_date": "2025-10-26T23:19:49.942707",
-    "stars": 26,
-    "url": "https://github.com/galihru/facemind"
-  },
-  "326174741": {
-    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-    "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-    "sent_date": "2025-10-26T23:20:34.678237",
-    "stars": 28339,
-    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
-  },
-  "74505259": {
-    "name": "shap",
-    "full_name": "shap/shap",
-    "sent_date": "2025-10-26T23:20:34.681218",
-    "stars": 24615,
-    "url": "https://github.com/shap/shap"
-  },
-  "1083337204": {
-    "name": "Alzheimer-MRI-Preprocessing-FreeSurfer-SliceSelection-DeepLearning-TransferLearning-EnsembleLearning",
-    "full_name": "Gersha2024/Alzheimer-MRI-Preprocessing-FreeSurfer-SliceSelection-DeepLearning-TransferLearning-EnsembleLearning",
-    "sent_date": "2025-10-26T23:20:34.684260",
-    "stars": 1,
-    "url": "https://github.com/Gersha2024/Alzheimer-MRI-Preprocessing-FreeSurfer-SliceSelection-DeepLearning-TransferLearning-EnsembleLearning"
-  },
-  "1048112203": {
-    "name": "202509-ML-FinTech",
-    "full_name": "HWTeng-Teaching/202509-ML-FinTech",
-    "sent_date": "2025-10-26T23:20:34.687264",
-    "stars": 9,
-    "url": "https://github.com/HWTeng-Teaching/202509-ML-FinTech"
-  },
-  "155662306": {
-    "name": "homemade-machine-learning",
-    "full_name": "trekhleb/homemade-machine-learning",
-    "sent_date": "2025-10-26T23:21:19.591284",
-    "stars": 23748,
-    "url": "https://github.com/trekhleb/homemade-machine-learning"
-  },
-  "65711522": {
-    "name": "Paddle",
-    "full_name": "PaddlePaddle/Paddle",
-    "sent_date": "2025-10-26T23:21:19.594589",
-    "stars": 23349,
-    "url": "https://github.com/PaddlePaddle/Paddle"
-  },
-  "1049275199": {
-    "name": "CodeRedProject",
-    "full_name": "HumayunK01/CodeRedProject",
-    "sent_date": "2025-10-26T23:21:19.597566",
-    "stars": 3,
-    "url": "https://github.com/HumayunK01/CodeRedProject"
-  },
-  "1003931693": {
-    "name": "financial-chat-Finance-NLP-Chatbots",
-    "full_name": "Floxym/financial-chat-Finance-NLP-Chatbots",
-    "sent_date": "2025-10-26T23:21:19.600792",
-    "stars": 3,
-    "url": "https://github.com/Floxym/financial-chat-Finance-NLP-Chatbots"
-  },
-  "317029148": {
-    "name": "best-of-ml-python",
-    "full_name": "lukasmasuch/best-of-ml-python",
-    "sent_date": "2025-10-26T23:22:04.120592",
-    "stars": 22630,
-    "url": "https://github.com/lukasmasuch/best-of-ml-python"
-  },
-  "63477515": {
-    "name": "C",
-    "full_name": "TheAlgorithms/C",
-    "sent_date": "2025-10-26T23:22:04.123468",
-    "stars": 21187,
-    "url": "https://github.com/TheAlgorithms/C"
-  },
-  "907868751": {
-    "name": "Researcher",
-    "full_name": "fajar661/Researcher",
-    "sent_date": "2025-10-26T23:22:04.126338",
-    "stars": 0,
-    "url": "https://github.com/fajar661/Researcher"
-  },
-  "994935510": {
-    "name": "paru",
-    "full_name": "MarnuDeWet/paru",
-    "sent_date": "2025-10-26T23:22:04.129131",
-    "stars": 0,
-    "url": "https://github.com/MarnuDeWet/paru"
-  },
-  "527591471": {
-    "name": "stable-diffusion-webui",
-    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "sent_date": "2025-10-26T23:22:48.482462",
-    "stars": 157551,
-    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-  },
-  "589831718": {
-    "name": "ComfyUI",
-    "full_name": "comfyanonymous/ComfyUI",
-    "sent_date": "2025-10-26T23:22:48.485305",
-    "stars": 92005,
-    "url": "https://github.com/comfyanonymous/ComfyUI"
-  },
-  "1081837865": {
-    "name": "CASM",
-    "full_name": "jyoti2000-star/CASM",
-    "sent_date": "2025-10-26T23:22:48.488255",
-    "stars": 0,
-    "url": "https://github.com/jyoti2000-star/CASM"
-  },
-  "978628281": {
-    "name": "digital_cave",
-    "full_name": "norsimoes/digital_cave",
-    "sent_date": "2025-10-26T23:22:48.491017",
-    "stars": 0,
-    "url": "https://github.com/norsimoes/digital_cave"
-  },
   "51117837": {
     "name": "models",
     "full_name": "tensorflow/models",
@@ -2889,5 +2721,173 @@
     "sent_date": "2025-11-24T23:24:43.531600",
     "stars": 0,
     "url": "https://github.com/dopamin3fiends/ml-systems-portfolio"
+  },
+  "1198539": {
+    "name": "netron",
+    "full_name": "lutzroeder/netron",
+    "sent_date": "2025-11-25T23:20:29.859195",
+    "stars": 31865,
+    "url": "https://github.com/lutzroeder/netron"
+  },
+  "181042062": {
+    "name": "UTM",
+    "full_name": "utmapp/UTM",
+    "sent_date": "2025-11-25T23:20:29.862260",
+    "stars": 31683,
+    "url": "https://github.com/utmapp/UTM"
+  },
+  "757834127": {
+    "name": "top-500-best-gpts",
+    "full_name": "AINativeLab/top-500-best-gpts",
+    "sent_date": "2025-11-25T23:20:29.865399",
+    "stars": 104,
+    "url": "https://github.com/AINativeLab/top-500-best-gpts"
+  },
+  "917105566": {
+    "name": "facemind",
+    "full_name": "galihru/facemind",
+    "sent_date": "2025-11-25T23:20:29.871150",
+    "stars": 26,
+    "url": "https://github.com/galihru/facemind"
+  },
+  "326174741": {
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "sent_date": "2025-11-25T23:21:14.809062",
+    "stars": 28992,
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  "70431106": {
+    "name": "machine-learning-for-software-engineers",
+    "full_name": "ZuzooVn/machine-learning-for-software-engineers",
+    "sent_date": "2025-11-25T23:21:14.812273",
+    "stars": 28660,
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers"
+  },
+  "1050541585": {
+    "name": "Supervertaler",
+    "full_name": "michaelbeijer/Supervertaler",
+    "sent_date": "2025-11-25T23:21:14.815595",
+    "stars": 6,
+    "url": "https://github.com/michaelbeijer/Supervertaler"
+  },
+  "1073826117": {
+    "name": "WETSAT_v2",
+    "full_name": "sei-latam/WETSAT_v2",
+    "sent_date": "2025-11-25T23:21:14.819016",
+    "stars": 2,
+    "url": "https://github.com/sei-latam/WETSAT_v2"
+  },
+  "277168957": {
+    "name": "applied-ml",
+    "full_name": "eugeneyan/applied-ml",
+    "sent_date": "2025-11-25T23:21:59.649696",
+    "stars": 28526,
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  "74505259": {
+    "name": "shap",
+    "full_name": "shap/shap",
+    "sent_date": "2025-11-25T23:21:59.652780",
+    "stars": 24759,
+    "url": "https://github.com/shap/shap"
+  },
+  "1104195235": {
+    "name": "data-science-textbook",
+    "full_name": "mcvanderbilt/data-science-textbook",
+    "sent_date": "2025-11-25T23:21:59.655772",
+    "stars": 0,
+    "url": "https://github.com/mcvanderbilt/data-science-textbook"
+  },
+  "1099365493": {
+    "name": "ai-loan-approval",
+    "full_name": "adamawaadd/ai-loan-approval",
+    "sent_date": "2025-11-25T23:21:59.658808",
+    "stars": 0,
+    "url": "https://github.com/adamawaadd/ai-loan-approval"
+  },
+  "155662306": {
+    "name": "homemade-machine-learning",
+    "full_name": "trekhleb/homemade-machine-learning",
+    "sent_date": "2025-11-25T23:22:45.956133",
+    "stars": 23776,
+    "url": "https://github.com/trekhleb/homemade-machine-learning"
+  },
+  "65711522": {
+    "name": "Paddle",
+    "full_name": "PaddlePaddle/Paddle",
+    "sent_date": "2025-11-25T23:22:45.959261",
+    "stars": 23439,
+    "url": "https://github.com/PaddlePaddle/Paddle"
+  },
+  "1054580680": {
+    "name": "AI-Dialogue-Memory-Based-on-Hidden-State",
+    "full_name": "vaswdeferenss/AI-Dialogue-Memory-Based-on-Hidden-State",
+    "sent_date": "2025-11-25T23:22:45.962243",
+    "stars": 2,
+    "url": "https://github.com/vaswdeferenss/AI-Dialogue-Memory-Based-on-Hidden-State"
+  },
+  "1002561374": {
+    "name": "AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System",
+    "full_name": "nickisgit/AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System",
+    "sent_date": "2025-11-25T23:22:45.965163",
+    "stars": 2,
+    "url": "https://github.com/nickisgit/AI-Driven-Microbial-soil-health-monitoring-and-Enhancement-System"
+  },
+  "317029148": {
+    "name": "best-of-ml-python",
+    "full_name": "lukasmasuch/best-of-ml-python",
+    "sent_date": "2025-11-25T23:23:32.371087",
+    "stars": 22841,
+    "url": "https://github.com/lukasmasuch/best-of-ml-python"
+  },
+  "63477515": {
+    "name": "C",
+    "full_name": "TheAlgorithms/C",
+    "sent_date": "2025-11-25T23:23:32.374174",
+    "stars": 21356,
+    "url": "https://github.com/TheAlgorithms/C"
+  },
+  "298017988": {
+    "name": "python-aiplatform",
+    "full_name": "googleapis/python-aiplatform",
+    "sent_date": "2025-11-25T23:23:32.377206",
+    "stars": 829,
+    "url": "https://github.com/googleapis/python-aiplatform"
+  },
+  "1062267434": {
+    "name": "MLJobSearch2025",
+    "full_name": "SeroRoch/MLJobSearch2025",
+    "sent_date": "2025-11-25T23:23:32.380161",
+    "stars": 0,
+    "url": "https://github.com/SeroRoch/MLJobSearch2025"
+  },
+  "527591471": {
+    "name": "stable-diffusion-webui",
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "sent_date": "2025-11-25T23:24:18.776951",
+    "stars": 158504,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  "65600975": {
+    "name": "pytorch",
+    "full_name": "pytorch/pytorch",
+    "sent_date": "2025-11-25T23:24:18.780224",
+    "stars": 95361,
+    "url": "https://github.com/pytorch/pytorch"
+  },
+  "1062164058": {
+    "name": "ai-data-engineering-ecosystem-guide",
+    "full_name": "Lowkey144/ai-data-engineering-ecosystem-guide",
+    "sent_date": "2025-11-25T23:24:18.783256",
+    "stars": 0,
+    "url": "https://github.com/Lowkey144/ai-data-engineering-ecosystem-guide"
+  },
+  "1060586853": {
+    "name": "Midm-2.0",
+    "full_name": "Szeryy/Midm-2.0",
+    "sent_date": "2025-11-25T23:24:18.786219",
+    "stars": 0,
+    "url": "https://github.com/Szeryy/Midm-2.0"
   }
 }
