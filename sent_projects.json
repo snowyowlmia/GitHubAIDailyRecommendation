@@ -1,165 +1,4 @@
 {
-  "154747577": {
-    "name": "bert",
-    "full_name": "google-research/bert",
-    "sent_date": "2025-10-28T23:19:55.502825",
-    "stars": 39607,
-    "url": "https://github.com/google-research/bert"
-  },
-  "71932349": {
-    "name": "ray",
-    "full_name": "ray-project/ray",
-    "sent_date": "2025-10-28T23:19:55.509027",
-    "stars": 39566,
-    "url": "https://github.com/ray-project/ray"
-  },
-  "807305060": {
-    "name": "LMCache",
-    "full_name": "LMCache/LMCache",
-    "sent_date": "2025-10-28T23:19:55.511982",
-    "stars": 5710,
-    "url": "https://github.com/LMCache/LMCache"
-  },
-  "119160553": {
-    "name": "photoprism",
-    "full_name": "photoprism/photoprism",
-    "sent_date": "2025-10-28T23:20:40.659263",
-    "stars": 38656,
-    "url": "https://github.com/photoprism/photoprism"
-  },
-  "349321229": {
-    "name": "GFPGAN",
-    "full_name": "TencentARC/GFPGAN",
-    "sent_date": "2025-10-28T23:20:40.662478",
-    "stars": 37175,
-    "url": "https://github.com/TencentARC/GFPGAN"
-  },
-  "658928958": {
-    "name": "ollama",
-    "full_name": "ollama/ollama",
-    "sent_date": "2025-10-28T23:20:40.665574",
-    "stars": 154916,
-    "url": "https://github.com/ollama/ollama"
-  },
-  "370209029": {
-    "name": "backgroundremover",
-    "full_name": "nadermx/backgroundremover",
-    "sent_date": "2025-10-28T23:20:40.669256",
-    "stars": 7580,
-    "url": "https://github.com/nadermx/backgroundremover"
-  },
-  "393571599": {
-    "name": "MockingBird",
-    "full_name": "babysor/MockingBird",
-    "sent_date": "2025-10-28T23:21:25.776441",
-    "stars": 36724,
-    "url": "https://github.com/babysor/MockingBird"
-  },
-  "571613891": {
-    "name": "supervision",
-    "full_name": "roboflow/supervision",
-    "sent_date": "2025-10-28T23:21:25.779694",
-    "stars": 35703,
-    "url": "https://github.com/roboflow/supervision"
-  },
-  "615928156": {
-    "name": "big-AGI",
-    "full_name": "enricoros/big-AGI",
-    "sent_date": "2025-10-28T23:21:25.782807",
-    "stars": 6667,
-    "url": "https://github.com/enricoros/big-AGI"
-  },
-  "447609265": {
-    "name": "instill-core",
-    "full_name": "instill-ai/instill-core",
-    "sent_date": "2025-10-28T23:21:25.785727",
-    "stars": 2292,
-    "url": "https://github.com/instill-ai/instill-core"
-  },
-  "614765452": {
-    "name": "AutoGPT",
-    "full_name": "Significant-Gravitas/AutoGPT",
-    "sent_date": "2025-10-28T23:22:10.709511",
-    "stars": 179342,
-    "url": "https://github.com/Significant-Gravitas/AutoGPT"
-  },
-  "626805178": {
-    "name": "dify",
-    "full_name": "langgenius/dify",
-    "sent_date": "2025-10-28T23:22:10.712778",
-    "stars": 117512,
-    "url": "https://github.com/langgenius/dify"
-  },
-  "937790286": {
-    "name": "job-app-tracker",
-    "full_name": "zichengalexzhao/job-app-tracker",
-    "sent_date": "2025-10-28T23:22:10.715824",
-    "stars": 3,
-    "url": "https://github.com/zichengalexzhao/job-app-tracker"
-  },
-  "1084467030": {
-    "name": "crypto-ai-alert-bot",
-    "full_name": "ahsan520/crypto-ai-alert-bot",
-    "sent_date": "2025-10-28T23:22:10.718893",
-    "stars": 0,
-    "url": "https://github.com/ahsan520/crypto-ai-alert-bot"
-  },
-  "655806940": {
-    "name": "generative-ai-for-beginners",
-    "full_name": "microsoft/generative-ai-for-beginners",
-    "sent_date": "2025-10-28T23:22:55.563908",
-    "stars": 101047,
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  "619959033": {
-    "name": "gpt4all",
-    "full_name": "nomic-ai/gpt4all",
-    "sent_date": "2025-10-28T23:22:55.567169",
-    "stars": 76841,
-    "url": "https://github.com/nomic-ai/gpt4all"
-  },
-  "93381875": {
-    "name": "SynapseML",
-    "full_name": "microsoft/SynapseML",
-    "sent_date": "2025-10-28T23:22:55.570219",
-    "stars": 5170,
-    "url": "https://github.com/microsoft/SynapseML"
-  },
-  "1085341365": {
-    "name": "AI-DrivenStockPredictor",
-    "full_name": "AlperT-Code/AI-DrivenStockPredictor",
-    "sent_date": "2025-10-28T23:22:55.573236",
-    "stars": 0,
-    "url": "https://github.com/AlperT-Code/AI-DrivenStockPredictor"
-  },
-  "616372661": {
-    "name": "gpt_academic",
-    "full_name": "binary-husky/gpt_academic",
-    "sent_date": "2025-10-28T23:23:40.391093",
-    "stars": 69431,
-    "url": "https://github.com/binary-husky/gpt_academic"
-  },
-  "643445235": {
-    "name": "lobe-chat",
-    "full_name": "lobehub/lobe-chat",
-    "sent_date": "2025-10-28T23:23:40.394296",
-    "stars": 67231,
-    "url": "https://github.com/lobehub/lobe-chat"
-  },
-  "1084248859": {
-    "name": "chatbot",
-    "full_name": "Eaguilarc/chatbot",
-    "sent_date": "2025-10-28T23:23:40.397362",
-    "stars": 0,
-    "url": "https://github.com/Eaguilarc/chatbot"
-  },
-  "1051628450": {
-    "name": "AI-Research-Assistant",
-    "full_name": "ggrbipin/AI-Research-Assistant",
-    "sent_date": "2025-10-28T23:23:40.400477",
-    "stars": 1,
-    "url": "https://github.com/ggrbipin/AI-Research-Assistant"
-  },
   "620936652": {
     "name": "gpt4free",
     "full_name": "xtekky/gpt4free",
@@ -2889,5 +2728,173 @@
     "sent_date": "2025-11-26T23:24:30.747020",
     "stars": 1,
     "url": "https://github.com/popcorn0118/abdulvahapmutlu"
+  },
+  "83119431": {
+    "name": "ailearning",
+    "full_name": "apachecn/ailearning",
+    "sent_date": "2025-11-27T23:20:30.071433",
+    "stars": 41769,
+    "url": "https://github.com/apachecn/ailearning"
+  },
+  "235860204": {
+    "name": "DeepSpeed",
+    "full_name": "deepspeedai/DeepSpeed",
+    "sent_date": "2025-11-27T23:20:30.074641",
+    "stars": 40841,
+    "url": "https://github.com/deepspeedai/DeepSpeed"
+  },
+  "637639667": {
+    "name": "Awesome-Plugins",
+    "full_name": "targed/Awesome-Plugins",
+    "sent_date": "2025-11-27T23:20:30.077807",
+    "stars": 144,
+    "url": "https://github.com/targed/Awesome-Plugins"
+  },
+  "1093512359": {
+    "name": "leaffliction",
+    "full_name": "swangarch/leaffliction",
+    "sent_date": "2025-11-27T23:20:30.080940",
+    "stars": 2,
+    "url": "https://github.com/swangarch/leaffliction"
+  },
+  "71932349": {
+    "name": "ray",
+    "full_name": "ray-project/ray",
+    "sent_date": "2025-11-27T23:21:14.714225",
+    "stars": 40039,
+    "url": "https://github.com/ray-project/ray"
+  },
+  "154747577": {
+    "name": "bert",
+    "full_name": "google-research/bert",
+    "sent_date": "2025-11-27T23:21:14.717238",
+    "stars": 39692,
+    "url": "https://github.com/google-research/bert"
+  },
+  "1095758840": {
+    "name": "DIRV-NET",
+    "full_name": "Arturoprotective670/DIRV-NET",
+    "sent_date": "2025-11-27T23:21:14.720493",
+    "stars": 1,
+    "url": "https://github.com/Arturoprotective670/DIRV-NET"
+  },
+  "1094613905": {
+    "name": "Heart-Failure-Predictor",
+    "full_name": "joaovictorlopezpereira/Heart-Failure-Predictor",
+    "sent_date": "2025-11-27T23:21:14.723608",
+    "stars": 1,
+    "url": "https://github.com/joaovictorlopezpereira/Heart-Failure-Predictor"
+  },
+  "119160553": {
+    "name": "photoprism",
+    "full_name": "photoprism/photoprism",
+    "sent_date": "2025-11-27T23:21:58.963143",
+    "stars": 38830,
+    "url": "https://github.com/photoprism/photoprism"
+  },
+  "349321229": {
+    "name": "GFPGAN",
+    "full_name": "TencentARC/GFPGAN",
+    "sent_date": "2025-11-27T23:21:58.966152",
+    "stars": 37252,
+    "url": "https://github.com/TencentARC/GFPGAN"
+  },
+  "1105629683": {
+    "name": "House-Price-Prediction-Project",
+    "full_name": "kad1r-cbn/House-Price-Prediction-Project",
+    "sent_date": "2025-11-27T23:21:58.969194",
+    "stars": 0,
+    "url": "https://github.com/kad1r-cbn/House-Price-Prediction-Project"
+  },
+  "1105606811": {
+    "name": "titanic-survival-prediction",
+    "full_name": "jpwoods1878/titanic-survival-prediction",
+    "sent_date": "2025-11-27T23:21:58.972117",
+    "stars": 0,
+    "url": "https://github.com/jpwoods1878/titanic-survival-prediction"
+  },
+  "393571599": {
+    "name": "MockingBird",
+    "full_name": "babysor/MockingBird",
+    "sent_date": "2025-11-27T23:22:44.753854",
+    "stars": 36786,
+    "url": "https://github.com/babysor/MockingBird"
+  },
+  "571613891": {
+    "name": "supervision",
+    "full_name": "roboflow/supervision",
+    "sent_date": "2025-11-27T23:22:44.757014",
+    "stars": 36023,
+    "url": "https://github.com/roboflow/supervision"
+  },
+  "1096212704": {
+    "name": "chatbot-conversation-analysis",
+    "full_name": "argad2672/chatbot-conversation-analysis",
+    "sent_date": "2025-11-27T23:22:44.760123",
+    "stars": 0,
+    "url": "https://github.com/argad2672/chatbot-conversation-analysis"
+  },
+  "1003931693": {
+    "name": "financial-chat-Finance-NLP-Chatbots",
+    "full_name": "Floxym/financial-chat-Finance-NLP-Chatbots",
+    "sent_date": "2025-11-27T23:22:44.763091",
+    "stars": 3,
+    "url": "https://github.com/Floxym/financial-chat-Finance-NLP-Chatbots"
+  },
+  "614765452": {
+    "name": "AutoGPT",
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "sent_date": "2025-11-27T23:23:31.763070",
+    "stars": 179991,
+    "url": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  "626805178": {
+    "name": "dify",
+    "full_name": "langgenius/dify",
+    "sent_date": "2025-11-27T23:23:31.766220",
+    "stars": 119983,
+    "url": "https://github.com/langgenius/dify"
+  },
+  "1101051744": {
+    "name": "mlops-workflow",
+    "full_name": "debbisour206/mlops-workflow",
+    "sent_date": "2025-11-27T23:23:31.769646",
+    "stars": 0,
+    "url": "https://github.com/debbisour206/mlops-workflow"
+  },
+  "1096147441": {
+    "name": "AI-Productivity-Tracker",
+    "full_name": "robinetintrinsic207/AI-Productivity-Tracker",
+    "sent_date": "2025-11-27T23:23:31.772665",
+    "stars": 0,
+    "url": "https://github.com/robinetintrinsic207/AI-Productivity-Tracker"
+  },
+  "655806940": {
+    "name": "generative-ai-for-beginners",
+    "full_name": "microsoft/generative-ai-for-beginners",
+    "sent_date": "2025-11-27T23:24:16.264944",
+    "stars": 102401,
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  "619959033": {
+    "name": "gpt4all",
+    "full_name": "nomic-ai/gpt4all",
+    "sent_date": "2025-11-27T23:24:16.268081",
+    "stars": 76933,
+    "url": "https://github.com/nomic-ai/gpt4all"
+  },
+  "1084467030": {
+    "name": "crypto-ai-alert-bot",
+    "full_name": "ahsan520/crypto-ai-alert-bot",
+    "sent_date": "2025-11-27T23:24:16.271070",
+    "stars": 0,
+    "url": "https://github.com/ahsan520/crypto-ai-alert-bot"
+  },
+  "1094960251": {
+    "name": "data-projects-portfolio",
+    "full_name": "Incalculable-driverslicence975/data-projects-portfolio",
+    "sent_date": "2025-11-27T23:24:16.274094",
+    "stars": 0,
+    "url": "https://github.com/Incalculable-driverslicence975/data-projects-portfolio"
   }
 }
