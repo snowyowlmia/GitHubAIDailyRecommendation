@@ -1,144 +1,4 @@
 {
-  "620936652": {
-    "name": "gpt4free",
-    "full_name": "xtekky/gpt4free",
-    "sent_date": "2025-10-29T23:20:24.892196",
-    "stars": 65454,
-    "url": "https://github.com/xtekky/gpt4free"
-  },
-  "771302083": {
-    "name": "OpenHands",
-    "full_name": "OpenHands/OpenHands",
-    "sent_date": "2025-10-29T23:20:24.895210",
-    "stars": 64556,
-    "url": "https://github.com/OpenHands/OpenHands"
-  },
-  "1085231902": {
-    "name": "zeptoGPT",
-    "full_name": "joshbickett/zeptoGPT",
-    "sent_date": "2025-10-29T23:20:24.898370",
-    "stars": 1,
-    "url": "https://github.com/joshbickett/zeptoGPT"
-  },
-  "219892487": {
-    "name": "aws-neuron-sdk",
-    "full_name": "aws-neuron/aws-neuron-sdk",
-    "sent_date": "2025-10-29T23:20:24.901411",
-    "stars": 550,
-    "url": "https://github.com/aws-neuron/aws-neuron-sdk"
-  },
-  "646410686": {
-    "name": "LLaMA-Factory",
-    "full_name": "hiyouga/LLaMA-Factory",
-    "sent_date": "2025-10-29T23:21:09.728603",
-    "stars": 61121,
-    "url": "https://github.com/hiyouga/LLaMA-Factory"
-  },
-  "660551251": {
-    "name": "MetaGPT",
-    "full_name": "FoundationAgents/MetaGPT",
-    "sent_date": "2025-10-29T23:21:09.731630",
-    "stars": 59138,
-    "url": "https://github.com/FoundationAgents/MetaGPT"
-  },
-  "205044193": {
-    "name": "rpp",
-    "full_name": "ROCm/rpp",
-    "sent_date": "2025-10-29T23:21:09.734617",
-    "stars": 68,
-    "url": "https://github.com/ROCm/rpp"
-  },
-  "1020897486": {
-    "name": "wave",
-    "full_name": "iree-org/wave",
-    "sent_date": "2025-10-29T23:21:09.737710",
-    "stars": 17,
-    "url": "https://github.com/iree-org/wave"
-  },
-  "635240594": {
-    "name": "private-gpt",
-    "full_name": "zylon-ai/private-gpt",
-    "sent_date": "2025-10-29T23:21:54.565520",
-    "stars": 56700,
-    "url": "https://github.com/zylon-ai/private-gpt"
-  },
-  "577116112": {
-    "name": "awesome-chatgpt-prompts-zh",
-    "full_name": "PlexPt/awesome-chatgpt-prompts-zh",
-    "sent_date": "2025-10-29T23:21:54.568578",
-    "stars": 56672,
-    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
-  },
-  "1082755452": {
-    "name": "ChatGPT-Agent-Mode",
-    "full_name": "layneebleslie1989-stack/ChatGPT-Agent-Mode",
-    "sent_date": "2025-10-29T23:21:54.571621",
-    "stars": 1,
-    "url": "https://github.com/layneebleslie1989-stack/ChatGPT-Agent-Mode"
-  },
-  "1074293650": {
-    "name": "datastream",
-    "full_name": "alexandre-cameron-borges/datastream",
-    "sent_date": "2025-10-29T23:21:54.574554",
-    "stars": 0,
-    "url": "https://github.com/alexandre-cameron-borges/datastream"
-  },
-  "634224458": {
-    "name": "gpt-engineer",
-    "full_name": "AntonOsika/gpt-engineer",
-    "sent_date": "2025-10-29T23:22:39.747870",
-    "stars": 54982,
-    "url": "https://github.com/AntonOsika/gpt-engineer"
-  },
-  "575340621": {
-    "name": "ChatGPT",
-    "full_name": "lencx/ChatGPT",
-    "sent_date": "2025-10-29T23:22:39.750874",
-    "stars": 54195,
-    "url": "https://github.com/lencx/ChatGPT"
-  },
-  "959772174": {
-    "name": "yt_trendingvidz_analysis",
-    "full_name": "MrbedrockV2/yt_trendingvidz_analysis",
-    "sent_date": "2025-10-29T23:22:39.753838",
-    "stars": 2,
-    "url": "https://github.com/MrbedrockV2/yt_trendingvidz_analysis"
-  },
-  "957340080": {
-    "name": "cnn-image-classifier",
-    "full_name": "Bilal44565543/cnn-image-classifier",
-    "sent_date": "2025-10-29T23:22:39.756783",
-    "stars": 2,
-    "url": "https://github.com/Bilal44565543/cnn-image-classifier"
-  },
-  "743230067": {
-    "name": "GPT-SoVITS",
-    "full_name": "RVC-Boss/GPT-SoVITS",
-    "sent_date": "2025-10-29T23:23:24.263001",
-    "stars": 51913,
-    "url": "https://github.com/RVC-Boss/GPT-SoVITS"
-  },
-  "582822129": {
-    "name": "nanoGPT",
-    "full_name": "karpathy/nanoGPT",
-    "sent_date": "2025-10-29T23:23:24.266115",
-    "stars": 48434,
-    "url": "https://github.com/karpathy/nanoGPT"
-  },
-  "1082255616": {
-    "name": "gpt-oss-web-agent",
-    "full_name": "eauchs/gpt-oss-web-agent",
-    "sent_date": "2025-10-29T23:23:24.269032",
-    "stars": 1,
-    "url": "https://github.com/eauchs/gpt-oss-web-agent"
-  },
-  "958381815": {
-    "name": "TFX-Pipeline-Automation",
-    "full_name": "Ajax20230/TFX-Pipeline-Automation",
-    "sent_date": "2025-10-29T23:23:24.271928",
-    "stars": 0,
-    "url": "https://github.com/Ajax20230/TFX-Pipeline-Automation"
-  },
   "541269386": {
     "name": "whisper.cpp",
     "full_name": "ggml-org/whisper.cpp",
@@ -2896,5 +2756,173 @@
     "sent_date": "2025-11-27T23:24:16.274094",
     "stars": 0,
     "url": "https://github.com/Incalculable-driverslicence975/data-projects-portfolio"
+  },
+  "658928958": {
+    "name": "ollama",
+    "full_name": "ollama/ollama",
+    "sent_date": "2025-11-28T23:20:22.602545",
+    "stars": 156713,
+    "url": "https://github.com/ollama/ollama"
+  },
+  "616372661": {
+    "name": "gpt_academic",
+    "full_name": "binary-husky/gpt_academic",
+    "sent_date": "2025-11-28T23:20:22.605633",
+    "stars": 69741,
+    "url": "https://github.com/binary-husky/gpt_academic"
+  },
+  "1106140921": {
+    "name": "ChetoAI-8-ball-pool",
+    "full_name": "Doomguy6/ChetoAI-8-ball-pool",
+    "sent_date": "2025-11-28T23:20:22.609134",
+    "stars": 1,
+    "url": "https://github.com/Doomguy6/ChetoAI-8-ball-pool"
+  },
+  "665764": {
+    "name": "visionworkbench",
+    "full_name": "visionworkbench/visionworkbench",
+    "sent_date": "2025-11-28T23:20:22.612460",
+    "stars": 496,
+    "url": "https://github.com/visionworkbench/visionworkbench"
+  },
+  "643445235": {
+    "name": "lobe-chat",
+    "full_name": "lobehub/lobe-chat",
+    "sent_date": "2025-11-28T23:21:07.662923",
+    "stars": 68214,
+    "url": "https://github.com/lobehub/lobe-chat"
+  },
+  "620936652": {
+    "name": "gpt4free",
+    "full_name": "xtekky/gpt4free",
+    "sent_date": "2025-11-28T23:21:07.665981",
+    "stars": 65586,
+    "url": "https://github.com/xtekky/gpt4free"
+  },
+  "817399426": {
+    "name": "mltop",
+    "full_name": "kikefdezl/mltop",
+    "sent_date": "2025-11-28T23:21:07.671784",
+    "stars": 13,
+    "url": "https://github.com/kikefdezl/mltop"
+  },
+  "1087954760": {
+    "name": "SmartRAG",
+    "full_name": "arsalanafzal010/SmartRAG",
+    "sent_date": "2025-11-28T23:21:07.674752",
+    "stars": 1,
+    "url": "https://github.com/arsalanafzal010/SmartRAG"
+  },
+  "771302083": {
+    "name": "OpenHands",
+    "full_name": "OpenHands/OpenHands",
+    "sent_date": "2025-11-28T23:21:52.701829",
+    "stars": 65280,
+    "url": "https://github.com/OpenHands/OpenHands"
+  },
+  "646410686": {
+    "name": "LLaMA-Factory",
+    "full_name": "hiyouga/LLaMA-Factory",
+    "sent_date": "2025-11-28T23:21:52.704886",
+    "stars": 63244,
+    "url": "https://github.com/hiyouga/LLaMA-Factory"
+  },
+  "1088002100": {
+    "name": "clash-royale-emote-detector",
+    "full_name": "mhzarchini/clash-royale-emote-detector",
+    "sent_date": "2025-11-28T23:21:52.708403",
+    "stars": 1,
+    "url": "https://github.com/mhzarchini/clash-royale-emote-detector"
+  },
+  "1003828631": {
+    "name": "Quantum-Machine-Learning",
+    "full_name": "HedasLaMenace/Quantum-Machine-Learning",
+    "sent_date": "2025-11-28T23:21:52.711699",
+    "stars": 0,
+    "url": "https://github.com/HedasLaMenace/Quantum-Machine-Learning"
+  },
+  "660551251": {
+    "name": "MetaGPT",
+    "full_name": "FoundationAgents/MetaGPT",
+    "sent_date": "2025-11-28T23:22:38.133176",
+    "stars": 59722,
+    "url": "https://github.com/FoundationAgents/MetaGPT"
+  },
+  "577116112": {
+    "name": "awesome-chatgpt-prompts-zh",
+    "full_name": "PlexPt/awesome-chatgpt-prompts-zh",
+    "sent_date": "2025-11-28T23:22:38.136263",
+    "stars": 56927,
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  },
+  "1088098197": {
+    "name": "OpenVoice",
+    "full_name": "VoltsyGM/OpenVoice",
+    "sent_date": "2025-11-28T23:22:38.139499",
+    "stars": 1,
+    "url": "https://github.com/VoltsyGM/OpenVoice"
+  },
+  "1039407860": {
+    "name": "skillz",
+    "full_name": "mugoherick12-boop/skillz",
+    "sent_date": "2025-11-28T23:22:38.142697",
+    "stars": 2,
+    "url": "https://github.com/mugoherick12-boop/skillz"
+  },
+  "635240594": {
+    "name": "private-gpt",
+    "full_name": "zylon-ai/private-gpt",
+    "sent_date": "2025-11-28T23:23:23.493186",
+    "stars": 56870,
+    "url": "https://github.com/zylon-ai/private-gpt"
+  },
+  "634224458": {
+    "name": "gpt-engineer",
+    "full_name": "AntonOsika/gpt-engineer",
+    "sent_date": "2025-11-28T23:23:23.496293",
+    "stars": 55063,
+    "url": "https://github.com/AntonOsika/gpt-engineer"
+  },
+  "807305060": {
+    "name": "LMCache",
+    "full_name": "LMCache/LMCache",
+    "sent_date": "2025-11-28T23:23:23.499340",
+    "stars": 6229,
+    "url": "https://github.com/LMCache/LMCache"
+  },
+  "989499651": {
+    "name": "AudioMuse-AI",
+    "full_name": "NeptuneHub/AudioMuse-AI",
+    "sent_date": "2025-11-28T23:23:23.502341",
+    "stars": 643,
+    "url": "https://github.com/NeptuneHub/AudioMuse-AI"
+  },
+  "575340621": {
+    "name": "ChatGPT",
+    "full_name": "lencx/ChatGPT",
+    "sent_date": "2025-11-28T23:24:08.802084",
+    "stars": 54338,
+    "url": "https://github.com/lencx/ChatGPT"
+  },
+  "743230067": {
+    "name": "GPT-SoVITS",
+    "full_name": "RVC-Boss/GPT-SoVITS",
+    "sent_date": "2025-11-28T23:24:08.805232",
+    "stars": 52615,
+    "url": "https://github.com/RVC-Boss/GPT-SoVITS"
+  },
+  "1088320294": {
+    "name": "AI_agents",
+    "full_name": "monat1628/AI_agents",
+    "sent_date": "2025-11-28T23:24:08.808288",
+    "stars": 2,
+    "url": "https://github.com/monat1628/AI_agents"
+  },
+  "1088233828": {
+    "name": "Deep-CSAT-Project",
+    "full_name": "gabs5516/Deep-CSAT-Project",
+    "sent_date": "2025-11-28T23:24:08.811303",
+    "stars": 0,
+    "url": "https://github.com/gabs5516/Deep-CSAT-Project"
   }
 }
