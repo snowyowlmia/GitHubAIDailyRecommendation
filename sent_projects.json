@@ -1,200 +1,4 @@
 {
-  "541269386": {
-    "name": "whisper.cpp",
-    "full_name": "ggml-org/whisper.cpp",
-    "sent_date": "2025-10-29T23:24:08.822909",
-    "stars": 44115,
-    "url": "https://github.com/ggml-org/whisper.cpp"
-  },
-  "344190478": {
-    "name": "AI-For-Beginners",
-    "full_name": "microsoft/AI-For-Beginners",
-    "sent_date": "2025-10-29T23:24:08.826130",
-    "stars": 43428,
-    "url": "https://github.com/microsoft/AI-For-Beginners"
-  },
-  "964526827": {
-    "name": "Anomaly-Detection-in-Transactions",
-    "full_name": "TAYMESMAEE/Anomaly-Detection-in-Transactions",
-    "sent_date": "2025-10-29T23:24:08.829181",
-    "stars": 2,
-    "url": "https://github.com/TAYMESMAEE/Anomaly-Detection-in-Transactions"
-  },
-  "957278515": {
-    "name": "GAN",
-    "full_name": "Abbasderbas/GAN",
-    "sent_date": "2025-10-29T23:24:08.832190",
-    "stars": 1,
-    "url": "https://github.com/Abbasderbas/GAN"
-  },
-  "725205304": {
-    "name": "unsloth",
-    "full_name": "unslothai/unsloth",
-    "sent_date": "2025-10-30T23:19:38.370265",
-    "stars": 47662,
-    "url": "https://github.com/unslothai/unsloth"
-  },
-  "5108051": {
-    "name": "opencv",
-    "full_name": "opencv/opencv",
-    "sent_date": "2025-10-30T23:19:38.374345",
-    "stars": 84667,
-    "url": "https://github.com/opencv/opencv"
-  },
-  "168799526": {
-    "name": "pytorch-image-models",
-    "full_name": "huggingface/pytorch-image-models",
-    "sent_date": "2025-10-30T23:19:38.378077",
-    "stars": 35620,
-    "url": "https://github.com/huggingface/pytorch-image-models"
-  },
-  "673010778": {
-    "name": "inference",
-    "full_name": "roboflow/inference",
-    "sent_date": "2025-10-30T23:19:38.381409",
-    "stars": 2014,
-    "url": "https://github.com/roboflow/inference"
-  },
-  "89247811": {
-    "name": "openpose",
-    "full_name": "CMU-Perceptual-Computing-Lab/openpose",
-    "sent_date": "2025-10-30T23:20:24.141202",
-    "stars": 33373,
-    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
-  },
-  "145670234": {
-    "name": "mmdetection",
-    "full_name": "open-mmlab/mmdetection",
-    "sent_date": "2025-10-30T23:20:24.144464",
-    "stars": 31901,
-    "url": "https://github.com/open-mmlab/mmdetection"
-  },
-  "1085578011": {
-    "name": "Basic-AI-docs",
-    "full_name": "ArthurProgamadorLendario/Basic-AI-docs",
-    "sent_date": "2025-10-30T23:20:24.147552",
-    "stars": 1,
-    "url": "https://github.com/ArthurProgamadorLendario/Basic-AI-docs"
-  },
-  "1085334642": {
-    "name": "HEARTGUARD-AI-for-your-heart",
-    "full_name": "lworachat999/HEARTGUARD-AI-for-your-heart",
-    "sent_date": "2025-10-30T23:20:24.150420",
-    "stars": 1,
-    "url": "https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart"
-  },
-  "192640529": {
-    "name": "label-studio",
-    "full_name": "HumanSignal/label-studio",
-    "sent_date": "2025-10-30T23:21:10.421259",
-    "stars": 25256,
-    "url": "https://github.com/HumanSignal/label-studio"
-  },
-  "29357796": {
-    "name": "awesome-computer-vision",
-    "full_name": "jbhuang0604/awesome-computer-vision",
-    "sent_date": "2025-10-30T23:21:10.424493",
-    "stars": 22684,
-    "url": "https://github.com/jbhuang0604/awesome-computer-vision"
-  },
-  "1085332028": {
-    "name": "flower-installer",
-    "full_name": "Mohanad7770/flower-installer",
-    "sent_date": "2025-10-30T23:21:10.427484",
-    "stars": 1,
-    "url": "https://github.com/Mohanad7770/flower-installer"
-  },
-  "736935922": {
-    "name": "Armanx200",
-    "full_name": "Armanx200/Armanx200",
-    "sent_date": "2025-10-30T23:21:10.432283",
-    "stars": 16,
-    "url": "https://github.com/Armanx200/Armanx200"
-  },
-  "30907774": {
-    "name": "learnopencv",
-    "full_name": "spmallick/learnopencv",
-    "sent_date": "2025-10-30T23:21:55.393704",
-    "stars": 22450,
-    "url": "https://github.com/spmallick/learnopencv"
-  },
-  "73328905": {
-    "name": "vision",
-    "full_name": "pytorch/vision",
-    "sent_date": "2025-10-30T23:21:55.397025",
-    "stars": 17268,
-    "url": "https://github.com/pytorch/vision"
-  },
-  "347273245": {
-    "name": "ComfyUI-Segformer_Ultra_Fast",
-    "full_name": "meet1305/ComfyUI-Segformer_Ultra_Fast",
-    "sent_date": "2025-10-30T23:21:55.400188",
-    "stars": 1,
-    "url": "https://github.com/meet1305/ComfyUI-Segformer_Ultra_Fast"
-  },
-  "1086643905": {
-    "name": "vehicle-price-classification",
-    "full_name": "jose-8y786767/vehicle-price-classification",
-    "sent_date": "2025-10-30T23:21:55.403142",
-    "stars": 0,
-    "url": "https://github.com/jose-8y786767/vehicle-price-classification"
-  },
-  "511187726": {
-    "name": "yolov7",
-    "full_name": "WongKinYiu/yolov7",
-    "sent_date": "2025-10-30T23:22:40.868702",
-    "stars": 14015,
-    "url": "https://github.com/WongKinYiu/yolov7"
-  },
-  "159091924": {
-    "name": "deep-learning-drizzle",
-    "full_name": "kmario23/deep-learning-drizzle",
-    "sent_date": "2025-10-30T23:22:40.871831",
-    "stars": 12708,
-    "url": "https://github.com/kmario23/deep-learning-drizzle"
-  },
-  "1086293719": {
-    "name": "awsMLOpsCreditRiskPipeline",
-    "full_name": "K-Sutha/awsMLOpsCreditRiskPipeline",
-    "sent_date": "2025-10-30T23:22:40.874812",
-    "stars": 0,
-    "url": "https://github.com/K-Sutha/awsMLOpsCreditRiskPipeline"
-  },
-  "1085860907": {
-    "name": "Smart_Organizer",
-    "full_name": "DeathFlame7/Smart_Organizer",
-    "sent_date": "2025-10-30T23:22:40.877737",
-    "stars": 0,
-    "url": "https://github.com/DeathFlame7/Smart_Organizer"
-  },
-  "92983437": {
-    "name": "pytorch-grad-cam",
-    "full_name": "jacobgil/pytorch-grad-cam",
-    "sent_date": "2025-10-30T23:23:26.407991",
-    "stars": 12309,
-    "url": "https://github.com/jacobgil/pytorch-grad-cam"
-  },
-  "35812923": {
-    "name": "awesome-deep-vision",
-    "full_name": "kjw0612/awesome-deep-vision",
-    "sent_date": "2025-10-30T23:23:26.411194",
-    "stars": 11074,
-    "url": "https://github.com/kjw0612/awesome-deep-vision"
-  },
-  "849739271": {
-    "name": "StockPRT",
-    "full_name": "dotsatya/StockPRT",
-    "sent_date": "2025-10-30T23:23:26.414230",
-    "stars": 0,
-    "url": "https://github.com/dotsatya/StockPRT"
-  },
-  "1086729848": {
-    "name": "zenith-nlp-framework",
-    "full_name": "ratatuleoo/zenith-nlp-framework",
-    "sent_date": "2025-10-30T23:23:26.417226",
-    "stars": 0,
-    "url": "https://github.com/ratatuleoo/zenith-nlp-framework"
-  },
   "993475914": {
     "name": "container",
     "full_name": "apple/container",
@@ -2924,5 +2728,173 @@
     "sent_date": "2025-11-28T23:24:08.811303",
     "stars": 0,
     "url": "https://github.com/gabs5516/Deep-CSAT-Project"
+  },
+  "582822129": {
+    "name": "nanoGPT",
+    "full_name": "karpathy/nanoGPT",
+    "sent_date": "2025-11-29T23:20:23.578767",
+    "stars": 50285,
+    "url": "https://github.com/karpathy/nanoGPT"
+  },
+  "725205304": {
+    "name": "unsloth",
+    "full_name": "unslothai/unsloth",
+    "sent_date": "2025-11-29T23:20:23.581714",
+    "stars": 48800,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  "448400171": {
+    "name": "hisabi",
+    "full_name": "hisabi-app/hisabi",
+    "sent_date": "2025-11-29T23:20:23.584995",
+    "stars": 404,
+    "url": "https://github.com/hisabi-app/hisabi"
+  },
+  "1075825648": {
+    "name": "Agent-Jailbreaking-Agents",
+    "full_name": "DifABD/Agent-Jailbreaking-Agents",
+    "sent_date": "2025-11-29T23:20:23.588093",
+    "stars": 5,
+    "url": "https://github.com/DifABD/Agent-Jailbreaking-Agents"
+  },
+  "541269386": {
+    "name": "whisper.cpp",
+    "full_name": "ggml-org/whisper.cpp",
+    "sent_date": "2025-11-29T23:21:07.748014",
+    "stars": 44792,
+    "url": "https://github.com/ggml-org/whisper.cpp"
+  },
+  "344190478": {
+    "name": "AI-For-Beginners",
+    "full_name": "microsoft/AI-For-Beginners",
+    "sent_date": "2025-11-29T23:21:07.751371",
+    "stars": 43992,
+    "url": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  "988075921": {
+    "name": "OpenAi-Sora",
+    "full_name": "respawningcode/OpenAi-Sora",
+    "sent_date": "2025-11-29T23:21:07.754689",
+    "stars": 22,
+    "url": "https://github.com/respawningcode/OpenAi-Sora"
+  },
+  "1098707342": {
+    "name": "summarizer-api",
+    "full_name": "AlanC12138/summarizer-api",
+    "sent_date": "2025-11-29T23:21:07.757737",
+    "stars": 1,
+    "url": "https://github.com/AlanC12138/summarizer-api"
+  },
+  "5108051": {
+    "name": "opencv",
+    "full_name": "opencv/opencv",
+    "sent_date": "2025-11-29T23:21:52.429074",
+    "stars": 85090,
+    "url": "https://github.com/opencv/opencv"
+  },
+  "89247811": {
+    "name": "openpose",
+    "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+    "sent_date": "2025-11-29T23:21:52.432143",
+    "stars": 33497,
+    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+  },
+  "736935922": {
+    "name": "Armanx200",
+    "full_name": "Armanx200/Armanx200",
+    "sent_date": "2025-11-29T23:21:52.435582",
+    "stars": 16,
+    "url": "https://github.com/Armanx200/Armanx200"
+  },
+  "190923901": {
+    "name": "verbecc-web",
+    "full_name": "bretttolbert/verbecc-web",
+    "sent_date": "2025-11-29T23:21:52.438578",
+    "stars": 7,
+    "url": "https://github.com/bretttolbert/verbecc-web"
+  },
+  "145670234": {
+    "name": "mmdetection",
+    "full_name": "open-mmlab/mmdetection",
+    "sent_date": "2025-11-29T23:22:37.406622",
+    "stars": 32079,
+    "url": "https://github.com/open-mmlab/mmdetection"
+  },
+  "192640529": {
+    "name": "label-studio",
+    "full_name": "HumanSignal/label-studio",
+    "sent_date": "2025-11-29T23:22:37.410106",
+    "stars": 25609,
+    "url": "https://github.com/HumanSignal/label-studio"
+  },
+  "1076481340": {
+    "name": "crypto-prediction-bot",
+    "full_name": "ObadahAljammal/crypto-prediction-bot",
+    "sent_date": "2025-11-29T23:22:37.413443",
+    "stars": 2,
+    "url": "https://github.com/ObadahAljammal/crypto-prediction-bot"
+  },
+  "1076421737": {
+    "name": "kirmanjiku-16",
+    "full_name": "Saitoti-tect/kirmanjiku-16",
+    "sent_date": "2025-11-29T23:22:37.416746",
+    "stars": 1,
+    "url": "https://github.com/Saitoti-tect/kirmanjiku-16"
+  },
+  "29357796": {
+    "name": "awesome-computer-vision",
+    "full_name": "jbhuang0604/awesome-computer-vision",
+    "sent_date": "2025-11-29T23:23:22.103505",
+    "stars": 22832,
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+  },
+  "30907774": {
+    "name": "learnopencv",
+    "full_name": "spmallick/learnopencv",
+    "sent_date": "2025-11-29T23:23:22.106442",
+    "stars": 22528,
+    "url": "https://github.com/spmallick/learnopencv"
+  },
+  "1077733345": {
+    "name": "automl",
+    "full_name": "aminSa-21/automl",
+    "sent_date": "2025-11-29T23:23:22.110502",
+    "stars": 0,
+    "url": "https://github.com/aminSa-21/automl"
+  },
+  "1077721149": {
+    "name": "Heart_Disease_Project",
+    "full_name": "jamflix/Heart_Disease_Project",
+    "sent_date": "2025-11-29T23:23:22.114302",
+    "stars": 0,
+    "url": "https://github.com/jamflix/Heart_Disease_Project"
+  },
+  "73328905": {
+    "name": "vision",
+    "full_name": "pytorch/vision",
+    "sent_date": "2025-11-29T23:24:06.535505",
+    "stars": 17345,
+    "url": "https://github.com/pytorch/vision"
+  },
+  "511187726": {
+    "name": "yolov7",
+    "full_name": "WongKinYiu/yolov7",
+    "sent_date": "2025-11-29T23:24:06.538464",
+    "stars": 14044,
+    "url": "https://github.com/WongKinYiu/yolov7"
+  },
+  "1106777079": {
+    "name": "quant-finance-portfolio-andre-hood",
+    "full_name": "andhood94-dev/quant-finance-portfolio-andre-hood",
+    "sent_date": "2025-11-29T23:24:06.541481",
+    "stars": 0,
+    "url": "https://github.com/andhood94-dev/quant-finance-portfolio-andre-hood"
+  },
+  "1077454012": {
+    "name": "automl",
+    "full_name": "Viswajith-Coder/automl",
+    "sent_date": "2025-11-29T23:24:06.544445",
+    "stars": 0,
+    "url": "https://github.com/Viswajith-Coder/automl"
   }
 }
