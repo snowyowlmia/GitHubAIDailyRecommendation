@@ -1,151 +1,4 @@
 {
-  "993475914": {
-    "name": "container",
-    "full_name": "apple/container",
-    "sent_date": "2025-10-31T23:19:41.092125",
-    "stars": 21851,
-    "url": "https://github.com/apple/container"
-  },
-  "804788522": {
-    "name": "yolov10",
-    "full_name": "THU-MIG/yolov10",
-    "sent_date": "2025-10-31T23:19:41.095300",
-    "stars": 11043,
-    "url": "https://github.com/THU-MIG/yolov10"
-  },
-  "633927609": {
-    "name": "promptfoo",
-    "full_name": "promptfoo/promptfoo",
-    "sent_date": "2025-10-31T23:19:41.098574",
-    "stars": 8916,
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  "156939672": {
-    "name": "onnxruntime",
-    "full_name": "microsoft/onnxruntime",
-    "sent_date": "2025-10-31T23:19:41.101644",
-    "stars": 18248,
-    "url": "https://github.com/microsoft/onnxruntime"
-  },
-  "129874045": {
-    "name": "faceai",
-    "full_name": "vipstone/faceai",
-    "sent_date": "2025-10-31T23:20:26.894210",
-    "stars": 11037,
-    "url": "https://github.com/vipstone/faceai"
-  },
-  "145693916": {
-    "name": "kornia",
-    "full_name": "kornia/kornia",
-    "sent_date": "2025-10-31T23:20:26.897418",
-    "stars": 10817,
-    "url": "https://github.com/kornia/kornia"
-  },
-  "199509705": {
-    "name": "autogluon",
-    "full_name": "autogluon/autogluon",
-    "sent_date": "2025-10-31T23:20:26.900424",
-    "stars": 9539,
-    "url": "https://github.com/autogluon/autogluon"
-  },
-  "178075572": {
-    "name": "kserve",
-    "full_name": "kserve/kserve",
-    "sent_date": "2025-10-31T23:20:26.903356",
-    "stars": 4706,
-    "url": "https://github.com/kserve/kserve"
-  },
-  "146165888": {
-    "name": "yolov3",
-    "full_name": "ultralytics/yolov3",
-    "sent_date": "2025-10-31T23:21:11.722521",
-    "stars": 10474,
-    "url": "https://github.com/ultralytics/yolov3"
-  },
-  "69269563": {
-    "name": "robotgo",
-    "full_name": "go-vgo/robotgo",
-    "sent_date": "2025-10-31T23:21:11.725779",
-    "stars": 10417,
-    "url": "https://github.com/go-vgo/robotgo"
-  },
-  "463628495": {
-    "name": "executorch",
-    "full_name": "pytorch/executorch",
-    "sent_date": "2025-10-31T23:21:11.729555",
-    "stars": 3439,
-    "url": "https://github.com/pytorch/executorch"
-  },
-  "124910572": {
-    "name": "bugbug",
-    "full_name": "mozilla/bugbug",
-    "sent_date": "2025-10-31T23:21:11.732599",
-    "stars": 550,
-    "url": "https://github.com/mozilla/bugbug"
-  },
-  "345337": {
-    "name": "openFrameworks",
-    "full_name": "openframeworks/openFrameworks",
-    "sent_date": "2025-10-31T23:21:56.250984",
-    "stars": 10242,
-    "url": "https://github.com/openframeworks/openFrameworks"
-  },
-  "386811486": {
-    "name": "YOLOX",
-    "full_name": "Megvii-BaseDetection/YOLOX",
-    "sent_date": "2025-10-31T23:21:56.254026",
-    "stars": 10140,
-    "url": "https://github.com/Megvii-BaseDetection/YOLOX"
-  },
-  "1028628719": {
-    "name": "MyTradingProject-crypto_trading_bot",
-    "full_name": "OVIE-web/MyTradingProject-crypto_trading_bot",
-    "sent_date": "2025-10-31T23:21:56.257057",
-    "stars": 2,
-    "url": "https://github.com/OVIE-web/MyTradingProject-crypto_trading_bot"
-  },
-  "1003914737": {
-    "name": "vnpy-Machine-Learning",
-    "full_name": "Vixoq/vnpy-Machine-Learning",
-    "sent_date": "2025-10-31T23:21:56.260035",
-    "stars": 2,
-    "url": "https://github.com/Vixoq/vnpy-Machine-Learning"
-  },
-  "12756992": {
-    "name": "opencv_contrib",
-    "full_name": "opencv/opencv_contrib",
-    "sent_date": "2025-10-31T23:22:40.925805",
-    "stars": 9872,
-    "url": "https://github.com/opencv/opencv_contrib"
-  },
-  "295308617": {
-    "name": "pytorch-forecasting-feedstock",
-    "full_name": "conda-forge/pytorch-forecasting-feedstock",
-    "sent_date": "2025-10-31T23:22:40.928965",
-    "stars": 1,
-    "url": "https://github.com/conda-forge/pytorch-forecasting-feedstock"
-  },
-  "1086802710": {
-    "name": "market-microstructure-analyzer",
-    "full_name": "abdou-20/market-microstructure-analyzer",
-    "sent_date": "2025-10-31T23:22:40.932081",
-    "stars": 0,
-    "url": "https://github.com/abdou-20/market-microstructure-analyzer"
-  },
-  "1087282574": {
-    "name": "codex-mcp-gateway",
-    "full_name": "mind-protocol/codex-mcp-gateway",
-    "sent_date": "2025-10-31T23:23:25.488447",
-    "stars": 0,
-    "url": "https://github.com/mind-protocol/codex-mcp-gateway"
-  },
-  "1075777980": {
-    "name": "gpt-material-insight-api",
-    "full_name": "VagishKapila/gpt-material-insight-api",
-    "sent_date": "2025-10-31T23:23:25.491768",
-    "stars": 0,
-    "url": "https://github.com/VagishKapila/gpt-material-insight-api"
-  },
   "991431142": {
     "name": "memvid",
     "full_name": "Olow304/memvid",
@@ -2896,5 +2749,166 @@
     "sent_date": "2025-11-29T23:24:06.544445",
     "stars": 0,
     "url": "https://github.com/Viswajith-Coder/automl"
+  },
+  "993475914": {
+    "name": "container",
+    "full_name": "apple/container",
+    "sent_date": "2025-11-30T23:20:25.625907",
+    "stars": 22467,
+    "url": "https://github.com/apple/container"
+  },
+  "159091924": {
+    "name": "deep-learning-drizzle",
+    "full_name": "kmario23/deep-learning-drizzle",
+    "sent_date": "2025-11-30T23:20:25.629001",
+    "stars": 12733,
+    "url": "https://github.com/kmario23/deep-learning-drizzle"
+  },
+  "934613137": {
+    "name": "Neural",
+    "full_name": "Lemniscate-world/Neural",
+    "sent_date": "2025-11-30T23:20:25.632204",
+    "stars": 16,
+    "url": "https://github.com/Lemniscate-world/Neural"
+  },
+  "1061124647": {
+    "name": "AI-VFX",
+    "full_name": "Junior24844/AI-VFX",
+    "sent_date": "2025-11-30T23:20:25.635360",
+    "stars": 3,
+    "url": "https://github.com/Junior24844/AI-VFX"
+  },
+  "92983437": {
+    "name": "pytorch-grad-cam",
+    "full_name": "jacobgil/pytorch-grad-cam",
+    "sent_date": "2025-11-30T23:21:09.851029",
+    "stars": 12403,
+    "url": "https://github.com/jacobgil/pytorch-grad-cam"
+  },
+  "804788522": {
+    "name": "yolov10",
+    "full_name": "THU-MIG/yolov10",
+    "sent_date": "2025-11-30T23:21:09.854347",
+    "stars": 11106,
+    "url": "https://github.com/THU-MIG/yolov10"
+  },
+  "1099911361": {
+    "name": "VulnWatchdog",
+    "full_name": "Shumuy/VulnWatchdog",
+    "sent_date": "2025-11-30T23:21:09.857608",
+    "stars": 2,
+    "url": "https://github.com/Shumuy/VulnWatchdog"
+  },
+  "249765024": {
+    "name": "ML-CV-AI",
+    "full_name": "cshbli/ML-CV-AI",
+    "sent_date": "2025-11-30T23:21:09.860915",
+    "stars": 7,
+    "url": "https://github.com/cshbli/ML-CV-AI"
+  },
+  "35812923": {
+    "name": "awesome-deep-vision",
+    "full_name": "kjw0612/awesome-deep-vision",
+    "sent_date": "2025-11-30T23:21:54.977659",
+    "stars": 11088,
+    "url": "https://github.com/kjw0612/awesome-deep-vision"
+  },
+  "129874045": {
+    "name": "faceai",
+    "full_name": "vipstone/faceai",
+    "sent_date": "2025-11-30T23:21:54.980935",
+    "stars": 11053,
+    "url": "https://github.com/vipstone/faceai"
+  },
+  "1107288911": {
+    "name": "nyc-taxi-fare",
+    "full_name": "TiagoPantoja/nyc-taxi-fare",
+    "sent_date": "2025-11-30T23:21:54.983877",
+    "stars": 0,
+    "url": "https://github.com/TiagoPantoja/nyc-taxi-fare"
+  },
+  "1104866497": {
+    "name": "GreenAI",
+    "full_name": "nathenpaul817/GreenAI",
+    "sent_date": "2025-11-30T23:21:54.986826",
+    "stars": 0,
+    "url": "https://github.com/nathenpaul817/GreenAI"
+  },
+  "146165888": {
+    "name": "yolov3",
+    "full_name": "ultralytics/yolov3",
+    "sent_date": "2025-11-30T23:22:41.152283",
+    "stars": 10493,
+    "url": "https://github.com/ultralytics/yolov3"
+  },
+  "69269563": {
+    "name": "robotgo",
+    "full_name": "go-vgo/robotgo",
+    "sent_date": "2025-11-30T23:22:41.155455",
+    "stars": 10459,
+    "url": "https://github.com/go-vgo/robotgo"
+  },
+  "1064993554": {
+    "name": "Build-AI-Now",
+    "full_name": "fireure/Build-AI-Now",
+    "sent_date": "2025-11-30T23:22:41.158509",
+    "stars": 2,
+    "url": "https://github.com/fireure/Build-AI-Now"
+  },
+  "1063102109": {
+    "name": "ai-toolkit",
+    "full_name": "wannabehacker512/ai-toolkit",
+    "sent_date": "2025-11-30T23:22:41.161566",
+    "stars": 2,
+    "url": "https://github.com/wannabehacker512/ai-toolkit"
+  },
+  "345337": {
+    "name": "openFrameworks",
+    "full_name": "openframeworks/openFrameworks",
+    "sent_date": "2025-11-30T23:23:25.924981",
+    "stars": 10270,
+    "url": "https://github.com/openframeworks/openFrameworks"
+  },
+  "386811486": {
+    "name": "YOLOX",
+    "full_name": "Megvii-BaseDetection/YOLOX",
+    "sent_date": "2025-11-30T23:23:25.928377",
+    "stars": 10200,
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX"
+  },
+  "1105892299": {
+    "name": "clearpipe",
+    "full_name": "NaveDanan/clearpipe",
+    "sent_date": "2025-11-30T23:23:25.931580",
+    "stars": 0,
+    "url": "https://github.com/NaveDanan/clearpipe"
+  },
+  "1063399884": {
+    "name": "Gradio-Beginners-Course-2025",
+    "full_name": "lilike345/Gradio-Beginners-Course-2025",
+    "sent_date": "2025-11-30T23:23:25.934708",
+    "stars": 0,
+    "url": "https://github.com/lilike345/Gradio-Beginners-Course-2025"
+  },
+  "12756992": {
+    "name": "opencv_contrib",
+    "full_name": "opencv/opencv_contrib",
+    "sent_date": "2025-11-30T23:24:10.421569",
+    "stars": 9916,
+    "url": "https://github.com/opencv/opencv_contrib"
+  },
+  "1107262830": {
+    "name": "predtimes",
+    "full_name": "beta6/predtimes",
+    "sent_date": "2025-11-30T23:24:10.424836",
+    "stars": 0,
+    "url": "https://github.com/beta6/predtimes"
+  },
+  "1065461382": {
+    "name": "prices-predictor-system",
+    "full_name": "danuah/prices-predictor-system",
+    "sent_date": "2025-11-30T23:24:10.427938",
+    "stars": 0,
+    "url": "https://github.com/danuah/prices-predictor-system"
   }
 }
