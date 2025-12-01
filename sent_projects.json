@@ -1,95 +1,4 @@
 {
-  "991431142": {
-    "name": "memvid",
-    "full_name": "Olow304/memvid",
-    "sent_date": "2025-11-01T23:18:31.614372",
-    "stars": 10205,
-    "url": "https://github.com/Olow304/memvid"
-  },
-  "1087868657": {
-    "name": "ml4sci-final-project",
-    "full_name": "CosmeticMichu/ml4sci-final-project",
-    "sent_date": "2025-11-01T23:18:31.617639",
-    "stars": 1,
-    "url": "https://github.com/CosmeticMichu/ml4sci-final-project"
-  },
-  "404377098": {
-    "name": "deep_vision_and_graphics",
-    "full_name": "yandexdataschool/deep_vision_and_graphics",
-    "sent_date": "2025-11-01T23:18:31.620804",
-    "stars": 374,
-    "url": "https://github.com/yandexdataschool/deep_vision_and_graphics"
-  },
-  "1077064232": {
-    "name": "adaptive-sparse-training",
-    "full_name": "oluwafemidiakhoa/adaptive-sparse-training",
-    "sent_date": "2025-11-01T23:19:20.941613",
-    "stars": 4,
-    "url": "https://github.com/oluwafemidiakhoa/adaptive-sparse-training"
-  },
-  "1084405486": {
-    "name": "proteus",
-    "full_name": "ChronoCoders/proteus",
-    "sent_date": "2025-11-01T23:19:20.944607",
-    "stars": 1,
-    "url": "https://github.com/ChronoCoders/proteus"
-  },
-  "1009365699": {
-    "name": "stable-worldmodel",
-    "full_name": "rbalestr-lab/stable-worldmodel",
-    "sent_date": "2025-11-01T23:20:09.798962",
-    "stars": 15,
-    "url": "https://github.com/rbalestr-lab/stable-worldmodel"
-  },
-  "511364709": {
-    "name": "Object-Detection",
-    "full_name": "martinlprb23/Object-Detection",
-    "sent_date": "2025-11-01T23:20:09.802190",
-    "stars": 13,
-    "url": "https://github.com/martinlprb23/Object-Detection"
-  },
-  "1061735240": {
-    "name": "social-threat-guardian",
-    "full_name": "Shawshank01/social-threat-guardian",
-    "sent_date": "2025-11-01T23:20:55.035270",
-    "stars": 2,
-    "url": "https://github.com/Shawshank01/social-threat-guardian"
-  },
-  "1083858994": {
-    "name": "hydra",
-    "full_name": "suarezsp/hydra",
-    "sent_date": "2025-11-01T23:20:55.038457",
-    "stars": 0,
-    "url": "https://github.com/suarezsp/hydra"
-  },
-  "1047613732": {
-    "name": "Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
-    "full_name": "Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
-    "sent_date": "2025-11-01T23:21:39.905007",
-    "stars": 3,
-    "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker"
-  },
-  "1087784626": {
-    "name": "spacex-falcon9-landing-prediction",
-    "full_name": "princem601/spacex-falcon9-landing-prediction",
-    "sent_date": "2025-11-01T23:21:39.908200",
-    "stars": 0,
-    "url": "https://github.com/princem601/spacex-falcon9-landing-prediction"
-  },
-  "1083317109": {
-    "name": "Pytorch_Static_Analyzer",
-    "full_name": "jinug0905/Pytorch_Static_Analyzer",
-    "sent_date": "2025-11-01T23:22:25.349436",
-    "stars": 0,
-    "url": "https://github.com/jinug0905/Pytorch_Static_Analyzer"
-  },
-  "1078946963": {
-    "name": "SmartOps-Tickets",
-    "full_name": "AbelPena02/SmartOps-Tickets",
-    "sent_date": "2025-11-01T23:22:25.352509",
-    "stars": 0,
-    "url": "https://github.com/AbelPena02/SmartOps-Tickets"
-  },
   "967738751": {
     "name": "read-frog",
     "full_name": "mengxi-ream/read-frog",
@@ -2910,5 +2819,103 @@
     "sent_date": "2025-11-30T23:24:10.427938",
     "stars": 0,
     "url": "https://github.com/danuah/prices-predictor-system"
+  },
+  "145693916": {
+    "name": "kornia",
+    "full_name": "kornia/kornia",
+    "sent_date": "2025-12-01T23:21:34.857057",
+    "stars": 10893,
+    "url": "https://github.com/kornia/kornia"
+  },
+  "991431142": {
+    "name": "memvid",
+    "full_name": "Olow304/memvid",
+    "sent_date": "2025-12-01T23:21:34.860258",
+    "stars": 10446,
+    "url": "https://github.com/Olow304/memvid"
+  },
+  "739594808": {
+    "name": "ocean",
+    "full_name": "facebookresearch/ocean",
+    "sent_date": "2025-12-01T23:21:34.863490",
+    "stars": 748,
+    "url": "https://github.com/facebookresearch/ocean"
+  },
+  "833809926": {
+    "name": "rag",
+    "full_name": "neuml/rag",
+    "sent_date": "2025-12-01T23:21:34.866569",
+    "stars": 420,
+    "url": "https://github.com/neuml/rag"
+  },
+  "1103832887": {
+    "name": "Fake-Review-Detector",
+    "full_name": "kruts/Fake-Review-Detector",
+    "sent_date": "2025-12-01T23:22:19.498787",
+    "stars": 1,
+    "url": "https://github.com/kruts/Fake-Review-Detector"
+  },
+  "1089673772": {
+    "name": "realtime-route-overlay",
+    "full_name": "jubuyer/realtime-route-overlay",
+    "sent_date": "2025-12-01T23:22:19.501839",
+    "stars": 1,
+    "url": "https://github.com/jubuyer/realtime-route-overlay"
+  },
+  "319473113": {
+    "name": "Hearts",
+    "full_name": "brianberns/Hearts",
+    "sent_date": "2025-12-01T23:23:03.887642",
+    "stars": 0,
+    "url": "https://github.com/brianberns/Hearts"
+  },
+  "1103854480": {
+    "name": "MLauncher",
+    "full_name": "catkinate-nip336/MLauncher",
+    "sent_date": "2025-12-01T23:23:03.890676",
+    "stars": 0,
+    "url": "https://github.com/catkinate-nip336/MLauncher"
+  },
+  "1003914737": {
+    "name": "vnpy-Machine-Learning",
+    "full_name": "Vixoq/vnpy-Machine-Learning",
+    "sent_date": "2025-12-01T23:23:48.306005",
+    "stars": 2,
+    "url": "https://github.com/Vixoq/vnpy-Machine-Learning"
+  },
+  "937790286": {
+    "name": "job-app-tracker",
+    "full_name": "zichengalexzhao/job-app-tracker",
+    "sent_date": "2025-12-01T23:23:48.309229",
+    "stars": 3,
+    "url": "https://github.com/zichengalexzhao/job-app-tracker"
+  },
+  "24561828": {
+    "name": "ChatterBot",
+    "full_name": "gunthercox/ChatterBot",
+    "sent_date": "2025-12-01T23:24:32.951468",
+    "stars": 14459,
+    "url": "https://github.com/gunthercox/ChatterBot"
+  },
+  "1092830476": {
+    "name": "-Clinet_Side-AI-_Model_Inventory_Manager_MS010A010",
+    "full_name": "mostakim8/-Clinet_Side-AI-_Model_Inventory_Manager_MS010A010",
+    "sent_date": "2025-12-01T23:24:32.954593",
+    "stars": 0,
+    "url": "https://github.com/mostakim8/-Clinet_Side-AI-_Model_Inventory_Manager_MS010A010"
+  },
+  "310103558": {
+    "name": "Stock-Predictor",
+    "full_name": "Shafranpackeer/Stock-Predictor",
+    "sent_date": "2025-12-01T23:25:17.705402",
+    "stars": 0,
+    "url": "https://github.com/Shafranpackeer/Stock-Predictor"
+  },
+  "1047613732": {
+    "name": "Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
+    "full_name": "Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
+    "sent_date": "2025-12-01T23:25:17.708740",
+    "stars": 3,
+    "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker"
   }
 }
