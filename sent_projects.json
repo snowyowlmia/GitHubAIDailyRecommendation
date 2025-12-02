@@ -1,88 +1,4 @@
 {
-  "967738751": {
-    "name": "read-frog",
-    "full_name": "mengxi-ream/read-frog",
-    "sent_date": "2025-11-02T23:18:47.592588",
-    "stars": 2798,
-    "url": "https://github.com/mengxi-ream/read-frog"
-  },
-  "106024057": {
-    "name": "pytorch_geometric",
-    "full_name": "pyg-team/pytorch_geometric",
-    "sent_date": "2025-11-02T23:18:47.595711",
-    "stars": 23078,
-    "url": "https://github.com/pyg-team/pytorch_geometric"
-  },
-  "677240069": {
-    "name": "pytorch-frame",
-    "full_name": "pyg-team/pytorch-frame",
-    "sent_date": "2025-11-02T23:19:31.574042",
-    "stars": 715,
-    "url": "https://github.com/pyg-team/pytorch-frame"
-  },
-  "1087552280": {
-    "name": "OCEC",
-    "full_name": "PINTO0309/OCEC",
-    "sent_date": "2025-11-02T23:19:31.577186",
-    "stars": 4,
-    "url": "https://github.com/PINTO0309/OCEC"
-  },
-  "1088222786": {
-    "name": "CM3151-Assessment",
-    "full_name": "kierankinnaird/CM3151-Assessment",
-    "sent_date": "2025-11-02T23:20:15.989145",
-    "stars": 1,
-    "url": "https://github.com/kierankinnaird/CM3151-Assessment"
-  },
-  "1088019586": {
-    "name": "LinearModel",
-    "full_name": "ProdigiousPersonn/LinearModel",
-    "sent_date": "2025-11-02T23:20:15.992266",
-    "stars": 1,
-    "url": "https://github.com/ProdigiousPersonn/LinearModel"
-  },
-  "1084705831": {
-    "name": "PaperBrain",
-    "full_name": "GauravMaheshh/PaperBrain",
-    "sent_date": "2025-11-02T23:21:00.563986",
-    "stars": 1,
-    "url": "https://github.com/GauravMaheshh/PaperBrain"
-  },
-  "1000209483": {
-    "name": "market_predictor_mlops",
-    "full_name": "anp102618/market_predictor_mlops",
-    "sent_date": "2025-11-02T23:21:00.567122",
-    "stars": 0,
-    "url": "https://github.com/anp102618/market_predictor_mlops"
-  },
-  "1088398600": {
-    "name": "facial-emotion-recognition-app",
-    "full_name": "TanviShekhawat29/facial-emotion-recognition-app",
-    "sent_date": "2025-11-02T23:21:44.800006",
-    "stars": 0,
-    "url": "https://github.com/TanviShekhawat29/facial-emotion-recognition-app"
-  },
-  "1087660487": {
-    "name": "VisionFusion_OCR_QR",
-    "full_name": "Ycmmn/VisionFusion_OCR_QR",
-    "sent_date": "2025-11-02T23:21:44.805804",
-    "stars": 0,
-    "url": "https://github.com/Ycmmn/VisionFusion_OCR_QR"
-  },
-  "407049152": {
-    "name": "AI_lForge",
-    "full_name": "kidologi/AI_lForge",
-    "sent_date": "2025-11-02T23:22:28.677633",
-    "stars": 0,
-    "url": "https://github.com/kidologi/AI_lForge"
-  },
-  "1088281242": {
-    "name": "procedural-ambient-pwa",
-    "full_name": "LuminLynx/procedural-ambient-pwa",
-    "sent_date": "2025-11-02T23:22:28.680986",
-    "stars": 0,
-    "url": "https://github.com/LuminLynx/procedural-ambient-pwa"
-  },
   "644686905": {
     "name": "continue",
     "full_name": "continuedev/continue",
@@ -2917,5 +2833,89 @@
     "sent_date": "2025-12-01T23:25:17.708740",
     "stars": 3,
     "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker"
+  },
+  "633927609": {
+    "name": "promptfoo",
+    "full_name": "promptfoo/promptfoo",
+    "sent_date": "2025-12-02T23:21:06.995629",
+    "stars": 9284,
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  "463628495": {
+    "name": "executorch",
+    "full_name": "pytorch/executorch",
+    "sent_date": "2025-12-02T23:21:06.998602",
+    "stars": 3615,
+    "url": "https://github.com/pytorch/executorch"
+  },
+  "673490352": {
+    "name": "TorchFort",
+    "full_name": "NVIDIA/TorchFort",
+    "sent_date": "2025-12-02T23:21:51.963653",
+    "stars": 176,
+    "url": "https://github.com/NVIDIA/TorchFort"
+  },
+  "1108606264": {
+    "name": "qk-sniffer",
+    "full_name": "viktor-shcherb/qk-sniffer",
+    "sent_date": "2025-12-02T23:21:51.966655",
+    "stars": 1,
+    "url": "https://github.com/viktor-shcherb/qk-sniffer"
+  },
+  "1106495892": {
+    "name": "PlantCare",
+    "full_name": "SACHINTHA07/PlantCare",
+    "sent_date": "2025-12-02T23:22:36.986847",
+    "stars": 1,
+    "url": "https://github.com/SACHINTHA07/PlantCare"
+  },
+  "1013559848": {
+    "name": "Face-Swapper",
+    "full_name": "MaxMassi/Face-Swapper",
+    "sent_date": "2025-12-02T23:22:36.989841",
+    "stars": 11,
+    "url": "https://github.com/MaxMassi/Face-Swapper"
+  },
+  "1013865743": {
+    "name": "AI-Research-Radar",
+    "full_name": "kaymungai/AI-Research-Radar",
+    "sent_date": "2025-12-02T23:23:22.081786",
+    "stars": 2,
+    "url": "https://github.com/kaymungai/AI-Research-Radar"
+  },
+  "966526651": {
+    "name": "computer-vision-parking-lot",
+    "full_name": "Ahmet904-beep/computer-vision-parking-lot",
+    "sent_date": "2025-12-02T23:23:22.084817",
+    "stars": 1,
+    "url": "https://github.com/Ahmet904-beep/computer-vision-parking-lot"
+  },
+  "1108788692": {
+    "name": "financial_AI",
+    "full_name": "yosrkharrat/financial_AI",
+    "sent_date": "2025-12-02T23:24:09.016360",
+    "stars": 0,
+    "url": "https://github.com/yosrkharrat/financial_AI"
+  },
+  "941638849": {
+    "name": "jeffthedeveloper",
+    "full_name": "jeffthedeveloper/jeffthedeveloper",
+    "sent_date": "2025-12-02T23:24:09.019583",
+    "stars": 0,
+    "url": "https://github.com/jeffthedeveloper/jeffthedeveloper"
+  },
+  "191138251": {
+    "name": "CogStack-NiFi",
+    "full_name": "CogStack/CogStack-NiFi",
+    "sent_date": "2025-12-02T23:24:54.110453",
+    "stars": 54,
+    "url": "https://github.com/CogStack/CogStack-NiFi"
+  },
+  "1014070581": {
+    "name": "Youtube-Tutorial",
+    "full_name": "LionNite/Youtube-Tutorial",
+    "sent_date": "2025-12-02T23:24:54.116113",
+    "stars": 0,
+    "url": "https://github.com/LionNite/Youtube-Tutorial"
   }
 }
