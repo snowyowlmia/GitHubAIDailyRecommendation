@@ -1,74 +1,4 @@
 {
-  "644686905": {
-    "name": "continue",
-    "full_name": "continuedev/continue",
-    "sent_date": "2025-11-03T23:20:01.689297",
-    "stars": 29630,
-    "url": "https://github.com/continuedev/continue"
-  },
-  "596516907": {
-    "name": "DocsGPT",
-    "full_name": "arc53/DocsGPT",
-    "sent_date": "2025-11-03T23:20:01.692593",
-    "stars": 17321,
-    "url": "https://github.com/arc53/DocsGPT"
-  },
-  "1012087571": {
-    "name": "CLIProxyAPI",
-    "full_name": "router-for-me/CLIProxyAPI",
-    "sent_date": "2025-11-03T23:20:48.063537",
-    "stars": 1256,
-    "url": "https://github.com/router-for-me/CLIProxyAPI"
-  },
-  "975171512": {
-    "name": "monarch",
-    "full_name": "meta-pytorch/monarch",
-    "sent_date": "2025-11-03T23:20:48.067182",
-    "stars": 857,
-    "url": "https://github.com/meta-pytorch/monarch"
-  },
-  "319904869": {
-    "name": "hawking",
-    "full_name": "zoho/hawking",
-    "sent_date": "2025-11-03T23:21:33.601462",
-    "stars": 242,
-    "url": "https://github.com/zoho/hawking"
-  },
-  "1043651430": {
-    "name": "genai-api",
-    "full_name": "louisbrulenaudet/genai-api",
-    "sent_date": "2025-11-03T23:21:33.604767",
-    "stars": 56,
-    "url": "https://github.com/louisbrulenaudet/genai-api"
-  },
-  "996149441": {
-    "name": "zea",
-    "full_name": "tue-bmd/zea",
-    "sent_date": "2025-11-03T23:22:19.863118",
-    "stars": 33,
-    "url": "https://github.com/tue-bmd/zea"
-  },
-  "1080723034": {
-    "name": "QuantraVision",
-    "full_name": "Lamont-Labs/QuantraVision",
-    "sent_date": "2025-11-03T23:22:19.866483",
-    "stars": 1,
-    "url": "https://github.com/Lamont-Labs/QuantraVision"
-  },
-  "605232014": {
-    "name": "torchani-amber",
-    "full_name": "roitberg-group/torchani-amber",
-    "sent_date": "2025-11-03T23:23:05.261774",
-    "stars": 10,
-    "url": "https://github.com/roitberg-group/torchani-amber"
-  },
-  "1039211803": {
-    "name": "MIPCandy",
-    "full_name": "ProjectNeura/MIPCandy",
-    "sent_date": "2025-11-03T23:23:05.265099",
-    "stars": 4,
-    "url": "https://github.com/ProjectNeura/MIPCandy"
-  },
   "1082129491": {
     "name": "Swan_Quote_Generator",
     "full_name": "1AyaNabil1/Swan_Quote_Generator",
@@ -2917,5 +2847,89 @@
     "sent_date": "2025-12-02T23:24:54.116113",
     "stars": 0,
     "url": "https://github.com/LionNite/Youtube-Tutorial"
+  },
+  "1104203107": {
+    "name": "UHD",
+    "full_name": "PINTO0309/UHD",
+    "sent_date": "2025-12-03T23:19:49.680311",
+    "stars": 6,
+    "url": "https://github.com/PINTO0309/UHD"
+  },
+  "842601100": {
+    "name": "Run",
+    "full_name": "NVIDIA-NeMo/Run",
+    "sent_date": "2025-12-03T23:19:49.683646",
+    "stars": 209,
+    "url": "https://github.com/NVIDIA-NeMo/Run"
+  },
+  "219892487": {
+    "name": "aws-neuron-sdk",
+    "full_name": "aws-neuron/aws-neuron-sdk",
+    "sent_date": "2025-12-03T23:20:34.545039",
+    "stars": 555,
+    "url": "https://github.com/aws-neuron/aws-neuron-sdk"
+  },
+  "138060572": {
+    "name": "taxinomitis",
+    "full_name": "IBM/taxinomitis",
+    "sent_date": "2025-12-03T23:20:34.548154",
+    "stars": 177,
+    "url": "https://github.com/IBM/taxinomitis"
+  },
+  "975171512": {
+    "name": "monarch",
+    "full_name": "meta-pytorch/monarch",
+    "sent_date": "2025-12-03T23:21:19.706838",
+    "stars": 910,
+    "url": "https://github.com/meta-pytorch/monarch"
+  },
+  "839107035": {
+    "name": "ncut_pytorch",
+    "full_name": "huzeyann/ncut_pytorch",
+    "sent_date": "2025-12-03T23:21:19.709982",
+    "stars": 22,
+    "url": "https://github.com/huzeyann/ncut_pytorch"
+  },
+  "1033516273": {
+    "name": "imdb-analysis",
+    "full_name": "ROKET-MAN/imdb-analysis",
+    "sent_date": "2025-12-03T23:22:04.071387",
+    "stars": 1,
+    "url": "https://github.com/ROKET-MAN/imdb-analysis"
+  },
+  "1109514330": {
+    "name": "ML-Project-Regression-Pipeline",
+    "full_name": "Sahil-R-IT/ML-Project-Regression-Pipeline",
+    "sent_date": "2025-12-03T23:22:04.074709",
+    "stars": 0,
+    "url": "https://github.com/Sahil-R-IT/ML-Project-Regression-Pipeline"
+  },
+  "1109519121": {
+    "name": "TD3-logreg-optimization",
+    "full_name": "tur98870-cmyk/TD3-logreg-optimization",
+    "sent_date": "2025-12-03T23:22:49.142191",
+    "stars": 0,
+    "url": "https://github.com/tur98870-cmyk/TD3-logreg-optimization"
+  },
+  "1109519712": {
+    "name": "Ethereum-Price-Prediction",
+    "full_name": "dharmpatel28/Ethereum-Price-Prediction",
+    "sent_date": "2025-12-03T23:22:49.145487",
+    "stars": 0,
+    "url": "https://github.com/dharmpatel28/Ethereum-Price-Prediction"
+  },
+  "133100880": {
+    "name": "pipelines",
+    "full_name": "kubeflow/pipelines",
+    "sent_date": "2025-12-03T23:23:34.053291",
+    "stars": 4005,
+    "url": "https://github.com/kubeflow/pipelines"
+  },
+  "664141515": {
+    "name": "styletts2-dataset-toolkit",
+    "full_name": "dalmoon15/styletts2-dataset-toolkit",
+    "sent_date": "2025-12-03T23:23:34.056535",
+    "stars": 0,
+    "url": "https://github.com/dalmoon15/styletts2-dataset-toolkit"
   }
 }
