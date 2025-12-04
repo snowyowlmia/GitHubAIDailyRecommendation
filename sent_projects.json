@@ -1,95 +1,4 @@
 {
-  "1082129491": {
-    "name": "Swan_Quote_Generator",
-    "full_name": "1AyaNabil1/Swan_Quote_Generator",
-    "sent_date": "2025-11-03T23:23:50.145055",
-    "stars": 0,
-    "url": "https://github.com/1AyaNabil1/Swan_Quote_Generator"
-  },
-  "1084418200": {
-    "name": "Computer-Vision-Deep-Learning-License-Plate-Reader",
-    "full_name": "bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader",
-    "sent_date": "2025-11-03T23:23:50.148288",
-    "stars": 0,
-    "url": "https://github.com/bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader"
-  },
-  "839037098": {
-    "name": "mastra",
-    "full_name": "mastra-ai/mastra",
-    "sent_date": "2025-11-04T23:20:04.928619",
-    "stars": 18016,
-    "url": "https://github.com/mastra-ai/mastra"
-  },
-  "86031674": {
-    "name": "wandb",
-    "full_name": "wandb/wandb",
-    "sent_date": "2025-11-04T23:20:04.931912",
-    "stars": 10490,
-    "url": "https://github.com/wandb/wandb"
-  },
-  "629956391": {
-    "name": "MiniGPT-4-ZH",
-    "full_name": "RiseInRose/MiniGPT-4-ZH",
-    "sent_date": "2025-11-04T23:20:50.533908",
-    "stars": 859,
-    "url": "https://github.com/RiseInRose/MiniGPT-4-ZH"
-  },
-  "89959055": {
-    "name": "universal",
-    "full_name": "stillwater-sc/universal",
-    "sent_date": "2025-11-04T23:20:50.537060",
-    "stars": 480,
-    "url": "https://github.com/stillwater-sc/universal"
-  },
-  "845191835": {
-    "name": "azure-ai-docs",
-    "full_name": "MicrosoftDocs/azure-ai-docs",
-    "sent_date": "2025-11-04T23:21:35.261049",
-    "stars": 106,
-    "url": "https://github.com/MicrosoftDocs/azure-ai-docs"
-  },
-  "978408386": {
-    "name": "tpu-inference",
-    "full_name": "vllm-project/tpu-inference",
-    "sent_date": "2025-11-04T23:21:35.265671",
-    "stars": 143,
-    "url": "https://github.com/vllm-project/tpu-inference"
-  },
-  "1040287976": {
-    "name": "ai-file-organizer",
-    "full_name": "thebearwithabite/ai-file-organizer",
-    "sent_date": "2025-11-04T23:22:20.606363",
-    "stars": 17,
-    "url": "https://github.com/thebearwithabite/ai-file-organizer"
-  },
-  "790267131": {
-    "name": "DSPy-Multi-Document-Agents",
-    "full_name": "jmanhype/DSPy-Multi-Document-Agents",
-    "sent_date": "2025-11-04T23:22:20.609703",
-    "stars": 49,
-    "url": "https://github.com/jmanhype/DSPy-Multi-Document-Agents"
-  },
-  "353143803": {
-    "name": "test-infra",
-    "full_name": "pytorch/test-infra",
-    "sent_date": "2025-11-04T23:23:05.797365",
-    "stars": 103,
-    "url": "https://github.com/pytorch/test-infra"
-  },
-  "1059366795": {
-    "name": "Netflix-GPT",
-    "full_name": "shagunbagrecha/Netflix-GPT",
-    "sent_date": "2025-11-04T23:23:05.800648",
-    "stars": 0,
-    "url": "https://github.com/shagunbagrecha/Netflix-GPT"
-  },
-  "1087453605": {
-    "name": "OpenCV-Real-Time-Tracking-UI",
-    "full_name": "Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI",
-    "sent_date": "2025-11-04T23:23:50.712212",
-    "stars": 0,
-    "url": "https://github.com/Opiumpoppyswitch808/OpenCV-Real-Time-Tracking-UI"
-  },
   "170161374": {
     "name": "computervision-recipes",
     "full_name": "microsoft/computervision-recipes",
@@ -2931,5 +2840,89 @@
     "sent_date": "2025-12-03T23:23:34.056535",
     "stars": 0,
     "url": "https://github.com/dalmoon15/styletts2-dataset-toolkit"
+  },
+  "912896": {
+    "name": "ccv",
+    "full_name": "liuliu/ccv",
+    "sent_date": "2025-12-04T23:21:44.864821",
+    "stars": 7172,
+    "url": "https://github.com/liuliu/ccv"
+  },
+  "1105403911": {
+    "name": "IA-",
+    "full_name": "miladiva1/IA-",
+    "sent_date": "2025-12-04T23:21:44.867827",
+    "stars": 1,
+    "url": "https://github.com/miladiva1/IA-"
+  },
+  "205044193": {
+    "name": "rpp",
+    "full_name": "ROCm/rpp",
+    "sent_date": "2025-12-04T23:22:29.889489",
+    "stars": 68,
+    "url": "https://github.com/ROCm/rpp"
+  },
+  "796957174": {
+    "name": "MathOptAI.jl",
+    "full_name": "lanl-ansi/MathOptAI.jl",
+    "sent_date": "2025-12-04T23:22:29.892731",
+    "stars": 62,
+    "url": "https://github.com/lanl-ansi/MathOptAI.jl"
+  },
+  "576726127": {
+    "name": "chat-gpt",
+    "full_name": "jcubic/chat-gpt",
+    "sent_date": "2025-12-04T23:23:14.578424",
+    "stars": 356,
+    "url": "https://github.com/jcubic/chat-gpt"
+  },
+  "919306570": {
+    "name": "openadmet-models",
+    "full_name": "OpenADMET/openadmet-models",
+    "sent_date": "2025-12-04T23:23:14.581545",
+    "stars": 28,
+    "url": "https://github.com/OpenADMET/openadmet-models"
+  },
+  "1050710267": {
+    "name": "St4RTrack",
+    "full_name": "nhan-nguyen-trong/St4RTrack",
+    "sent_date": "2025-12-04T23:23:59.918139",
+    "stars": 5,
+    "url": "https://github.com/nhan-nguyen-trong/St4RTrack"
+  },
+  "1049944764": {
+    "name": "AI_Hanlin",
+    "full_name": "anwarpagu/AI_Hanlin",
+    "sent_date": "2025-12-04T23:23:59.921202",
+    "stars": 3,
+    "url": "https://github.com/anwarpagu/AI_Hanlin"
+  },
+  "1050212186": {
+    "name": "machine-learning-zoomcamp",
+    "full_name": "martinxnz123/machine-learning-zoomcamp",
+    "sent_date": "2025-12-04T23:24:44.802122",
+    "stars": 0,
+    "url": "https://github.com/martinxnz123/machine-learning-zoomcamp"
+  },
+  "1050120600": {
+    "name": "MarketGuardian",
+    "full_name": "riyadhrodna/MarketGuardian",
+    "sent_date": "2025-12-04T23:24:44.805214",
+    "stars": 0,
+    "url": "https://github.com/riyadhrodna/MarketGuardian"
+  },
+  "1005198791": {
+    "name": "Hacking-AI-",
+    "full_name": "Niyi0/Hacking-AI-",
+    "sent_date": "2025-12-04T23:25:29.273329",
+    "stars": 12,
+    "url": "https://github.com/Niyi0/Hacking-AI-"
+  },
+  "872267385": {
+    "name": "ai-assisted-development-guide",
+    "full_name": "okhuyag/ai-assisted-development-guide",
+    "sent_date": "2025-12-04T23:25:29.276496",
+    "stars": 0,
+    "url": "https://github.com/okhuyag/ai-assisted-development-guide"
   }
 }
