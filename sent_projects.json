@@ -1,95 +1,4 @@
 {
-  "170161374": {
-    "name": "computervision-recipes",
-    "full_name": "microsoft/computervision-recipes",
-    "sent_date": "2025-11-05T23:20:30.981135",
-    "stars": 9782,
-    "url": "https://github.com/microsoft/computervision-recipes"
-  },
-  "1090518205": {
-    "name": "medical-equipment-classification",
-    "full_name": "Safaa-Abdallah/medical-equipment-classification",
-    "sent_date": "2025-11-05T23:20:30.984429",
-    "stars": 2,
-    "url": "https://github.com/Safaa-Abdallah/medical-equipment-classification"
-  },
-  "1083944602": {
-    "name": "9517_Group_Project",
-    "full_name": "jerryjlzhou/9517_Group_Project",
-    "sent_date": "2025-11-05T23:20:30.987693",
-    "stars": 1,
-    "url": "https://github.com/jerryjlzhou/9517_Group_Project"
-  },
-  "117284137": {
-    "name": "ultimateALPR-SDK",
-    "full_name": "DoubangoTelecom/ultimateALPR-SDK",
-    "sent_date": "2025-11-05T23:21:16.810789",
-    "stars": 695,
-    "url": "https://github.com/DoubangoTelecom/ultimateALPR-SDK"
-  },
-  "627510037": {
-    "name": "AgentGPT-zh",
-    "full_name": "RiseInRose/AgentGPT-zh",
-    "sent_date": "2025-11-05T23:21:16.813897",
-    "stars": 136,
-    "url": "https://github.com/RiseInRose/AgentGPT-zh"
-  },
-  "627225602": {
-    "name": "Auto-GPT-zh",
-    "full_name": "RiseInRose/Auto-GPT-zh",
-    "sent_date": "2025-11-05T23:22:01.745343",
-    "stars": 45,
-    "url": "https://github.com/RiseInRose/Auto-GPT-zh"
-  },
-  "961499507": {
-    "name": "marl-ppo-suite",
-    "full_name": "xujiuqing2023/marl-ppo-suite",
-    "sent_date": "2025-11-05T23:22:01.748690",
-    "stars": 11,
-    "url": "https://github.com/xujiuqing2023/marl-ppo-suite"
-  },
-  "966462945": {
-    "name": "Autism_Companian_Gen-Ai_Project_Kaggle",
-    "full_name": "VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle",
-    "sent_date": "2025-11-05T23:22:47.971570",
-    "stars": 3,
-    "url": "https://github.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle"
-  },
-  "966483758": {
-    "name": "ai-portfolio",
-    "full_name": "dawit867/ai-portfolio",
-    "sent_date": "2025-11-05T23:22:47.974968",
-    "stars": 2,
-    "url": "https://github.com/dawit867/ai-portfolio"
-  },
-  "1090580865": {
-    "name": "Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project",
-    "full_name": "berkantGunel/Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project",
-    "sent_date": "2025-11-05T23:23:32.115612",
-    "stars": 0,
-    "url": "https://github.com/berkantGunel/Crypto-Price-Prediction-API-Machine-Learning-FastAPI-Project"
-  },
-  "966597709": {
-    "name": "Sensor-Data-Analytics",
-    "full_name": "Ayan007JBond/Sensor-Data-Analytics",
-    "sent_date": "2025-11-05T23:23:32.118795",
-    "stars": 1,
-    "url": "https://github.com/Ayan007JBond/Sensor-Data-Analytics"
-  },
-  "968655183": {
-    "name": "drone-tools",
-    "full_name": "NGBen1/drone-tools",
-    "sent_date": "2025-11-05T23:24:16.047102",
-    "stars": 16,
-    "url": "https://github.com/NGBen1/drone-tools"
-  },
-  "968434847": {
-    "name": "Stock-Predictor",
-    "full_name": "GwRzky/Stock-Predictor",
-    "sent_date": "2025-11-05T23:24:16.050435",
-    "stars": 2,
-    "url": "https://github.com/GwRzky/Stock-Predictor"
-  },
   "851997597": {
     "name": "LiteRT",
     "full_name": "google-ai-edge/LiteRT",
@@ -2924,5 +2833,82 @@
     "sent_date": "2025-12-04T23:25:29.276496",
     "stars": 0,
     "url": "https://github.com/okhuyag/ai-assisted-development-guide"
+  },
+  "170161374": {
+    "name": "computervision-recipes",
+    "full_name": "microsoft/computervision-recipes",
+    "sent_date": "2025-12-05T23:20:59.513307",
+    "stars": 9799,
+    "url": "https://github.com/microsoft/computervision-recipes"
+  },
+  "688164459": {
+    "name": "cs249r_book",
+    "full_name": "harvard-edge/cs249r_book",
+    "sent_date": "2025-12-05T23:20:59.516511",
+    "stars": 10294,
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  "845191835": {
+    "name": "azure-ai-docs",
+    "full_name": "MicrosoftDocs/azure-ai-docs",
+    "sent_date": "2025-12-05T23:20:59.520081",
+    "stars": 113,
+    "url": "https://github.com/MicrosoftDocs/azure-ai-docs"
+  },
+  "109742434": {
+    "name": "topaz",
+    "full_name": "tbepler/topaz",
+    "sent_date": "2025-12-05T23:21:44.700843",
+    "stars": 198,
+    "url": "https://github.com/tbepler/topaz"
+  },
+  "1043651430": {
+    "name": "genai-api",
+    "full_name": "louisbrulenaudet/genai-api",
+    "sent_date": "2025-12-05T23:21:44.704191",
+    "stars": 57,
+    "url": "https://github.com/louisbrulenaudet/genai-api"
+  },
+  "281751427": {
+    "name": "d2l-java",
+    "full_name": "deepjavalibrary/d2l-java",
+    "sent_date": "2025-12-05T23:22:30.093949",
+    "stars": 190,
+    "url": "https://github.com/deepjavalibrary/d2l-java"
+  },
+  "1109367974": {
+    "name": "Machine-Learning-Based-Commit-Quality-Classification-System",
+    "full_name": "HarnoorSingh200/Machine-Learning-Based-Commit-Quality-Classification-System",
+    "sent_date": "2025-12-05T23:22:30.097239",
+    "stars": 1,
+    "url": "https://github.com/HarnoorSingh200/Machine-Learning-Based-Commit-Quality-Classification-System"
+  },
+  "1079618003": {
+    "name": "Infection-Risk-Prediction-ML",
+    "full_name": "Vigodang/Infection-Risk-Prediction-ML",
+    "sent_date": "2025-12-05T23:23:15.653705",
+    "stars": 0,
+    "url": "https://github.com/Vigodang/Infection-Risk-Prediction-ML"
+  },
+  "1089772544": {
+    "name": "receipty-bot",
+    "full_name": "SanyCska/receipty-bot",
+    "sent_date": "2025-12-05T23:23:15.657045",
+    "stars": 0,
+    "url": "https://github.com/SanyCska/receipty-bot"
+  },
+  "156939672": {
+    "name": "onnxruntime",
+    "full_name": "microsoft/onnxruntime",
+    "sent_date": "2025-12-05T23:24:01.523364",
+    "stars": 18570,
+    "url": "https://github.com/microsoft/onnxruntime"
+  },
+  "1084418200": {
+    "name": "Computer-Vision-Deep-Learning-License-Plate-Reader",
+    "full_name": "bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader",
+    "sent_date": "2025-12-05T23:24:01.526678",
+    "stars": 0,
+    "url": "https://github.com/bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader"
   }
 }
