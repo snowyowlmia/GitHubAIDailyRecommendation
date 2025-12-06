@@ -1,67 +1,4 @@
 {
-  "851997597": {
-    "name": "LiteRT",
-    "full_name": "google-ai-edge/LiteRT",
-    "sent_date": "2025-11-06T23:19:55.022894",
-    "stars": 925,
-    "url": "https://github.com/google-ai-edge/LiteRT"
-  },
-  "208145128": {
-    "name": "iree",
-    "full_name": "iree-org/iree",
-    "sent_date": "2025-11-06T23:19:55.026264",
-    "stars": 3446,
-    "url": "https://github.com/iree-org/iree"
-  },
-  "140302908": {
-    "name": "supervisely",
-    "full_name": "supervisely/supervisely",
-    "sent_date": "2025-11-06T23:20:39.414293",
-    "stars": 508,
-    "url": "https://github.com/supervisely/supervisely"
-  },
-  "864172209": {
-    "name": "fnord",
-    "full_name": "sysread/fnord",
-    "sent_date": "2025-11-06T23:20:39.417691",
-    "stars": 32,
-    "url": "https://github.com/sysread/fnord"
-  },
-  "595832198": {
-    "name": "helicone",
-    "full_name": "Helicone/helicone",
-    "sent_date": "2025-11-06T23:21:24.161601",
-    "stars": 4682,
-    "url": "https://github.com/Helicone/helicone"
-  },
-  "1087355253": {
-    "name": "NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D",
-    "full_name": "Garrett-Mckenzie/NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D",
-    "sent_date": "2025-11-06T23:21:24.166458",
-    "stars": 1,
-    "url": "https://github.com/Garrett-Mckenzie/NLP-DONT-FAIL-GANG-WITH-E-G-L-and-D"
-  },
-  "934434110": {
-    "name": "webXOS",
-    "full_name": "webxos/webXOS",
-    "sent_date": "2025-11-06T23:22:08.867877",
-    "stars": 9,
-    "url": "https://github.com/webxos/webXOS"
-  },
-  "1091360050": {
-    "name": "Smart_Supply_Chain_Optimization",
-    "full_name": "Prateek1607/Smart_Supply_Chain_Optimization",
-    "sent_date": "2025-11-06T23:22:08.871081",
-    "stars": 0,
-    "url": "https://github.com/Prateek1607/Smart_Supply_Chain_Optimization"
-  },
-  "1089031935": {
-    "name": "torchcomms",
-    "full_name": "rageelixer853/torchcomms",
-    "sent_date": "2025-11-06T23:22:53.064014",
-    "stars": 0,
-    "url": "https://github.com/rageelixer853/torchcomms"
-  },
   "1091376718": {
     "name": "Open-Kimi",
     "full_name": "kyegomez/Open-Kimi",
@@ -2910,5 +2847,89 @@
     "sent_date": "2025-12-05T23:24:01.526678",
     "stars": 0,
     "url": "https://github.com/bartkw12/Computer-Vision-Deep-Learning-License-Plate-Reader"
+  },
+  "1106378527": {
+    "name": "z-image-turbo-mlx",
+    "full_name": "FiditeNemini/z-image-turbo-mlx",
+    "sent_date": "2025-12-06T23:20:20.813748",
+    "stars": 3,
+    "url": "https://github.com/FiditeNemini/z-image-turbo-mlx"
+  },
+  "1102690668": {
+    "name": "goml",
+    "full_name": "pvavrina/goml",
+    "sent_date": "2025-12-06T23:20:20.816788",
+    "stars": 1,
+    "url": "https://github.com/pvavrina/goml"
+  },
+  "35355052": {
+    "name": "BerePi",
+    "full_name": "jeonghoonkang/BerePi",
+    "sent_date": "2025-12-06T23:21:04.779755",
+    "stars": 18,
+    "url": "https://github.com/jeonghoonkang/BerePi"
+  },
+  "183702117": {
+    "name": "quasinet",
+    "full_name": "zeroknowledgediscovery/quasinet",
+    "sent_date": "2025-12-06T23:21:04.782861",
+    "stars": 5,
+    "url": "https://github.com/zeroknowledgediscovery/quasinet"
+  },
+  "967738751": {
+    "name": "read-frog",
+    "full_name": "mengxi-ream/read-frog",
+    "sent_date": "2025-12-06T23:21:49.734558",
+    "stars": 3042,
+    "url": "https://github.com/mengxi-ream/read-frog"
+  },
+  "1016436934": {
+    "name": "TinyTorch",
+    "full_name": "MLSysBook/TinyTorch",
+    "sent_date": "2025-12-06T23:21:49.737652",
+    "stars": 98,
+    "url": "https://github.com/MLSysBook/TinyTorch"
+  },
+  "989779503": {
+    "name": "challenge-tracker",
+    "full_name": "saltaher/challenge-tracker",
+    "sent_date": "2025-12-06T23:22:34.139327",
+    "stars": 1,
+    "url": "https://github.com/saltaher/challenge-tracker"
+  },
+  "680218161": {
+    "name": "multi-agent-chat",
+    "full_name": "Jo4ge/multi-agent-chat",
+    "sent_date": "2025-12-06T23:22:34.142580",
+    "stars": 1,
+    "url": "https://github.com/Jo4ge/multi-agent-chat"
+  },
+  "765908309": {
+    "name": "Stock-Price-Prediction",
+    "full_name": "Saadchh/Stock-Price-Prediction",
+    "sent_date": "2025-12-06T23:23:18.385768",
+    "stars": 0,
+    "url": "https://github.com/Saadchh/Stock-Price-Prediction"
+  },
+  "1076063058": {
+    "name": "Rock-Paper-Scissors",
+    "full_name": "eshwar-sai-sai/Rock-Paper-Scissors",
+    "sent_date": "2025-12-06T23:23:18.388970",
+    "stars": 0,
+    "url": "https://github.com/eshwar-sai-sai/Rock-Paper-Scissors"
+  },
+  "1076050286": {
+    "name": "networking-toolbox",
+    "full_name": "RaedHassan97/networking-toolbox",
+    "sent_date": "2025-12-06T23:24:02.803687",
+    "stars": 0,
+    "url": "https://github.com/RaedHassan97/networking-toolbox"
+  },
+  "961768872": {
+    "name": "nvidia-hq56k",
+    "full_name": "priyavicky1997/nvidia-hq56k",
+    "sent_date": "2025-12-06T23:24:02.806755",
+    "stars": 0,
+    "url": "https://github.com/priyavicky1997/nvidia-hq56k"
   }
 }
