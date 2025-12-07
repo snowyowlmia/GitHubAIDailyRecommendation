@@ -1,88 +1,4 @@
 {
-  "1091376718": {
-    "name": "Open-Kimi",
-    "full_name": "kyegomez/Open-Kimi",
-    "sent_date": "2025-11-07T23:19:24.219276",
-    "stars": 5,
-    "url": "https://github.com/kyegomez/Open-Kimi"
-  },
-  "1091729613": {
-    "name": "Uniswap-Ethereum-Bot-V3",
-    "full_name": "qUAKetREMorHO/Uniswap-Ethereum-Bot-V3",
-    "sent_date": "2025-11-07T23:19:24.222417",
-    "stars": 1,
-    "url": "https://github.com/qUAKetREMorHO/Uniswap-Ethereum-Bot-V3"
-  },
-  "528328355": {
-    "name": "modal-examples",
-    "full_name": "modal-labs/modal-examples",
-    "sent_date": "2025-11-07T23:20:09.251162",
-    "stars": 1017,
-    "url": "https://github.com/modal-labs/modal-examples"
-  },
-  "260348092": {
-    "name": "language_tool_python",
-    "full_name": "jxmorris12/language_tool_python",
-    "sent_date": "2025-11-07T23:20:09.254270",
-    "stars": 496,
-    "url": "https://github.com/jxmorris12/language_tool_python"
-  },
-  "1013935699": {
-    "name": "qwen-tts",
-    "full_name": "mco2004/qwen-tts",
-    "sent_date": "2025-11-07T23:20:54.243718",
-    "stars": 81,
-    "url": "https://github.com/mco2004/qwen-tts"
-  },
-  "949349630": {
-    "name": "VulnWatchdog",
-    "full_name": "arschlochnop/VulnWatchdog",
-    "sent_date": "2025-11-07T23:20:54.246812",
-    "stars": 57,
-    "url": "https://github.com/arschlochnop/VulnWatchdog"
-  },
-  "1013445775": {
-    "name": "claude-code-proxy",
-    "full_name": "Haidzai/claude-code-proxy",
-    "sent_date": "2025-11-07T23:21:39.662764",
-    "stars": 11,
-    "url": "https://github.com/Haidzai/claude-code-proxy"
-  },
-  "1013629260": {
-    "name": "ai-pdf-chatbot-langchain",
-    "full_name": "guahusni/ai-pdf-chatbot-langchain",
-    "sent_date": "2025-11-07T23:21:39.665952",
-    "stars": 3,
-    "url": "https://github.com/guahusni/ai-pdf-chatbot-langchain"
-  },
-  "1013783472": {
-    "name": "AICryptoTrade-Bots",
-    "full_name": "Alisher321/AICryptoTrade-Bots",
-    "sent_date": "2025-11-07T23:22:25.054455",
-    "stars": 1,
-    "url": "https://github.com/Alisher321/AICryptoTrade-Bots"
-  },
-  "1001246813": {
-    "name": "MLOPS-Pipeline-Dashboard",
-    "full_name": "gituser2610/MLOPS-Pipeline-Dashboard",
-    "sent_date": "2025-11-07T23:22:25.057599",
-    "stars": 0,
-    "url": "https://github.com/gituser2610/MLOPS-Pipeline-Dashboard"
-  },
-  "997756950": {
-    "name": "disaster-tweets-classification",
-    "full_name": "kade-one/disaster-tweets-classification",
-    "sent_date": "2025-11-07T23:23:09.787184",
-    "stars": 0,
-    "url": "https://github.com/kade-one/disaster-tweets-classification"
-  },
-  "1023153706": {
-    "name": "langid",
-    "full_name": "eliangonde/langid",
-    "sent_date": "2025-11-07T23:23:09.790137",
-    "stars": 0,
-    "url": "https://github.com/eliangonde/langid"
-  },
   "669331976": {
     "name": "flashinfer",
     "full_name": "flashinfer-ai/flashinfer",
@@ -2931,5 +2847,89 @@
     "sent_date": "2025-12-06T23:24:02.806755",
     "stars": 0,
     "url": "https://github.com/priyavicky1997/nvidia-hq56k"
+  },
+  "929868765": {
+    "name": "local-deep-research",
+    "full_name": "LearningCircuit/local-deep-research",
+    "sent_date": "2025-12-07T23:20:02.631011",
+    "stars": 3684,
+    "url": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  "1110959369": {
+    "name": "kodi-gpt-subtitle-translator",
+    "full_name": "amiyol/kodi-gpt-subtitle-translator",
+    "sent_date": "2025-12-07T23:20:02.634194",
+    "stars": 2,
+    "url": "https://github.com/amiyol/kodi-gpt-subtitle-translator"
+  },
+  "275431435": {
+    "name": "photonvision",
+    "full_name": "PhotonVision/photonvision",
+    "sent_date": "2025-12-07T23:20:46.819098",
+    "stars": 369,
+    "url": "https://github.com/PhotonVision/photonvision"
+  },
+  "1100594150": {
+    "name": "UIP-Urban_Intelligence_Platform",
+    "full_name": "UIP-Urban-Intelligence-Platform/UIP-Urban_Intelligence_Platform",
+    "sent_date": "2025-12-07T23:20:46.822232",
+    "stars": 23,
+    "url": "https://github.com/UIP-Urban-Intelligence-Platform/UIP-Urban_Intelligence_Platform"
+  },
+  "1111935577": {
+    "name": "Uniswap-Ethereum-Bot-V3",
+    "full_name": "PulsesirennOV/Uniswap-Ethereum-Bot-V3",
+    "sent_date": "2025-12-07T23:21:30.811822",
+    "stars": 1,
+    "url": "https://github.com/PulsesirennOV/Uniswap-Ethereum-Bot-V3"
+  },
+  "1110898221": {
+    "name": "DawaCaCx-App",
+    "full_name": "kalisto263/DawaCaCx-App",
+    "sent_date": "2025-12-07T23:21:30.815043",
+    "stars": 0,
+    "url": "https://github.com/kalisto263/DawaCaCx-App"
+  },
+  "1056941714": {
+    "name": "Optimizing-Bluebikes-Operations-with-Machine-Learning-Based-Demand-Prediction",
+    "full_name": "PranavViswanathan/Optimizing-Bluebikes-Operations-with-Machine-Learning-Based-Demand-Prediction",
+    "sent_date": "2025-12-07T23:22:14.954881",
+    "stars": 5,
+    "url": "https://github.com/PranavViswanathan/Optimizing-Bluebikes-Operations-with-Machine-Learning-Based-Demand-Prediction"
+  },
+  "1079811089": {
+    "name": "prose-minion-vscode",
+    "full_name": "okeylanders/prose-minion-vscode",
+    "sent_date": "2025-12-07T23:22:14.958071",
+    "stars": 1,
+    "url": "https://github.com/okeylanders/prose-minion-vscode"
+  },
+  "1111822407": {
+    "name": "ML_Team7",
+    "full_name": "FrankCP/ML_Team7",
+    "sent_date": "2025-12-07T23:22:59.767030",
+    "stars": 0,
+    "url": "https://github.com/FrankCP/ML_Team7"
+  },
+  "1085578011": {
+    "name": "Basic-AI-docs",
+    "full_name": "ArthurProgamadorLendario/Basic-AI-docs",
+    "sent_date": "2025-12-07T23:22:59.770271",
+    "stars": 0,
+    "url": "https://github.com/ArthurProgamadorLendario/Basic-AI-docs"
+  },
+  "1085171332": {
+    "name": "VFMTok",
+    "full_name": "iluvn01/VFMTok",
+    "sent_date": "2025-12-07T23:23:44.341247",
+    "stars": 0,
+    "url": "https://github.com/iluvn01/VFMTok"
+  },
+  "347273245": {
+    "name": "ComfyUI-Segformer_Ultra_Fast",
+    "full_name": "meet1305/ComfyUI-Segformer_Ultra_Fast",
+    "sent_date": "2025-12-07T23:23:44.344419",
+    "stars": 0,
+    "url": "https://github.com/meet1305/ComfyUI-Segformer_Ultra_Fast"
   }
 }
