@@ -1,88 +1,4 @@
 {
-  "669331976": {
-    "name": "flashinfer",
-    "full_name": "flashinfer-ai/flashinfer",
-    "sent_date": "2025-11-09T23:18:56.764814",
-    "stars": 4036,
-    "url": "https://github.com/flashinfer-ai/flashinfer"
-  },
-  "1092555035": {
-    "name": "Sign-Language-Translator",
-    "full_name": "asherk7/Sign-Language-Translator",
-    "sent_date": "2025-11-09T23:18:56.767784",
-    "stars": 1,
-    "url": "https://github.com/asherk7/Sign-Language-Translator"
-  },
-  "1093113076": {
-    "name": "pneumonia-detection-pytorch",
-    "full_name": "4AL3-Machine-Learning/pneumonia-detection-pytorch",
-    "sent_date": "2025-11-09T23:19:41.134699",
-    "stars": 1,
-    "url": "https://github.com/4AL3-Machine-Learning/pneumonia-detection-pytorch"
-  },
-  "411827701": {
-    "name": "OpeNTF",
-    "full_name": "fani-lab/OpeNTF",
-    "sent_date": "2025-11-09T23:19:41.137939",
-    "stars": 27,
-    "url": "https://github.com/fani-lab/OpeNTF"
-  },
-  "1082750257": {
-    "name": "ML-practical",
-    "full_name": "ajch1386-star/ML-practical",
-    "sent_date": "2025-11-09T23:20:25.546121",
-    "stars": 1,
-    "url": "https://github.com/ajch1386-star/ML-practical"
-  },
-  "1093114210": {
-    "name": "A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction",
-    "full_name": "vivektara24/A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction",
-    "sent_date": "2025-11-09T23:20:25.549381",
-    "stars": 0,
-    "url": "https://github.com/vivektara24/A-Graph-Convolutional-Network-Approach-for-logKd-and-logKi-Prediction"
-  },
-  "1092643954": {
-    "name": "llm",
-    "full_name": "ultralytics/llm",
-    "sent_date": "2025-11-09T23:21:12.488371",
-    "stars": 5,
-    "url": "https://github.com/ultralytics/llm"
-  },
-  "1059594765": {
-    "name": "comfyui-smart-lora-downloader",
-    "full_name": "mcrataobrabo/comfyui-smart-lora-downloader",
-    "sent_date": "2025-11-09T23:21:12.491491",
-    "stars": 4,
-    "url": "https://github.com/mcrataobrabo/comfyui-smart-lora-downloader"
-  },
-  "227367327": {
-    "name": "PINTO_model_zoo",
-    "full_name": "PINTO0309/PINTO_model_zoo",
-    "sent_date": "2025-11-09T23:21:56.637803",
-    "stars": 3966,
-    "url": "https://github.com/PINTO0309/PINTO_model_zoo"
-  },
-  "1093112066": {
-    "name": "Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE",
-    "full_name": "GauravRathi3159/Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE",
-    "sent_date": "2025-11-09T23:21:56.641561",
-    "stars": 0,
-    "url": "https://github.com/GauravRathi3159/Gaurav-Rathi-AI_Live_Portfolio-2k26-DATA-SCIENCE"
-  },
-  "1093110320": {
-    "name": "Winning-the-Space-Race-with-Data-Science",
-    "full_name": "Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science",
-    "sent_date": "2025-11-09T23:22:40.778849",
-    "stars": 0,
-    "url": "https://github.com/Aarongoldmananalyst/Winning-the-Space-Race-with-Data-Science"
-  },
-  "1065051153": {
-    "name": "Youtube-Sentiment-Analysis",
-    "full_name": "KieSama/Youtube-Sentiment-Analysis",
-    "sent_date": "2025-11-09T23:22:40.781780",
-    "stars": 0,
-    "url": "https://github.com/KieSama/Youtube-Sentiment-Analysis"
-  },
   "730932260": {
     "name": "torchtitan",
     "full_name": "pytorch/torchtitan",
@@ -3015,5 +2931,89 @@
     "sent_date": "2025-12-08T23:25:48.656609",
     "stars": 0,
     "url": "https://github.com/rageelixer853/torchcomms"
+  },
+  "515368123": {
+    "name": "burn",
+    "full_name": "tracel-ai/burn",
+    "sent_date": "2025-12-09T23:22:29.800480",
+    "stars": 13597,
+    "url": "https://github.com/tracel-ai/burn"
+  },
+  "1105926335": {
+    "name": "Aule-Attention",
+    "full_name": "AuleTechnologies/Aule-Attention",
+    "sent_date": "2025-12-09T23:22:29.803785",
+    "stars": 31,
+    "url": "https://github.com/AuleTechnologies/Aule-Attention"
+  },
+  "644686905": {
+    "name": "continue",
+    "full_name": "continuedev/continue",
+    "sent_date": "2025-12-09T23:23:14.515587",
+    "stars": 30220,
+    "url": "https://github.com/continuedev/continue"
+  },
+  "516962930": {
+    "name": "MLE-Flashcards",
+    "full_name": "b7leung/MLE-Flashcards",
+    "sent_date": "2025-12-09T23:23:14.518950",
+    "stars": 2192,
+    "url": "https://github.com/b7leung/MLE-Flashcards"
+  },
+  "764723738": {
+    "name": "skyvern",
+    "full_name": "Skyvern-AI/skyvern",
+    "sent_date": "2025-12-09T23:23:59.690956",
+    "stars": 19643,
+    "url": "https://github.com/Skyvern-AI/skyvern"
+  },
+  "776513710": {
+    "name": "OLMo-core",
+    "full_name": "allenai/OLMo-core",
+    "sent_date": "2025-12-09T23:23:59.694231",
+    "stars": 521,
+    "url": "https://github.com/allenai/OLMo-core"
+  },
+  "1080743071": {
+    "name": "augmented-teams",
+    "full_name": "thomasjeffreyandersontwin/augmented-teams",
+    "sent_date": "2025-12-09T23:24:44.497344",
+    "stars": 1,
+    "url": "https://github.com/thomasjeffreyandersontwin/augmented-teams"
+  },
+  "1103420690": {
+    "name": "relScan",
+    "full_name": "ourahma/relScan",
+    "sent_date": "2025-12-09T23:24:44.500525",
+    "stars": 0,
+    "url": "https://github.com/ourahma/relScan"
+  },
+  "1103121454": {
+    "name": "mlops-loan-payback",
+    "full_name": "BCBeeravelly/mlops-loan-payback",
+    "sent_date": "2025-12-09T23:25:29.298345",
+    "stars": 0,
+    "url": "https://github.com/BCBeeravelly/mlops-loan-payback"
+  },
+  "1112892870": {
+    "name": "Material-Stream-Identification-System",
+    "full_name": "zzzeinhom/Material-Stream-Identification-System",
+    "sent_date": "2025-12-09T23:25:29.301610",
+    "stars": 0,
+    "url": "https://github.com/zzzeinhom/Material-Stream-Identification-System"
+  },
+  "1113388680": {
+    "name": "rewardhackwatch",
+    "full_name": "aerosta/rewardhackwatch",
+    "sent_date": "2025-12-09T23:26:13.964596",
+    "stars": 0,
+    "url": "https://github.com/aerosta/rewardhackwatch"
+  },
+  "1113057339": {
+    "name": "reasoning_time_series_financial_technical_analysis",
+    "full_name": "sumaidkhan900/reasoning_time_series_financial_technical_analysis",
+    "sent_date": "2025-12-09T23:26:13.967854",
+    "stars": 0,
+    "url": "https://github.com/sumaidkhan900/reasoning_time_series_financial_technical_analysis"
   }
 }
