@@ -1,60 +1,4 @@
 {
-  "730932260": {
-    "name": "torchtitan",
-    "full_name": "pytorch/torchtitan",
-    "sent_date": "2025-11-10T23:20:49.683424",
-    "stars": 4672,
-    "url": "https://github.com/pytorch/torchtitan"
-  },
-  "523007292": {
-    "name": "xla",
-    "full_name": "openxla/xla",
-    "sent_date": "2025-11-10T23:20:49.686390",
-    "stars": 3663,
-    "url": "https://github.com/openxla/xla"
-  },
-  "663409294": {
-    "name": "ryzen-ai-documentation",
-    "full_name": "amd/ryzen-ai-documentation",
-    "sent_date": "2025-11-10T23:21:36.272107",
-    "stars": 85,
-    "url": "https://github.com/amd/ryzen-ai-documentation"
-  },
-  "1087399663": {
-    "name": "alignmenter",
-    "full_name": "justinGrosvenor/alignmenter",
-    "sent_date": "2025-11-10T23:21:36.275018",
-    "stars": 3,
-    "url": "https://github.com/justinGrosvenor/alignmenter"
-  },
-  "867849815": {
-    "name": "torch-ttt",
-    "full_name": "nikitadurasov/torch-ttt",
-    "sent_date": "2025-11-10T23:22:22.625225",
-    "stars": 26,
-    "url": "https://github.com/nikitadurasov/torch-ttt"
-  },
-  "1091357960": {
-    "name": "vitorhugo-portfolio",
-    "full_name": "vitorsantoszoo/vitorhugo-portfolio",
-    "sent_date": "2025-11-10T23:22:22.628359",
-    "stars": 1,
-    "url": "https://github.com/vitorsantoszoo/vitorhugo-portfolio"
-  },
-  "1004417914": {
-    "name": "devantixlabs",
-    "full_name": "devantixlabs/devantixlabs",
-    "sent_date": "2025-11-10T23:23:08.414289",
-    "stars": 1,
-    "url": "https://github.com/devantixlabs/devantixlabs"
-  },
-  "1002423895": {
-    "name": "Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS",
-    "full_name": "Mehulupase01/Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS",
-    "sent_date": "2025-11-10T23:23:08.417538",
-    "stars": 1,
-    "url": "https://github.com/Mehulupase01/Human-Trafficking-Detection-An-Integrated-Pipeline-Utilizing-NLP-GNN-GIS"
-  },
   "1092910043": {
     "name": "m-faezi.github.io",
     "full_name": "m-faezi/m-faezi.github.io",
@@ -3015,5 +2959,89 @@
     "sent_date": "2025-12-09T23:26:13.967854",
     "stars": 0,
     "url": "https://github.com/sumaidkhan900/reasoning_time_series_financial_technical_analysis"
+  },
+  "596516907": {
+    "name": "DocsGPT",
+    "full_name": "arc53/DocsGPT",
+    "sent_date": "2025-12-10T23:20:11.084586",
+    "stars": 17489,
+    "url": "https://github.com/arc53/DocsGPT"
+  },
+  "1106277470": {
+    "name": "homebox-companion",
+    "full_name": "Duelion/homebox-companion",
+    "sent_date": "2025-12-10T23:20:11.088189",
+    "stars": 26,
+    "url": "https://github.com/Duelion/homebox-companion"
+  },
+  "949349630": {
+    "name": "VulnWatchdog",
+    "full_name": "arschlochnop/VulnWatchdog",
+    "sent_date": "2025-12-10T23:20:56.550652",
+    "stars": 72,
+    "url": "https://github.com/arschlochnop/VulnWatchdog"
+  },
+  "1111358971": {
+    "name": "Zenith-dataplane",
+    "full_name": "vibeswithkk/Zenith-dataplane",
+    "sent_date": "2025-12-10T23:20:56.554137",
+    "stars": 1,
+    "url": "https://github.com/vibeswithkk/Zenith-dataplane"
+  },
+  "851997597": {
+    "name": "LiteRT",
+    "full_name": "google-ai-edge/LiteRT",
+    "sent_date": "2025-12-10T23:21:42.030848",
+    "stars": 1107,
+    "url": "https://github.com/google-ai-edge/LiteRT"
+  },
+  "1039211803": {
+    "name": "MIPCandy",
+    "full_name": "ProjectNeura/MIPCandy",
+    "sent_date": "2025-12-10T23:21:42.034390",
+    "stars": 19,
+    "url": "https://github.com/ProjectNeura/MIPCandy"
+  },
+  "1043424169": {
+    "name": "Predictive-Healthcare-Analytics",
+    "full_name": "mo7amedgamal2/Predictive-Healthcare-Analytics",
+    "sent_date": "2025-12-10T23:22:28.244925",
+    "stars": 0,
+    "url": "https://github.com/mo7amedgamal2/Predictive-Healthcare-Analytics"
+  },
+  "1012825916": {
+    "name": "data-5600",
+    "full_name": "marcdotson/data-5600",
+    "sent_date": "2025-12-10T23:22:28.248286",
+    "stars": 0,
+    "url": "https://github.com/marcdotson/data-5600"
+  },
+  "605232014": {
+    "name": "torchani-amber",
+    "full_name": "roitberg-group/torchani-amber",
+    "sent_date": "2025-12-10T23:23:14.050096",
+    "stars": 11,
+    "url": "https://github.com/roitberg-group/torchani-amber"
+  },
+  "1114028408": {
+    "name": "-YouTube-Shorts-Engagement-Analysis-Metadata-vs.-Content",
+    "full_name": "SedeWahlid/-YouTube-Shorts-Engagement-Analysis-Metadata-vs.-Content",
+    "sent_date": "2025-12-10T23:23:14.053635",
+    "stars": 0,
+    "url": "https://github.com/SedeWahlid/-YouTube-Shorts-Engagement-Analysis-Metadata-vs.-Content"
+  },
+  "1114094350": {
+    "name": "openauction_iq",
+    "full_name": "sackio/openauction_iq",
+    "sent_date": "2025-12-10T23:23:59.807507",
+    "stars": 0,
+    "url": "https://github.com/sackio/openauction_iq"
+  },
+  "1113311934": {
+    "name": "CoPilot-For-Consensus",
+    "full_name": "Alan-Jowett/CoPilot-For-Consensus",
+    "sent_date": "2025-12-10T23:23:59.811060",
+    "stars": 0,
+    "url": "https://github.com/Alan-Jowett/CoPilot-For-Consensus"
   }
 }
