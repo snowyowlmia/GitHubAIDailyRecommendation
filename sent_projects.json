@@ -1,116 +1,4 @@
 {
-  "1092910043": {
-    "name": "m-faezi.github.io",
-    "full_name": "m-faezi/m-faezi.github.io",
-    "sent_date": "2025-11-10T23:23:53.798889",
-    "stars": 0,
-    "url": "https://github.com/m-faezi/m-faezi.github.io"
-  },
-  "1092364121": {
-    "name": "ml-train-k8s",
-    "full_name": "jamessyjay/ml-train-k8s",
-    "sent_date": "2025-11-10T23:23:53.801909",
-    "stars": 0,
-    "url": "https://github.com/jamessyjay/ml-train-k8s"
-  },
-  "1079476772": {
-    "name": "ComfyUI-Smart-Resolution-Calc",
-    "full_name": "DazzleNodes/ComfyUI-Smart-Resolution-Calc",
-    "sent_date": "2025-11-10T23:24:39.627569",
-    "stars": 1,
-    "url": "https://github.com/DazzleNodes/ComfyUI-Smart-Resolution-Calc"
-  },
-  "1093792419": {
-    "name": "gradlens",
-    "full_name": "gradlens/gradlens",
-    "sent_date": "2025-11-10T23:24:39.630576",
-    "stars": 0,
-    "url": "https://github.com/gradlens/gradlens"
-  },
-  "647467912": {
-    "name": "shelf-product-identifier",
-    "full_name": "albertferre/shelf-product-identifier",
-    "sent_date": "2025-11-11T23:20:01.753766",
-    "stars": 50,
-    "url": "https://github.com/albertferre/shelf-product-identifier"
-  },
-  "1081342777": {
-    "name": "FingerTrackedCursor",
-    "full_name": "lionelvasko/FingerTrackedCursor",
-    "sent_date": "2025-11-11T23:20:01.756701",
-    "stars": 1,
-    "url": "https://github.com/lionelvasko/FingerTrackedCursor"
-  },
-  "1094589803": {
-    "name": "predicting_movie_rental_duration",
-    "full_name": "madison-martin8/predicting_movie_rental_duration",
-    "sent_date": "2025-11-11T23:20:47.575153",
-    "stars": 0,
-    "url": "https://github.com/madison-martin8/predicting_movie_rental_duration"
-  },
-  "908422379": {
-    "name": "SkinCare.ai",
-    "full_name": "WidiantoID/SkinCare.ai",
-    "sent_date": "2025-11-11T23:20:47.578118",
-    "stars": 1,
-    "url": "https://github.com/WidiantoID/SkinCare.ai"
-  },
-  "1067344946": {
-    "name": "SRPO",
-    "full_name": "hesoyam199x/SRPO",
-    "sent_date": "2025-11-11T23:21:33.096697",
-    "stars": 1,
-    "url": "https://github.com/hesoyam199x/SRPO"
-  },
-  "1091245611": {
-    "name": "MDS-AML-HiggsBosonATLAS",
-    "full_name": "AimbotParce/MDS-AML-HiggsBosonATLAS",
-    "sent_date": "2025-11-11T23:21:33.099957",
-    "stars": 0,
-    "url": "https://github.com/AimbotParce/MDS-AML-HiggsBosonATLAS"
-  },
-  "1067342130": {
-    "name": "onnx-coreml-conversion",
-    "full_name": "sheelajwaa9/onnx-coreml-conversion",
-    "sent_date": "2025-11-11T23:22:18.707179",
-    "stars": 1,
-    "url": "https://github.com/sheelajwaa9/onnx-coreml-conversion"
-  },
-  "1002632773": {
-    "name": "Jobs",
-    "full_name": "misterioul/Jobs",
-    "sent_date": "2025-11-11T23:22:18.710314",
-    "stars": 1,
-    "url": "https://github.com/misterioul/Jobs"
-  },
-  "1081904956": {
-    "name": "TrackerSplat",
-    "full_name": "yindaheng98/TrackerSplat",
-    "sent_date": "2025-11-11T23:23:04.328494",
-    "stars": 4,
-    "url": "https://github.com/yindaheng98/TrackerSplat"
-  },
-  "1094559606": {
-    "name": "StockSage",
-    "full_name": "kaushikatla-cell/StockSage",
-    "sent_date": "2025-11-11T23:23:04.331396",
-    "stars": 0,
-    "url": "https://github.com/kaushikatla-cell/StockSage"
-  },
-  "167694194": {
-    "name": "frigate",
-    "full_name": "blakeblackshear/frigate",
-    "sent_date": "2025-11-11T23:23:49.887346",
-    "stars": 27036,
-    "url": "https://github.com/blakeblackshear/frigate"
-  },
-  "912759287": {
-    "name": "Calories-Burnt-Prediction",
-    "full_name": "Nandha1504/Calories-Burnt-Prediction",
-    "sent_date": "2025-11-11T23:23:49.890359",
-    "stars": 0,
-    "url": "https://github.com/Nandha1504/Calories-Burnt-Prediction"
-  },
   "877695063": {
     "name": "smite",
     "full_name": "alimohammadiamirhossein/smite",
@@ -3043,5 +2931,89 @@
     "sent_date": "2025-12-10T23:23:59.811060",
     "stars": 0,
     "url": "https://github.com/Alan-Jowett/CoPilot-For-Consensus"
+  },
+  "523007292": {
+    "name": "xla",
+    "full_name": "openxla/xla",
+    "sent_date": "2025-12-11T23:21:56.580267",
+    "stars": 3795,
+    "url": "https://github.com/openxla/xla"
+  },
+  "918287261": {
+    "name": "city2graph",
+    "full_name": "c2g-dev/city2graph",
+    "sent_date": "2025-12-11T23:21:56.583564",
+    "stars": 413,
+    "url": "https://github.com/c2g-dev/city2graph"
+  },
+  "321531570": {
+    "name": "tab-transformer-pytorch",
+    "full_name": "lucidrains/tab-transformer-pytorch",
+    "sent_date": "2025-12-11T23:22:41.445832",
+    "stars": 1042,
+    "url": "https://github.com/lucidrains/tab-transformer-pytorch"
+  },
+  "71651195": {
+    "name": "OrdinaryDiffEq.jl",
+    "full_name": "SciML/OrdinaryDiffEq.jl",
+    "sent_date": "2025-12-11T23:22:41.449062",
+    "stars": 616,
+    "url": "https://github.com/SciML/OrdinaryDiffEq.jl"
+  },
+  "869176390": {
+    "name": "tritonbench",
+    "full_name": "meta-pytorch/tritonbench",
+    "sent_date": "2025-12-11T23:23:26.429503",
+    "stars": 301,
+    "url": "https://github.com/meta-pytorch/tritonbench"
+  },
+  "464840223": {
+    "name": "VPS",
+    "full_name": "GewelsJI/VPS",
+    "sent_date": "2025-12-11T23:23:26.432833",
+    "stars": 206,
+    "url": "https://github.com/GewelsJI/VPS"
+  },
+  "1100424481": {
+    "name": "AllTera_BP",
+    "full_name": "Mohammad-Afshari/AllTera_BP",
+    "sent_date": "2025-12-11T23:24:11.379809",
+    "stars": 3,
+    "url": "https://github.com/Mohammad-Afshari/AllTera_BP"
+  },
+  "827959345": {
+    "name": "azure-storage-for-pytorch",
+    "full_name": "Azure/azure-storage-for-pytorch",
+    "sent_date": "2025-12-11T23:24:11.383123",
+    "stars": 10,
+    "url": "https://github.com/Azure/azure-storage-for-pytorch"
+  },
+  "1098994715": {
+    "name": "Heart-Failure-Prediction-Ensemble",
+    "full_name": "SanketDeshmukh29/Heart-Failure-Prediction-Ensemble",
+    "sent_date": "2025-12-11T23:24:56.204166",
+    "stars": 0,
+    "url": "https://github.com/SanketDeshmukh29/Heart-Failure-Prediction-Ensemble"
+  },
+  "1114801312": {
+    "name": "nse-bse-intraday-ai-trader",
+    "full_name": "starkarthikr/nse-bse-intraday-ai-trader",
+    "sent_date": "2025-12-11T23:24:56.207488",
+    "stars": 0,
+    "url": "https://github.com/starkarthikr/nse-bse-intraday-ai-trader"
+  },
+  "918842207": {
+    "name": "Space-Launch-Telemetry-Analyzer",
+    "full_name": "sanitaravel/Space-Launch-Telemetry-Analyzer",
+    "sent_date": "2025-12-11T23:25:40.979697",
+    "stars": 2,
+    "url": "https://github.com/sanitaravel/Space-Launch-Telemetry-Analyzer"
+  },
+  "1114146105": {
+    "name": "BigDataAnalytics_CineSense",
+    "full_name": "dianeleslie1968-cyber/BigDataAnalytics_CineSense",
+    "sent_date": "2025-12-11T23:25:40.983143",
+    "stars": 0,
+    "url": "https://github.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense"
   }
 }
