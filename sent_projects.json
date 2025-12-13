@@ -3015,5 +3015,89 @@
     "sent_date": "2025-12-12T23:25:23.742069",
     "stars": 0,
     "url": "https://github.com/raveriss/Total_Perspective_Vortex"
+  },
+  "910061041": {
+    "name": "Kokoro-FastAPI",
+    "full_name": "remsky/Kokoro-FastAPI",
+    "sent_date": "2025-12-13T23:20:46.328678",
+    "stars": 4086,
+    "url": "https://github.com/remsky/Kokoro-FastAPI"
+  },
+  "923196146": {
+    "name": "NeatRL",
+    "full_name": "YuvrajSingh-mist/NeatRL",
+    "sent_date": "2025-12-13T23:20:46.332054",
+    "stars": 214,
+    "url": "https://github.com/YuvrajSingh-mist/NeatRL"
+  },
+  "1103397945": {
+    "name": "fasterrcnn-pytorch-training-pipeline",
+    "full_name": "ADG-max/fasterrcnn-pytorch-training-pipeline",
+    "sent_date": "2025-12-13T23:21:30.436832",
+    "stars": 3,
+    "url": "https://github.com/ADG-max/fasterrcnn-pytorch-training-pipeline"
+  },
+  "573415529": {
+    "name": "diy-llm-bot",
+    "full_name": "noway/diy-llm-bot",
+    "sent_date": "2025-12-13T23:21:30.442399",
+    "stars": 15,
+    "url": "https://github.com/noway/diy-llm-bot"
+  },
+  "541831874": {
+    "name": "onnx2tf",
+    "full_name": "PINTO0309/onnx2tf",
+    "sent_date": "2025-12-13T23:22:14.528398",
+    "stars": 893,
+    "url": "https://github.com/PINTO0309/onnx2tf"
+  },
+  "604105885": {
+    "name": "DataPredict",
+    "full_name": "AqwamCreates/DataPredict",
+    "sent_date": "2025-12-13T23:22:14.531905",
+    "stars": 11,
+    "url": "https://github.com/AqwamCreates/DataPredict"
+  },
+  "948124514": {
+    "name": "HackingGPT",
+    "full_name": "Dudewowbruh/HackingGPT",
+    "sent_date": "2025-12-13T23:22:58.819707",
+    "stars": 8,
+    "url": "https://github.com/Dudewowbruh/HackingGPT"
+  },
+  "922090785": {
+    "name": "DocGPT",
+    "full_name": "Doanquangthe/DocGPT",
+    "sent_date": "2025-12-13T23:22:58.823248",
+    "stars": 8,
+    "url": "https://github.com/Doanquangthe/DocGPT"
+  },
+  "946489772": {
+    "name": "J.A.R.V.I.S.2.0",
+    "full_name": "adam104504/J.A.R.V.I.S.2.0",
+    "sent_date": "2025-12-13T23:23:43.284239",
+    "stars": 4,
+    "url": "https://github.com/adam104504/J.A.R.V.I.S.2.0"
+  },
+  "952765780": {
+    "name": "Murre",
+    "full_name": "Cfjhjfddfrf/Murre",
+    "sent_date": "2025-12-13T23:23:43.287568",
+    "stars": 5,
+    "url": "https://github.com/Cfjhjfddfrf/Murre"
+  },
+  "958381815": {
+    "name": "TFX-Pipeline-Automation",
+    "full_name": "Ajax20230/TFX-Pipeline-Automation",
+    "sent_date": "2025-12-13T23:24:27.388251",
+    "stars": 0,
+    "url": "https://github.com/Ajax20230/TFX-Pipeline-Automation"
+  },
+  "957088008": {
+    "name": "CancerGuardian",
+    "full_name": "rdjverse/CancerGuardian",
+    "sent_date": "2025-12-13T23:24:27.391800",
+    "stars": 1,
+    "url": "https://github.com/rdjverse/CancerGuardian"
   }
 }
