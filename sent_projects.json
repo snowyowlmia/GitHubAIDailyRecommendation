@@ -1,88 +1,4 @@
 {
-  "498011141": {
-    "name": "diffusers",
-    "full_name": "huggingface/diffusers",
-    "sent_date": "2025-11-14T23:19:52.426502",
-    "stars": 31604,
-    "url": "https://github.com/huggingface/diffusers"
-  },
-  "714073518": {
-    "name": "ao",
-    "full_name": "pytorch/ao",
-    "sent_date": "2025-11-14T23:19:52.429609",
-    "stars": 2504,
-    "url": "https://github.com/pytorch/ao"
-  },
-  "211001860": {
-    "name": "fairchem",
-    "full_name": "facebookresearch/fairchem",
-    "sent_date": "2025-11-14T23:20:37.673509",
-    "stars": 1824,
-    "url": "https://github.com/facebookresearch/fairchem"
-  },
-  "1096648337": {
-    "name": "NLPDumbathon-2025",
-    "full_name": "devinshende/NLPDumbathon-2025",
-    "sent_date": "2025-11-14T23:20:37.676713",
-    "stars": 1,
-    "url": "https://github.com/devinshende/NLPDumbathon-2025"
-  },
-  "1096749738": {
-    "name": "Decovision",
-    "full_name": "yo-githa/Decovision",
-    "sent_date": "2025-11-14T23:21:22.863130",
-    "stars": 1,
-    "url": "https://github.com/yo-githa/Decovision"
-  },
-  "1093155349": {
-    "name": "kttc",
-    "full_name": "kttc-ai/kttc",
-    "sent_date": "2025-11-14T23:21:22.866210",
-    "stars": 3,
-    "url": "https://github.com/kttc-ai/kttc"
-  },
-  "892077490": {
-    "name": "Phung-portfolio",
-    "full_name": "sophieanalytics/Phung-portfolio",
-    "sent_date": "2025-11-14T23:22:07.696971",
-    "stars": 0,
-    "url": "https://github.com/sophieanalytics/Phung-portfolio"
-  },
-  "1096764492": {
-    "name": "ml-mentor-athena",
-    "full_name": "cognitae-ai/ml-mentor-athena",
-    "sent_date": "2025-11-14T23:22:07.700077",
-    "stars": 0,
-    "url": "https://github.com/cognitae-ai/ml-mentor-athena"
-  },
-  "1095970808": {
-    "name": "LFM-HF-Reticulum",
-    "full_name": "unremarkable-namoiriver800/LFM-HF-Reticulum",
-    "sent_date": "2025-11-14T23:22:54.605200",
-    "stars": 0,
-    "url": "https://github.com/unremarkable-namoiriver800/LFM-HF-Reticulum"
-  },
-  "1095276648": {
-    "name": "rushirb2001",
-    "full_name": "Ngoma1713/rushirb2001",
-    "sent_date": "2025-11-14T23:22:54.608269",
-    "stars": 0,
-    "url": "https://github.com/Ngoma1713/rushirb2001"
-  },
-  "1095324935": {
-    "name": "player-asset-market",
-    "full_name": "dhanush-mahesh/player-asset-market",
-    "sent_date": "2025-11-14T23:23:41.207102",
-    "stars": 0,
-    "url": "https://github.com/dhanush-mahesh/player-asset-market"
-  },
-  "1096258142": {
-    "name": "ai-chatbot",
-    "full_name": "nooksandcrannieslgb937/ai-chatbot",
-    "sent_date": "2025-11-14T23:23:41.210249",
-    "stars": 0,
-    "url": "https://github.com/nooksandcrannieslgb937/ai-chatbot"
-  },
   "95700338": {
     "name": "trainer",
     "full_name": "kubeflow/trainer",
@@ -3099,5 +3015,89 @@
     "sent_date": "2025-12-13T23:24:27.391800",
     "stars": 1,
     "url": "https://github.com/rdjverse/CancerGuardian"
+  },
+  "1112986147": {
+    "name": "oss",
+    "full_name": "0penAGI/oss",
+    "sent_date": "2025-12-14T23:20:25.156610",
+    "stars": 2,
+    "url": "https://github.com/0penAGI/oss"
+  },
+  "1112550281": {
+    "name": "TNA-RAXO",
+    "full_name": "ranzhh/TNA-RAXO",
+    "sent_date": "2025-12-14T23:20:25.159919",
+    "stars": 1,
+    "url": "https://github.com/ranzhh/TNA-RAXO"
+  },
+  "153097643": {
+    "name": "openvino",
+    "full_name": "openvinotoolkit/openvino",
+    "sent_date": "2025-12-14T23:21:09.885654",
+    "stars": 9341,
+    "url": "https://github.com/openvinotoolkit/openvino"
+  },
+  "627510037": {
+    "name": "AgentGPT-zh",
+    "full_name": "RiseInRose/AgentGPT-zh",
+    "sent_date": "2025-12-14T23:21:09.888962",
+    "stars": 134,
+    "url": "https://github.com/RiseInRose/AgentGPT-zh"
+  },
+  "629956391": {
+    "name": "MiniGPT-4-ZH",
+    "full_name": "RiseInRose/MiniGPT-4-ZH",
+    "sent_date": "2025-12-14T23:21:54.959149",
+    "stars": 858,
+    "url": "https://github.com/RiseInRose/MiniGPT-4-ZH"
+  },
+  "627225602": {
+    "name": "Auto-GPT-zh",
+    "full_name": "RiseInRose/Auto-GPT-zh",
+    "sent_date": "2025-12-14T23:21:54.962490",
+    "stars": 44,
+    "url": "https://github.com/RiseInRose/Auto-GPT-zh"
+  },
+  "1054833136": {
+    "name": "exam-cheating-detection",
+    "full_name": "devil2554/exam-cheating-detection",
+    "sent_date": "2025-12-14T23:22:40.127891",
+    "stars": 1,
+    "url": "https://github.com/devil2554/exam-cheating-detection"
+  },
+  "840756499": {
+    "name": "Advanced-Human-Life-Detection",
+    "full_name": "Raushan11r11/Advanced-Human-Life-Detection",
+    "sent_date": "2025-12-14T23:22:40.131209",
+    "stars": 1,
+    "url": "https://github.com/Raushan11r11/Advanced-Human-Life-Detection"
+  },
+  "1116475015": {
+    "name": "mlops-cicd-platform",
+    "full_name": "iamrishabhverma/mlops-cicd-platform",
+    "sent_date": "2025-12-14T23:23:25.300861",
+    "stars": 0,
+    "url": "https://github.com/iamrishabhverma/mlops-cicd-platform"
+  },
+  "1083025050": {
+    "name": "Machine_Learning",
+    "full_name": "tvarichak/Machine_Learning",
+    "sent_date": "2025-12-14T23:23:25.304323",
+    "stars": 0,
+    "url": "https://github.com/tvarichak/Machine_Learning"
+  },
+  "1084248859": {
+    "name": "chatbot",
+    "full_name": "Eaguilarc/chatbot",
+    "sent_date": "2025-12-14T23:24:10.058934",
+    "stars": 0,
+    "url": "https://github.com/Eaguilarc/chatbot"
+  },
+  "1083914446": {
+    "name": "lstm-sentiment-analysis",
+    "full_name": "karthik77752/lstm-sentiment-analysis",
+    "sent_date": "2025-12-14T23:24:10.062161",
+    "stars": 0,
+    "url": "https://github.com/karthik77752/lstm-sentiment-analysis"
   }
 }
