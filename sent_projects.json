@@ -1,88 +1,4 @@
 {
-  "95700338": {
-    "name": "trainer",
-    "full_name": "kubeflow/trainer",
-    "sent_date": "2025-11-15T23:19:37.784434",
-    "stars": 1960,
-    "url": "https://github.com/kubeflow/trainer"
-  },
-  "1083351785": {
-    "name": "Machine-Learning---Regression-Models",
-    "full_name": "tutkufurkan/Machine-Learning---Regression-Models",
-    "sent_date": "2025-11-15T23:19:37.787393",
-    "stars": 2,
-    "url": "https://github.com/tutkufurkan/Machine-Learning---Regression-Models"
-  },
-  "1001353773": {
-    "name": "R-Machine-Learning-TCR",
-    "full_name": "arcena9/R-Machine-Learning-TCR",
-    "sent_date": "2025-11-15T23:20:22.384010",
-    "stars": 0,
-    "url": "https://github.com/arcena9/R-Machine-Learning-TCR"
-  },
-  "1091434435": {
-    "name": "final-girl",
-    "full_name": "scarlettverse/final-girl",
-    "sent_date": "2025-11-15T23:20:22.386917",
-    "stars": 0,
-    "url": "https://github.com/scarlettverse/final-girl"
-  },
-  "662010253": {
-    "name": "kind_robots",
-    "full_name": "silasfelinus/kind_robots",
-    "sent_date": "2025-11-15T23:21:06.482508",
-    "stars": 9,
-    "url": "https://github.com/silasfelinus/kind_robots"
-  },
-  "1001062629": {
-    "name": "Project_4-Multiple-Disease-Prediction",
-    "full_name": "Zyzzwlh/Project_4-Multiple-Disease-Prediction",
-    "sent_date": "2025-11-15T23:21:06.485496",
-    "stars": 1,
-    "url": "https://github.com/Zyzzwlh/Project_4-Multiple-Disease-Prediction"
-  },
-  "1073762176": {
-    "name": "OllamaRAG",
-    "full_name": "roberto729a/OllamaRAG",
-    "sent_date": "2025-11-15T23:21:51.289571",
-    "stars": 2,
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  "1001937222": {
-    "name": "Stock-LSTM-Forecasting",
-    "full_name": "Zaidzr/Stock-LSTM-Forecasting",
-    "sent_date": "2025-11-15T23:21:51.292575",
-    "stars": 2,
-    "url": "https://github.com/Zaidzr/Stock-LSTM-Forecasting"
-  },
-  "1097275486": {
-    "name": "financial-forecasting-ai",
-    "full_name": "souzaeliasrafael/financial-forecasting-ai",
-    "sent_date": "2025-11-15T23:22:36.024345",
-    "stars": 0,
-    "url": "https://github.com/souzaeliasrafael/financial-forecasting-ai"
-  },
-  "1071825280": {
-    "name": "forex-pattern-mining-dashboard",
-    "full_name": "Omar7amid/forex-pattern-mining-dashboard",
-    "sent_date": "2025-11-15T23:22:36.027475",
-    "stars": 0,
-    "url": "https://github.com/Omar7amid/forex-pattern-mining-dashboard"
-  },
-  "1000501005": {
-    "name": "fraud-detection-system",
-    "full_name": "luisgamer05/fraud-detection-system",
-    "sent_date": "2025-11-15T23:23:20.004908",
-    "stars": 0,
-    "url": "https://github.com/luisgamer05/fraud-detection-system"
-  },
-  "1083856910": {
-    "name": "building-permits-classifier",
-    "full_name": "kicaha/building-permits-classifier",
-    "sent_date": "2025-11-15T23:23:20.007916",
-    "stars": 0,
-    "url": "https://github.com/kicaha/building-permits-classifier"
-  },
   "607845880": {
     "name": "maxtext",
     "full_name": "AI-Hypercomputer/maxtext",
@@ -3099,5 +3015,89 @@
     "sent_date": "2025-12-14T23:24:10.062161",
     "stars": 0,
     "url": "https://github.com/karthik77752/lstm-sentiment-analysis"
+  },
+  "1073762176": {
+    "name": "OllamaRAG",
+    "full_name": "roberto729a/OllamaRAG",
+    "sent_date": "2025-12-15T23:22:59.066453",
+    "stars": 3,
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  "962292811": {
+    "name": "quick_ssm",
+    "full_name": "samblouir/quick_ssm",
+    "sent_date": "2025-12-15T23:22:59.069772",
+    "stars": 8,
+    "url": "https://github.com/samblouir/quick_ssm"
+  },
+  "461847759": {
+    "name": "transformers_dart",
+    "full_name": "KOLE87/transformers_dart",
+    "sent_date": "2025-12-15T23:23:43.891509",
+    "stars": 0,
+    "url": "https://github.com/KOLE87/transformers_dart"
+  },
+  "1074449011": {
+    "name": "Qwen3Guard",
+    "full_name": "Kigepuk/Qwen3Guard",
+    "sent_date": "2025-12-15T23:23:43.894706",
+    "stars": 0,
+    "url": "https://github.com/Kigepuk/Qwen3Guard"
+  },
+  "1114958264": {
+    "name": "multiscale-vision-transformers",
+    "full_name": "pablo-reyes8/multiscale-vision-transformers",
+    "sent_date": "2025-12-15T23:24:28.853262",
+    "stars": 1,
+    "url": "https://github.com/pablo-reyes8/multiscale-vision-transformers"
+  },
+  "917349624": {
+    "name": "dl_techniques",
+    "full_name": "NikolasMarkou/dl_techniques",
+    "sent_date": "2025-12-15T23:24:28.856531",
+    "stars": 14,
+    "url": "https://github.com/NikolasMarkou/dl_techniques"
+  },
+  "1068778883": {
+    "name": "coralnpu",
+    "full_name": "google-coral/coralnpu",
+    "sent_date": "2025-12-15T23:25:13.828842",
+    "stars": 1939,
+    "url": "https://github.com/google-coral/coralnpu"
+  },
+  "940950102": {
+    "name": "AI-Agent-Guide",
+    "full_name": "FarmasiUSTB/AI-Agent-Guide",
+    "sent_date": "2025-12-15T23:25:13.832159",
+    "stars": 1,
+    "url": "https://github.com/FarmasiUSTB/AI-Agent-Guide"
+  },
+  "1075499226": {
+    "name": "AI-Photo-Editor",
+    "full_name": "BILLISSSS/AI-Photo-Editor",
+    "sent_date": "2025-12-15T23:25:58.953539",
+    "stars": 0,
+    "url": "https://github.com/BILLISSSS/AI-Photo-Editor"
+  },
+  "676140156": {
+    "name": "barra",
+    "full_name": "dineshloki2612/barra",
+    "sent_date": "2025-12-15T23:25:58.957097",
+    "stars": 0,
+    "url": "https://github.com/dineshloki2612/barra"
+  },
+  "1077285911": {
+    "name": "House-Price-Model",
+    "full_name": "Dayan8554/House-Price-Model",
+    "sent_date": "2025-12-15T23:26:45.694263",
+    "stars": 0,
+    "url": "https://github.com/Dayan8554/House-Price-Model"
+  },
+  "1077156220": {
+    "name": "cake",
+    "full_name": "Hatibumwanga/cake",
+    "sent_date": "2025-12-15T23:26:45.697704",
+    "stars": 0,
+    "url": "https://github.com/Hatibumwanga/cake"
   }
 }
