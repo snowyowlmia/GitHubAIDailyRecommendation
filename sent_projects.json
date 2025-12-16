@@ -1,88 +1,4 @@
 {
-  "607845880": {
-    "name": "maxtext",
-    "full_name": "AI-Hypercomputer/maxtext",
-    "sent_date": "2025-11-16T23:19:32.584502",
-    "stars": 1990,
-    "url": "https://github.com/AI-Hypercomputer/maxtext"
-  },
-  "1097817838": {
-    "name": "SafeRoad-App",
-    "full_name": "bachar88/SafeRoad-App",
-    "sent_date": "2025-11-16T23:19:32.587339",
-    "stars": 0,
-    "url": "https://github.com/bachar88/SafeRoad-App"
-  },
-  "880627377": {
-    "name": "spio",
-    "full_name": "andravin/spio",
-    "sent_date": "2025-11-16T23:20:17.683161",
-    "stars": 43,
-    "url": "https://github.com/andravin/spio"
-  },
-  "1087422456": {
-    "name": "math-olympiad-ml",
-    "full_name": "vuhung16au/math-olympiad-ml",
-    "sent_date": "2025-11-16T23:20:17.686163",
-    "stars": 2,
-    "url": "https://github.com/vuhung16au/math-olympiad-ml"
-  },
-  "1066919513": {
-    "name": "CMPT310-Resume-Parser",
-    "full_name": "reh13597/CMPT310-Resume-Parser",
-    "sent_date": "2025-11-16T23:21:02.104253",
-    "stars": 0,
-    "url": "https://github.com/reh13597/CMPT310-Resume-Parser"
-  },
-  "1097775432": {
-    "name": "Cybersecurity-and-Data-Analytics-Portfolio",
-    "full_name": "cjaguirre/Cybersecurity-and-Data-Analytics-Portfolio",
-    "sent_date": "2025-11-16T23:21:02.107211",
-    "stars": 0,
-    "url": "https://github.com/cjaguirre/Cybersecurity-and-Data-Analytics-Portfolio"
-  },
-  "827662006": {
-    "name": "growin",
-    "full_name": "Patelpratham585/growin",
-    "sent_date": "2025-11-16T23:21:46.023224",
-    "stars": 1,
-    "url": "https://github.com/Patelpratham585/growin"
-  },
-  "790021488": {
-    "name": "growin",
-    "full_name": "kuldeep61343/growin",
-    "sent_date": "2025-11-16T23:21:46.026128",
-    "stars": 1,
-    "url": "https://github.com/kuldeep61343/growin"
-  },
-  "1056477439": {
-    "name": "LisaHansen-Portfolio",
-    "full_name": "lhansen77/LisaHansen-Portfolio",
-    "sent_date": "2025-11-16T23:22:30.312116",
-    "stars": 0,
-    "url": "https://github.com/lhansen77/LisaHansen-Portfolio"
-  },
-  "1078004108": {
-    "name": "Twitter-Sentiment-Analysis",
-    "full_name": "supcode1234/Twitter-Sentiment-Analysis",
-    "sent_date": "2025-11-16T23:22:30.315134",
-    "stars": 0,
-    "url": "https://github.com/supcode1234/Twitter-Sentiment-Analysis"
-  },
-  "677083126": {
-    "name": "infra",
-    "full_name": "e2b-dev/infra",
-    "sent_date": "2025-11-16T23:23:14.933726",
-    "stars": 716,
-    "url": "https://github.com/e2b-dev/infra"
-  },
-  "1078855715": {
-    "name": "Ruaroa-AI",
-    "full_name": "Emperor-khay/Ruaroa-AI",
-    "sent_date": "2025-11-16T23:23:14.936867",
-    "stars": 0,
-    "url": "https://github.com/Emperor-khay/Ruaroa-AI"
-  },
   "1098534902": {
     "name": "Detecting-Insider-Threats-through-Behavioral-AI_Dissertation",
     "full_name": "egyinmoe/Detecting-Insider-Threats-through-Behavioral-AI_Dissertation",
@@ -3099,5 +3015,89 @@
     "sent_date": "2025-12-15T23:26:45.697704",
     "stars": 0,
     "url": "https://github.com/Hatibumwanga/cake"
+  },
+  "1107865479": {
+    "name": "Board-Game-AI-Project",
+    "full_name": "CelestialSide/Board-Game-AI-Project",
+    "sent_date": "2025-12-16T23:22:11.042105",
+    "stars": 2,
+    "url": "https://github.com/CelestialSide/Board-Game-AI-Project"
+  },
+  "1072537433": {
+    "name": "contextforge",
+    "full_name": "vishu570/contextforge",
+    "sent_date": "2025-12-16T23:22:11.045372",
+    "stars": 2,
+    "url": "https://github.com/vishu570/contextforge"
+  },
+  "1117855954": {
+    "name": "california-house-price-prediction",
+    "full_name": "my-M2mouse/california-house-price-prediction",
+    "sent_date": "2025-12-16T23:22:54.953383",
+    "stars": 0,
+    "url": "https://github.com/my-M2mouse/california-house-price-prediction"
+  },
+  "1115405970": {
+    "name": "handloading-velocity-predictor",
+    "full_name": "bluewater82/handloading-velocity-predictor",
+    "sent_date": "2025-12-16T23:22:54.956614",
+    "stars": 0,
+    "url": "https://github.com/bluewater82/handloading-velocity-predictor"
+  },
+  "1117859938": {
+    "name": "melanoma-project.github.io",
+    "full_name": "SankhaS/melanoma-project.github.io",
+    "sent_date": "2025-12-16T23:23:39.292649",
+    "stars": 0,
+    "url": "https://github.com/SankhaS/melanoma-project.github.io"
+  },
+  "102158591": {
+    "name": "adams-spectral-base",
+    "full_name": "waikato-datamining/adams-spectral-base",
+    "sent_date": "2025-12-16T23:23:39.296008",
+    "stars": 3,
+    "url": "https://github.com/waikato-datamining/adams-spectral-base"
+  },
+  "1075314811": {
+    "name": "AI-Agent-Guide",
+    "full_name": "lnwmasters/AI-Agent-Guide",
+    "sent_date": "2025-12-16T23:24:23.415120",
+    "stars": 2,
+    "url": "https://github.com/lnwmasters/AI-Agent-Guide"
+  },
+  "102158621": {
+    "name": "adams-base",
+    "full_name": "waikato-datamining/adams-base",
+    "sent_date": "2025-12-16T23:24:23.418388",
+    "stars": 22,
+    "url": "https://github.com/waikato-datamining/adams-base"
+  },
+  "1074503223": {
+    "name": "foundry",
+    "full_name": "ZonTye/foundry",
+    "sent_date": "2025-12-16T23:25:07.878218",
+    "stars": 0,
+    "url": "https://github.com/ZonTye/foundry"
+  },
+  "847183139": {
+    "name": "DL-Course",
+    "full_name": "reply2sunitajain/DL-Course",
+    "sent_date": "2025-12-16T23:25:07.881601",
+    "stars": 0,
+    "url": "https://github.com/reply2sunitajain/DL-Course"
+  },
+  "1076016914": {
+    "name": "AI-Video-Transcriber",
+    "full_name": "juliesetrum/AI-Video-Transcriber",
+    "sent_date": "2025-12-16T23:25:52.431507",
+    "stars": 0,
+    "url": "https://github.com/juliesetrum/AI-Video-Transcriber"
+  },
+  "1075422990": {
+    "name": "ai-development-partner",
+    "full_name": "darck0071/ai-development-partner",
+    "sent_date": "2025-12-16T23:25:52.434900",
+    "stars": 0,
+    "url": "https://github.com/darck0071/ai-development-partner"
   }
 }
