@@ -1,172 +1,4 @@
 {
-  "396569538": {
-    "name": "khoj",
-    "full_name": "khoj-ai/khoj",
-    "sent_date": "2025-11-18T23:20:07.387521",
-    "stars": 31602,
-    "url": "https://github.com/khoj-ai/khoj"
-  },
-  "797371964": {
-    "name": "oumi",
-    "full_name": "oumi-ai/oumi",
-    "sent_date": "2025-11-18T23:20:07.390544",
-    "stars": 8618,
-    "url": "https://github.com/oumi-ai/oumi"
-  },
-  "511691380": {
-    "name": "lance",
-    "full_name": "lance-format/lance",
-    "sent_date": "2025-11-18T23:20:52.719862",
-    "stars": 5712,
-    "url": "https://github.com/lance-format/lance"
-  },
-  "385408663": {
-    "name": "torchrec",
-    "full_name": "meta-pytorch/torchrec",
-    "sent_date": "2025-11-18T23:20:52.722752",
-    "stars": 2396,
-    "url": "https://github.com/meta-pytorch/torchrec"
-  },
-  "224148738": {
-    "name": "torchio",
-    "full_name": "TorchIO-project/torchio",
-    "sent_date": "2025-11-18T23:21:38.702948",
-    "stars": 2316,
-    "url": "https://github.com/TorchIO-project/torchio"
-  },
-  "1007924995": {
-    "name": "torchforge",
-    "full_name": "meta-pytorch/torchforge",
-    "sent_date": "2025-11-18T23:21:38.705825",
-    "stars": 537,
-    "url": "https://github.com/meta-pytorch/torchforge"
-  },
-  "1082518430": {
-    "name": "cascadeflow",
-    "full_name": "lemony-ai/cascadeflow",
-    "sent_date": "2025-11-18T23:22:26.719200",
-    "stars": 186,
-    "url": "https://github.com/lemony-ai/cascadeflow"
-  },
-  "894236639": {
-    "name": "sherlock",
-    "full_name": "shoaib-fixes/sherlock",
-    "sent_date": "2025-11-18T23:22:26.722082",
-    "stars": 41,
-    "url": "https://github.com/shoaib-fixes/sherlock"
-  },
-  "727417903": {
-    "name": "nrtk",
-    "full_name": "Kitware/nrtk",
-    "sent_date": "2025-11-18T23:23:12.460155",
-    "stars": 11,
-    "url": "https://github.com/Kitware/nrtk"
-  },
-  "1090594739": {
-    "name": "GauchoGPT",
-    "full_name": "josh11100/GauchoGPT",
-    "sent_date": "2025-11-18T23:23:12.463284",
-    "stars": 1,
-    "url": "https://github.com/josh11100/GauchoGPT"
-  },
-  "1085078270": {
-    "name": "AutoPrice-IQ",
-    "full_name": "Userphenixe/AutoPrice-IQ",
-    "sent_date": "2025-11-18T23:23:57.998661",
-    "stars": 0,
-    "url": "https://github.com/Userphenixe/AutoPrice-IQ"
-  },
-  "1099222623": {
-    "name": "SpamEmailDetector",
-    "full_name": "landenramsey/SpamEmailDetector",
-    "sent_date": "2025-11-18T23:23:58.001658",
-    "stars": 0,
-    "url": "https://github.com/landenramsey/SpamEmailDetector"
-  },
-  "1096216061": {
-    "name": "llm-client",
-    "full_name": "skylarryan212-maker/llm-client",
-    "sent_date": "2025-11-19T23:20:43.843729",
-    "stars": 2,
-    "url": "https://github.com/skylarryan212-maker/llm-client"
-  },
-  "1089857616": {
-    "name": "DJL-Learning",
-    "full_name": "ZanePeck01/DJL-Learning",
-    "sent_date": "2025-11-19T23:20:43.846874",
-    "stars": 1,
-    "url": "https://github.com/ZanePeck01/DJL-Learning"
-  },
-  "756285102": {
-    "name": "Hopfield-Network-PyTorch",
-    "full_name": "hmcalister/Hopfield-Network-PyTorch",
-    "sent_date": "2025-11-19T23:21:30.328664",
-    "stars": 12,
-    "url": "https://github.com/hmcalister/Hopfield-Network-PyTorch"
-  },
-  "973628589": {
-    "name": "Open-Source-Prompt-Library",
-    "full_name": "swaymm7/Open-Source-Prompt-Library",
-    "sent_date": "2025-11-19T23:21:30.331727",
-    "stars": 11,
-    "url": "https://github.com/swaymm7/Open-Source-Prompt-Library"
-  },
-  "973895585": {
-    "name": "Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
-    "full_name": "thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning",
-    "sent_date": "2025-11-19T23:22:15.674181",
-    "stars": 8,
-    "url": "https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning"
-  },
-  "1094507216": {
-    "name": "bball-prediction",
-    "full_name": "missionfromdog/bball-prediction",
-    "sent_date": "2025-11-19T23:22:15.677251",
-    "stars": 0,
-    "url": "https://github.com/missionfromdog/bball-prediction"
-  },
-  "980238476": {
-    "name": "AI-Chatbot",
-    "full_name": "irfanbob26/AI-Chatbot",
-    "sent_date": "2025-11-19T23:23:00.827312",
-    "stars": 5,
-    "url": "https://github.com/irfanbob26/AI-Chatbot"
-  },
-  "972961572": {
-    "name": "Neura-AI",
-    "full_name": "joshivanhilario/Neura-AI",
-    "sent_date": "2025-11-19T23:23:00.830282",
-    "stars": 4,
-    "url": "https://github.com/joshivanhilario/Neura-AI"
-  },
-  "980292015": {
-    "name": "AWS--MLS-C01--studypack",
-    "full_name": "kiran-saikia/AWS--MLS-C01--studypack",
-    "sent_date": "2025-11-19T23:23:45.665171",
-    "stars": 2,
-    "url": "https://github.com/kiran-saikia/AWS--MLS-C01--studypack"
-  },
-  "974771323": {
-    "name": "-AI-Powered-E-commerce-Review-Sentiment-Analyzer",
-    "full_name": "crowthewicked/-AI-Powered-E-commerce-Review-Sentiment-Analyzer",
-    "sent_date": "2025-11-19T23:23:45.668571",
-    "stars": 1,
-    "url": "https://github.com/crowthewicked/-AI-Powered-E-commerce-Review-Sentiment-Analyzer"
-  },
-  "977081886": {
-    "name": "agents",
-    "full_name": "Kenenshinasu143/agents",
-    "sent_date": "2025-11-19T23:24:32.096268",
-    "stars": 2,
-    "url": "https://github.com/Kenenshinasu143/agents"
-  },
-  "973375978": {
-    "name": "MediSight.AI",
-    "full_name": "natharmatron/MediSight.AI",
-    "sent_date": "2025-11-19T23:24:32.099542",
-    "stars": 1,
-    "url": "https://github.com/natharmatron/MediSight.AI"
-  },
   "1096608396": {
     "name": "oracle",
     "full_name": "steipete/oracle",
@@ -3106,5 +2938,89 @@
     "sent_date": "2025-12-17T23:26:23.325837",
     "stars": 0,
     "url": "https://github.com/iadnan21/yuv-ai-trends"
+  },
+  "665604832": {
+    "name": "ai-ml-security",
+    "full_name": "ossf/ai-ml-security",
+    "sent_date": "2025-12-19T23:22:08.775381",
+    "stars": 127,
+    "url": "https://github.com/ossf/ai-ml-security"
+  },
+  "1037761458": {
+    "name": "KittenTTS",
+    "full_name": "soldier444xd/KittenTTS",
+    "sent_date": "2025-12-19T23:22:08.778543",
+    "stars": 17,
+    "url": "https://github.com/soldier444xd/KittenTTS"
+  },
+  "952994804": {
+    "name": "notes-aws-machine-learning",
+    "full_name": "artreimus/notes-aws-machine-learning",
+    "sent_date": "2025-12-19T23:22:53.301368",
+    "stars": 13,
+    "url": "https://github.com/artreimus/notes-aws-machine-learning"
+  },
+  "1109651417": {
+    "name": "traffic-torch",
+    "full_name": "traffictorch/traffic-torch",
+    "sent_date": "2025-12-19T23:22:53.304575",
+    "stars": 1,
+    "url": "https://github.com/traffictorch/traffic-torch"
+  },
+  "1059897607": {
+    "name": "sekai-codebase",
+    "full_name": "bleh456/sekai-codebase",
+    "sent_date": "2025-12-19T23:23:39.372645",
+    "stars": 0,
+    "url": "https://github.com/bleh456/sekai-codebase"
+  },
+  "500990939": {
+    "name": "ai-smart-tire-intelligence",
+    "full_name": "Adoni-123/ai-smart-tire-intelligence",
+    "sent_date": "2025-12-19T23:23:39.375947",
+    "stars": 1,
+    "url": "https://github.com/Adoni-123/ai-smart-tire-intelligence"
+  },
+  "1052767749": {
+    "name": "Deep-Research-AI-Agent",
+    "full_name": "Adam10-b/Deep-Research-AI-Agent",
+    "sent_date": "2025-12-19T23:24:22.961974",
+    "stars": 2,
+    "url": "https://github.com/Adam10-b/Deep-Research-AI-Agent"
+  },
+  "644136692": {
+    "name": "slamAI-istanbulCanyon",
+    "full_name": "kurajulii/slamAI-istanbulCanyon",
+    "sent_date": "2025-12-19T23:24:22.965123",
+    "stars": 1,
+    "url": "https://github.com/kurajulii/slamAI-istanbulCanyon"
+  },
+  "1065051153": {
+    "name": "Youtube-Sentiment-Analysis",
+    "full_name": "KieSama/Youtube-Sentiment-Analysis",
+    "sent_date": "2025-12-19T23:25:06.817579",
+    "stars": 0,
+    "url": "https://github.com/KieSama/Youtube-Sentiment-Analysis"
+  },
+  "373576897": {
+    "name": "DiffuKnee",
+    "full_name": "nextgencodersxyz/DiffuKnee",
+    "sent_date": "2025-12-19T23:25:06.820944",
+    "stars": 0,
+    "url": "https://github.com/nextgencodersxyz/DiffuKnee"
+  },
+  "1065486153": {
+    "name": "data-portfolio",
+    "full_name": "Arbuz13/data-portfolio",
+    "sent_date": "2025-12-19T23:25:50.779495",
+    "stars": 0,
+    "url": "https://github.com/Arbuz13/data-portfolio"
+  },
+  "1002561899": {
+    "name": "ai-recruitment-assistant",
+    "full_name": "ValentinOliveira/ai-recruitment-assistant",
+    "sent_date": "2025-12-19T23:25:50.782677",
+    "stars": 0,
+    "url": "https://github.com/ValentinOliveira/ai-recruitment-assistant"
   }
 }
