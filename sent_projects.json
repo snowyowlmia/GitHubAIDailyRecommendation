@@ -1,74 +1,4 @@
 {
-  "1096608396": {
-    "name": "oracle",
-    "full_name": "steipete/oracle",
-    "sent_date": "2025-11-20T23:20:33.229366",
-    "stars": 295,
-    "url": "https://github.com/steipete/oracle"
-  },
-  "1080065885": {
-    "name": "torchcomms",
-    "full_name": "meta-pytorch/torchcomms",
-    "sent_date": "2025-11-20T23:20:33.232695",
-    "stars": 291,
-    "url": "https://github.com/meta-pytorch/torchcomms"
-  },
-  "567848636": {
-    "name": "notebooks",
-    "full_name": "roboflow/notebooks",
-    "sent_date": "2025-11-20T23:21:18.361898",
-    "stars": 8871,
-    "url": "https://github.com/roboflow/notebooks"
-  },
-  "987976055": {
-    "name": "Automodel",
-    "full_name": "NVIDIA-NeMo/Automodel",
-    "sent_date": "2025-11-20T23:21:18.365116",
-    "stars": 181,
-    "url": "https://github.com/NVIDIA-NeMo/Automodel"
-  },
-  "422324608": {
-    "name": "sup3r",
-    "full_name": "NREL/sup3r",
-    "sent_date": "2025-11-20T23:22:03.519272",
-    "stars": 117,
-    "url": "https://github.com/NREL/sup3r"
-  },
-  "1100896701": {
-    "name": "zeta-universe",
-    "full_name": "LH-ai7/zeta-universe",
-    "sent_date": "2025-11-20T23:22:03.522354",
-    "stars": 1,
-    "url": "https://github.com/LH-ai7/zeta-universe"
-  },
-  "1048683574": {
-    "name": "PavementEye",
-    "full_name": "yahia997/PavementEye",
-    "sent_date": "2025-11-20T23:22:47.963272",
-    "stars": 3,
-    "url": "https://github.com/yahia997/PavementEye"
-  },
-  "1074532763": {
-    "name": "data-science-portfolio",
-    "full_name": "meneda11/data-science-portfolio",
-    "sent_date": "2025-11-20T23:22:47.966370",
-    "stars": 1,
-    "url": "https://github.com/meneda11/data-science-portfolio"
-  },
-  "618514446": {
-    "name": "gptme",
-    "full_name": "gptme/gptme",
-    "sent_date": "2025-11-20T23:23:34.144569",
-    "stars": 4068,
-    "url": "https://github.com/gptme/gptme"
-  },
-  "1100769920": {
-    "name": "Project-3-Machine-Learning-for-Predicting-Trading-Signals",
-    "full_name": "Raissa-hue310/Project-3-Machine-Learning-for-Predicting-Trading-Signals",
-    "sent_date": "2025-11-20T23:23:34.147739",
-    "stars": 0,
-    "url": "https://github.com/Raissa-hue310/Project-3-Machine-Learning-for-Predicting-Trading-Signals"
-  },
   "1092400683": {
     "name": "Distributed-ML-framework",
     "full_name": "isteres/Distributed-ML-framework",
@@ -3022,5 +2952,89 @@
     "sent_date": "2025-12-19T23:25:50.782677",
     "stars": 0,
     "url": "https://github.com/ValentinOliveira/ai-recruitment-assistant"
+  },
+  "2810292": {
+    "name": "rufus",
+    "full_name": "pbatard/rufus",
+    "sent_date": "2025-12-20T23:20:46.802334",
+    "stars": 34050,
+    "url": "https://github.com/pbatard/rufus"
+  },
+  "197437798": {
+    "name": "embeddedml",
+    "full_name": "jonnor/embeddedml",
+    "sent_date": "2025-12-20T23:20:46.805590",
+    "stars": 298,
+    "url": "https://github.com/jonnor/embeddedml"
+  },
+  "1116963939": {
+    "name": "PrivHunterAI-detects-access-vulnerabilities",
+    "full_name": "Vortalitys/PrivHunterAI-detects-access-vulnerabilities",
+    "sent_date": "2025-12-20T23:21:30.618110",
+    "stars": 11,
+    "url": "https://github.com/Vortalitys/PrivHunterAI-detects-access-vulnerabilities"
+  },
+  "1116779003": {
+    "name": "shell-ai",
+    "full_name": "Deltik/shell-ai",
+    "sent_date": "2025-12-20T23:21:30.621364",
+    "stars": 1,
+    "url": "https://github.com/Deltik/shell-ai"
+  },
+  "1116500651": {
+    "name": "gpt-2",
+    "full_name": "vishsangale/gpt-2",
+    "sent_date": "2025-12-20T23:22:14.766355",
+    "stars": 1,
+    "url": "https://github.com/vishsangale/gpt-2"
+  },
+  "1120277527": {
+    "name": "JayakumarPujar",
+    "full_name": "jayakumarpujar/JayakumarPujar",
+    "sent_date": "2025-12-20T23:22:14.769575",
+    "stars": 0,
+    "url": "https://github.com/jayakumarpujar/JayakumarPujar"
+  },
+  "1086918918": {
+    "name": "DeepSearch-",
+    "full_name": "Eristsin/DeepSearch-",
+    "sent_date": "2025-12-20T23:22:58.818968",
+    "stars": 3,
+    "url": "https://github.com/Eristsin/DeepSearch-"
+  },
+  "1087905627": {
+    "name": "Hands-On-Large-Language-Models",
+    "full_name": "christycorrupt935/Hands-On-Large-Language-Models",
+    "sent_date": "2025-12-20T23:22:58.822264",
+    "stars": 2,
+    "url": "https://github.com/christycorrupt935/Hands-On-Large-Language-Models"
+  },
+  "1048329597": {
+    "name": "Diabetes-Prediction-using-Machine-Learning",
+    "full_name": "gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning",
+    "sent_date": "2025-12-20T23:23:42.824732",
+    "stars": 1,
+    "url": "https://github.com/gamingmk289-ux/Diabetes-Prediction-using-Machine-Learning"
+  },
+  "1087097636": {
+    "name": "minimind",
+    "full_name": "aryyyy01/minimind",
+    "sent_date": "2025-12-20T23:23:42.827964",
+    "stars": 1,
+    "url": "https://github.com/aryyyy01/minimind"
+  },
+  "942696497": {
+    "name": "reasoning-from-scratch",
+    "full_name": "rasbt/reasoning-from-scratch",
+    "sent_date": "2025-12-20T23:24:26.845487",
+    "stars": 2249,
+    "url": "https://github.com/rasbt/reasoning-from-scratch"
+  },
+  "696623804": {
+    "name": "production-forecasting-dashboard",
+    "full_name": "mdsaoodalam/production-forecasting-dashboard",
+    "sent_date": "2025-12-20T23:24:26.848799",
+    "stars": 0,
+    "url": "https://github.com/mdsaoodalam/production-forecasting-dashboard"
   }
 }
