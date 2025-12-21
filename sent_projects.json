@@ -1,102 +1,4 @@
 {
-  "1092400683": {
-    "name": "Distributed-ML-framework",
-    "full_name": "isteres/Distributed-ML-framework",
-    "sent_date": "2025-11-20T23:24:18.571102",
-    "stars": 0,
-    "url": "https://github.com/isteres/Distributed-ML-framework"
-  },
-  "1099715603": {
-    "name": "Data_Engineering",
-    "full_name": "yalonso7/Data_Engineering",
-    "sent_date": "2025-11-20T23:24:18.574157",
-    "stars": 0,
-    "url": "https://github.com/yalonso7/Data_Engineering"
-  },
-  "152616802": {
-    "name": "cuml",
-    "full_name": "rapidsai/cuml",
-    "sent_date": "2025-11-21T23:20:11.773678",
-    "stars": 5019,
-    "url": "https://github.com/rapidsai/cuml"
-  },
-  "110621895": {
-    "name": "sagemaker-python-sdk",
-    "full_name": "aws/sagemaker-python-sdk",
-    "sent_date": "2025-11-21T23:20:11.776762",
-    "stars": 2209,
-    "url": "https://github.com/aws/sagemaker-python-sdk"
-  },
-  "120909172": {
-    "name": "guibot",
-    "full_name": "intra2net/guibot",
-    "sent_date": "2025-11-21T23:20:56.704500",
-    "stars": 185,
-    "url": "https://github.com/intra2net/guibot"
-  },
-  "1093104830": {
-    "name": "Regression_comparison_study",
-    "full_name": "yacinetalahari/Regression_comparison_study",
-    "sent_date": "2025-11-21T23:20:56.707438",
-    "stars": 1,
-    "url": "https://github.com/yacinetalahari/Regression_comparison_study"
-  },
-  "975745458": {
-    "name": "tritonparse",
-    "full_name": "meta-pytorch/tritonparse",
-    "sent_date": "2025-11-21T23:21:41.921658",
-    "stars": 171,
-    "url": "https://github.com/meta-pytorch/tritonparse"
-  },
-  "1067713066": {
-    "name": "classicsml",
-    "full_name": "Scarecrow1941/classicsml",
-    "sent_date": "2025-11-21T23:21:41.924606",
-    "stars": 0,
-    "url": "https://github.com/Scarecrow1941/classicsml"
-  },
-  "305144746": {
-    "name": "tinygrad",
-    "full_name": "tinygrad/tinygrad",
-    "sent_date": "2025-11-21T23:22:27.745127",
-    "stars": 30659,
-    "url": "https://github.com/tinygrad/tinygrad"
-  },
-  "1068215389": {
-    "name": "Stock-Price-Prediction",
-    "full_name": "leadura/Stock-Price-Prediction",
-    "sent_date": "2025-11-21T23:22:27.748128",
-    "stars": 1,
-    "url": "https://github.com/leadura/Stock-Price-Prediction"
-  },
-  "1101586376": {
-    "name": "JDede1.github.io",
-    "full_name": "JDede1/JDede1.github.io",
-    "sent_date": "2025-11-21T23:23:13.361843",
-    "stars": 0,
-    "url": "https://github.com/JDede1/JDede1.github.io"
-  },
-  "746905837": {
-    "name": "lotteharper",
-    "full_name": "lotteharper/lotteharper",
-    "sent_date": "2025-11-21T23:23:13.364838",
-    "stars": 2,
-    "url": "https://github.com/lotteharper/lotteharper"
-  },
-  "1069356481": {
-    "name": "Customer-Churn-Prediction",
-    "full_name": "JavedFazlulahF/Customer-Churn-Prediction",
-    "sent_date": "2025-11-21T23:23:58.693328",
-    "stars": 0,
-    "url": "https://github.com/JavedFazlulahF/Customer-Churn-Prediction"
-  },
-  "1101605106": {
-    "name": "Transaction-Deposit-Summary-Dashboard",
-    "full_name": "athanugraha45-web/Transaction-Deposit-Summary-Dashboard",
-    "sent_date": "2025-11-21T23:23:58.696274",
-    "stars": 0,
-    "url": "https://github.com/athanugraha45-web/Transaction-Deposit-Summary-Dashboard"
-  },
   "1082970851": {
     "name": "tensordiagram",
     "full_name": "hardik-vala/tensordiagram",
@@ -3036,5 +2938,89 @@
     "sent_date": "2025-12-20T23:24:26.848799",
     "stars": 0,
     "url": "https://github.com/mdsaoodalam/production-forecasting-dashboard"
+  },
+  "968539968": {
+    "name": "research_groups_computer_vision",
+    "full_name": "eu1234567890/research_groups_computer_vision",
+    "sent_date": "2025-12-21T23:21:12.351194",
+    "stars": 3,
+    "url": "https://github.com/eu1234567890/research_groups_computer_vision"
+  },
+  "1070366815": {
+    "name": "phishing-detection-rnn-cnn",
+    "full_name": "kmbvip/phishing-detection-rnn-cnn",
+    "sent_date": "2025-12-21T23:21:12.354479",
+    "stars": 1,
+    "url": "https://github.com/kmbvip/phishing-detection-rnn-cnn"
+  },
+  "466046724": {
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "full_name": "Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "sent_date": "2025-12-21T23:21:56.403954",
+    "stars": 4,
+    "url": "https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  "893202054": {
+    "name": "medical-image-classifier",
+    "full_name": "iansploit/medical-image-classifier",
+    "sent_date": "2025-12-21T23:21:56.407040",
+    "stars": 0,
+    "url": "https://github.com/iansploit/medical-image-classifier"
+  },
+  "1001065891": {
+    "name": "sentiment-analysis-using-adaboost-machine-learning-project",
+    "full_name": "Sojanv/sentiment-analysis-using-adaboost-machine-learning-project",
+    "sent_date": "2025-12-21T23:22:40.537863",
+    "stars": 0,
+    "url": "https://github.com/Sojanv/sentiment-analysis-using-adaboost-machine-learning-project"
+  },
+  "1120774823": {
+    "name": "credit-card-approval-predictor",
+    "full_name": "SBera01/credit-card-approval-predictor",
+    "sent_date": "2025-12-21T23:22:40.541095",
+    "stars": 0,
+    "url": "https://github.com/SBera01/credit-card-approval-predictor"
+  },
+  "1072642142": {
+    "name": "Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification",
+    "full_name": "Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification",
+    "sent_date": "2025-12-21T23:23:25.085141",
+    "stars": 1,
+    "url": "https://github.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification"
+  },
+  "1000705270": {
+    "name": "wxkfbot",
+    "full_name": "Esteban2680/wxkfbot",
+    "sent_date": "2025-12-21T23:23:25.088334",
+    "stars": 2,
+    "url": "https://github.com/Esteban2680/wxkfbot"
+  },
+  "1000501005": {
+    "name": "fraud-detection-system",
+    "full_name": "luisgamer05/fraud-detection-system",
+    "sent_date": "2025-12-21T23:24:09.521876",
+    "stars": 0,
+    "url": "https://github.com/luisgamer05/fraud-detection-system"
+  },
+  "1071825280": {
+    "name": "forex-pattern-mining-dashboard",
+    "full_name": "Omar7amid/forex-pattern-mining-dashboard",
+    "sent_date": "2025-12-21T23:24:09.525024",
+    "stars": 0,
+    "url": "https://github.com/Omar7amid/forex-pattern-mining-dashboard"
+  },
+  "1074258575": {
+    "name": "learning-center",
+    "full_name": "Smindlo97/learning-center",
+    "sent_date": "2025-12-21T23:24:53.928432",
+    "stars": 0,
+    "url": "https://github.com/Smindlo97/learning-center"
+  },
+  "1073957351": {
+    "name": "Chatbot",
+    "full_name": "Shivanshw0/Chatbot",
+    "sent_date": "2025-12-21T23:24:53.931621",
+    "stars": 0,
+    "url": "https://github.com/Shivanshw0/Chatbot"
   }
 }
