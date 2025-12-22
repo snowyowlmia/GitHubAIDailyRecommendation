@@ -1,88 +1,4 @@
 {
-  "1082970851": {
-    "name": "tensordiagram",
-    "full_name": "hardik-vala/tensordiagram",
-    "sent_date": "2025-11-22T23:20:15.669607",
-    "stars": 46,
-    "url": "https://github.com/hardik-vala/tensordiagram"
-  },
-  "864412929": {
-    "name": "CeLux",
-    "full_name": "NevermindNilas/CeLux",
-    "sent_date": "2025-11-22T23:20:15.672733",
-    "stars": 20,
-    "url": "https://github.com/NevermindNilas/CeLux"
-  },
-  "1082742954": {
-    "name": "energy-consumption-ml-prediction",
-    "full_name": "lavishly-deathly/energy-consumption-ml-prediction",
-    "sent_date": "2025-11-22T23:20:59.452832",
-    "stars": 0,
-    "url": "https://github.com/lavishly-deathly/energy-consumption-ml-prediction"
-  },
-  "1102156645": {
-    "name": "Livio",
-    "full_name": "PrabalManchanda/Livio",
-    "sent_date": "2025-11-22T23:20:59.455947",
-    "stars": 0,
-    "url": "https://github.com/PrabalManchanda/Livio"
-  },
-  "1082877548": {
-    "name": "coevolutionary-loops",
-    "full_name": "virat2832001/coevolutionary-loops",
-    "sent_date": "2025-11-22T23:21:43.242001",
-    "stars": 0,
-    "url": "https://github.com/virat2832001/coevolutionary-loops"
-  },
-  "1082903839": {
-    "name": "House-Price-Predictor",
-    "full_name": "Voto205/House-Price-Predictor",
-    "sent_date": "2025-11-22T23:21:43.245051",
-    "stars": 0,
-    "url": "https://github.com/Voto205/House-Price-Predictor"
-  },
-  "1080187945": {
-    "name": "Car-Price-Prediction",
-    "full_name": "johnnydelsage/Car-Price-Prediction",
-    "sent_date": "2025-11-22T23:22:27.292625",
-    "stars": 1,
-    "url": "https://github.com/johnnydelsage/Car-Price-Prediction"
-  },
-  "996348504": {
-    "name": "FlashVideoBot",
-    "full_name": "Vadim1244/FlashVideoBot",
-    "sent_date": "2025-11-22T23:22:27.295568",
-    "stars": 2,
-    "url": "https://github.com/Vadim1244/FlashVideoBot"
-  },
-  "1093890631": {
-    "name": "streamlit-app",
-    "full_name": "JimenaCarmona2/streamlit-app",
-    "sent_date": "2025-11-22T23:23:11.442005",
-    "stars": 0,
-    "url": "https://github.com/JimenaCarmona2/streamlit-app"
-  },
-  "1102137088": {
-    "name": "Ai-Waste-sorter",
-    "full_name": "ebi-max/Ai-Waste-sorter",
-    "sent_date": "2025-11-22T23:23:11.445208",
-    "stars": 0,
-    "url": "https://github.com/ebi-max/Ai-Waste-sorter"
-  },
-  "1102156380": {
-    "name": "Portfolio",
-    "full_name": "PrasadaVishwesh/Portfolio",
-    "sent_date": "2025-11-22T23:23:55.498651",
-    "stars": 0,
-    "url": "https://github.com/PrasadaVishwesh/Portfolio"
-  },
-  "1091437019": {
-    "name": "Football-Detection",
-    "full_name": "chele-s/Football-Detection",
-    "sent_date": "2025-11-22T23:23:55.501848",
-    "stars": 0,
-    "url": "https://github.com/chele-s/Football-Detection"
-  },
   "829640443": {
     "name": "tensorzero",
     "full_name": "tensorzero/tensorzero",
@@ -3022,5 +2938,96 @@
     "sent_date": "2025-12-21T23:24:53.931621",
     "stars": 0,
     "url": "https://github.com/Shivanshw0/Chatbot"
+  },
+  "70908208": {
+    "name": "rasa",
+    "full_name": "RasaHQ/rasa",
+    "sent_date": "2025-12-22T23:22:17.403021",
+    "stars": 20940,
+    "url": "https://github.com/RasaHQ/rasa"
+  },
+  "1119342497": {
+    "name": "C-Breeze",
+    "full_name": "Firat17aze/C-Breeze",
+    "sent_date": "2025-12-22T23:22:17.406600",
+    "stars": 1,
+    "url": "https://github.com/Firat17aze/C-Breeze"
+  },
+  "1118589781": {
+    "name": "UnSwagAI",
+    "full_name": "augstentatious/UnSwagAI",
+    "sent_date": "2025-12-22T23:22:17.409954",
+    "stars": 1,
+    "url": "https://github.com/augstentatious/UnSwagAI"
+  },
+  "823754937": {
+    "name": "sl-interpreter",
+    "full_name": "Binivert/sl-interpreter",
+    "sent_date": "2025-12-22T23:23:02.677463",
+    "stars": 18,
+    "url": "https://github.com/Binivert/sl-interpreter"
+  },
+  "847341350": {
+    "name": "ML",
+    "full_name": "YangGuiBee/ML",
+    "sent_date": "2025-12-22T23:23:02.680573",
+    "stars": 4,
+    "url": "https://github.com/YangGuiBee/ML"
+  },
+  "456303287": {
+    "name": "allegro",
+    "full_name": "mir-group/allegro",
+    "sent_date": "2025-12-22T23:23:47.342309",
+    "stars": 449,
+    "url": "https://github.com/mir-group/allegro"
+  },
+  "1119660154": {
+    "name": "house-price-prediction-ml",
+    "full_name": "alubillijyaneswarrao-creator/house-price-prediction-ml",
+    "sent_date": "2025-12-22T23:23:47.345535",
+    "stars": 0,
+    "url": "https://github.com/alubillijyaneswarrao-creator/house-price-prediction-ml"
+  },
+  "1026953604": {
+    "name": "ai-dev-assistant-framework",
+    "full_name": "MunnaXbadmash/ai-dev-assistant-framework",
+    "sent_date": "2025-12-22T23:24:32.457764",
+    "stars": 4,
+    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
+  },
+  "1037600080": {
+    "name": "wordlists",
+    "full_name": "sjshsgehs/wordlists",
+    "sent_date": "2025-12-22T23:24:32.460880",
+    "stars": 2,
+    "url": "https://github.com/sjshsgehs/wordlists"
+  },
+  "1013783472": {
+    "name": "AICryptoTrade-Bots",
+    "full_name": "Alisher321/AICryptoTrade-Bots",
+    "sent_date": "2025-12-22T23:25:18.008703",
+    "stars": 1,
+    "url": "https://github.com/Alisher321/AICryptoTrade-Bots"
+  },
+  "1001246813": {
+    "name": "MLOPS-Pipeline-Dashboard",
+    "full_name": "gituser2610/MLOPS-Pipeline-Dashboard",
+    "sent_date": "2025-12-22T23:25:18.011751",
+    "stars": 0,
+    "url": "https://github.com/gituser2610/MLOPS-Pipeline-Dashboard"
+  },
+  "1007364382": {
+    "name": "student-score-prediction",
+    "full_name": "Victorgame59/student-score-prediction",
+    "sent_date": "2025-12-22T23:26:02.819714",
+    "stars": 0,
+    "url": "https://github.com/Victorgame59/student-score-prediction"
+  },
+  "1050057798": {
+    "name": "ds-ml-bootcamp",
+    "full_name": "ozcankyo28/ds-ml-bootcamp",
+    "sent_date": "2025-12-22T23:26:02.822822",
+    "stars": 0,
+    "url": "https://github.com/ozcankyo28/ds-ml-bootcamp"
   }
 }
