@@ -1,88 +1,4 @@
 {
-  "829640443": {
-    "name": "tensorzero",
-    "full_name": "tensorzero/tensorzero",
-    "sent_date": "2025-11-23T23:20:05.826000",
-    "stars": 10588,
-    "url": "https://github.com/tensorzero/tensorzero"
-  },
-  "1102590771": {
-    "name": "NeuralNetworks",
-    "full_name": "xXxFetraxXx/NeuralNetworks",
-    "sent_date": "2025-11-23T23:20:05.829116",
-    "stars": 1,
-    "url": "https://github.com/xXxFetraxXx/NeuralNetworks"
-  },
-  "326435405": {
-    "name": "PyTorch-Wavelet-Toolbox",
-    "full_name": "v0lta/PyTorch-Wavelet-Toolbox",
-    "sent_date": "2025-11-23T23:20:50.431161",
-    "stars": 392,
-    "url": "https://github.com/v0lta/PyTorch-Wavelet-Toolbox"
-  },
-  "178031166": {
-    "name": "pytorch_connectomics",
-    "full_name": "PytorchConnectomics/pytorch_connectomics",
-    "sent_date": "2025-11-23T23:20:50.434069",
-    "stars": 181,
-    "url": "https://github.com/PytorchConnectomics/pytorch_connectomics"
-  },
-  "129746296": {
-    "name": "botserver",
-    "full_name": "GeneralBots/botserver",
-    "sent_date": "2025-11-23T23:21:34.301626",
-    "stars": 73,
-    "url": "https://github.com/GeneralBots/botserver"
-  },
-  "1088410513": {
-    "name": "ml-course-for-schools",
-    "full_name": "pymlex/ml-course-for-schools",
-    "sent_date": "2025-11-23T23:21:34.304672",
-    "stars": 2,
-    "url": "https://github.com/pymlex/ml-course-for-schools"
-  },
-  "1093903080": {
-    "name": "TroyanEyes",
-    "full_name": "maciejkondev/TroyanEyes",
-    "sent_date": "2025-11-23T23:22:20.181626",
-    "stars": 2,
-    "url": "https://github.com/maciejkondev/TroyanEyes"
-  },
-  "905967176": {
-    "name": "multi-vision-toolkit",
-    "full_name": "Limbicnation/multi-vision-toolkit",
-    "sent_date": "2025-11-23T23:22:20.184550",
-    "stars": 2,
-    "url": "https://github.com/Limbicnation/multi-vision-toolkit"
-  },
-  "1102580845": {
-    "name": "clother",
-    "full_name": "ceiluncomplicated942/clother",
-    "sent_date": "2025-11-23T23:23:05.151394",
-    "stars": 0,
-    "url": "https://github.com/ceiluncomplicated942/clother"
-  },
-  "1102674302": {
-    "name": "Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python",
-    "full_name": "Barsha58/Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python",
-    "sent_date": "2025-11-23T23:23:05.154422",
-    "stars": 0,
-    "url": "https://github.com/Barsha58/Endoscopy-Image-Analysis-for-Gerd-and-Polyp-detection-using-python"
-  },
-  "1100805443": {
-    "name": "JavaChatX",
-    "full_name": "Joellsolidhoofed222/JavaChatX",
-    "sent_date": "2025-11-23T23:23:49.528618",
-    "stars": 0,
-    "url": "https://github.com/Joellsolidhoofed222/JavaChatX"
-  },
-  "1102701045": {
-    "name": "Traffic-Surveillance",
-    "full_name": "AwaisAhmad555/Traffic-Surveillance",
-    "sent_date": "2025-11-23T23:23:49.531788",
-    "stars": 0,
-    "url": "https://github.com/AwaisAhmad555/Traffic-Surveillance"
-  },
   "45717250": {
     "name": "tensorflow",
     "full_name": "tensorflow/tensorflow",
@@ -3029,5 +2945,89 @@
     "sent_date": "2025-12-22T23:26:02.822822",
     "stars": 0,
     "url": "https://github.com/ozcankyo28/ds-ml-bootcamp"
+  },
+  "1066784217": {
+    "name": "qwen-image-macos",
+    "full_name": "Seyee435/qwen-image-macos",
+    "sent_date": "2025-12-23T23:21:48.356118",
+    "stars": 3,
+    "url": "https://github.com/Seyee435/qwen-image-macos"
+  },
+  "1063410870": {
+    "name": "OpenAI-Analysis",
+    "full_name": "chrisjav001/OpenAI-Analysis",
+    "sent_date": "2025-12-23T23:21:48.359308",
+    "stars": 2,
+    "url": "https://github.com/chrisjav001/OpenAI-Analysis"
+  },
+  "1067027453": {
+    "name": "GAIL",
+    "full_name": "saif99j/GAIL",
+    "sent_date": "2025-12-23T23:22:35.508416",
+    "stars": 5,
+    "url": "https://github.com/saif99j/GAIL"
+  },
+  "1067344946": {
+    "name": "SRPO",
+    "full_name": "hesoyam199x/SRPO",
+    "sent_date": "2025-12-23T23:22:35.511533",
+    "stars": 1,
+    "url": "https://github.com/hesoyam199x/SRPO"
+  },
+  "1121988278": {
+    "name": "fraud-detection-ml",
+    "full_name": "msaad-dot/fraud-detection-ml",
+    "sent_date": "2025-12-23T23:23:20.480800",
+    "stars": 0,
+    "url": "https://github.com/msaad-dot/fraud-detection-ml"
+  },
+  "1067713066": {
+    "name": "classicsml",
+    "full_name": "Scarecrow1941/classicsml",
+    "sent_date": "2025-12-23T23:23:20.483964",
+    "stars": 0,
+    "url": "https://github.com/Scarecrow1941/classicsml"
+  },
+  "1068215389": {
+    "name": "Stock-Price-Prediction",
+    "full_name": "leadura/Stock-Price-Prediction",
+    "sent_date": "2025-12-23T23:24:06.023149",
+    "stars": 2,
+    "url": "https://github.com/leadura/Stock-Price-Prediction"
+  },
+  "1002632773": {
+    "name": "Jobs",
+    "full_name": "misterioul/Jobs",
+    "sent_date": "2025-12-23T23:24:06.026331",
+    "stars": 3,
+    "url": "https://github.com/misterioul/Jobs"
+  },
+  "1069356481": {
+    "name": "Customer-Churn-Prediction",
+    "full_name": "JavedFazlulahF/Customer-Churn-Prediction",
+    "sent_date": "2025-12-23T23:24:52.721789",
+    "stars": 0,
+    "url": "https://github.com/JavedFazlulahF/Customer-Churn-Prediction"
+  },
+  "67210865": {
+    "name": "intelligent-homevaluator-madrid",
+    "full_name": "qaracuck/intelligent-homevaluator-madrid",
+    "sent_date": "2025-12-23T23:24:52.725016",
+    "stars": 0,
+    "url": "https://github.com/qaracuck/intelligent-homevaluator-madrid"
+  },
+  "1001351721": {
+    "name": "cloudops-ai-monitor",
+    "full_name": "Yapakayala/cloudops-ai-monitor",
+    "sent_date": "2025-12-23T23:25:37.831874",
+    "stars": 1,
+    "url": "https://github.com/Yapakayala/cloudops-ai-monitor"
+  },
+  "1001352223": {
+    "name": "os-ai-computer-use",
+    "full_name": "itykhon/os-ai-computer-use",
+    "sent_date": "2025-12-23T23:25:37.835065",
+    "stars": 1,
+    "url": "https://github.com/itykhon/os-ai-computer-use"
   }
 }
